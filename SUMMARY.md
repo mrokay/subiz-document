@@ -1,5 +1,5 @@
 # Table of contents
 
-* Subiz Document Vietnamese
+* Trang Home
 * [Page 2](page-2.md)
 
