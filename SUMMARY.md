@@ -35,6 +35,4 @@
     * Thay đổi gói dịch vụ
     * Thay đổi phương thức thanh toán
     * FAQs
-* [Thanh Toán](thanh-toan/README.md)
-  * Cách chọn gói dịch vụ phù hợp nhất?
 
