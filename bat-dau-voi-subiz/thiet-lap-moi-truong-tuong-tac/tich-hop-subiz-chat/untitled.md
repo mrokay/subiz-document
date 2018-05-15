@@ -8,7 +8,7 @@ Tại trang **Cửa sổ hội thoại**, bạn có thể thực hiện các cà
 
 ​[Loại cửa sổ](https://docv4.subiz.com/cai-dat-cua-so-subiz/#widgettype) [Vị trí cửa sổ](https://docv4.subiz.com/cai-dat-cua-so-subiz/#widgetposition) [Màu sắc cửa sổ](https://docv4.subiz.com/cai-dat-cua-so-subiz/#widgetcolour) [Tùy chỉnh bubble](https://docv4.subiz.com/cai-dat-cua-so-subiz/#widgetbubble) [Ngôn ngữ cửa sổ](https://docv4.subiz.com/cai-dat-cua-so-subiz/#widgetlanguage) [Tùy chỉnh css](https://docv4.subiz.com/cai-dat-cua-so-subiz/#csscustomize) [Cài đặt whitelist](https://docv4.subiz.com/cai-dat-cua-so-subiz/#whitelist)​
 
-#### **1. Loại cửa sổ** {#1-loai-cua-so}
+### **1. Loại cửa sổ**
 
 **Cửa sổ có 2 dạng kích thước thu gọn hoặc mở rộng tùy thuộc vào cài đặt của bạn.** Chọn dạng cửa sổ muốn hiển thị:
 
@@ -17,25 +17,25 @@ Tại trang **Cửa sổ hội thoại**, bạn có thể thực hiện các cà
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/02/widgettype-1.png)
 
-#### **2. Vị trí cửa sổ** {#2-vi-tri-cua-so}
+### **2. Vị trí cửa sổ**
 
 Chọn vị trí cửa sổ xuất hiện trên website: **Góc trái / Góc phải**
 
 **Vị trị đặt cửa sổ Subiz cần phù hợp với thiết kế của website, sao cho dễ nhận biết, không đè lên các thiết kế hay ứng dụng khác của website.** Hiện tại, một tỷ lệ lớn các doanh nghiệp đặt cửa sổ Subiz tại góc bên phải.![](https://docv4.subiz.com/wp-content/uploads/2018/02/widgetposition-1.png)
 
-#### **3. Tùy chỉnh màu sắc** {#3-tuy-chinh-mau-sac}
+### **3. Tùy chỉnh màu sắc**
 
 Bạn có thể tùy chỉnh màu sắc cho cửa sổ Subiz bằng cách chọn 1 trong các màu được gợi ý, hoặc tùy chỉnh màu riêng biệt của doanh nghiệp.
 
 Lưu ý, **cần chọn màu sắc cửa sổ chat tương đồng với màu sắc của thương hiệu,** nhưng cũng cần chọn màu sắc để dễ nhận biết trên website của bạn![](https://docv4.subiz.com/wp-content/uploads/2018/02/widgetcolour-1.png)
 
-#### **4. Tùy chỉnh bubble** {#4-tuy-chinh-bubble}
+### **4. Tùy chỉnh bubble**
 
 Tại phần Bubble Button, bạn click chọn Thư viện Bubble Button và chọn mẫu Bubble theo ý muốn.
 
 Lưu ý, **màu sắc của bubble sẽ tương ứng với màu sắc của cả cửa sổ Subiz mà bạn đã chọn.**![](https://docv4.subiz.com/wp-content/uploads/2018/02/bubble-button-1.png)![](http://docv4.subiz.com/wp-content/uploads/2018/02/bubble-library.png)
 
-#### **5. Tùy chỉnh ngôn ngữ** {#5-tuy-chinh-ngon-ngu}
+### **5. Tùy chỉnh ngôn ngữ**
 
 Bạn chọn ngôn ngữ sử dụng cho cửa sổ Subiz tại mục **Ngôn ngữ**.
 
@@ -54,13 +54,13 @@ Các tùy chỉnh sẽ hiển thị trên cửa sổ như sau:![](http://docv4.s
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/02/customize-language.png)
 
-#### **6. Tùy chỉnh CSS** {#6-tuy-chinh-css}
+### **6. Tùy chỉnh CSS**
 
 CSS là viết tắt của “Cascading Style Sheet”, nếu có kiến thức về HTML, bạn có thể sáng tạo một cửa sổ riêng bằng cách nhập các đoạn CSS tại phần **Tùy chỉnh CSS**.![](https://docv4.subiz.com/wp-content/uploads/2018/02/csscustomize.png)
 
 Chọn **Lưu thay đổi** để lưu tùy chỉnh. Chọn **Đưa về ban đầu** để trở về cửa sổ mặc định ban đầu.
 
-#### **7. Cài đặt Whitelist domain** {#7-cai-dat-whitelist-domain}
+### **7. Cài đặt Whitelist domain**
 
 **Whitelist domain** là danh sách các tên miền mà bạn cho phép hiển thị cửa sổ Subiz trên trang đó. Các trang ngoài danh sách whitelist sẽ không thể hiển thị cửa sổ Subiz sau khi đặt mã nhúng.
 
