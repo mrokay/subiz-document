@@ -28,7 +28,7 @@
     * Phân khúc khách hàng
     * Cập nhật và chỉnh sửa thông tin user
     * Quan sát khách truy cập
-    * Làm thế nào để chặn một User
+    * [Làm thế nào để chặn một User](su-dung-subiz-nang-cao/untitled/lam-the-nao-de-chan-mot-user.md)
   * Nâng cao trải nghiệm khách hàng
   * Nâng cao hiệu quả bán hàng với Subiz
   * Nâng cao hiệu quả marketing với Subiz
