@@ -23,7 +23,7 @@
       * Download Subiz app
       * Trải nghiệm Subiz như phần mềm cài trên máy tính
       * Cài đặt thông tin doanh nghiệp
-      * Những vấn đề gặp phải khi đăng nhập
+      * [Những vấn đề gặp phải khi đăng nhập](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/untitled/nhung-van-de-gap-phai-khi-dang-nhap.md)
   * [Triển khai hoạt động](bat-dau-voi-subiz/untitled.md)
   * Làm việc trên Subiz
 * Sử dụng Subiz nâng cao
