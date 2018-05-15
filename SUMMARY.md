@@ -25,10 +25,16 @@
 * [Báo cáo & Thống kê](bao-cao-and-thong-ke-1.md)
 * Thanh toán
   * Thanh toán
+    * [Subiz tính phí như thế nào](untitled/thanh-toan/subiz-tinh-phi-nhu-the-nao.md)
+    * [Cách chọn gói dịch vụ phù hợp nhất?](untitled/thanh-toan/cach-chon-goi-dich-vu-phu-hop-nhat.md)
+    * [Phương thức thanh toán](untitled/thanh-toan/untitled.md)
+    * Automation Credit
+    * [Lưu ý khi thanh toán \(FAQs\)](untitled/thanh-toan/luu-y-khi-thanh-toan-faqs.md)
   * Quản lý gói dịch vụ
     * Xem thông tin tài khoản hiện tại
     * Thay đổi gói dịch vụ
     * Thay đổi phương thức thanh toán
     * FAQs
-* [Thanh Toán](thanh-toan.md)
+* [Thanh Toán](thanh-toan/README.md)
+  * Cách chọn gói dịch vụ phù hợp nhất?
 

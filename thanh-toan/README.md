@@ -38,7 +38,7 @@ Việc nâng cấp tài khoản lên gói dịch vụ trả phí sau khi bạn �
 
 1. Truy nhập vào Tài khoản [Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F)  . Cài đặt &gt; **Thanh toán **
 
-![Thanh to&#xE1;n d&#x1ECB;ch v&#x1EE5; Subiz](.gitbook/assets/image%20%282%29.png)
+![Thanh to&#xE1;n d&#x1ECB;ch v&#x1EE5; Subiz](../.gitbook/assets/image%20%282%29.png)
 
 1. Lựa chọn thông tin của gói dịch vụ phù hợp và Click Đăng ký ngay
    * Gói Standard/ Advanced
@@ -46,11 +46,11 @@ Việc nâng cấp tài khoản lên gói dịch vụ trả phí sau khi bạn �
    * Chu kỳ thanh toán
    * Phương thức thanh toán
 
-![](.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 1. Nhập thông tin với cổng thanh toán Stripe
 
-![Nh&#x1EAD;p th&#xF4;ng tin &#x111;&#x1A1;n gi&#x1EA3;n](.gitbook/assets/image%20%281%29.png)
+![Nh&#x1EAD;p th&#xF4;ng tin &#x111;&#x1A1;n gi&#x1EA3;n](../.gitbook/assets/image%20%281%29.png)
 
 Khi bạn thực hiện thanh toán thành công, tài khoản sẽ được nâng cấp ngay lập tức, đồng thời hệ thống sẽ gửi xác nhận cung cấp dịch vụ thành công tới email đăng ký của bạn.
 
@@ -64,7 +64,7 @@ Sau khi nâng cấp tài khoản thành công, bất kỳ lúc nào bạn đều
 
 1. Truy nhập vào Tài khoản [Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F)  . Cài đặt &gt; **Thanh toán **
 
-![Thanh to&#xE1;n d&#x1ECB;ch v&#x1EE5; Subiz](.gitbook/assets/image%20%282%29.png)
+![Thanh to&#xE1;n d&#x1ECB;ch v&#x1EE5; Subiz](../.gitbook/assets/image%20%282%29.png)
 
 2. Lựa chọn thông tin của gói dịch vụ phù hợp và Click Đăng ký ngay
 
