@@ -18,7 +18,7 @@
       * [Cài đặt cửa sổ Subiz chat trên website](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/untitled.md)
       * Tùy chỉnh cửa sổ Subiz chat
         * [Cách tùy chỉnh CSS cho cửa sổ Subiz chat](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/tuy-chinh-cua-so-subiz-chat/cach-tuy-chinh-css-cho-cua-so-subiz-chat.md)
-        * Tùy chỉnh ngôn ngữ cửa sổ Subiz chat qua file .PO
+        * [Tùy chỉnh ngôn ngữ cửa sổ Subiz chat qua file .PO](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/tuy-chinh-cua-so-subiz-chat/untitled.md)
     * Tích hợp sử dụng Email trên Subiz
     * Tích hợp Fanpage Facebook vào Subiz
     * Tối ưu môi trường tương tác
