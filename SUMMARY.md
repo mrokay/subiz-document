@@ -13,11 +13,11 @@
 * [Làm thế nào để chặn một User](lam-the-nao-de-chan-mot-user.md)
 * [Những vấn đề gặp phải khi đăng nhập Dashboard](untitled-1.md)
 * Bắt đầu với Subiz
-  * Thiết lập môi trường tương tác
-  * Triển khai hoạt động
+  * [Thiết lập môi trường tương tác](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac.md)
+  * [Triển khai hoạt động](bat-dau-voi-subiz/untitled.md)
   * Làm việc trên Subiz
 * Sử dụng Subiz nâng cao
-  * Tăng tương tác
+  * [Tăng tương tác](su-dung-subiz-nang-cao/tang-tuong-tac.md)
   * [Quản lý dữ liệu](su-dung-subiz-nang-cao/untitled.md)
   * Nâng cao trải nghiệm khách hàng
   * Nâng cao hiệu quả bán hàng với Subiz
