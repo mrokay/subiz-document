@@ -23,7 +23,7 @@
       * [Tích hợp chuyển tiếp Email](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz/tich-hop-chuyen-tiep-email.md)
       * [Cài đặt DKIM/ SPF cho tên miền để tối ưu việc gửi email](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz/cai-dat-dkim-spf-cho-ten-mien-de-toi-uu-viec-gui-email.md)
       * [TƯƠNG TÁC QUA KÊNH EMAIL](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz/tuong-tac-qua-kenh-email.md)
-    * Tích hợp Fanpage Facebook vào Subiz
+    * [Tích hợp Fanpage Facebook vào Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-fanpage-facebook-vao-subiz.md)
     * Tối ưu môi trường tương tác
   * [Triển khai hoạt động](bat-dau-voi-subiz/untitled.md)
   * Làm việc trên Subiz
