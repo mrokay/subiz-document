@@ -24,7 +24,11 @@
   * Làm việc trên Subiz
 * Sử dụng Subiz nâng cao
   * [Tăng tương tác](su-dung-subiz-nang-cao/tang-tuong-tac.md)
-  * [Quản lý dữ liệu](su-dung-subiz-nang-cao/untitled.md)
+  * [Quản lý dữ liệu](su-dung-subiz-nang-cao/untitled/README.md)
+    * Phân khúc khách hàng
+    * Cập nhật và chỉnh sửa thông tin user
+    * Quan sát khách truy cập
+    * Làm thế nào để chặn một User
   * Nâng cao trải nghiệm khách hàng
   * Nâng cao hiệu quả bán hàng với Subiz
   * Nâng cao hiệu quả marketing với Subiz
