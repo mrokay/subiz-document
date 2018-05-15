@@ -12,7 +12,10 @@
 * [Làm thế nào để chặn một User](lam-the-nao-de-chan-mot-user.md)
 * [Những vấn đề gặp phải khi đăng nhập Dashboard](untitled-1.md)
 * Bắt đầu với Subiz
-  * [Thiết lập môi trường tương tác](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac.md)
+  * [Thiết lập môi trường tương tác](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/README.md)
+    * Tích hợp Subiz chat
+      * Tích hợp Subiz lên Website
+      * Cài đặt cửa sổ Subiz chat trên website
   * [Triển khai hoạt động](bat-dau-voi-subiz/untitled.md)
   * Làm việc trên Subiz
 * Sử dụng Subiz nâng cao
