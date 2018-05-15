@@ -40,3 +40,31 @@ Sau đó lựa chọn gói Nâng cao và tiến hành nâng cấp tài khoản:
 
 ![](../../.gitbook/assets/ha-tai-khoan.png)
 
+### Thay đổi số lượng Agent
+
+#### Mua thêm Agent
+
+Để tăng Agent bạn Click vào mục `Mua thêm Agent `sau đó lựa chọn số lượng Agent phù hợp:
+
+![Mua th&#xEA;m Agent](../../.gitbook/assets/mua-them-agents.png)
+
+**Giảm Agent**
+
+Để giảm số lượng Agent, bạn vào mục `Xem thêm` sau đó thay đổi số lượng Agent phù hợp.
+
+![Gi&#x1EA3;m Agent](../../.gitbook/assets/giam-agent.png)
+
+### Thay đổi chu kỳ thanh toán
+
+Để thay đổi chu kỳ thanh toán, bạn click vào mục Thay đổi chu kỳ thanh toán và lựa chọn chu kỳ phù hợp:
+
+![Thay &#x111;&#x1ED5;i chu k&#x1EF3; thay to&#xE1;n](../../.gitbook/assets/thay-doi-chu-ky-thanh-toan.png)
+
+### Hạ tài khoản xuống gói miễn phí
+
+Tùy vào nhu cầu sử dụng và hoạt động kinh doanh, bạn có thể lựa chọn Hạ tài khoản xuống gói miễn phí và nâng cấp lại bất cứ khi nào:
+
+![H&#x1EA1; t&#xE0;i kho&#x1EA3;n xu&#x1ED1;ng g&#xF3;i mi&#x1EC5;n ph&#xED;](../../.gitbook/assets/ha-tai-khoan-xuong-goi-mien-phi.png)
+
+
+
