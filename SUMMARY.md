@@ -1,13 +1,33 @@
 # Table of contents
 
 * Trang Home
-* [Page 2](page-2.md)
+* [Tổng quan Subiz](page-2/README.md)
+  * Giới thiệu Subiz
+    * Subiz là gì?
+    * Subiz hoạt động như thế nào?
+  * Khám phá các gói và tính năng
+    * Khám phá các kênh trong Subiz
+    * Khám phá tính năng trong Subiz
+    * Các gói sử dụng Subiz
 * [Báo cáo tổng hợp](bao-cao-and-thong-ke.md)
 * [Làm thế nào để chặn một User](lam-the-nao-de-chan-mot-user.md)
 * [Những vấn đề gặp phải khi đăng nhập Dashboard](untitled-1.md)
-* Quản lý gói dịch vụ
-  * Xem thông tin tài khoản hiện tại
-  * Thay đổi gói dịch vụ
-  * Thay đổi phương thức thanh toán
-  * FAQs
+* Bắt đầu với Subiz
+  * Thiết lập môi trường tương tác
+  * Triển khai hoạt động
+  * Làm việc trên Subiz
+* Sử dụng Subiz nâng cao
+  * Tăng tương tác
+  * [Quản lý dữ liệu](su-dung-subiz-nang-cao/untitled.md)
+  * Nâng cao trải nghiệm khách hàng
+  * Nâng cao hiệu quả bán hàng với Subiz
+  * Nâng cao hiệu quả marketing với Subiz
+* Báo cáo & Thống kê
+* Thanh toán
+  * Thanh toán
+  * Quản lý gói dịch vụ
+    * Xem thông tin tài khoản hiện tại
+    * Thay đổi gói dịch vụ
+    * Thay đổi phương thức thanh toán
+    * FAQs
 
