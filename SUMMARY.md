@@ -17,7 +17,7 @@
       * [Tích hợp Subiz lên Website](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/tich-hop-subiz-len-website.md)
       * [Cài đặt cửa sổ Subiz chat trên website](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/untitled.md)
       * [Tùy chỉnh cửa sổ Subiz chat](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/tuy-chinh-cua-so-subiz-chat.md)
-    * Tích hợp sử dụng Email trên Subiz
+    * [Tích hợp sử dụng Email trên Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz/README.md)
       * [Tích hợp chuyển tiếp Email](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz/tich-hop-chuyen-tiep-email.md)
       * [Cài đặt DKIM/ SPF cho tên miền để tối ưu việc gửi email](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz/cai-dat-dkim-spf-cho-ten-mien-de-toi-uu-viec-gui-email.md)
       * [TƯƠNG TÁC QUA KÊNH EMAIL](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz/tuong-tac-qua-kenh-email.md)
