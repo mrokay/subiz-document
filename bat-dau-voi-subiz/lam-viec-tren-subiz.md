@@ -20,6 +20,10 @@ User list là danh sách khách hàng có tương tác với Agent Subiz.
 
 ## Tương tác trên kênh Subiz chat
 
+**Tương tác trên kênh Subiz chat là khởi tạo cuộc hội thoại hay trò chuyện tư vấn khách truy cập website.** Đây là những khách hàng đang có nhu cầu tìm hiểu về sản phẩm, dịch vụ và thông tin của doanh nghiệp.
+
+Bạn \(Agent\) cần đăng nhập [App.subiz.com](https://app.subiz.com) để bắt đầu online và sẵn sàng  tư vấn khách hàng.
+
 ###  Tạo cuộc tương tác mới 
 
 ### Thêm Agent vào cuộc hội thoại 
