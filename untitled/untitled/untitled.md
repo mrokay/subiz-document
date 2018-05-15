@@ -10,6 +10,10 @@ Nếu tài khoản của bạn ở gói miễn phí và muốn nâng cấp lên 
 
 ![N&#xE2;ng c&#x1EA5;p g&#xF3;i t&#xE0;i kho&#x1EA3;n](../../.gitbook/assets/nang-cap-goi-tai-khoan.png)
 
+Lúc này hệ thống sẽ phát sinh một Invoice để bạn tiến hành thanh toán:
+
+![H&#xF3;a &#x111;&#x1A1;n thanh to&#xE1;n](../../.gitbook/assets/hoa-don-thanh-toan.png)
+
 Bạn có thể lựa chọn phương thức thanh toán theo 2 cách sau:
 
 **Thanh toán qua thẻ : **Bạn cần điền đầy đủ thông tin thẻ trong mục:
