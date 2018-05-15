@@ -1,6 +1,6 @@
 # Table of contents
 
-* Trang Home
+* [Trang Home](README.md)
 * [Tổng quan Subiz](page-2/README.md)
   * Giới thiệu Subiz
     * Subiz là gì?
@@ -30,4 +30,5 @@
     * Thay đổi gói dịch vụ
     * Thay đổi phương thức thanh toán
     * FAQs
+* [Thanh Toán](thanh-toan.md)
 
