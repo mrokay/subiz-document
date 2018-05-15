@@ -20,6 +20,10 @@
     * [Tích hợp sử dụng Email trên Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz.md)
     * [Tích hợp Fanpage Facebook vào Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-fanpage-facebook-vao-subiz.md)
     * Tối ưu môi trường tương tác
+      * Download Subiz app
+      * Trải nghiệm Subiz như phần mềm cài trên máy tính
+      * Cài đặt thông tin doanh nghiệp
+      * Những vấn đề gặp phải khi đăng nhập
   * [Triển khai hoạt động](bat-dau-voi-subiz/untitled.md)
   * Làm việc trên Subiz
 * Sử dụng Subiz nâng cao
