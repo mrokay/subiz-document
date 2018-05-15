@@ -38,3 +38,5 @@ Nếu bạn vẫn không thấy cửa sổ Subiz Chat, bạn có thể kiểm tr
 
 Nếu hệ thống báo không tìm thấy cửa sổ Chat, bạn kiểm tra lại mã nhúng Subiz trên website hoặc liên hệ với Subiz để được hỗ trợ.![](http://docv4.subiz.com/wp-content/uploads/2018/02/check-embed-code.png)
 
+### Tích hợp Subiz trên các nền tảng
+
