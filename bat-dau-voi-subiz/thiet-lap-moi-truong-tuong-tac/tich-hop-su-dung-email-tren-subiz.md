@@ -1,6 +1,6 @@
 # Tích hợp sử dụng Email trên Subiz
 
-### THIẾT LẬP CHUYỂN TIẾP EMAIL TRÊN SUBIZ {#thiet-lap-chuyen-tiep-email-tren-subiz}
+### Thiết lập chuyển tiếp Email trên Subiz {#thiet-lap-chuyen-tiep-email-tren-subiz}
 
 Khi đăng ký tài khoản Subiz, **bạn sẽ được cung cấp một địa chỉ email có dạng abc@mail.subiz.com**. Tất cả các email được gửi về địa chỉ này sẽ được coi như một cuộc hội thoại trên Subiz.
 
