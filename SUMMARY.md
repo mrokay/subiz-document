@@ -22,6 +22,7 @@
     * Tích hợp sử dụng Email trên Subiz
       * Tích hợp chuyển tiếp Email
       * Cài đặt DKIM/ SPF cho tên miền để tối ưu việc gửi email
+      * TƯƠNG TÁC QUA KÊNH EMAIL
     * Tích hợp Fanpage Facebook vào Subiz
     * Tối ưu môi trường tương tác
   * [Triển khai hoạt động](bat-dau-voi-subiz/untitled.md)
