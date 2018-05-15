@@ -20,6 +20,8 @@
         * [Cách tùy chỉnh CSS cho cửa sổ Subiz chat](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/tuy-chinh-cua-so-subiz-chat/cach-tuy-chinh-css-cho-cua-so-subiz-chat.md)
         * [Tùy chỉnh ngôn ngữ cửa sổ Subiz chat qua file .PO](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/tuy-chinh-cua-so-subiz-chat/untitled.md)
     * Tích hợp sử dụng Email trên Subiz
+      * Tích hợp chuyển tiếp Email
+      * Cài đặt DKIM/ SPF cho tên miền để tối ưu việc gửi email
     * Tích hợp Fanpage Facebook vào Subiz
     * Tối ưu môi trường tương tác
   * [Triển khai hoạt động](bat-dau-voi-subiz/untitled.md)
