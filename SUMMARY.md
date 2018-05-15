@@ -9,7 +9,6 @@
     * Khám phá các kênh trong Subiz
     * Khám phá tính năng trong Subiz
     * Các gói sử dụng Subiz
-* [Làm thế nào để chặn một User](lam-the-nao-de-chan-mot-user.md)
 * Bắt đầu với Subiz
   * [Thiết lập môi trường tương tác](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/README.md)
     * Tích hợp Subiz chat
