@@ -4,7 +4,7 @@
 
 Để thay đổi phương thức thanh toán từ thẻ tín dụng sang chuyển khoản và ngược lại
 
-**Chuyển từ phương thức chuyển khoản sang thẻ tín dụng: **Chọn mục **phương thức thanh toán / Thêm thẻ**
+**Chuyển từ phương thức chuyển khoản sang thẻ tín dụng:** Chọn mục **phương thức thanh toán / Thêm thẻ**
 
 ![Chuy&#x1EC3;n thanh to&#xE1;n qua th&#x1EBB;](../../.gitbook/assets/chuyen-thanh-toan-qua-the.png)
 

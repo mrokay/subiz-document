@@ -16,11 +16,11 @@ Lúc này hệ thống sẽ phát sinh một Invoice để bạn tiến hành th
 
 Bạn có thể lựa chọn phương thức thanh toán theo 2 cách sau:
 
-**Thanh toán qua thẻ : **Bạn cần điền đầy đủ thông tin thẻ trong mục:
+**Thanh toán qua thẻ :** Bạn cần điền đầy đủ thông tin thẻ trong mục:
 
 ![Thanh to&#xE1;n qua th&#x1EBB;](../../.gitbook/assets/thanh-toan-qua-the.png)
 
-**Thanh toán chuyển khoản: **Click vào mục` Chuyển khoản` , hệ thống sẽ hiển thị số tiền cần chuyển và thông tin tài khoản của Subiz.
+**Thanh toán chuyển khoản:** Click vào mục `Chuyển khoản` , hệ thống sẽ hiển thị số tiền cần chuyển và thông tin tài khoản của Subiz.
 
 ![Thanh to&#xE1;n chuy&#x1EC3;n kho&#x1EA3;n](../../.gitbook/assets/thanh-toan-chuyen-khoan.png)
 
@@ -44,7 +44,7 @@ Sau đó lựa chọn gói Nâng cao và tiến hành nâng cấp tài khoản:
 
 #### Mua thêm Agent
 
-Để tăng Agent bạn Click vào mục `Mua thêm Agent `sau đó lựa chọn số lượng Agent phù hợp:
+Để tăng Agent bạn Click vào mục `Mua thêm Agent` sau đó lựa chọn số lượng Agent phù hợp:
 
 ![Mua th&#xEA;m Agent](../../.gitbook/assets/mua-them-agents.png)
 

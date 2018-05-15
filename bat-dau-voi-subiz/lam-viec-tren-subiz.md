@@ -28,8 +28,8 @@ Bạn \(Agent\) cần đăng nhập [App.subiz.com](https://app.subiz.com) để
 
 Có hai hình thức khởi tạo một cuộc tương tác với khách hàng:  
   
-**1. Khách hàng chủ động khởi tạo cuộc tương tác  
-**Khi truy cập website của bạn, khách hàng sẽ gửi tin nhắn yêu cầu hỗ trợ ngay trên cửa sổ chat Subiz.
+**1. Khách hàng chủ động khởi tạo cuộc tương tác**  
+Khi truy cập website của bạn, khách hàng sẽ gửi tin nhắn yêu cầu hỗ trợ ngay trên cửa sổ chat Subiz.
 
 ![Kh&#xE1;ch h&#xE0;ng nh&#x1EAF;n tin tr&#xEA;n c&#x1EED;a s&#x1ED5; chat Subiz](../.gitbook/assets/cua-so-chat-tren-website.jpg)
 
@@ -45,12 +45,12 @@ Subiz sẽ thông báo âm thanh và thông báo màn hình khi có tin nhắn m
 
 _**Lưu ý**_: Khi không nhận được thông báo, hãy kiểm tra lại máy tính của bạn, thiết lập trình duyệt cho phép Subiz thông báo âm thanh và màn hình.
 
-**2. Agent chủ động khởi tạo cuộc tương tác  
-**Nếu khách hàng không chủ động tương tác trước, thì bạn cần quan sát trên trang **KHÁCH** để biết khách hàng đang quan tâm điều gì và chủ động tương tác hỗ trợ khách hàng.
+**2. Agent chủ động khởi tạo cuộc tương tác**  
+Nếu khách hàng không chủ động tương tác trước, thì bạn cần quan sát trên trang **KHÁCH** để biết khách hàng đang quan tâm điều gì và chủ động tương tác hỗ trợ khách hàng.
 
 ![Quan s&#xE1;t kh&#xE1;ch truy c&#x1EAD;p website](../.gitbook/assets/khach-truy-cap.jpg)
 
- Để chủ động tương tác với khách truy cập website, bạn vào mục **KHÁCH** &gt; chọn **Khách hàng** &gt; chọn **Tạo hội thoại mới** &gt; chọn **Subiz Chat** &gt; **Cửa sổ chat mở **và bạn gửi tin nhắn tại đây.
+ Để chủ động tương tác với khách truy cập website, bạn vào mục **KHÁCH** &gt; chọn **Khách hàng** &gt; chọn **Tạo hội thoại mới** &gt; chọn **Subiz Chat** &gt; **Cửa sổ chat mở** và bạn gửi tin nhắn tại đây.
 
 ![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i v&#x1EDB;i kh&#xE1;ch truy c&#x1EAD;p](../.gitbook/assets/chat-2.jpg)
 
@@ -58,7 +58,7 @@ _**Lưu ý**_: Khi không nhận được thông báo, hãy kiểm tra lại má
 
  Khi bạn đang trò chuyện cùng khách hàng, bạn có thể Mời thêm Agent tham gia cuộc hội thoại và cùng hỗ trợ khách hàng.
 
-Thao tác: Chọn nút**  "Add Agent"**  &gt; chọn **Agent** &gt; chọn **Thêm**
+Thao tác: Chọn nút  **"Add Agent"**  &gt; chọn **Agent** &gt; chọn **Thêm**
 
 ![Th&#xEA;m Agent tham gia h&#x1ED9;i tho&#x1EA1;i](../.gitbook/assets/3.-them-agent.jpg)
 
@@ -96,7 +96,7 @@ _**Lưu ý**_: Khi cuộc hội thoại kết thúc sẽ có thông báo trên c
 
 Thư viện câu trả lời là những tin nhắn mẫu được soạn sẵn, giúp bạn trò chuyện với khách hàng một cách nhanh chóng và hiệu quả.
 
-_**Hướng dẫn sử dụng**_: Tại cửa sổ chat, bạn bắt đầu bằng kí tự "**/**" +** shortcut** &gt; chọn **Câu trả lời mẫu** &gt; **Enter**
+_**Hướng dẫn sử dụng**_: Tại cửa sổ chat, bạn bắt đầu bằng kí tự "**/**" + **shortcut** &gt; chọn **Câu trả lời mẫu** &gt; **Enter**
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/02/example.png)
 
@@ -110,7 +110,7 @@ Tại vùng nhập tin nhắn, bạn có thể lựa chọn gửi kèm biểu t�
 
 ### Chặn khách hàng
 
- Agent có thể chặn khách hàng đã có tương tác như sau: Trong cửa sổ hội thoại  chọn nút **Chặn** &gt; bật **ON **chức năng **Chặn người này**
+ Agent có thể chặn khách hàng đã có tương tác như sau: Trong cửa sổ hội thoại  chọn nút **Chặn** &gt; bật **ON** chức năng **Chặn người này**
 
 ![Ch&#x1EB7;n kh&#xE1;ch h&#xE0;ng](https://docv4.subiz.com/wp-content/uploads/2018/05/chặn-user-2.jpg)
 

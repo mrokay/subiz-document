@@ -32,7 +32,7 @@ Sau khi nhập email của user bạn muốn chặn, tất cả mail được g�
 
 ![Ch&#x1EB7;n theo Email](../../.gitbook/assets/chan-theo-email.png)
 
-**Lưu ý: **Việc chặn địa chỉ mail được sử dụng khi bạn muốn chặn tương tác trên kênh email.
+**Lưu ý:** Việc chặn địa chỉ mail được sử dụng khi bạn muốn chặn tương tác trên kênh email.
 
 **Chặn bằng User ID**
 
@@ -66,7 +66,7 @@ Bao gồm danh sách các Users đã bị Chặn, Agent thao tác chặn và th�
 
 Để bỏ chặn một User, bạn có thể thao tác theo 2 cách sau:
 
-* **Bỏ chặn trực tiếp trên trang Activities: ** Từ Tab activities -&gt; Tìm User và tắt Chặn User.
+* **Bỏ chặn trực tiếp trên trang Activities:**  Từ Tab activities -&gt; Tìm User và tắt Chặn User.
 * **Bỏ chặn trong Blacklist:** Trong BlackList , click vào biểu tượng remove đối với User muốn bỏ chặn
 
 ![B&#x1ECF; ch&#x1EB7;n m&#x1ED9;t User](../../.gitbook/assets/bo-chan.png)

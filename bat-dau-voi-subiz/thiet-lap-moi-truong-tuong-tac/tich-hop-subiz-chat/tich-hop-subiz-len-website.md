@@ -2,13 +2,11 @@
 
 Subiz Live Chat là một kênh tương tác với khách hàng ghé thăm website của doanh nghiệp. Khi tích hợp cửa sổ tương tác Subiz trên Website, **sẽ giúp doanh nghiệp theo dõi, tiếp cận, tương tác và chuyển đổi khách hàng** ghé thăm website của bạn.
 
-#### Các đề mục trong trang: {#cac-de-muc-trong-trang}
-
-​[Mã nhúng của Subiz](https://docv4.subiz.com/tich-hop-cua-so-subiz-len-website/#SubizCode) [Đặt mã nhúng Subiz vào website](https://docv4.subiz.com/tich-hop-cua-so-subiz-len-website/#Installation) [Kiểm tra cửa sổ Subiz trên website](https://docv4.subiz.com/tich-hop-cua-so-subiz-len-website/#CheckWidget)​
+### Cách tích hợp Subiz lên website
 
 Để tích hợp cửa sổ Subiz trên website, bạn thực hiện theo 03 bước sau:
 
-Bước 1: Lấy mã nhúng của Subiz
+#### Bước 1: Lấy mã nhúng của Subiz
 
 Tích hợp Subiz vào website bằng việc copy đoạn mã nhúng Subiz \(không được thay đổi, copy toàn bộ mã\) và dán vào các trang mà bạn muốn đặt cửa sổ Subiz Chat.
 
@@ -22,11 +20,11 @@ Tại phần Mã nhúng Subiz, click nút Sao chép để thực hiện sao ché
 
 **Lưu ý:** Mỗi Tài khoản Subiz có một mã nhúng khác nhau, vì thế khi thay đổi Tài khoản Subiz, bạn đồng thời phải tích hợp lại mã nhúng.
 
-Bước 2: Đặt mã nhúng Subiz vào website
+#### Bước 2: Đặt mã nhúng Subiz vào website
 
 Subiz tương thích với hầu hết các website xây dựng trên các nền tảng khác nhau. Việc đặt mã nhúng vào website khá đơn giản, chỉ cần Copy mã nhúng Subiz và dán vào mọi trang bạn muốn có cửa sổ Subiz Chat. Code nhúng Subiz phải được đặt ngay trước thẻ đóng &lt;/body&gt;.![](http://docv4.subiz.com/wp-content/uploads/2018/01/embedcode.gif)
 
-Bước 3: Kiểm tra cửa sổ Subiz trên website
+#### Bước 3: Kiểm tra cửa sổ Subiz trên website
 
 Sau khi tích hợp mã nhúng Subiz, quay lại trình duyệt và truy cập vào website. Bạn sẽ thấy cửa sổ Subiz Chat ở góc dưới cùng bên phải của website.
 

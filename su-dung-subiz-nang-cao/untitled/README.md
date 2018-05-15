@@ -17,14 +17,14 @@ Tại trang **Cài đặt Phân khúc**, bạn có thể tạo phân khúc mới
 Tạo phân khúc mới theo các bước:
 
 * Status: Chọn trạng thái **ON/OFF** cho Phân khúc
-* Đặt tên cho phân khúc tại **Tên phân khúc **
+* Đặt tên cho phân khúc tại **Tên phân khúc** 
 * Điền thông tin mô tả về Phân khúc tại **Mô tả**
-* Lựa chọn các điều kiện thích hợp tại **ĐIỀU KIỆN **
+* Lựa chọn các điều kiện thích hợp tại **ĐIỀU KIỆN** 
 
 ![](http://docv4.subiz.com/wp-content/uploads/2018/01/segment-condition.png)
 
 * Click **Thêm điều kiện** để thêm các điều kiện khác
-* Lựa chọn mối quan hệ giữa các điều kiện –** Và:** khách hàng có tất cả các điều kiện thỏa mãn mới được đưa vào Phân khúc – **Hoặc:** khách hàng có một trong các điều kiện thỏa mãn thì được đưa vào Phân khúc
+* Lựa chọn mối quan hệ giữa các điều kiện – **Và:** khách hàng có tất cả các điều kiện thỏa mãn mới được đưa vào Phân khúc – **Hoặc:** khách hàng có một trong các điều kiện thỏa mãn thì được đưa vào Phân khúc
 * Click **Tạo Phân khúc** để khởi tạo
 
 Ví dụ về tạo Phân khúc lọc các khách hàng Việt Nam có nhiều hơn 10 lần truy cập.
@@ -53,7 +53,7 @@ Thời gian này liên quan đến việc kiểm tra và lọc user để đưa 
 
 Trường hợp có thay đổi điều kiện của phân khúc, ngày tạo sẽ được hiển thị là ngày thay đổi điều kiện gần nhất \(tương đương với tạo Phân khúc mới\).
 
-**Số lượng user: **Số user có trong Phân khúc
+**Số lượng user:** Số user có trong Phân khúc
 
 Các phân khúc sau khi được tạo sẽ cần có một khoảng thời gian nhất định để xác định số user có trong phân khúc, bởi vậy, trong một số trường hợp,  số lượng user sẽ hiển thị ở dạng _“Đang ước tính”_ thay vì con số cụ thể.
 

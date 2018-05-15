@@ -39,7 +39,7 @@ Bước 2: Thay đổi ảnh đại diện
 
 Điều khiển con trỏ chuột vào vị trí ảnh đại diện hiện tại và click chọn **Thay đổi ảnh đại diện**.
 
-Tải lên hình ảnh bạn mong muốn.** Bạn nên tải các hình ảnh đẹp, phù hợp với môi trường công việc. **Kích thước tối đa cho ảnh đại diện là 200 Kb.
+Tải lên hình ảnh bạn mong muốn. **Bạn nên tải các hình ảnh đẹp, phù hợp với môi trường công việc.** Kích thước tối đa cho ảnh đại diện là 200 Kb.
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/02/ava-and-password.png)
 
@@ -63,7 +63,7 @@ Chọn nút **Cập nhật** hoàn tất.
 [Cài đặt quyền cho Agent](https://docv4.subiz.com/chinh-sua-agent/#agentpermission)  
 [Xóa Agent](https://docv4.subiz.com/chinh-sua-agent/#agentdelete)
 
-**Đây là hướng dẫn khi bạn là Agent có quyền truy cập đầy đủ vào quyền Quản lý tài khoản và Cài đặt tài khoản. **Chỉ khi bạn có quyền truy cập đầy đủ hai quyền trên bạn mới có quyền chỉnh sửa thông tin của Agent khác trong danh sách Agent.
+**Đây là hướng dẫn khi bạn là Agent có quyền truy cập đầy đủ vào quyền Quản lý tài khoản và Cài đặt tài khoản.** Chỉ khi bạn có quyền truy cập đầy đủ hai quyền trên bạn mới có quyền chỉnh sửa thông tin của Agent khác trong danh sách Agent.
 
 Lưu ý: Các Agent có thể sửa thông tin cá nhân của mình theo hướng dẫn tại trang [**Thông tin cá nhân Agent**](https://docv4.subiz.com/cai-dat-cho-agent/)
 
@@ -79,11 +79,11 @@ Lựa chọn trạng thái Active/ Inactive
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/02/Trang-thai-Active-300x70.png)
 
-* Trạng thái** Inactive**
+* Trạng thái **Inactive**
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/02/Trang-thai-Inactive-300x69.png)
 
-* Trạng thái** Pending:** Agent đã được mời nhưng chưa kích hoạt tài khoản
+* Trạng thái **Pending:** Agent đã được mời nhưng chưa kích hoạt tài khoản
 * Trạng thái **Deleted:** Agent đã bị xóa
 
 Khi một Agent được chuyển sang trạng thái Inactive, sẽ đồng thời bị xóa khỏi các group và rule mà Agent tham gia. Nếu chỉ có duy nhất Agent đó ở trong một conversation đang mở, conversation sẽ được chuyển về danh sách cuộc hội thoại chưa được phân phối.
@@ -121,7 +121,7 @@ Sau khi xóa Agent, các thông tin về Agent bị xóa sẽ không thể khôi
 
 ### THÊM AGENT MỚI
 
-Agent là thuật ngữ chỉ người sử dụng Subiz để tương tác với khách hàng.** Bạn hãy mời các đồng nghiệp tham gia sử dụng Subiz dựa trên trách nhiệm công việc và nhu cầu của doanh nghiệp.**
+Agent là thuật ngữ chỉ người sử dụng Subiz để tương tác với khách hàng. **Bạn hãy mời các đồng nghiệp tham gia sử dụng Subiz dựa trên trách nhiệm công việc và nhu cầu của doanh nghiệp.**
 
 Mỗi tài khoản Subiz có thể tạo nhiều tài khoản Agent, mỗi Agent sẽ có một tài khoản đăng nhập riêng. Số lượng Agent có thể hoạt động cùng lúc phụ thuộc vào gói dịch vụ mà bạn đang sử dụng. **Bạn nên phân quyền và quản lý hoạt động của các Agent.**
 
@@ -129,7 +129,7 @@ Mỗi tài khoản Subiz có thể tạo nhiều tài khoản Agent, mỗi Agent
 
 **Bước 1: Gửi lời mời Agent**
 
-Thực hiện mời Agent tại phần **Cài đặt &gt; Tài khoản &gt; Agent &gt; Danh sách Agent &gt; chọn Thêm Agent **
+Thực hiện mời Agent tại phần **Cài đặt &gt; Tài khoản &gt; Agent &gt; Danh sách Agent &gt; chọn Thêm Agent** 
 
 ![](http://docv4.subiz.com/wp-content/uploads/2018/01/invite-button.png)
 
@@ -171,7 +171,7 @@ Sau khi nhập đầy đủ thông tin, click vào nút **Xác nhận**. Agent s
 
 **Nhóm Agent được thiết lập để tạo thành một đội nhóm chuyên nghiệp cùng hỗ trợ khách hàng.** Khi tạo đội nhóm hỗ trợ khách hàng, bạn sẽ phát huy sức mạnh và hạn chế điểm yếu cá nhân của từng Agent.
 
-Bạn hãy dựa vào số lượng Agent mình đang có và** đặc biệt là nhu cầu, phạm vi công việc để tạo ra các nhóm Agent khác nhau**, ví dụ:
+Bạn hãy dựa vào số lượng Agent mình đang có và **đặc biệt là nhu cầu, phạm vi công việc để tạo ra các nhóm Agent khác nhau**, ví dụ:
 
 * Nhóm Agent tư vấn bán hàng 1 \(bao gồm tư vấn bán hàng và tư vấn kỹ thuật…\)
 * Nhóm Agent tư vấn bán hàng 2 \(bao gồm tư vấn bán hàng và tư vấn kỹ thuật…\)
@@ -182,7 +182,7 @@ Bạn hãy dựa vào số lượng Agent mình đang có và** đặc biệt l�
 
 #### **1. Tạo Nhóm**
 
-Để tạo group Agent, bạn vào **Cài đặt &gt; Tài khoản &gt; Agent &gt; Nhóm Agent, click vào Tạo nhóm. **
+Để tạo group Agent, bạn vào **Cài đặt &gt; Tài khoản &gt; Agent &gt; Nhóm Agent, click vào Tạo nhóm.** 
 
 – Nhập tên và chọn biểu tượng cho nhóm
 
@@ -195,9 +195,9 @@ Bạn hãy dựa vào số lượng Agent mình đang có và** đặc biệt l�
 
 ![](http://docv4.subiz.com/wp-content/uploads/2018/01/createbutton.png)
 
-#### **2. Sửa thông tin nhóm **
+#### **2. Sửa thông tin nhóm** 
 
-Để sửa đổi thông tin về 1 nhóm, bạn vào **Cài đặt &gt; Tài khoản &gt; Nhóm Agent **&gt; chọn nhóm muốn sửa &gt; chọn biểu tượng chỉnh sửa.
+Để sửa đổi thông tin về 1 nhóm, bạn vào **Cài đặt &gt; Tài khoản &gt; Nhóm Agent** &gt; chọn nhóm muốn sửa &gt; chọn biểu tượng chỉnh sửa.
 
 ![](http://docv4.subiz.com/wp-content/uploads/2018/01/edit-group.png)
 
@@ -233,7 +233,7 @@ Quản lý mật khẩu là trang hướng dẫn bạn **thay đổi mật khẩ
 
 ![](http://docv4.subiz.com/wp-content/uploads/2018/01/change-password.png)
 
-* Click chọn** Cập nhật**
+* Click chọn **Cập nhật**
 
 Sau khi thay đổi mật khẩu thành công, bạn sẽ được đưa trở về trang đăng nhập của Subiz và đăng nhập lại tài khoản bằng mật khẩu mới.
 
@@ -244,7 +244,7 @@ Sau khi thay đổi mật khẩu thành công, bạn sẽ được đưa trở v
 * Vào [trang đăng nhập Subiz](https://app.subiz.com/)
 *  Click vào phần Quên mật khẩu ở dưới form đăng nhập ![](http://docv4.subiz.com/wp-content/uploads/2018/01/Qu%C3%AAn-m%E1%BA%ADt-kh%E1%BA%A9u-1.png)
 * Nhập email và xác nhận captcha![](http://docv4.subiz.com/wp-content/uploads/2018/01/Qu%C3%AAn-m%E1%BA%ADt-kh%E1%BA%A9u-2.png)
-* Kiểm tra email khôi phục mật khẩu Subiz gửi về email của bạn. Click nút **Reset Password  **trong email.
+* Kiểm tra email khôi phục mật khẩu Subiz gửi về email của bạn. Click nút **Reset Password**  trong email.
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/02/reset-password.png)
 
@@ -260,11 +260,11 @@ Sau khi thay đổi mật khẩu thành công, bạn sẽ được đưa trở v
 
 ###  Rule phân phối cuộc hội thoại
 
-**Rule là các quy tắc do bạn thiết lập để tự động phân phối cuộc hội thoại tới một hoặc một nhóm Agent. **Thiết lập rule là bước quan trọng cần làm sau khi tạo tài khoản Subiz.
+**Rule là các quy tắc do bạn thiết lập để tự động phân phối cuộc hội thoại tới một hoặc một nhóm Agent.** Thiết lập rule là bước quan trọng cần làm sau khi tạo tài khoản Subiz.
 
 #### RULE MẶC ĐỊNH BAN ĐẦU
 
-Ngay sau khi tích hợp một hay nhiều kênh tương tác cho tài khoản Subiz của bạn,** tất cả các cuộc tương tác trong giai đoạn ban đầu này được chuyển về cho Agent chủ tài khoản **\(người đăng ký tài khoản Subiz\).
+Ngay sau khi tích hợp một hay nhiều kênh tương tác cho tài khoản Subiz của bạn, **tất cả các cuộc tương tác trong giai đoạn ban đầu này được chuyển về cho Agent chủ tài khoản** \(người đăng ký tài khoản Subiz\).
 
 **Đây là rule mặc định, Subiz đã thiết lập ban đầu cho mọi tài khoản,**
 
@@ -286,7 +286,7 @@ Thư viện Rule là danh sách các Rule mà Subiz đã tạo sẵn cho bạn, 
 
 [1. Đăng nhập tài khoản](http://widgetv4.subiz.com/)
 
-2.**  **Vào **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Rule**
+2.  ****Vào **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Rule**
 
 3. Chọn **Thư viện Rule**
 
@@ -304,11 +304,11 @@ _Hiện tại Subiz có 3 kịch bản rule có sẵn trong thư viện:_
 
 ###  Tạo Rule mới
 
-**Rule là các quy tắc do bạn thiết lập để tự động phân phối cuộc hội thoại tới một hoặc một nhóm Agent. **Thiết lập rule là bước quan trọng cần làm sau khi tạo tài khoản Subiz.
+**Rule là các quy tắc do bạn thiết lập để tự động phân phối cuộc hội thoại tới một hoặc một nhóm Agent.** Thiết lập rule là bước quan trọng cần làm sau khi tạo tài khoản Subiz.
 
 Lưu ý:
 
-* Khi bạn có nhiều Agent,** không tạo Rule để phân phối tương tác, các Agent khác sẽ không nhận được thông báo yêu cầu chat từ khách hàng, lúc này các yêu cầu chat đều chuyển tới cho Agent chủ tài khoản**. Lúc đầu bạn có thể chọn các Rule trong [Thư viện Rule](https://docv4.subiz.com/su-dung-thu-vien-rule/) mà Subiz đã tạo sẵn.
+* Khi bạn có nhiều Agent, **không tạo Rule để phân phối tương tác, các Agent khác sẽ không nhận được thông báo yêu cầu chat từ khách hàng, lúc này các yêu cầu chat đều chuyển tới cho Agent chủ tài khoản**. Lúc đầu bạn có thể chọn các Rule trong [Thư viện Rule](https://docv4.subiz.com/su-dung-thu-vien-rule/) mà Subiz đã tạo sẵn.
 * Bạn có thể tạo nhiều Rule, [quản lý các Rule](https://docv4.subiz.com/quan-ly-danh-sach-rule/) và thay đổi Rule theo thời gian, cho phù hợp với số lượng Agent và cách quản lý của bạn.
 
 Để tạo rule mới, bạn [đăng nhập tài khoản](https://app.subiz.com/login) và vào phần **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Rule &gt; Tạo Rule mới**
@@ -329,7 +329,7 @@ Bước 2: Đặt các điều kiện cho Rule
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/02/Dieu-kien-trong-rule-1.png)
 
-Bạn có thể** chọn một hay nhiều điều kiện** trong [**danh sách các điều kiện trong Rule**](https://docv4.subiz.com/danh-sach-cac-dieu-kien-trong-rule/)
+Bạn có thể **chọn một hay nhiều điều kiện** trong [**danh sách các điều kiện trong Rule**](https://docv4.subiz.com/danh-sach-cac-dieu-kien-trong-rule/)
 
 Lưu ý: Một rule chỉ được thực thi khi thông tin của cuộc hội thoại và user khởi tạo cuộc hội thoại đáp ứng các điều kiện đã được cài đặt \(một cuộc hội thoại chỉ được phân phối theo một rule\)
 
@@ -366,7 +366,7 @@ Các cuộc hội thoại sẽ được chia đều lần lượt theo vòng cho
 
 ### DANH SÁCH CÁC ĐIỀU KIỆN TRONG RULE
 
-**Điều kiện trong Rule là các tiêu chuẩn để một Rule được thực thi, **giúp thiết lập các kịch bản phân phối cuộc hội thoại tới Agent một cách thông minh và hoạt động đúng lúc.** **Một rule chỉ được thực thi khi các điều kiện trong rule được đáp ứng.
+**Điều kiện trong Rule là các tiêu chuẩn để một Rule được thực thi,** giúp thiết lập các kịch bản phân phối cuộc hội thoại tới Agent một cách thông minh và hoạt động đúng lúc. ****Một rule chỉ được thực thi khi các điều kiện trong rule được đáp ứng.
 
 | **CÁC ĐIỀU KIỆN** | **CÁCH SỬ DỤNG** | **VÍ DỤ** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -394,7 +394,7 @@ Bạn cần quan tâm và thực hiện 3 vấn đề sau:
 
 #### **1. Sắp xếp thứ tự của rule**
 
-Các rule sẽ hoạt động** theo thứ tự ưu tiên từ trên xuống dưới**.
+Các rule sẽ hoạt động **theo thứ tự ưu tiên từ trên xuống dưới**.
 
 Ví dụ, khi có một cuộc hội thoại mới, nếu thỏa mãn điều kiện của rule 1,  cuộc hội thoại sẽ được phân phối cho Agent/ nhóm Agent của rule 1. Nếu chưa thỏa mãn, hệ thống tiếp tục lần lượt kiểm tra điều kiện của rule 2, 3 …
 

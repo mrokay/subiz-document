@@ -51,7 +51,7 @@ Hóa đơn là chứng nhận cho việc cung cấp dịch vụ từ Subiz, bạ
 
 ![&#x110;&#x1ECD;c th&#xF4;ng tin tr&#xEA;n h&#xF3;a &#x111;&#x1A1;n](../../.gitbook/assets/overdue-invoice_final-1.png)
 
-** Balance Due** là số tiền chưa thanh toán \(công nợ\). Balance due &gt; 0 hệ thống sẽ hiển thị thông báo về hóa đơn quá hạn.
+ **Balance Due** là số tiền chưa thanh toán \(công nợ\). Balance due &gt; 0 hệ thống sẽ hiển thị thông báo về hóa đơn quá hạn.
 
 ###  Hủy tài khoản     
 

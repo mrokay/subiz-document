@@ -4,7 +4,7 @@
 
 Trong Subiz, mọi dữ liệu tương tác của bạn với khách hàng đều được lưu lại. Những báo cáo thống kê này sẽ giúp bạn kiểm tra được tình hình hoạt động kinh doanh trực tuyến, nắm bắt chất lượng dịch vụ chăm sóc khách hàng và  quản lý đội ngũ nhân viên hiệu quả.
 
-Để theo dõi thống kê tương tác trên Subiz bạn chỉ cần đăng nhập tài khoản Subiz và click vào mục **Thống kê. **
+Để theo dõi thống kê tương tác trên Subiz bạn chỉ cần đăng nhập tài khoản Subiz và click vào mục **Thống kê.** 
 
 Tại đây bạn có thể thống kê tương tác online theo các danh mục sau:
 
@@ -26,15 +26,15 @@ Thống kê cuộc hội thoại giúp bạn có đánh giá tổng quan về t�
 
 Tại mục Thống kê, bạn có thể thống kê số lượng cuộc hội thoại theo kênh, Agent và thời gian:
 
-**Kênh: **Lọc cuộc hội thoại theo kênh giúp bạn biết được lượng tương tác qua từng kênh Subiz Chat/ Email/ Messenger 
+**Kênh:** Lọc cuộc hội thoại theo kênh giúp bạn biết được lượng tương tác qua từng kênh Subiz Chat/ Email/ Messenger 
 
 ![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c theo c&#xE1;c k&#xEA;nh](.gitbook/assets/thong-ke-tuong-tac-theo-kenh.png)
 
-**Agent: **Lọc hội thoại theo Agent/ nhóm Agent giúp bạn đánh giá công việc của mỗi Agent, cũng như có đánh giá về tình hình kinh doanh chung:
+**Agent:** Lọc hội thoại theo Agent/ nhóm Agent giúp bạn đánh giá công việc của mỗi Agent, cũng như có đánh giá về tình hình kinh doanh chung:
 
 ![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c theo Agent](.gitbook/assets/thong-ke-tuong-tac-theo-agents.png)
 
-**Thời gian: **Bạn có thể lọc theo các khoảng thời gian cụ thể và thực hiện so sánh để thấy sự biến động.
+**Thời gian:** Bạn có thể lọc theo các khoảng thời gian cụ thể và thực hiện so sánh để thấy sự biến động.
 
 ![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c theo th&#x1EDD;i gian](.gitbook/assets/thong-ke-tuong-tac-theo-thoi-gian.png)
 
@@ -42,7 +42,7 @@ Tại mục Thống kê, bạn có thể thống kê số lượng cuộc hội 
 
 Sau khi chọn các tiêu chí để thống kê, bạn có thể quan sát dữ liệu được thống kê dưới dạng biểu đồ.
 
-**Trục dọc: **Số lượng cuộc hội thoại
+**Trục dọc:** Số lượng cuộc hội thoại
 
 **Trục ngang:** Trục thời gian \(đơn vị thời gian là ngày/ giờ tùy theo khoảng thời gian mà bạn chọn\)
 
@@ -64,7 +64,7 @@ Tại trang thống kê Tag, bạn có thể thống kê số lượng tag đã 
 
 **Kênh:** Chọn kênh mà bạn muốn thông kê Tag: Subiz Chat/ Email/ Messenger
 
-**Loại Tag: **Bạn có thể thống kê theo từng loại tag hoặc theo các tag được sử dụng nhiều nhất.
+**Loại Tag:** Bạn có thể thống kê theo từng loại tag hoặc theo các tag được sử dụng nhiều nhất.
 
 * Các tag được sử dụng nhiều nhất: Thống kê 5 loại tag được gắn nhiều nhất
 
@@ -82,7 +82,7 @@ Sau khi bạn chọn các tiêu chí thống kê, dữ liệu sẽ hiển thị 
 
 **Trục dọc:** Số lượng Tag
 
-**Trục ngang: **Trục thời gian \(đơn vị thời gian là ngày/ giờ tùy theo khoảng thời gian mà bạn chọn\)
+**Trục ngang:** Trục thời gian \(đơn vị thời gian là ngày/ giờ tùy theo khoảng thời gian mà bạn chọn\)
 
 Tại mỗi điểm giao bạn có thể quan sát được số lượng tin nhắn được gắn theo từng loại tag cụ thể vào một thời gian nhất đinh. Điều này sẽ giúp bạn kiểm tra và theo dõi các cuộc tương tác một cách thuận tiên hơn
 

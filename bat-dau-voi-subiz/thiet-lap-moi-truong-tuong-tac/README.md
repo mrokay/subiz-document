@@ -18,7 +18,7 @@ Tích hợp Subiz vào website bằng việc copy đoạn mã nhúng Subiz \(kh�
 
 Để lấy mã nhúng của Subiz bạn làm theo các bước sau:
 
-**1. **[Đăng nhập tài khoản Subiz](http://app.subiz.com/)
+**1.** [Đăng nhập tài khoản Subiz](http://app.subiz.com/)
 
 **2.** Vào phần **Cài đặt &gt; Tài khoản &gt; Tích hợp**
 
@@ -26,7 +26,7 @@ Tại phần Mã nhúng Subiz, click nút Sao chép để thực hiện sao ché
 
 ![](http://docv4.subiz.com/wp-content/uploads/2018/02/copy-embed-code.png)
 
-**Lưu ý: **Mỗi Tài khoản Subiz có một mã nhúng khác nhau, vì thế khi thay đổi Tài khoản Subiz, bạn đồng thời phải tích hợp lại mã nhúng.
+**Lưu ý:** Mỗi Tài khoản Subiz có một mã nhúng khác nhau, vì thế khi thay đổi Tài khoản Subiz, bạn đồng thời phải tích hợp lại mã nhúng.
 
 Bước 2: Đặt mã nhúng Subiz vào website
 
@@ -42,9 +42,9 @@ Nếu bạn vẫn không thấy cửa sổ Subiz Chat, bạn có thể kiểm tr
 
 **1.** [Đăng nhập tài khoản](http://app.subiz.com/)
 
-**2.** Chọn **Cài đặt **&gt; **Tài khoản** &gt; **Tích hợp**
+**2.** Chọn **Cài đặt** &gt; **Tài khoản** &gt; **Tích hợp**
 
-**3.** Nhập đường dẫn** website** bạn và click nút **Kiểm tra**.
+**3.** Nhập đường dẫn **website** bạn và click nút **Kiểm tra**.
 
 Nếu hệ thống báo không tìm thấy cửa sổ Chat, bạn kiểm tra lại mã nhúng Subiz trên website hoặc liên hệ với Subiz để được hỗ trợ.
 
@@ -68,7 +68,7 @@ Tại trang **Cửa sổ hội thoại**, bạn có thể thực hiện các cà
 
 #### **1. Loại cửa sổ**
 
-**Cửa sổ có 2 dạng kích thước thu gọn hoặc mở rộng tùy thuộc vào cài đặt của bạn. **Chọn dạng cửa sổ muốn hiển thị:
+**Cửa sổ có 2 dạng kích thước thu gọn hoặc mở rộng tùy thuộc vào cài đặt của bạn.** Chọn dạng cửa sổ muốn hiển thị:
 
 * **Thu gọn:** Kích thước tiêu chuẩn
 * **Mở rộng:** Chiều dài cửa sổ toàn màn hình, giúp khách hàng dễ theo dõi cuộc chat với bạn
@@ -128,7 +128,7 @@ CSS là viết tắt của “Cascading Style Sheet”, nếu có kiến thức 
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/02/csscustomize.png)
 
-Chọn **Lưu thay đổi **để lưu tùy chỉnh.  
+Chọn **Lưu thay đổi** để lưu tùy chỉnh.  
 Chọn **Đưa về ban đầu** để trở về cửa sổ mặc định ban đầu.
 
 #### **7. Cài đặt Whitelist domain**
@@ -365,14 +365,14 @@ Với các email bạn đang sử dụng để tương tác với khách hàng, 
 
 Để thêm 1 địa chỉ email vào danh sách Income Email, bạn làm theo các bước:
 
-* * * Đăng nhập tài khoản và vào phần **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Email **
+* * * Đăng nhập tài khoản và vào phần **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Email** 
     * Chọn **Thêm Income Email**
-    * Nhập địa chỉ email muốn chuyển tiếp vào phần **Nhập địa chỉ email **
+    * Nhập địa chỉ email muốn chuyển tiếp vào phần **Nhập địa chỉ email** 
     * Chọn **Thêm**
 
 ![](http://docv4.subiz.com/wp-content/uploads/2018/02/new-income-email.png)
 
-**Bước 2: Cài đặt chuyển tiếp trên email của bạn **
+**Bước 2: Cài đặt chuyển tiếp trên email của bạn** 
 
 **Cài đặt chuyển tiếp email Gmail**
 
@@ -402,7 +402,7 @@ Sau khi hoàn thành 2 bước trên, thư gửi tới địa chỉ mail trong d
 Để việc gửi email trên Subiz đạt hiệu quả cao nhất, bạn nên thiết lập DKIM và SPF trên domain của mình.
 
 * [Đăng nhập tài khoản Subiz](http://app.subiz.com/), vào phần **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Email**
-* Chọn **Configure DKIM **
+* Chọn **Configure DKIM** 
 * Nhập tên miền hòm thư của bạn \(dạng company.com\)
 * Liên hệ người quản lý domain công ty để thiết lập DKIM và SPF cho domain
 
@@ -433,7 +433,7 @@ Click chọn nút **Kết nối với Fanpage**
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/messenger-page.png)
 
-Bước 2:** Nhập thông tin tài khoản Facebook của bạn** \(tài khoản Admin của Fanpage mà bạn dự định tích hợp\)
+Bước 2: **Nhập thông tin tài khoản Facebook của bạn** \(tài khoản Admin của Fanpage mà bạn dự định tích hợp\)
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/login-facebook.png)
 

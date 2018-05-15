@@ -43,7 +43,7 @@ Khách hàng sẽ nhìn thấy tin nhắn/email tự động giống như một 
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/Content.png)
 
-Để tạo Automation, bạn click chọn nút **Tạo Automation mới. **
+Để tạo Automation, bạn click chọn nút **Tạo Automation mới.** 
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/T%E1%BA%A1o-m%E1%BB%9Bi-1.png)
 
@@ -81,7 +81,7 @@ Ví dụ:
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/V%C3%AD-d%E1%BB%A5-%C4%91i%E1%BB%81u-ki%E1%BB%87n-1.png)
 
-**Bạn nên tham khảo **[**danh sách các điều kiện**](https://docv4.subiz.com/danh-sach-cac-dieu-kien-trong-automation/), với những hướng dẫn về cách sử dụng và có những ví dụ cụ thể
+**Bạn nên tham khảo** [**danh sách các điều kiện**](https://docv4.subiz.com/danh-sach-cac-dieu-kien-trong-automation/), với những hướng dẫn về cách sử dụng và có những ví dụ cụ thể
 
 * **Chọn kênh**
 
@@ -135,7 +135,7 @@ Sau khi cài đặt xong, bạn click nút **Tạo** để lưu lại Automation
 
 ##  Tự động gửi tin nhắn tới khách truy cập
 
-Hành động Gửi tin nhắn tới user được thực hiện trên kênh Subiz Chat. Hành động này sẽ khởi tạo cuộc hội thoại với khách truy cập website thỏa mãn điều kiện đặt trước và gửi kèm 1 tin nhắn. **Tin nhắn có chức năng như lời mời chat tự động, giúp bạn gửi lời chào riêng biệt tới từng đối tượng khách hàng. **
+Hành động Gửi tin nhắn tới user được thực hiện trên kênh Subiz Chat. Hành động này sẽ khởi tạo cuộc hội thoại với khách truy cập website thỏa mãn điều kiện đặt trước và gửi kèm 1 tin nhắn. **Tin nhắn có chức năng như lời mời chat tự động, giúp bạn gửi lời chào riêng biệt tới từng đối tượng khách hàng.** 
 
 Xem thêm [Tại sao phải chào hỏi khách hàng ghé thăm website](https://subiz.com/blog/tai-sao-phai-chao-hoi-khach-hang-ghe-tham-website.html)
 
@@ -206,7 +206,7 @@ Nếu khách truy cập “thực hiện ẩn” cửa sổ chat và đọc nh�
 
 Hỏi địa chỉ email là hành động Automation thuộc kênh Subiz Chat. **Thông tin email giúp bạn có thể liên hệ lại khách hàng, nhận diện và phân loại khách hàng, thực hiện các chiến dịch email marketing.**
 
-Để cài đặt Form hỏi thông tin khách hàng, bạn vào phần **Cài đặt &gt; Tài khoản &gt; Automation. **Sau khi đặt tên và mô tả theo cách quản lý của bạn, bạn cần lưu ý các phần sau:
+Để cài đặt Form hỏi thông tin khách hàng, bạn vào phần **Cài đặt &gt; Tài khoản &gt; Automation.** Sau khi đặt tên và mô tả theo cách quản lý của bạn, bạn cần lưu ý các phần sau:
 
 #### Điều kiện hỏi địa chỉ Email
 

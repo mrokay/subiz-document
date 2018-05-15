@@ -14,7 +14,7 @@ Nếu không chắc chắn về mật khẩu, bạn có thể thực hiện rese
 
 ### Agent này đang bị khóa
 
-**Nguyên nhân: **Agent đang ở trạng thái Inactive
+**Nguyên nhân:** Agent đang ở trạng thái Inactive
 
 ![Agent &#x111;ang b&#x1ECB; kh&#xF3;a](../../../.gitbook/assets/agent-bi-khoa.png)
 
@@ -28,7 +28,7 @@ Nếu không chắc chắn về mật khẩu, bạn có thể thực hiện rese
 
 **Nguyên nhân:** Tài khoản của bạn đã bị xóa tự động khỏi hệ thống do không được xác nhận đăng ký qua email Subiz gửi về trong vòng 24h kể từ khi bạn hoàn tất form đăng ký.
 
-**Cách khắc phục: **Subiz chỉ cho phép 1 địa chỉ email sử dụng một lần duy nhất trong hệ thống, vì vậy bạn cần đăng ký lại bằng 1 email khác và nhớ xác nhận ngay khi đăng ký.
+**Cách khắc phục:** Subiz chỉ cho phép 1 địa chỉ email sử dụng một lần duy nhất trong hệ thống, vì vậy bạn cần đăng ký lại bằng 1 email khác và nhớ xác nhận ngay khi đăng ký.
 
 * **Nếu agent không phải là owner**
 
