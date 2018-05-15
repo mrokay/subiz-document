@@ -41,21 +41,88 @@ Có hai hình thức khởi tạo một cuộc tương tác với khách hàng:
 
 Subiz sẽ thông báo âm thanh và thông báo màn hình khi có tin nhắn mới của khách hàng.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/thong-bao-tin-nhan-moi.png)
+![Subiz th&#xF4;ng b&#xE1;o m&#xE0;n h&#xEC;nh](https://docv4.subiz.com/wp-content/uploads/2018/02/thong-bao-tin-nhan-moi.png)
 
 _**Lưu ý**_: Khi không nhận được thông báo, hãy kiểm tra lại máy tính của bạn, thiết lập trình duyệt cho phép Subiz thông báo âm thanh và màn hình.
 
+**2. Agent chủ động khởi tạo cuộc tương tác  
+**Nếu khách hàng không chủ động tương tác trước, thì bạn cần quan sát trên trang **KHÁCH** để biết khách hàng đang quan tâm điều gì và chủ động tương tác hỗ trợ khách hàng.
+
+![Quan s&#xE1;t kh&#xE1;ch truy c&#x1EAD;p website](../.gitbook/assets/khach-truy-cap.jpg)
+
+ Để chủ động tương tác với khách truy cập website, bạn vào mục **KHÁCH** &gt; chọn **Khách hàng** &gt; chọn **Tạo hội thoại mới** &gt; chọn **Subiz Chat** &gt; **Cửa sổ chat mở **và bạn gửi tin nhắn tại đây.
+
+![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i v&#x1EDB;i kh&#xE1;ch truy c&#x1EAD;p](../.gitbook/assets/chat-2.jpg)
+
 ### Thêm Agent vào cuộc hội thoại 
+
+ Khi bạn đang trò chuyện cùng khách hàng, bạn có thể Mời thêm Agent tham gia cuộc hội thoại và cùng hỗ trợ khách hàng.
+
+Thao tác: Chọn nút**  "Add Agent"**  &gt; chọn **Agent** &gt; chọn **Thêm**
+
+![Th&#xEA;m Agent tham gia h&#x1ED9;i tho&#x1EA1;i](../.gitbook/assets/3.-them-agent.jpg)
+
+ _**Lưu ý**_: Chỉ Agent được phân phối cuộc hội thoại mới có quyền thêm Agent khác.
+
+### Gắn Tag
+
+Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp Agent dễ dàng phân loại và quản lý các tương tác của khách hàng.
+
+_**Hướng dẫn gắn thẻ Tag**_: Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
+
+![G&#x1EAF;n th&#x1EBB; Tag](http://docv4.subiz.com/wp-content/uploads/2018/01/Tag.png)
+
+Bạn có thể xóa Tag như sau: Chọn nút **Tag** &gt; chọn **X** xóa Tag
+
+![X&#xF3;a th&#x1EBB; Tag](https://docv4.subiz.com/wp-content/uploads/2018/02/Bieu-tuong-X.png)
+
+### Kết thúc hội thoại
+
+Subiz sẽ tính cuộc hội thoại được kết thúc bằng hành động **Kết thúc**. Hành động này được thực hiện bởi Agent hoặc khách truy cập.
+
++ **Agent**: Kết thúc bằng cách chọn nút "**End Chat**" và xác nhận kết thúc cuộc hội thoại. Khách hàng sẽ nhận được thông báo là Agent đã kết thúc cuộc trò chuyện.
+
+![](https://docv4.subiz.com/wp-content/uploads/2018/02/end-cuoc-chat.png)
+
++ **Khách truy cập** có thể kết thúc ngay trên cửa sổ chat bằng cách chọn dấu **"+" &gt;** chọn **Kết thúc hội thoại**. Agent cũng sẽ nhận được thông báo khi khách truy cập kết thúc hội thoại.
+
+![Kh&#xE1;ch h&#xE0;ng k&#x1EBF;t th&#xFA;c h&#x1ED9;i tho&#x1EA1;i](https://docv4.subiz.com/wp-content/uploads/2018/05/Kết-thúc-chat-user.jpg)
+
+_**Lưu ý**_: Khi cuộc hội thoại kết thúc sẽ có thông báo trên cửa sổ chat, đồng thời phần nhập tin nhắn sẽ chuyển màu xám và không thể thao tác thêm. **Để tiếp tục trò chuyện, bạn cần Tạo hội thoại mới.**
+
+![H&#x1ED9;i tho&#x1EA1;i &#x111;&#xE3; k&#x1EBF;t th&#xFA;c](https://docv4.subiz.com/wp-content/uploads/2018/02/ket-qua-end-cuoc-chat.png)
 
 ### Sử dụng thư viện câu trả lời 
 
-### Sử dụng Emojis và biểu tượng cảm xúc 
+Thư viện câu trả lời là những tin nhắn mẫu được soạn sẵn, giúp bạn trò chuyện với khách hàng một cách nhanh chóng và hiệu quả.
 
-### Upload và chia sẻ files, links
+_**Hướng dẫn sử dụng**_: Tại cửa sổ chat, bạn bắt đầu bằng kí tự "**/**" +** shortcut** &gt; chọn **Câu trả lời mẫu** &gt; **Enter**
 
-###  Gắn Tag
+![](https://docv4.subiz.com/wp-content/uploads/2018/02/example.png)
+
+_**Lưu ý**_: Bạn có thể [thêm và chỉnh sửa Thư viện câu trả lời](https://docv4.subiz.com/thu-vien-cau-tra-loi/) theo hướng dẫn
+
+### Sử dụng Emojis cảm xúc và chia sẻ file
+
+Tại vùng nhập tin nhắn, bạn có thể lựa chọn gửi kèm biểu tượng cảm xúc hoặc file đính kèm.
+
+![Emoji c&#x1EA3;m x&#xFA;c v&#xE0; file &#x111;&#xED;nh k&#xE8;m](http://docv4.subiz.com/wp-content/uploads/2018/01/Icon.png)
 
 ### Chặn khách hàng
+
+ Agent có thể chặn khách hàng đã có tương tác như sau: Trong cửa sổ hội thoại  chọn nút **Chặn** &gt; bật **ON **chức năng **Chặn người này**
+
+![Ch&#x1EB7;n kh&#xE1;ch h&#xE0;ng](https://docv4.subiz.com/wp-content/uploads/2018/05/chặn-user-2.jpg)
+
+ Khi bạn chọn chức năng "**Chặn người này**", lưu ý:
+
++ Khách hàng bị chặn có ảnh đại diện hình gạch chéo.
+
++ Với kênh Subiz Chat, khách hàng sẽ  không nhìn thấy cửa sổ chat Subiz trên website.
+
++Với kênh Email, Email khách hàng gửi đến sẽ không hiển thị  cho Agent.
+
++ Với kênh Messenger, tin nhắn không hiển thị cho Agent. Nhưng tin nhắn vẫn tồn tại và hiển thị nếu bạn đăng nhập Fanpage.
 
 ## Tương tác qua kênh Email
 
