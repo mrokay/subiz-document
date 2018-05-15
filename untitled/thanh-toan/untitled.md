@@ -30,7 +30,9 @@ Nhập thông tin đơn giản
 
 Khi bạn thực hiện thanh toán thành công, tài khoản sẽ được nâng cấp ngay lập tức, đồng thời hệ thống sẽ gửi xác nhận cung cấp dịch vụ thành công tới email đăng ký của bạn.
 
-Dưới đây là minh họa giao diện hiển thị thông tin tài khoản của bạn khi đã hoàn tất nâng cấp:![](https://docs.subiz.com/wp-content/uploads/2015/10/Thong-tin-tai-khoan.png)
+Dưới đây là minh họa giao diện hiển thị thông tin tài khoản của bạn khi đã hoàn tất nâng cấp:
+
+![](../../.gitbook/assets/image%20%281%29.png)
 
 Thong tin tai khoan
 
@@ -46,11 +48,9 @@ Thanh toán dịch vụ Subiz
 
 2. Lựa chọn thông tin của gói dịch vụ phù hợp và Click Đăng ký ngay
 
-**Lưu ý**: Hình thức thanh toán chuyển khoản chỉ hiển thị khi trang thanh toán của bạn đang sử dụng ngôn ngữ Tiếng Việt. Lựa chọn Ngôn ngữ “Tiếng Việt” ở góc trên bên phải của trang.![](https://docs.subiz.com/wp-content/uploads/2016/01/Screenshot-from-2016-08-13-092009.png)
+Chọn hình thức thanh toán Chuyển khoản & Click vào Đăng ký ngay.
 
-Screenshot from 2016-08-13 09:20:09
-
-Chọn hình thức thanh toán Chuyển khoản & Click vào Đăng ký ngay.![](https://docs.subiz.com/wp-content/uploads/2016/01/Screenshot-from-2016-08-13-092058.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 3. Hệ thống tự động hiển thị thông tin thanh toán tương ứng
 
