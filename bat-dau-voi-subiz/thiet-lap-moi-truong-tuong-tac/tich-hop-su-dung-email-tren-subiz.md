@@ -6,7 +6,7 @@ Khi đăng ký tài khoản Subiz, **bạn sẽ được cung cấp một địa
 
 Với các email bạn đang sử dụng để tương tác với khách hàng, **bạn cần thiết lập để chuyển tiếp các email này về địa chỉ abc@mail.subiz.com**. Khi đó, bạn có thể dễ dàng quản lý tất cả các email và làm việc qua email ngay trên Subiz. Việc thiết lập chuyển tiếp gồm 2 bước:
 
-**Bước 1: Tạo danh sách Income Email**
+#### **Bước 1: Tạo danh sách Income Email**
 
 Để thêm 1 địa chỉ email vào danh sách Income Email, bạn làm theo các bước:
 
@@ -17,7 +17,7 @@ Với các email bạn đang sử dụng để tương tác với khách hàng, 
 
 ![](http://docv4.subiz.com/wp-content/uploads/2018/02/new-income-email.png)
 
-**Bước 2: Cài đặt chuyển tiếp trên email của bạn**
+#### **Bước 2: Cài đặt chuyển tiếp trên email của bạn**
 
 **Cài đặt chuyển tiếp email Gmail**
 
@@ -40,7 +40,7 @@ Sau khi hoàn thành 2 bước trên, thư gửi tới địa chỉ mail trong d
 
 ​
 
-### Cài đặt DKIM/ SPF cho tên miền để tối ưu việc gửi email {#cai-dat-dkim-spf-cho-ten-mien-de-toi-uu-viec-gui-email}
+### Cài đặt DKIM/ SPF cho tên miền để tối ưu việc gửi email
 
 **DKIM \(Domain Keys Indentified Mail\)** là phương thức xác thực e-mail bằng chữ ký số của tên miền gửi thư. Việc thiết lập DKIM cho domain sẽ giúp thư của bạn gửi đi được xác thực và tránh vào hòm thư spam.
 
