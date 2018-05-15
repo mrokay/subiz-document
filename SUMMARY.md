@@ -18,6 +18,7 @@
       * Cài đặt cửa sổ Subiz chat trên website
     * Tích hợp sử dụng Email trên Subiz
     * Tích hợp Fanpage Facebook vào Subiz
+    * Tối ưu môi trường tương tác
   * [Triển khai hoạt động](bat-dau-voi-subiz/untitled.md)
   * Làm việc trên Subiz
 * Sử dụng Subiz nâng cao
