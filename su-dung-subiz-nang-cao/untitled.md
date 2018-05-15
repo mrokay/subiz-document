@@ -1,10 +1,10 @@
 # Quản lý dữ liệu
 
-##  Phân khúc khách hàng
+###  Phân khúc khách hàng
 
 **Phân khúc** là các nhóm khách hàng được phân chia theo tiêu chí nhất định. Việc tạo phân khúc nhằm giúp bạn phân loại và chia nhỏ dữ liệu khách hàng, **giúp bạn có chiến lược hiệu quả riêng cho từng đối tượng khách hàng.**
 
-### TẠO PHÂN KHÚC KHÁCH HÀNG MỚI
+### Tạo phân khúc khách hàng mới
 
 Tại trang **Cài đặt Phân khúc**, bạn có thể tạo phân khúc mới, theo dõi và chỉnh sửa danh sách phân khúc.
 
