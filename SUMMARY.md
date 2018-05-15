@@ -32,7 +32,7 @@
     * [Lưu ý khi thanh toán \(FAQs\)](untitled/thanh-toan/luu-y-khi-thanh-toan-faqs.md)
   * Quản lý gói dịch vụ
     * [Xem thông tin tài khoản hiện tại](untitled/untitled/xem-thong-tin-tai-khoan-hien-tai.md)
-    * Thay đổi gói dịch vụ
+    * [Thay đổi gói dịch vụ](untitled/untitled/untitled.md)
     * Thay đổi phương thức thanh toán
     * FAQs
 
