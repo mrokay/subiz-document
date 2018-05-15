@@ -16,6 +16,7 @@
     * Tích hợp Subiz chat
       * Tích hợp Subiz lên Website
       * Cài đặt cửa sổ Subiz chat trên website
+    * Tích hợp sử dụng Email trên Subiz
   * [Triển khai hoạt động](bat-dau-voi-subiz/untitled.md)
   * Làm việc trên Subiz
 * Sử dụng Subiz nâng cao
