@@ -22,7 +22,7 @@
   * Nâng cao trải nghiệm khách hàng
   * Nâng cao hiệu quả bán hàng với Subiz
   * Nâng cao hiệu quả marketing với Subiz
-* Báo cáo & Thống kê
+* [Báo cáo & Thống kê](bao-cao-and-thong-ke-1.md)
 * Thanh toán
   * Thanh toán
   * Quản lý gói dịch vụ
