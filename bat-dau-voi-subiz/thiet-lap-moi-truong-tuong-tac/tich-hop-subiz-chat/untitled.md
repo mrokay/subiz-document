@@ -82,11 +82,17 @@ Cài đặt whitelist domain giúp bạn kiểm soát các trang hiển thị c�
 
 Thực hiện cài đặt tại phần **Quản lý Whitelist Domain**.
 
-![](http://docv4.subiz.com/wp-content/uploads/2018/02/whitelist-domain-manage.png)
+![Qu&#x1EA3;n l&#xFD; whitelist domain](../../../.gitbook/assets/whitedomain.png)
 
-Tại trang Whitelist Domain, click chọn Thêm Whitelist Domain mới.![](http://docv4.subiz.com/wp-content/uploads/2018/02/whitelist-domain-page.png)
+Tại trang Whitelist Domain, click chọn Thêm Whitelist Domain mới.
 
-Nhập tên miền và chọn **Thêm** để thêm domain vào danh sách whitelist.![](http://docv4.subiz.com/wp-content/uploads/2018/02/add-whitelist.png)
+![](../../../.gitbook/assets/whitelist-domain-page.png)
 
-**Để xóa một domain khỏi whitelist,** bạn ấn vào biểu tượng xóa bên cạnh tên domain trong danh sách.![](http://docv4.subiz.com/wp-content/uploads/2018/02/delete-domain.png)
+Nhập tên miền và chọn **Thêm** để thêm domain vào danh sách whitelist.
+
+![Th&#xEA;m whitelist domain m&#x1EDB;i](../../../.gitbook/assets/add-whitelist.png)
+
+**Để xóa một domain khỏi whitelist,** bạn ấn vào biểu tượng xóa bên cạnh tên domain trong danh sách.
+
+![](../../../.gitbook/assets/delete-domain.png)
 
