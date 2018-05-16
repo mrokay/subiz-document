@@ -35,15 +35,13 @@ Sau khi tích hợp mã nhúng Subiz, quay lại trình duyệt và truy cập v
 
 Nếu bạn vẫn không thấy cửa sổ Subiz Chat, bạn có thể kiểm tra trực tiếp trong trang Quản lý theo các bước sau:
 
-**1.** [Đăng nhập tài khoản](http://app.subiz.com/)​
+1. [Đăng nhập tài khoản](http://app.subiz.com/)​
+2. Chọn **Cài đặt** &gt; **Tài khoản** &gt; **Tích hợp**
+3. Nhập đường dẫn **website** bạn và click nút **Kiểm tra**.
 
-**2.** Chọn **Cài đặt** &gt; **Tài khoản** &gt; **Tích hợp**
-
-**3.** Nhập đường dẫn **website** bạn và click nút **Kiểm tra**.
+![Ki&#x1EC3;m tra xem m&#xE3; nh&#xFA;ng Subiz tr&#xEA;n website c&#x1EE7;a b&#x1EA1;n](../../../.gitbook/assets/kiem-tra-cai-ma-nhung.png)
 
 Nếu hệ thống báo không tìm thấy cửa sổ Chat, bạn kiểm tra lại mã nhúng Subiz trên website hoặc liên hệ với Subiz để được hỗ trợ.
-
-![](http://docv4.subiz.com/wp-content/uploads/2018/02/check-embed-code.png)
 
 ### Tích hợp Subiz trên các nền tảng
 
