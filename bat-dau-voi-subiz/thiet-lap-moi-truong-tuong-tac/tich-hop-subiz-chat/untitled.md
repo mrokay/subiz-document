@@ -94,5 +94,5 @@ Nhập tên miền và chọn **Thêm** để thêm domain vào danh sách white
 
 **Để xóa một domain khỏi whitelist,** bạn ấn vào biểu tượng xóa bên cạnh tên domain trong danh sách.
 
-![](../../../.gitbook/assets/delete-domain.png)
+![X&#xF3;a domain kh&#x1ECF;i whitelist](../../../.gitbook/assets/delete-domain.png)
 
