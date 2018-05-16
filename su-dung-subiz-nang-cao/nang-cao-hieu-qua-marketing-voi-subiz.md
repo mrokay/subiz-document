@@ -1,3 +1,7 @@
+---
+description: Sẽ chèn link vào các mục sau khi hoàn thiện đưa bài lên web
+---
+
 # Nâng cao hiệu quả marketing với Subiz
 
 Thực hiện các chiến lược tiếp thị, chăm sóc khách hàng và bán hàng thôi chưa đủ. Subiz còn hỗ trợ bạn quản lý và điều hành các hoạt động marketing, đánh phá, phân tích từ đó lên kế hoạch nâng cao hiệu quả marketing của mình một cách khoa học.
