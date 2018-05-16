@@ -17,32 +17,11 @@ Tích hợp Subiz vào website bằng việc copy đoạn mã nhúng Subiz \(kh�
 
 Tại phần Mã nhúng Subiz, click nút Sao chép để thực hiện sao chép nhanh đoạn mã nhúng.![](http://docv4.subiz.com/wp-content/uploads/2018/02/copy-embed-code.png)
 
-> **Lưu ý:** Mỗi Tài khoản Subiz có một mã nhúng khác nhau, vì thế khi thay đổi Tài khoản Subiz, bạn đồng thời phải tích hợp lại mã nhúng.
-
-> sdgádgágs
-
-* fddf
-* sadfddfs
-  * ddfsadfs
-    * sgfá
-
-> *
-
 {% hint style="info" %}
-ọigaplsjgsla;jgsag
+**Lưu ý:** Mỗi Tài khoản Subiz có một mã nhúng khác nhau, vì thế khi thay đổi Tài khoản Subiz, bạn đồng thời phải tích hợp lại mã nhúng.
 {% endhint %}
 
-{% tabs %}
-{% tab title="ádfádfsa" %}
-gddf
-{% endtab %}
 
-{% tab title="ấdfsdf" %}
-fdgagddfgá
-
-![](../../../.gitbook/assets/css-chieu-rong.png)
-{% endtab %}
-{% endtabs %}
 
 #### Bước 2: Đặt mã nhúng Subiz vào website
 
