@@ -25,8 +25,6 @@ Tại phần Mã nhúng Subiz, click nút Sao chép để thực hiện sao ché
 ọigaplsjgsla;jgsag
 {% endhint %}
 
-
-
 {% tabs %}
 {% tab title="ádfádfsa" %}
 gddf
