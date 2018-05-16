@@ -2,7 +2,9 @@
 
 Cửa sổ tương tác Subiz trên website của doanh nghiệp là nơi khách truy cập trò chuyện với tư vấn viên của doanh nghiệp. Không đơn giản là nơi bạn tương tác hỗ trợ khách hàng, mà còn là nơi bạn khẳng định thương hiệu, chất lượng dịch vụ và tiếng nói của doanh nghiệp.
 
-Để tùy chỉnh cửa sổ chat, bạn đăng nhập tài khoản Subiz &gt; Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Cửa sổ hội thoại
+Để tùy chỉnh cửa sổ chat, bạn đăng nhập tài khoản **Subiz &gt; Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Cửa sổ hội thoại**
+
+![Ch&#x1EC9;nh s&#x1EED;a c&#x1EED;a s&#x1ED5; chat Subiz](../../../.gitbook/assets/chinh-sua-cua-so-chat.png)
 
 Tại trang **Cửa sổ hội thoại**, bạn có thể thực hiện các cài đặt để tùy chỉnh cửa sổ phù hợp với nhu cầu:
 
