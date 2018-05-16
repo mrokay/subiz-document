@@ -27,7 +27,8 @@
   * [Triển khai hoạt động](bat-dau-voi-subiz/untitled.md)
   * [Làm việc trên Subiz](bat-dau-voi-subiz/lam-viec-tren-subiz.md)
 * Sử dụng Subiz nâng cao
-  * [Tăng tương tác](su-dung-subiz-nang-cao/tang-tuong-tac.md)
+  * [Tăng tương tác](su-dung-subiz-nang-cao/tang-tuong-tac/README.md)
+    * Tạo Automation
   * [Quản lý dữ liệu](su-dung-subiz-nang-cao/untitled/README.md)
     * Phân khúc khách hàng
     * Cập nhật và chỉnh sửa thông tin user
