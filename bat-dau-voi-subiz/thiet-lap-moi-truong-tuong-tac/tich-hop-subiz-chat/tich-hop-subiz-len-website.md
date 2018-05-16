@@ -45,7 +45,7 @@ Nếu hệ thống báo không tìm thấy cửa sổ Chat, bạn kiểm tra l�
 
 ### Tích hợp Subiz trên các nền tảng
 
-Nếu website của bạn được xây dựng trên các nền tảng khác, vui lòng xem hướng dẫn tích hợp cho từng nền tảng dưới đây:
+Khi website của bạn được xây dựng trên các nền tảng khác, vui lòng chọn nền tảng web và xem hướng dẫn tích hợp cho từng nền tảng dưới đây:
 
 {% tabs %}
 {% tab title="WordPress" %}
