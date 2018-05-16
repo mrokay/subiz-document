@@ -53,7 +53,7 @@ Khi website của bạn được xây dựng trên các nền tảng khác, vui 
 2. Tìm file **footer.php** bên cột bên phải và mở file này
 3. Nhán mã nhúng Subiz vào ngay trước thẻ &lt;/body&gt; trong file **footer.php**
 
-![](../../../.gitbook/assets/cai-subiz-wordpress.png)
+![C&#xE0;i m&#xE3; nh&#xFA;ng Subiz tr&#xEA;n WordPress](../../../.gitbook/assets/cai-subiz-wordpress.png)
 {% endtab %}
 
 {% tab title="Shopify" %}
@@ -61,7 +61,7 @@ Khi website của bạn được xây dựng trên các nền tảng khác, vui 
 2. Sau đó nhấn vào nút **Action** và chọn **Edit code**
 3. Tìm file **theme.liquid** tại menu bên trái và nhúng mã Subiz trước thẻ &lt;/body&gt;. Nhấn **Save**.
 
-![](../../../.gitbook/assets/spotify-1.gif)
+![C&#xE0;i m&#xE3; nh&#xFA;ng Subiz tr&#xEA;n Shopify](../../../.gitbook/assets/spotify-1.gif)
 {% endtab %}
 
 {% tab title="Wix" %}
