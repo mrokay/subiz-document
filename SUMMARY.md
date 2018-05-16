@@ -23,7 +23,7 @@
       * Cài đặt thông tin doanh nghiệp
     * FAQs
       * [Những vấn đề gặp phải khi đăng nhập Dashboard](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/faqs/untitled-1.md)
-      * Tôi không nhận được email của Subiz
+      * [Tôi không nhận được email của Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/faqs/toi-khong-nhan-duoc-email-cua-subiz.md)
   * [Triển khai hoạt động](bat-dau-voi-subiz/untitled/README.md)
     * Quản lý Agent
       * [Các loại Agent](bat-dau-voi-subiz/untitled/quan-ly-agent/cac-loai-agent.md)
