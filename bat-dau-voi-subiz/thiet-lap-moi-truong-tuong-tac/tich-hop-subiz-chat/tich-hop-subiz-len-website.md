@@ -61,18 +61,9 @@ Nếu website của bạn được xây dựng trên các nền tảng khác, vu
 {% endtab %}
 
 {% tab title="Wix" %}
-1. From your Dashboard, go to Manage & Edit Site
-2. Click **Edit Site** &gt; **Add button** &gt; **More** &gt; **HTML iframe**. Dragging the newly added **iframe** to the **footer** \(can adjust the position of the iframe\)
-3. Click **Add code**  and paste **embed code**. Click **Save**
-4. Ở màn hình Dashboard, chọn \*Manage & Edit Site\*
-
-   - Click \*Edit Site\* -&gt; \*Add\* button -&gt; \*More\* -&gt; \*HTML iframe\*
-
-   - Kéo phần iframe vừa được add xuống footer, có thể điều chỉnh vị trí của iframe
-
-   - Click \*Add code\* và chèn code widget của Subiz
-
-   - \*Save\*, sau đó preview để xem thử widget trên giao diện thực tế và điều chỉnh chiều cao và độ rộng của iframe nếu cần thiết \(edited\)
+1. Đăng nhập màn hình Dashboard của Win, chọn Manage & Edit Site
+2. Nhấn vào **Edit Site** &gt; **Add button** &gt; **More** &gt; **HTML iframe**. Kéo phần **iframe** vừa được chọn xuống dưới **footer** \(có thể điều chỉnh vị trí của iframe\)
+3. Nhần vào **Add code**  chèn code của Subiz. Nhấn **Save**
 {% endtab %}
 
 {% tab title="Magento" %}
