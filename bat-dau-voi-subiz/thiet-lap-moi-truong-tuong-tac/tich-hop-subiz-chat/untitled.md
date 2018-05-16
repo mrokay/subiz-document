@@ -29,17 +29,17 @@ Bạn có thể chọn vị trí cửa sổ chat xuất hiện trên website t�
 
 ### Chỉnh sửa **màu sắc**
 
+Bạn có thể tùy chỉnh màu sắc cho cửa sổ Subiz bằng cách chọn 1 trong các màu được gợi ý, hoặc tùy chỉnh màu riêng biệt của doanh nghiệp.
+
+![Ch&#x1ECD;n m&#xE0;u n&#x1EC1;n c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/mau-nen-cua-so-chat.png)
+
 {% hint style="info" %}
 Lưu ý, **cần chọn màu sắc cửa sổ chat tương đồng với màu sắc của thương hiệu,** nhưng cũng cần chọn màu sắc để dễ nhận biết trên website của bạn
 {% endhint %}
 
-Bạn có thể tùy chỉnh màu sắc cho cửa sổ Subiz bằng cách chọn 1 trong các màu được gợi ý, hoặc tùy chỉnh màu riêng biệt của doanh nghiệp.
 
-#### Chỉnh sửa theo màu sắc gợi ý từ Subiz
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/widgetcolour-1.png)
-
-#### Tùy chỉnh CSS để có màu sắc riêng biệt của doanh nghiệp
+#### 
 
 
 
