@@ -2,19 +2,17 @@
 
 Cửa sổ tương tác Subiz trên website của doanh nghiệp là nơi khách truy cập trò chuyện với tư vấn viên của doanh nghiệp. Không đơn giản là nơi bạn tương tác hỗ trợ khách hàng, mà còn là nơi bạn khẳng định thương hiệu, chất lượng dịch vụ và tiếng nói của doanh nghiệp.
 
+Bạn đăng nhập tài khoản Subiz &gt; 
+
 Tại trang **Cửa sổ hội thoại**, bạn có thể thực hiện các cài đặt để tùy chỉnh cửa sổ phù hợp với nhu cầu:
 
 ### Chọn l**oại cửa sổ**
 
-
-
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/widgettype-1.png)
-
-Ngoài ra bạn có thể tùy chỉnh CSS để điều chỉnh chiều cao và chiều rộng phù hợp với yêu cầu của bạn
+Subiz đã tạo sẵn 2 dạng kích thước thu gọn hoặc mở rộng cho cửa sổ chat trên website của bạn. Ngoài ra bạn có thể tùy chỉnh CSS để điều chỉnh chiều cao và chiều rộng phù hợp với yêu cầu của bạn
 
 {% tabs %}
 {% tab title="Chọn loại cửa sổ có sẵn" %}
-Subiz đã tạo sẵn 2 dạng kích thước **thu gọn** hoặc **mở rộng** cho cửa sổ chat trên website của bạn. 
+Bạn có thể chọn một trong 2 dạng kích thước **thu gọn** hoặc **mở rộng** cho cửa sổ chat trên website của bạn. 
 
 * **Thu gọn:** Kích thước tiêu chuẩn
 * **Mở rộng:** Chiều dài cửa sổ toàn màn hình, giúp khách hàng dễ theo dõi cuộc chat với bạn
@@ -22,7 +20,7 @@ Subiz đã tạo sẵn 2 dạng kích thước **thu gọn** hoặc **mở rộn
 ![Ch&#x1ECD;n ki&#x1EC3;u c&#x1EED;a s&#x1ED5; c&#xF3; s&#x1EB5;n Thu g&#x1ECD;n ho&#x1EB7;c M&#x1EDF; r&#x1ED9;ng](../../../.gitbook/assets/loai-cua-so.png)
 {% endtab %}
 
-{% tab title="Chiều cao" %}
+{% tab title="Tùy chỉnh chiều cao" %}
 ```text
  height: 800px !important;
  max-height: 900px !important;
