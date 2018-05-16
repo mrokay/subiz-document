@@ -95,5 +95,7 @@ Bạn chỉ cần thực hiện theo lựa chọn này nếu các tệp mẫu đ
 {% endtab %}
 {% endtabs %}
 
+{% hint style="danger" %}
 Nếu bạn đang dùng nền tảng **không** có trong danh sách này, hãy liên lạc ngay cho Subiz để được trợ giúp.
+{% endhint %}
 
