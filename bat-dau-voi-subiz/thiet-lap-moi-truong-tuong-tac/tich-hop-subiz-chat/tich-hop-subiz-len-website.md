@@ -47,8 +47,6 @@ Nếu hệ thống báo không tìm thấy cửa sổ Chat, bạn kiểm tra l�
 
 If your website is built on other platforms,  find installation guide in the list below  and enable the integration in your website’s control panel.
 
-If your website platform is not listed below, please contact us for better assistance.
-
 {% tabs %}
 {% tab title="WordPress" %}
 1. Open **WordPress Admin Panel** &gt; **Appearance** &gt; **Editor**
@@ -90,4 +88,6 @@ You only need to do this option if the template files described in the option 1 
 3. Paste Subiz embed code right before &lt;/body&gt; tag &gt; Finish 
 {% endtab %}
 {% endtabs %}
+
+If your website platform is not listed above, please contact us for better assistance.
 
