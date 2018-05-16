@@ -3,7 +3,7 @@
 * [Trang Home](README.md)
 * [Tổng quan Subiz](page-2/README.md)
   * Giới thiệu Subiz
-    * Subiz là gì?
+    * [Subiz là gì?](page-2/gioi-thieu-subiz/subiz-la-gi.md)
     * Subiz hoạt động như thế nào?
   * Khám phá các gói và tính năng
     * Khám phá các kênh trong Subiz

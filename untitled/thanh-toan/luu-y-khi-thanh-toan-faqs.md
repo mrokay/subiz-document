@@ -8,7 +8,7 @@ Nếu có bất kỳ câu hỏi nào liên quan đến hóa đơn phát sinh và
 
 ##  Tại sao thanh toán thẻ không thành công? 
 
-### Tại sao thẻ tín dụng của tôi bị từ chối? {#taisaothebituchoi}
+#### Tại sao thẻ tín dụng của tôi bị từ chối?
 
 Trong quá trình thực hiện thanh toán qua thẻ tín dụng, thông báo lỗi “thẻ bị từ chối” xảy ra có thể do nhiều nguyên nhân.
 
@@ -22,13 +22,13 @@ Ngay cả khi, bạn đã chắc chắn tất cả thông tin thẻ đều đư�
 
 Một trong những lý do để các ngân hàng thắt chặt hơn phần thanh toán này có liên quan đến rủi ro về thanh toán gian lận \(đối với từng ngân hàng\).
 
-### Lý do chính xác cho việc “Thẻ bị từ chối”? {#lydotuchoithe}
+#### Lý do chính xác cho việc “Thẻ bị từ chối”?
 
 Hầu hết các thông tin mà ngân hàng đưa ra đều rất chung, vì vậy, chúng tôi không thể cung cấp nguyên nhân chính xác về việc tại sao thẻ của bạn bị từ chối.
 
 Nếu tất cả các thông tin bạn điền là chính xác, bạn có thể liên hệ trực tiếp tới ngân hàng phát hành thẻ để biết được lý do cụ thể và yêu cầu các khoản thanh toán tương tự trong tương lai sẽ được chấp thuận mà không cần sự liên lạc trực tiếp từ bạn.
 
-### Các phương án thay thế {#phuonganthaythethe}
+#### Các phương án thay thế
 
 Để hoàn tất thanh toán nâng cấp, bạn có thể lựa chọn một trong các phương án sau:
 
@@ -52,37 +52,17 @@ Nếu tất cả các thông tin bạn điền là chính xác, bạn có thể 
 
 Hóa đơn được yêu cầu thực hiện trong vòng **30 ngày** kể từ ngày doanh nghiệp hoàn tất nghĩa vụ thanh toán. Subiz không có trách nhiệm xuất hóa đơn bù nếu quá thời gian quy định. Chính sách này được áp dụng với tất cả khách hàng của Subiz.
 
-##  Quản lý hóa đơn 
-
-Tại thời điểm bắt đầu chu kỳ kế tiếp, hệ thống sẽ tự động gia hạn dịch vụ đồng thời hóa đơn gia hạn sẽ phát sinh tương ứng.
-
-Để kiểm soát thông tin tốt nhất, Subiz sẽ gửi thông báo về việc gia hạn tài khoản qua các phương thức: Email tới người phụ trách tài khoản; Hiển thị thông báo trên trang quản lý Dashboard; Hiển thị thông báo tại phần Thông báo mới.
-
-![](https://docs.subiz.com/wp-content/uploads/2016/01/overdue-invoice-1024x284.png)
-
-Khi nhận được thông báo, bạn có thể kiểm tra hóa đơn trực tiếp tại [trang thanh toán](https://dashboard.subiz.com/subscription/index) như hình minh họa:  
-![b4\_Them-agent\_thanh-toan](https://docs.subiz.com/wp-content/uploads/2015/10/b4_Them-agent_thanh-toan.png)
-
-* * Nếu tài khoản của bạn được thiết lập gọi thanh toán tự động qua thẻ tín dụng, hệ thống sẽ tự động gọi thanh toán trong vòng 24h tính từ thời điểm hóa đơn phát sinh. Xem thêm [Bật/Tắt gia hạn tự động với thẻ tín dụng.](https://docs.subiz.com/quan-ly-thong-tin-goi-dich-vu/#tudonggiahan) Trong trường hợp thẻ lỗi, bạn cần kích hoạt lại thẻ thanh toán. Xem hướng dẫn [tại đây](https://docs.subiz.com/quan-ly-thong-tin-goi-dich-vu/#thaydoiphuongthucthanhtoan).
-  * Nếu tài khoản của bạn sử dụng hình thức thanh toán chuyển khoản, trong vòng 07 ngày hệ thống sẽ gửi thông báo nhắc qua email về việc đề nghị thanh toán gia hạn tài khoản.
-
-**Lưu ý**: Hóa đơn phát sinh cần được thanh toán hoàn tất trong vòng 07 ngày, tính cả ngày nghỉ.  
-Trường hợp bạn có kế hoạch thanh toán chậm, hãy phản hồi cho Subiz.
-
-* Nếu bạn muốn thực hiện thanh toán gia hạn trước khi phát sinh hóa đơn, vui lòng gửi email tới [billing@subiz.com](mailto:billing@subiz.com) để được hỗ trợ.
-* Trường hợp bạn đã thực hiện thanh toán nhưng hệ thống vẫn hiển thị thông báo hóa đơn quá hạn, [xem thêm](https://docs.subiz.com/thong-bao-tai-khoan-co-hoa-don-qua-han/).
-
 ##  Chính sách hoàn tiền 
 
-### Thời gian dùng thử
+#### Thời gian dùng thử
 
 Sau khi đăng ký tài khoản mới, bạn sẽ được sử dụng toàn bộ tính năng của Subiz gói trả phí Cơ bản trong vòng 30 ngày để có thể trải nghiệm trước khi quyết định nâng cấp tài khoản. Bạn sẽ không mất bất kỳ chi phí nào trong thời gian dùng thử này.
 
-### Tài khoản trả phí
+#### Tài khoản trả phí
 
 Khi bạn quyết định nâng cấp tài khoản, bạn cần xác định số agent \(hỗ trợ viên\), chu kỳ thanh toán và loại gói dịch vụ. Thanh toán sẽ được hoàn tất vào đầu chu kỳ sử dụng. Chúng tôi không có chính sách hoàn thanh toán – đây là chính sách đối với tất cả khách hàng – và bạn sẽ chịu trách nhiệm về toàn bộ các lần thanh toán của tài khoản bạn sở hữu.
 
-### Hủy tài khoản
+#### Hủy tài khoản
 
 Bạn có thể hủy tài khoản bất kỳ lúc nào ngay tại [trang quản lý tài khoản](https://dashboard.subiz.com/subscription/index).  
 Sau khi hủy, tài khoản của bạn sẽ ngừng ngay lập tức. Thanh toán trước đó của bạn sẽ bị mất và không được hoàn lại.
