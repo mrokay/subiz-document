@@ -31,7 +31,7 @@
     * Tạo Automation
   * [Quản lý dữ liệu](su-dung-subiz-nang-cao/untitled/README.md)
     * [Phân khúc khách hàng](su-dung-subiz-nang-cao/untitled/phan-khuc-khach-hang.md)
-    * Cập nhật và chỉnh sửa thông tin user
+    * [Cập nhật và chỉnh sửa thông tin user](su-dung-subiz-nang-cao/untitled/cap-nhat-va-chinh-sua-thong-tin-user.md)
     * Quan sát khách truy cập
     * [Làm thế nào để chặn một User](su-dung-subiz-nang-cao/untitled/lam-the-nao-de-chan-mot-user.md)
   * Nâng cao trải nghiệm khách hàng
