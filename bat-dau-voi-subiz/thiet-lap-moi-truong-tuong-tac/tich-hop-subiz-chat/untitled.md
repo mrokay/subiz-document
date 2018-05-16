@@ -6,8 +6,6 @@ Không đơn giản là nơi tương tác với khách hàng, mà còn là nơi 
 
 Tại trang **Cửa sổ hội thoại**, bạn có thể thực hiện các cài đặt để tùy chỉnh cửa sổ phù hợp với nhu cầu:
 
-​[Loại cửa sổ](https://docv4.subiz.com/cai-dat-cua-so-subiz/#widgettype) [Vị trí cửa sổ](https://docv4.subiz.com/cai-dat-cua-so-subiz/#widgetposition) [Màu sắc cửa sổ](https://docv4.subiz.com/cai-dat-cua-so-subiz/#widgetcolour) [Tùy chỉnh bubble](https://docv4.subiz.com/cai-dat-cua-so-subiz/#widgetbubble) [Ngôn ngữ cửa sổ](https://docv4.subiz.com/cai-dat-cua-so-subiz/#widgetlanguage) [Tùy chỉnh css](https://docv4.subiz.com/cai-dat-cua-so-subiz/#csscustomize) [Cài đặt whitelist](https://docv4.subiz.com/cai-dat-cua-so-subiz/#whitelist)​
-
 ### **1. Loại cửa sổ**
 
 **Cửa sổ có 2 dạng kích thước thu gọn hoặc mở rộng tùy thuộc vào cài đặt của bạn.** Chọn dạng cửa sổ muốn hiển thị:
