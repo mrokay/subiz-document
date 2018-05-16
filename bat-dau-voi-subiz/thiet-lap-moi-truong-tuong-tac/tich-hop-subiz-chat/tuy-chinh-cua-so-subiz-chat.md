@@ -32,9 +32,7 @@ Phần **600**px bạn có thể điều chỉnh con số cho phù hợp với w
 | --- |
 
 
-Phần **800**px bạn có thể điều chỉnh con số cho phù hợp với website.
-
-![](../../../.gitbook/assets/css-chieu-cao.png)
+Phần **800**px bạn có thể điều chỉnh con số cho phù hợp với website.![](https://docv4.subiz.com/wp-content/uploads/2018/05/css-chieu-cao.png)
 
 #### Tùy chỉnh cỡ chữ {#tuy-chinh-co-chu}
 
