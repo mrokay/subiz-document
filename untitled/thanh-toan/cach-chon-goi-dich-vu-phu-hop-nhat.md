@@ -1,6 +1,6 @@
 # Cách chọn gói dịch vụ phù hợp nhất?
 
-Lựa chọn gói dịch vụ phù hợp nhất?
+## Lựa chọn gói dịch vụ phù hợp nhất?
 
 Subiz cung cấp 02 loại gói, bạn có thể lựa chọn: Gói Cơ bản \(Standard\) và Gói Nâng cao \(Advanced\).
 
@@ -12,7 +12,7 @@ Nếu doanh nghiệp vừa và nhỏ, lượng tương tác tại một thời �
 
 Tổng lượng chat trong ngày không hề bị giới hạn, bạn có thể tăng số lượng agent tương ứng để đáp ứng tốt nhất số lượng yêu cầu chat nhận được từ khách hàng.
 
-* **Với gói Nâng cao**, điểm mạnh là số lượng Rule sẽ không bị giới hạn. Điều này phục vụ cho những doanh nghiệp có số lượng website tích hợp lớn, cần sử dụng nhiều thiết lập hội thoại cho những nhóm đối tượng khác nhau, hoặc sử dụng nhiều Rule chuyên sâu theo thời gian, ngày tháng, ngôn ngữ.... Ngoài ra, doanh nghiệp cũng có thể thiết lập tối đa 20 Segment \(Phân khúc khách hàng\) nhằm phân loại Khách hàng tiềm năng và đưa ra kế hoạch chăm sóc Khách hàng phù hợp.
+* **Với gói Nâng cao**, điểm mạnh là số lượng Rule sẽ không bị giới hạn. Điều này phục vụ cho những doanh nghiệp có số lượng website tích hợp lớn, cần sử dụng nhiều thiết lập hội thoại cho những nhóm đối tượng khác nhau, hoặc sử dụng nhiều Rule chuyên sâu theo thời gian, ngày tháng, ngôn ngữ.... Ngoài ra, doanh nghiệp cũng có thể thiết lập tối đa 20 Segment \(Phân khúc khách hàng\) nhằm phân loại Khách hàng tiềm năng và đưa ra kế hoạch chăm sóc Khách hàng, Marketing.. phù hợp.
 
 Nằm trong kế hoạch triển khai, phần thống kê báo cáo của gói Nâng cao hứa hẹn cung cấp một cơ sở dữ liệu với những phân tích chuyên sâu dành cho khách hàng doanh nghiệp.
 

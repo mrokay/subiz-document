@@ -10,7 +10,7 @@ Tại trang **Cửa sổ hội thoại**, bạn có thể thực hiện các tù
 
 ### Chọn l**oại cửa sổ**
 
-Subiz đã tạo sẵn 2 dạng kích thước thu gọn hoặc mở rộng cho cửa sổ chat trên website của bạn. Bạn hãy chọn cho website của mình kiểu dáng bạn thích
+Subiz đã tạo sẵn 2 dạng kích thước **thu gọn** hoặc **mở rộng** cho cửa sổ chat trên website của bạn. Bạn hãy chọn cho website của mình kiểu dáng bạn thích:
 
 * **Thu gọn:** Kích thước tiêu chuẩn
 * **Mở rộng:** Chiều dài cửa sổ toàn màn hình, giúp khách hàng dễ theo dõi cuộc chat với bạn
@@ -21,7 +21,7 @@ Subiz đã tạo sẵn 2 dạng kích thước thu gọn hoặc mở rộng cho 
 
 Bạn có thể chọn vị trí cửa sổ chat xuất hiện trên website tại **Góc trái** hoặc **Góc phải**
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/widgetposition-1.png)
+![V&#x1ECB; tr&#xED; c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/vi-tri-cua-so-chat.png)
 
 {% hint style="info" %}
 **Vị trị đặt cửa sổ Subiz cần phù hợp với thiết kế của website, sao cho dễ nhận biết, không đè lên các thiết kế hay ứng dụng khác của website.** Hiện tại, một tỷ lệ lớn các doanh nghiệp đặt cửa sổ Subiz tại góc bên phải.
