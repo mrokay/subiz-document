@@ -41,7 +41,9 @@ Nếu bạn vẫn không thấy cửa sổ Subiz Chat, bạn có thể kiểm tr
 
 ![Ki&#x1EC3;m tra xem m&#xE3; nh&#xFA;ng Subiz tr&#xEA;n website c&#x1EE7;a b&#x1EA1;n](../../../.gitbook/assets/kiem-tra-cai-ma-nhung.png)
 
+{% hint style="info" %}
 Nếu hệ thống báo không tìm thấy cửa sổ Chat, bạn kiểm tra lại mã nhúng Subiz trên website hoặc liên hệ với Subiz để được hỗ trợ.
+{% endhint %}
 
 ### Tích hợp Subiz trên các nền tảng
 
