@@ -6,16 +6,22 @@ Tại trang **Cửa sổ hội thoại**, bạn có thể thực hiện các cà
 
 ### Chọn l**oại cửa sổ**
 
-Subiz đã tạo sẵn 2 dạng kích thước **thu gọn** hoặc **mở rộng** cho cửa sổ chat trên website của bạn. 
 
-* **Thu gọn:** Kích thước tiêu chuẩn
-* **Mở rộng:** Chiều dài cửa sổ toàn màn hình, giúp khách hàng dễ theo dõi cuộc chat với bạn
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/02/widgettype-1.png)
 
 Ngoài ra bạn có thể tùy chỉnh CSS để điều chỉnh chiều cao và chiều rộng phù hợp với yêu cầu của bạn
 
 {% tabs %}
+{% tab title="Chọn loại cửa sổ có sẵn" %}
+Subiz đã tạo sẵn 2 dạng kích thước **thu gọn** hoặc **mở rộng** cho cửa sổ chat trên website của bạn. 
+
+* **Thu gọn:** Kích thước tiêu chuẩn
+* **Mở rộng:** Chiều dài cửa sổ toàn màn hình, giúp khách hàng dễ theo dõi cuộc chat với bạn
+
+![Ch&#x1ECD;n ki&#x1EC3;u c&#x1EED;a s&#x1ED5; c&#xF3; s&#x1EB5;n Thu g&#x1ECD;n ho&#x1EB7;c M&#x1EDF; r&#x1ED9;ng](../../../.gitbook/assets/loai-cua-so.png)
+{% endtab %}
+
 {% tab title="Chiều cao" %}
 ```text
  height: 800px !important;
