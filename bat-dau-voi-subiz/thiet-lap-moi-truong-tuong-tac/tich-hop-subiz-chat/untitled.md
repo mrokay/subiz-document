@@ -68,13 +68,7 @@ Hãy chỉnh sửa lời chào, lời giới thiệu theo đúng bản sắc vă
 **Nếu bạn muốn sử dụng một ngôn ngữ chưa được hỗ trợ**, hoặc muốn tùy chỉnh thêm các phần ngôn ngữ khác, bạn có thể tùy chỉnh ngôn ngữ bằng cách tải lên file ngôn ngữ dạng po \([hướng dẫn chi tiết tùy chỉnh ngôn ngữ qua file .Po](https://docv4.subiz.com/tuy-chinh-ngon-ngu-cua-so-subiz-qua-file-po/)\)
 {% endhint %}
 
-### **6. Tùy chỉnh CSS**
-
-CSS là viết tắt của “Cascading Style Sheet”, nếu có kiến thức về HTML, bạn có thể sáng tạo một cửa sổ riêng bằng cách nhập các đoạn CSS tại phần **Tùy chỉnh CSS**.![](https://docv4.subiz.com/wp-content/uploads/2018/02/csscustomize.png)
-
-Chọn **Lưu thay đổi** để lưu tùy chỉnh. Chọn **Đưa về ban đầu** để trở về cửa sổ mặc định ban đầu.
-
-### **7. Cài đặt Whitelist domain**
+### **Cài đặt Whitelist domain**
 
 **Whitelist domain** là danh sách các tên miền mà bạn cho phép hiển thị cửa sổ Subiz trên trang đó. Các trang ngoài danh sách whitelist sẽ không thể hiển thị cửa sổ Subiz sau khi đặt mã nhúng.
 
@@ -84,7 +78,9 @@ Khi danh sách whitelist domain trống, mặc định cửa sổ sẽ hiển th
 
 Cài đặt whitelist domain giúp bạn kiểm soát các trang hiển thị cửa sổ Subiz, tránh trường hợp mã nhúng bị đặt trên các trang bạn không mong muốn.
 
-Thực hiện cài đặt tại phần **Quản lý Whitelist Domain**.![](http://docv4.subiz.com/wp-content/uploads/2018/02/whitelist-domain-manage.png)
+Thực hiện cài đặt tại phần **Quản lý Whitelist Domain**.
+
+![](http://docv4.subiz.com/wp-content/uploads/2018/02/whitelist-domain-manage.png)
 
 Tại trang Whitelist Domain, click chọn Thêm Whitelist Domain mới.![](http://docv4.subiz.com/wp-content/uploads/2018/02/whitelist-domain-page.png)
 
