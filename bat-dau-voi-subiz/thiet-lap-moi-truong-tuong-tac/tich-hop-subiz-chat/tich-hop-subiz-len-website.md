@@ -45,25 +45,34 @@ Nếu hệ thống báo không tìm thấy cửa sổ Chat, bạn kiểm tra l�
 
 ### Tích hợp Subiz trên các nền tảng
 
-If your website is built on other platforms,  find installation guide in the list below  and enable the integration in your website’s control panel.
+Nếu website của bạn được xây dựng trên các nền tảng khác, vui lòng xem hướng dẫn tích hợp cho từng nền tảng dưới đây:
 
 {% tabs %}
 {% tab title="WordPress" %}
-1. Open **WordPress Admin Panel** &gt; **Appearance** &gt; **Editor**
-2. Go to **footer.php** file in the right column &gt; Open it
-3. Paste  Subiz widget code into **footer.php** \(Right before &lt;/body&gt; tag\)
+1. Mở **WordPress Admin Panel** &gt; **Appearance** &gt; **Editor**
+2. Tìm file **footer.php** bên cột bên phải và mở file này
+3. Nhán mã nhúng Subiz vào ngay trước thẻ &lt;/body&gt; trong file **footer.php**
 {% endtab %}
 
 {% tab title="Shopify" %}
-1. From your Shopify, go to **Online Store** &gt; **Themes**.
-2. Find the theme you want to edit and click the **Actions** button for the theme. Select **Edit code**
-3. Find theme **.liquid** file on the side menu. Embed Subiz widget code before the &lt;/body&gt; tag. Click **Save**.
+1. Đăng nhập tài khoản Shopify, tìm đến **Online Store** &gt; **Themes**.
+2. Sau đó nhấn vào nút **Action** và chọn **Edit code**
+3. Tìm file **theme.liquid** tại menu bên trái và nhúng mã Subiz trước thẻ &lt;/body&gt;. Nhấn **Save**.
 {% endtab %}
 
 {% tab title="Wix" %}
 1. From your Dashboard, go to Manage & Edit Site
 2. Click **Edit Site** &gt; **Add button** &gt; **More** &gt; **HTML iframe**. Dragging the newly added **iframe** to the **footer** \(can adjust the position of the iframe\)
 3. Click **Add code**  and paste **embed code**. Click **Save**
+4. Ở màn hình Dashboard, chọn \*Manage & Edit Site\*
+
+   - Click \*Edit Site\* -&gt; \*Add\* button -&gt; \*More\* -&gt; \*HTML iframe\*
+
+   - Kéo phần iframe vừa được add xuống footer, có thể điều chỉnh vị trí của iframe
+
+   - Click \*Add code\* và chèn code widget của Subiz
+
+   - \*Save\*, sau đó preview để xem thử widget trên giao diện thực tế và điều chỉnh chiều cao và độ rộng của iframe nếu cần thiết \(edited\)
 {% endtab %}
 
 {% tab title="Magento" %}
@@ -89,5 +98,5 @@ You only need to do this option if the template files described in the option 1 
 {% endtab %}
 {% endtabs %}
 
-If your website platform is not listed above, please contact us for better assistance.
+Nếu bạn đang dùng nền tảng **không** có trong danh sách này, hãy liên lạc ngay cho Subiz để được trợ giúp.
 
