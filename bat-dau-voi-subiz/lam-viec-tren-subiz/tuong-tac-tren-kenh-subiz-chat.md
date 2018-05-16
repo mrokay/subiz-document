@@ -17,11 +17,16 @@ Khi truy cập website của bạn, khách hàng sẽ gửi tin nhắn yêu cầ
 
 ![Kh&#xE1;ch h&#xE0;ng nh&#x1EAF;n tin tr&#xEA;n c&#x1EED;a s&#x1ED5; chat Subiz](../../.gitbook/assets/cua-so-chat-tren-website.jpg)
 
-Để xem được tin nhắn từ khách hàng, bạn vào mục **HÀNH ĐỘNG**&gt; chọn **Khách hàng** &gt; chọn tương tác chưa đọc trong **LIST ACTIVITIES** &gt; **Cửa sổ chat** mở và trả lời tại đây.
+_Để xem được tin nhắn từ khách hàng, bạn thao tác như sau:_
+
+1. _Vào mục **HÀNH ĐỘNG**_
+2. _Chọn **Khách hàng**_ 
+3. _Chọn tương tác chưa đọc trong **LIST ACTIVITIES**_ 
+4. _**Cửa sổ chat** mở và trả lời tại đây._
 
 ![Xem n&#x1ED9;i dung tin nh&#x1EAF;n kh&#xE1;ch h&#xE0;ng g&#x1EED;i](../../.gitbook/assets/chat-1.jpg)
 
- _**Lưu ý**_: Nếu bạn không nhận được tin nhắn từ khách hàng, hãy xem lại cài đặt [tính năng RULE](https://docv4.subiz.com/tao-rule-moi/) tự động phân phối cuộc hội thoại cho bạn \(Agent\) hay chưa?
+ 
 
 Subiz sẽ thông báo âm thanh và thông báo màn hình khi có tin nhắn mới của khách hàng.
 
@@ -36,7 +41,13 @@ Nếu khách hàng không chủ động tương tác trước, thì bạn cần 
 
 ![Quan s&#xE1;t kh&#xE1;ch truy c&#x1EAD;p website](../../.gitbook/assets/khach-truy-cap.jpg)
 
- Để chủ động tương tác với khách truy cập website, bạn vào mục **KHÁCH** &gt; chọn **Khách hàng** &gt; chọn **Tạo hội thoại mới** &gt; chọn **Subiz Chat** &gt; **Cửa sổ chat mở** và bạn gửi tin nhắn tại đây.
+ _Để tạo cuộc hội thoại với khách truy cập website, bạn vào thao tác như sau:_
+
+1. _Vào mục **KHÁCH**_ 
+2. _Chọn **Khách hàng**_ 
+3. _Chọn **Tạo hội thoại mới**_ 
+4. _Chọn **Subiz Chat**_
+5.  _**Cửa sổ chat mở** và bạn gửi tin nhắn tại đây._
 
 ![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i v&#x1EDB;i kh&#xE1;ch truy c&#x1EAD;p](../../.gitbook/assets/chat-2.jpg)
 
@@ -44,29 +55,23 @@ Nếu khách hàng không chủ động tương tác trước, thì bạn cần 
 {% endtab %}
 {% endtabs %}
 
-![Kh&#xE1;ch h&#xE0;ng nh&#x1EAF;n tin tr&#xEA;n c&#x1EED;a s&#x1ED5; chat Subiz](../../.gitbook/assets/cua-so-chat-tren-website.jpg)
-
-Để xem được tin nhắn từ khách hàng, bạn vào mục **HÀNH ĐỘNG**&gt; chọn **Khách hàng** &gt; chọn tương tác chưa đọc trong **LIST ACTIVITIES** &gt; **Cửa sổ chat** mở và trả lời tại đây.
-
-![Xem n&#x1ED9;i dung tin nh&#x1EAF;n kh&#xE1;ch h&#xE0;ng g&#x1EED;i](../../.gitbook/assets/chat-1.jpg)
-
- _**Lưu ý**_: Nếu bạn không nhận được tin nhắn từ khách hàng, hãy xem lại cài đặt [tính năng RULE](https://docv4.subiz.com/tao-rule-moi/) tự động phân phối cuộc hội thoại cho bạn \(Agent\) hay chưa?
-
-Subiz sẽ thông báo âm thanh và thông báo màn hình khi có tin nhắn mới của khách hàng.
-
-![Subiz th&#xF4;ng b&#xE1;o m&#xE0;n h&#xEC;nh](https://docv4.subiz.com/wp-content/uploads/2018/02/thong-bao-tin-nhan-moi.png)
-
-_**Lưu ý**_: Khi không nhận được thông báo, hãy kiểm tra lại máy tính của bạn, thiết lập trình duyệt cho phép Subiz thông báo âm thanh và màn hình.
-
 ### Thêm Agent vào cuộc hội thoại 
 
  Khi bạn đang trò chuyện cùng khách hàng, bạn có thể Mời thêm Agent tham gia cuộc hội thoại và cùng hỗ trợ khách hàng.
 
-Thao tác: Chọn nút  **"Add Agent"**  &gt; chọn **Agent** &gt; chọn **Thêm**
+_Hướng dẫn thêm Agent:_ 
+
+1. _Chọn nút  **"Add Agent"**_ 
+2. _Chọn **Agent**_ 
+3. _Chọn **Thêm**_
+
+ 
 
 ![Th&#xEA;m Agent tham gia h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/3.-them-agent.jpg)
 
- _**Lưu ý**_: Chỉ Agent được phân phối cuộc hội thoại mới có quyền thêm Agent khác.
+{% hint style="info" %}
+_**Lưu ý**_: Chỉ Agent được phân phối cuộc hội thoại mới có quyền thêm Agent khác.
+{% endhint %}
 
 ### Gắn Tag
 
@@ -134,5 +139,5 @@ Tại vùng nhập tin nhắn, bạn có thể lựa chọn gửi kèm biểu t�
 
 + Với kênh Messenger, tin nhắn không hiển thị cho Agent. Nhưng tin nhắn vẫn tồn tại và hiển thị nếu bạn đăng nhập Fanpage.
 
-## Tương tác qua kênh Email
+## 
 

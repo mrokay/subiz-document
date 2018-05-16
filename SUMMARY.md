@@ -36,6 +36,7 @@
       * [Quản lý danh sách Rule](bat-dau-voi-subiz/untitled/untitled/quan-ly-danh-sach-rule.md)
   * [Làm việc trên Subiz](bat-dau-voi-subiz/lam-viec-tren-subiz/README.md)
     * [Tương tác trên kênh Subiz chat](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-tren-kenh-subiz-chat.md)
+    * Tương tác qua kênh Email
 * Sử dụng Subiz nâng cao
   * [Tăng tương tác](su-dung-subiz-nang-cao/tang-tuong-tac/README.md)
     * [Tạo Automation](su-dung-subiz-nang-cao/tang-tuong-tac/tao-automation.md)

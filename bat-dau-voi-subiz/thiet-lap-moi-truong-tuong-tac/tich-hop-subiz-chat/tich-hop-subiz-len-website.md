@@ -14,8 +14,7 @@ Tích hợp Subiz vào website bằng việc copy đoạn mã nhúng Subiz \(kh�
 
 1. [Đăng nhập tài khoản Subiz](http://app.subiz.com/)
 2. Vào phần **Cài đặt &gt; Tài khoản &gt; Tích hợp**
-
-Tại phần Mã nhúng Subiz, click nút Sao chép để thực hiện sao chép nhanh đoạn mã nhúng.
+3. Tại phần Mã nhúng Subiz, click nút Sao chép để thực hiện sao chép nhanh đoạn mã nhúng.
 
 ![Sao ch&#xE9;p m&#xE3; nh&#xFA;ng Subiz](../../../.gitbook/assets/copy-embed-code.png)
 
