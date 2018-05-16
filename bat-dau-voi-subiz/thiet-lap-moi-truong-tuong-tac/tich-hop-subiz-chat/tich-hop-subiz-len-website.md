@@ -19,7 +19,7 @@ Tại phần Mã nhúng Subiz, click nút Sao chép để thực hiện sao ché
 
 ![Sao ch&#xE9;p m&#xE3; nh&#xFA;ng Subiz](../../../.gitbook/assets/copy-embed-code.png)
 
-{% hint style="info" %}
+{% hint style="danger" %}
 **Lưu ý:** Mỗi Tài khoản Subiz có một mã nhúng khác nhau, vì thế khi thay đổi Tài khoản Subiz, bạn đồng thời phải tích hợp lại mã nhúng.
 {% endhint %}
 
