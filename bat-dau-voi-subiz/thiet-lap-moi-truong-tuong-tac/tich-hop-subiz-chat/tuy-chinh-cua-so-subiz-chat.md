@@ -1,6 +1,6 @@
 # Tùy chỉnh cửa sổ Subiz chat
 
-## CÁCH TÙY CHỈNH CSS CHO CỬA SỔ SUBIZ CHAT
+### CÁCH TÙY CHỈNH CSS CHO CỬA SỔ SUBIZ CHAT
 
 Bên cạnh việc sử dụng những cài đặt cửa sổ chat trên website mà Subiz đã cung cấp. Bạn có thể dễ dàng tùy chỉnh những thành phần khác trên cửa sổ chat bằng cách sử dụng mã CSS.
 
@@ -134,7 +134,7 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/05/Css-tao-moi.png)
 
-## TÙY CHỈNH NGÔN NGỮ CỬA SỔ SUBIZ CHAT QUA FILE .PO
+### Tùy chỉnh ngôn ngữ cửa sổ Subiz chat qua file .Po
 
 Hiện tại, Subiz hỗ trợ 2 ngôn ngữ là Tiếng Việt và Tiếng Anh. Trên cửa sổ Subiz, bạn có thể tùy chỉnh tiêu đề cửa sổ và lời giới thiệu theo từng ngôn ngữ.
 
