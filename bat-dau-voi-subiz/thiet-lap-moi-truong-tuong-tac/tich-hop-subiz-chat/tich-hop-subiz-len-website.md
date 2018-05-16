@@ -60,6 +60,8 @@ Khi website của bạn được xây dựng trên các nền tảng khác, vui 
 1. Đăng nhập tài khoản Shopify, tìm đến **Online Store** &gt; **Themes**.
 2. Sau đó nhấn vào nút **Action** và chọn **Edit code**
 3. Tìm file **theme.liquid** tại menu bên trái và nhúng mã Subiz trước thẻ &lt;/body&gt;. Nhấn **Save**.
+
+![](../../../.gitbook/assets/spotify-1.gif)
 {% endtab %}
 
 {% tab title="Wix" %}
