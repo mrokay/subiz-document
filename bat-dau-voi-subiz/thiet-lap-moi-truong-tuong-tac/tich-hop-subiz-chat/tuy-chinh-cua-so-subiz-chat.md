@@ -53,13 +53,13 @@ Phần **600**px bạn có thể điều chỉnh con số cho phù hợp với w
 
 #### Tùy chỉnh cỡ chữ {#tuy-chinh-co-chu}
 
-| 123 | .message-content{ font-size:20px;} |
-| --- |
+Đoạn mã tùy chỉnh cỡ chữ trên cửa sổ chat Subiz
 
+```text
+.message-content{ font-size:20px;}
+```
 
-Phần **20**px bạn có thể điều chỉnh con số cho phù hợp với website.![](https://docv4.subiz.com/wp-content/uploads/2018/05/Css-Size-font-1.png)
-
-### ​ {#undefined-1}
+![](../../../.gitbook/assets/css-size-font.png)
 
 #### Tùy chỉnh màu sắc toàn bộ cửa sổ chat {#tuy-chinh-mau-sac-toan-bo-cua-so-chat}
 
