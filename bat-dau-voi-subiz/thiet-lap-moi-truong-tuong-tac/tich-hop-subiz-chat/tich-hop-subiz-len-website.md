@@ -17,13 +17,11 @@ Tích hợp Subiz vào website bằng việc copy đoạn mã nhúng Subiz \(kh�
 
 Tại phần Mã nhúng Subiz, click nút Sao chép để thực hiện sao chép nhanh đoạn mã nhúng.
 
-![](../../../.gitbook/assets/copy-embed-code.png)
+![Sao ch&#xE9;p m&#xE3; nh&#xFA;ng Subiz](../../../.gitbook/assets/copy-embed-code.png)
 
 {% hint style="info" %}
 **Lưu ý:** Mỗi Tài khoản Subiz có một mã nhúng khác nhau, vì thế khi thay đổi Tài khoản Subiz, bạn đồng thời phải tích hợp lại mã nhúng.
 {% endhint %}
-
-
 
 #### Bước 2: Đặt mã nhúng Subiz vào website
 
