@@ -1,31 +1,35 @@
 # Cài đặt cửa sổ Subiz chat trên website
 
-Cửa sổ tương tác Subiz trên website của doanh nghiệp là nơi khách truy cập trò chuyện với tư vấn viên của doanh nghiệp.
-
-Không đơn giản là nơi tương tác với khách hàng, mà còn là nơi bạn khẳng định thương hiệu, chất lượng dịch vụ và tiếng nói của doanh nghiệp. **Hãy chọn kiểu cửa sổ và màu sắc phù hợp với website và thương hiệu của bạn. Hãy chỉnh sửa lời chào, lời giới thiệu theo đúng bản sắc văn hóa và điều bạn muốn phục vụ khách hàng.**
+Cửa sổ tương tác Subiz trên website của doanh nghiệp là nơi khách truy cập trò chuyện với tư vấn viên của doanh nghiệp. Không đơn giản là nơi bạn tương tác hỗ trợ khách hàng, mà còn là nơi bạn khẳng định thương hiệu, chất lượng dịch vụ và tiếng nói của doanh nghiệp.
 
 Tại trang **Cửa sổ hội thoại**, bạn có thể thực hiện các cài đặt để tùy chỉnh cửa sổ phù hợp với nhu cầu:
 
-### **1. Loại cửa sổ**
+### Chọn l**oại cửa sổ**
 
-**Cửa sổ có 2 dạng kích thước thu gọn hoặc mở rộng tùy thuộc vào cài đặt của bạn.** Chọn dạng cửa sổ muốn hiển thị:
+Subiz đã tạo sẵn 2 dạng kích thước **thu gọn** hoặc **mở rộng** cho cửa sổ chat trên website của bạn. Ngoài ra bạn có thể tùy chỉnh CSS để điều chỉnh chiều cao và chiều rộng phù hợp với yêu cầu của bạn
 
 * **Thu gọn:** Kích thước tiêu chuẩn
 * **Mở rộng:** Chiều dài cửa sổ toàn màn hình, giúp khách hàng dễ theo dõi cuộc chat với bạn
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/02/widgettype-1.png)
 
-### **2. Vị trí cửa sổ**
+### Chọn v**ị trí cửa sổ chat**
 
-Chọn vị trí cửa sổ xuất hiện trên website: **Góc trái / Góc phải**
+Bạn có thể chọn vị trí cửa sổ chat xuất hiện trên website tại **Góc trái** hoặc **Góc phải**
 
-**Vị trị đặt cửa sổ Subiz cần phù hợp với thiết kế của website, sao cho dễ nhận biết, không đè lên các thiết kế hay ứng dụng khác của website.** Hiện tại, một tỷ lệ lớn các doanh nghiệp đặt cửa sổ Subiz tại góc bên phải.![](https://docv4.subiz.com/wp-content/uploads/2018/02/widgetposition-1.png)
+![](https://docv4.subiz.com/wp-content/uploads/2018/02/widgetposition-1.png)
 
-### **3. Tùy chỉnh màu sắc**
+{% hint style="info" %}
+**Vị trị đặt cửa sổ Subiz cần phù hợp với thiết kế của website, sao cho dễ nhận biết, không đè lên các thiết kế hay ứng dụng khác của website.** Hiện tại, một tỷ lệ lớn các doanh nghiệp đặt cửa sổ Subiz tại góc bên phải.
+{% endhint %}
+
+### Chỉnh sửa **màu sắc**
 
 Bạn có thể tùy chỉnh màu sắc cho cửa sổ Subiz bằng cách chọn 1 trong các màu được gợi ý, hoặc tùy chỉnh màu riêng biệt của doanh nghiệp.
 
-Lưu ý, **cần chọn màu sắc cửa sổ chat tương đồng với màu sắc của thương hiệu,** nhưng cũng cần chọn màu sắc để dễ nhận biết trên website của bạn![](https://docv4.subiz.com/wp-content/uploads/2018/02/widgetcolour-1.png)
+Lưu ý, **cần chọn màu sắc cửa sổ chat tương đồng với màu sắc của thương hiệu,** nhưng cũng cần chọn màu sắc để dễ nhận biết trên website của bạn
+
+![](https://docv4.subiz.com/wp-content/uploads/2018/02/widgetcolour-1.png)
 
 ### **4. Tùy chỉnh bubble**
 
@@ -42,7 +46,11 @@ Bạn chọn ngôn ngữ sử dụng cho cửa sổ Subiz tại mục **Ngôn ng
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/02/language-1.png)
 
-Các tùy chỉnh sẽ hiển thị trên cửa sổ như sau:![](http://docv4.subiz.com/wp-content/uploads/2018/01/Title-and-introduction.png)
+**. Hãy chỉnh sửa lời chào, lời giới thiệu theo đúng bản sắc văn hóa và điều bạn muốn phục vụ khách hàng.**
+
+Các tùy chỉnh sẽ hiển thị trên cửa sổ như sau:
+
+![](http://docv4.subiz.com/wp-content/uploads/2018/01/Title-and-introduction.png)
 
 * **Nếu bạn muốn sử dụng một ngôn ngữ chưa được hỗ trợ**, hoặc muốn tùy chỉnh thêm các phần ngôn ngữ khác, bạn có thể tùy chỉnh ngôn ngữ bằng cách tải lên file ngôn ngữ dạng po \([hướng dẫn chi tiết tùy chỉnh ngôn ngữ qua file .Po](https://docv4.subiz.com/tuy-chinh-ngon-ngu-cua-so-subiz-qua-file-po/)\):
   * Chọn **Tùy chỉnh ngôn ngữ**
