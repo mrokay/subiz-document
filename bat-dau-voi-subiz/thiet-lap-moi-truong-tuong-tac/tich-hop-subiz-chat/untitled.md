@@ -37,17 +37,17 @@ Bạn có thể tùy chỉnh màu sắc cho cửa sổ Subiz bằng cách chọn
 Lưu ý, **cần chọn màu sắc cửa sổ chat tương đồng với màu sắc của thương hiệu,** nhưng cũng cần chọn màu sắc để dễ nhận biết trên website của bạn
 {% endhint %}
 
-
-
-#### 
-
-
-
-### **4. Tùy chỉnh bubble**
+### **Tùy chỉnh bubble**
 
 Tại phần Bubble Button, bạn click chọn Thư viện Bubble Button và chọn mẫu Bubble theo ý muốn.
 
-Lưu ý, **màu sắc của bubble sẽ tương ứng với màu sắc của cả cửa sổ Subiz mà bạn đã chọn.**![](https://docv4.subiz.com/wp-content/uploads/2018/02/bubble-button-1.png)![](http://docv4.subiz.com/wp-content/uploads/2018/02/bubble-library.png)
+![](../../../.gitbook/assets/thu-vien-bubble.png)
+
+{% hint style="info" %}
+Lưu ý, **màu sắc của bubble sẽ tương ứng với màu sắc của cả cửa sổ Subiz mà bạn đã chọn.**
+{% endhint %}
+
+
 
 ### **5. Tùy chỉnh ngôn ngữ**
 
