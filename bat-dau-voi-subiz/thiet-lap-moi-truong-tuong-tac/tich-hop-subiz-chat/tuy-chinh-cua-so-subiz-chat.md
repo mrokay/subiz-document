@@ -10,13 +10,26 @@ CSS là viết tắt của cụm từ “Cascading Style Sheet”, nó là một
 
 Bạn sẽ đăng nhập vào trang app.subiz.com, vào phần **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Cửa sổ hội thoại &gt; Tùy chỉnh CSS** để thực hiện những thay đổi về CSS này.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/05/Tuy-chinh-CSS.png)
+![T&#xF9;y ch&#x1EC9;nh CSS](../../../.gitbook/assets/noi-tuy-chinh-css.png)
 
 Tiếp theo, **bạn Copy và paste đoạn css tương ứng để tùy chỉnh thành phần bạn muốn, sau đó quay lại màn hình cài đặt cửa sổ chat và Lưu thay đổi**
 
 Dưới đây là một số tùy chỉnh css một số thành phần trên cửa sổ chat bạn có thể tham khảo.
 
-#### Thay đổi chiều rộng cửa sổ chat
+#### Thay đổi kích thước cửa sổ chat
+
+Bạn có thể thay đổi chiều cao và chiều rộng theo ý muốn
+
+{% tabs %}
+{% tab title="Chiều cao" %}
+```text
+.widget_mini .widget_body {
+    height: 750px !important;
+    max-height: 800px !important;
+}
+```
+{% endtab %}
+{% endtabs %}
 
 | 123 | .widget\_mini .widget\_body{ width:600px;} |
 | --- |
@@ -131,6 +144,8 @@ Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
 Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với website.
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/05/Css-tao-moi.png)
+
+### 
 
 ### Tùy chỉnh ngôn ngữ cửa sổ Subiz chat qua file .Po
 
