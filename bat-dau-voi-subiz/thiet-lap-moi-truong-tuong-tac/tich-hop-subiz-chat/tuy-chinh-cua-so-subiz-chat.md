@@ -14,13 +14,9 @@ Tiếp theo, **bạn Copy và paste đoạn css tương ứng để tùy chỉnh
 
 Dưới đây là một số tùy chỉnh css một số thành phần trên cửa sổ chat bạn có thể tham khảo.
 
-* ​[Thay đổi chiều rộng cửa sổ chat](https://docv4.subiz.com/cach-tuy-chinh-css-cho-cua-so-subiz-chat/#width)​
-* ​[Thay đổi chiều cao cửa sổ chat](https://docv4.subiz.com/cach-tuy-chinh-css-cho-cua-so-subiz-chat/#height)​
-* ​[Tùy chỉnh cỡ chữ](https://docv4.subiz.com/cach-tuy-chinh-css-cho-cua-so-subiz-chat/#sizefont)​
-* ​[Tùy chỉnh màu sắc toàn bộ cửa sổ chat](https://docv4.subiz.com/cach-tuy-chinh-css-cho-cua-so-subiz-chat/#totalcolour)​
-* ​[Tùy chỉnh màu sắc từng phần cửa sổ chat](https://docv4.subiz.com/cach-tuy-chinh-css-cho-cua-so-subiz-chat/#colour)​
 
-#### Thay đổi chiều rộng cửa sổ chat {#thay-doi-chieu-rong-cua-so-chat}
+
+#### Thay đổi chiều rộng cửa sổ chat
 
 | 123 | .widget\_mini .widget\_body{ width:600px;} |
 | --- |
