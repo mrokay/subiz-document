@@ -6,7 +6,7 @@ Cửa sổ tương tác Subiz trên website của doanh nghiệp là nơi khách
 
 ![Ch&#x1EC9;nh s&#x1EED;a c&#x1EED;a s&#x1ED5; chat Subiz](../../../.gitbook/assets/chinh-sua-cua-so-chat.png)
 
-Tại trang **Cửa sổ hội thoại**, bạn có thể thực hiện các cài đặt để tùy chỉnh cửa sổ phù hợp với nhu cầu:
+Tại trang **Cửa sổ hội thoại**, bạn có thể thực hiện các tùy chỉnh các thành phần của cửa sổ cho phù hợp với nhu cầu của bạn:
 
 ### Chọn l**oại cửa sổ**
 
