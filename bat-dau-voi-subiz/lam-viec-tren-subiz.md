@@ -98,7 +98,7 @@ Thư viện câu trả lời là những tin nhắn mẫu được soạn sẵn,
 
 _**Hướng dẫn sử dụng**_: Tại cửa sổ chat, bạn bắt đầu bằng kí tự "**/**" + **shortcut** &gt; chọn **Câu trả lời mẫu** &gt; **Enter**
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/example.png)
+![S&#x1EED; d&#x1EE5;ng th&#x1B0; vi&#xEA;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](https://docv4.subiz.com/wp-content/uploads/2018/02/example.png)
 
 _**Lưu ý**_: Bạn có thể [thêm và chỉnh sửa Thư viện câu trả lời](https://docv4.subiz.com/thu-vien-cau-tra-loi/) theo hướng dẫn
 
@@ -127,6 +127,10 @@ Tại vùng nhập tin nhắn, bạn có thể lựa chọn gửi kèm biểu t�
 ## Tương tác qua kênh Email
 
 ###  Tạo cuộc tương tác mới
+
+Sau khi tích hợp Email vào Subiz, bạn sẽ trực tiếp nhận và gửi email cho khách hàng ngay trên ứng dụng App.subiz.com.
+
+
 
 ###  Tạo và gửi Email cá nhân 
 
