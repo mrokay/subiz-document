@@ -54,13 +54,11 @@ Bạn chọn ngôn ngữ sử dụng cho cửa sổ Subiz tại mục **Ngôn ng
 * Khi chọn chế độ **Tự động**, Subiz sẽ tự động nhận diện vị trí của khách truy cập và hiển thị ngôn ngữ phù hợp theo nội dung đã được thiết lập trước.
 * Khi bạn chọn **1 ngôn ngữ cụ thể**, bạn cần **tùy chỉnh tiêu đề và lời giới thiệu hiển thị trên cửa sổ**. Ví dụ với ngôn ngữ Tiếng Việt:
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/language-1.png)
+![T&#xF9;y ch&#x1EC9;nh Ti&#xEA;u &#x111;&#x1EC1; v&#xE0; ph&#x1EA7;n Gi&#x1EDB;i thi&#x1EC7;u](../../../.gitbook/assets/tuy-chinh-ngon-ngu.png)
 
- ****
+ ****Các tùy chỉnh sẽ hiển thị trên cửa sổ như sau:
 
-Các tùy chỉnh sẽ hiển thị trên cửa sổ như sau:
-
-![](http://docv4.subiz.com/wp-content/uploads/2018/01/Title-and-introduction.png)
+![Ti&#xEA;u &#x111;&#x1EC1; v&#xE0; L&#x1EDD;i ch&#xE0;o](../../../.gitbook/assets/loi-chao.png)
 
 {% hint style="info" %}
 Hãy chỉnh sửa lời chào, lời giới thiệu theo đúng bản sắc văn hóa và điều bạn muốn phục vụ khách hàng.
