@@ -2,6 +2,10 @@
 
 ## Tôi đã thanh toán rồi mà hệ thống vẫn hiển thị thông báo? 
 
+Tình trạng này xảy ra với những trường hợp thanh toán thiếu do chênh lệch số dư khi thực hiện chuyển tiền. Việc này đã được lưu ý ngay tại email xác nhận thanh toán từ hệ thống khi thực hiện cập nhật thanh toán cho tài khoản bạn. Bạn vui lòng thanh toán chính xác số tiền hệ thống cung cấp.
+
+Nếu có bất kỳ câu hỏi nào liên quan đến hóa đơn phát sinh và việc thực hiện thanh toán, vui lòng gửi phản hồi đến email [billing@subiz.com](mailto:billing@subiz.com) để được hỗ trợ.
+
 ##  Tại sao thanh toán thẻ không thành công? 
 
 ### Tại sao thẻ tín dụng của tôi bị từ chối? {#taisaothebituchoi}
@@ -32,7 +36,7 @@ Nếu tất cả các thông tin bạn điền là chính xác, bạn có thể 
 
 2, Liên hệ với ngân hàng phát hành thẻ và yêu cầu mở thanh toán
 
-## 3, Sử dụng hình thức thanh toán chuyển khoản \([hướng dẫn](https://docs.subiz.com/tai-khoan-tra-phi/#thanhtoanchuyenkhoan)\) Hợp đồng và Hóa đơn \(đối với khách hàng doanh nghiệp\) 
+## Hợp đồng và Hóa đơn \(đối với khách hàng doanh nghiệp\) 
 
 * **Hợp đồng** được thực hiện với thuê bao có chu kỳ thanh toán từ **12 tháng** trở lên.
 * **Hóa đơn** được xuất theo yêu cầu của doanh nghiệp với chu kỳ thanh toán từ **03 tháng** trở lên.
@@ -44,7 +48,7 @@ Nếu tất cả các thông tin bạn điền là chính xác, bạn có thể 
 * Phương thức vận chuyển: Chuyển phát qua đơn vị Chuyển phát nhanh
 * Thời gian thực hiện: **07 – 10 ngày** làm việc
 
-### Xuất hóa đơn muộn?
+#### Xuất hóa đơn muộn?
 
 Hóa đơn được yêu cầu thực hiện trong vòng **30 ngày** kể từ ngày doanh nghiệp hoàn tất nghĩa vụ thanh toán. Subiz không có trách nhiệm xuất hóa đơn bù nếu quá thời gian quy định. Chính sách này được áp dụng với tất cả khách hàng của Subiz.
 
@@ -70,10 +74,17 @@ Sau khi hủy, tài khoản của bạn sẽ ngừng ngay lập tức. Thanh to�
 
 Nếu bạn có bất kỳ câu hỏi khác, hãy [chat với chúng tôi](http://subiz.com/vi).
 
-  
-Phân biệt mã Credit và mã khuyến mại \(Promotion code\)
+## Phân biệt mã Credit và mã khuyến mại \(Promotion code\)
 
-##   Subiz có những chính sách ưu đãi nào?
+Hiện tại Subiz phát hành 02 loại hình ưu đãi tới khách hàng: Promotion Code \(Mã khuyến mại\) và Credit Code \(Mã tín dụng\)
+
+– Về cơ bản, đây là 2 loại chương trình ưu đãi được xây dựng và phát triển cho các khách hàng Subiz: Khuyến mại \(giảm giá\) và Credit \(Tín dụng\).
+
+
+
+
+
+## Subiz có những chính sách ưu đãi nào?
 
 - Subiz hỗ trợ ưu đãi ưu đãi tới 30% khi thanh toán chu kỳ dài, xem chi tiết tại bảng tính giá.
 

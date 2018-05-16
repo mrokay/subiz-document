@@ -8,7 +8,7 @@ Việc nâng cấp tài khoản lên gói dịch vụ trả phí sau khi bạn �
 
 1. Truy nhập vào Tài khoản [Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F) . Cài đặt &gt; **Thanh toán**
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LCRbjdXGv2cwmZzEDgK%2F-LCTANvNkJbiNGe8RoxN%2F-LCTCSH5HMPeW78hYiZr%2Fimage.png?alt=media&token=7ffca1f1-1c9d-4df1-98de-87f1e23c9934)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 Thanh toán dịch vụ Subiz
 
@@ -48,9 +48,9 @@ Thanh toán dịch vụ Subiz
 
 2. Lựa chọn thông tin của gói dịch vụ phù hợp và Click Đăng ký ngay
 
-Chọn hình thức thanh toán Chuyển khoản & Click vào Đăng ký ngay.
+Click vào mục `Chuyển khoản` , hệ thống sẽ hiển thị số tiền cần chuyển và thông tin tài khoản của Subiz.
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![Thanh to&#xE1;n chuy&#x1EC3;n kho&#x1EA3;n](../../.gitbook/assets/thanh-toan-chuyen-khoan.png)
 
 3. Hệ thống tự động hiển thị thông tin thanh toán tương ứng
 
