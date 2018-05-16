@@ -52,6 +52,8 @@ Khi website của bạn được xây dựng trên các nền tảng khác, vui 
 1. Mở **WordPress Admin Panel** &gt; **Appearance** &gt; **Editor**
 2. Tìm file **footer.php** bên cột bên phải và mở file này
 3. Nhán mã nhúng Subiz vào ngay trước thẻ &lt;/body&gt; trong file **footer.php**
+
+![](../../../.gitbook/assets/cai-subiz-wordpress.png)
 {% endtab %}
 
 {% tab title="Shopify" %}
