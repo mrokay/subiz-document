@@ -47,9 +47,7 @@ Tại phần Bubble Button, bạn click chọn Thư viện Bubble Button và ch�
 Lưu ý, **màu sắc của bubble sẽ tương ứng với màu sắc của cả cửa sổ Subiz mà bạn đã chọn.**
 {% endhint %}
 
-
-
-### **5. Tùy chỉnh ngôn ngữ**
+### **Tùy chọn ngôn ngữ**
 
 Bạn chọn ngôn ngữ sử dụng cho cửa sổ Subiz tại mục **Ngôn ngữ**.
 
@@ -58,19 +56,17 @@ Bạn chọn ngôn ngữ sử dụng cho cửa sổ Subiz tại mục **Ngôn ng
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/02/language-1.png)
 
-**. Hãy chỉnh sửa lời chào, lời giới thiệu theo đúng bản sắc văn hóa và điều bạn muốn phục vụ khách hàng.**
+ ****
 
 Các tùy chỉnh sẽ hiển thị trên cửa sổ như sau:
 
 ![](http://docv4.subiz.com/wp-content/uploads/2018/01/Title-and-introduction.png)
 
-* **Nếu bạn muốn sử dụng một ngôn ngữ chưa được hỗ trợ**, hoặc muốn tùy chỉnh thêm các phần ngôn ngữ khác, bạn có thể tùy chỉnh ngôn ngữ bằng cách tải lên file ngôn ngữ dạng po \([hướng dẫn chi tiết tùy chỉnh ngôn ngữ qua file .Po](https://docv4.subiz.com/tuy-chinh-ngon-ngu-cua-so-subiz-qua-file-po/)\):
-  * Chọn **Tùy chỉnh ngôn ngữ**
-  * Tải về file mẫu
-  * Chỉnh sửa file mẫu qua trang [https://localise.biz](https://localise.biz/)​
-  * Tải lên file ngôn ngữ đã chỉnh sửa
+{% hint style="info" %}
+Hãy chỉnh sửa lời chào, lời giới thiệu theo đúng bản sắc văn hóa và điều bạn muốn phục vụ khách hàng.
+{% endhint %}
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/customize-language.png)
+* **Nếu bạn muốn sử dụng một ngôn ngữ chưa được hỗ trợ**, hoặc muốn tùy chỉnh thêm các phần ngôn ngữ khác, bạn có thể tùy chỉnh ngôn ngữ bằng cách tải lên file ngôn ngữ dạng po \([hướng dẫn chi tiết tùy chỉnh ngôn ngữ qua file .Po](https://docv4.subiz.com/tuy-chinh-ngon-ngu-cua-so-subiz-qua-file-po/)\):
 
 ### **6. Tùy chỉnh CSS**
 
