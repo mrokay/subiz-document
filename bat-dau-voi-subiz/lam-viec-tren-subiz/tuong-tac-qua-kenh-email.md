@@ -16,11 +16,11 @@ Như vậy, bạn có thể chủ động gửi Email tới khách hàng với 2
 
 {% tabs %}
 {% tab title="1. Tạo hội thoại mới trên kênh Email" %}
-Hướng dẫn thao tác:
+Hướng dẫn tạo hội thoại mới trên kênh Email như sau:
 
 1. Chọn K**hách hàng** muốn gửi mail
 2. Chọn **Tạo hội thoại mới**
-3. Chon **Email** 
+3. Chọn **Email** 
 
 ![](../../.gitbook/assets/tao-hoi-thoai-email.jpg)
 {% endtab %}
@@ -41,9 +41,9 @@ Cửa sổ Email mở, bạn soạn mail gửi khách hàng tại đây:
 
 
 
-###  Tạo và gửi Email cá nhân
+###  Trả lời Email khách hàng
 
-###  Upload và chia sẻ files, links
+### Một số tính năng hữu ích trên kênh Email
 
 
 
