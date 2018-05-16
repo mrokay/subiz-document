@@ -74,9 +74,11 @@ Hãy chỉnh sửa lời chào, lời giới thiệu theo đúng bản sắc vă
 
 Ví dụ: Bạn nhập _domain1.com_ và _domain2.com_ tại whitelist thì chỉ có thể đặt mã nhúng cài đặt cửa sổ Subiz trên 2 trang này. Nếu bạn đặt mã nhúng tại trang _domain3.com_ thì cửa sổ sẽ không hiển thị tại trang đó.
 
+{% hint style="info" %}
 Khi danh sách whitelist domain trống, mặc định cửa sổ sẽ hiển thị trên tất cả các trang được đặt mã nhúng.
 
 Cài đặt whitelist domain giúp bạn kiểm soát các trang hiển thị cửa sổ Subiz, tránh trường hợp mã nhúng bị đặt trên các trang bạn không mong muốn.
+{% endhint %}
 
 Thực hiện cài đặt tại phần **Quản lý Whitelist Domain**.
 
