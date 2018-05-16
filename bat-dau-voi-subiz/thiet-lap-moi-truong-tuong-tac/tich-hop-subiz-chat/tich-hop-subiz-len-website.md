@@ -27,7 +27,7 @@ Tại phần Mã nhúng Subiz, click nút Sao chép để thực hiện sao ché
 
 Subiz tương thích với hầu hết các website xây dựng trên các nền tảng khác nhau. Việc đặt mã nhúng vào website khá đơn giản, chỉ cần Copy mã nhúng Subiz và dán vào mọi trang bạn muốn có cửa sổ Subiz Chat. Code nhúng Subiz phải được đặt ngay trước thẻ đóng &lt;/body&gt;.
 
-![](../../../.gitbook/assets/embedcode.png)
+![](../../../.gitbook/assets/embedcode.gif)
 
 #### Bước 3: Kiểm tra cửa sổ Subiz trên website
 
