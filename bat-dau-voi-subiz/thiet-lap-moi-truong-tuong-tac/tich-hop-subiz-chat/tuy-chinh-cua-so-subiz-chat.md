@@ -22,32 +22,34 @@ Bạn có thể thay đổi chiều cao và chiều rộng theo ý muốn
 
 {% tabs %}
 {% tab title="Chiều cao" %}
+Đoạn mã tùy chỉnh chiều cao cửa sổ chat Subiz
+
 ```text
 .widget_mini .widget_body {
-    height: 750px !important;
-    max-height: 800px !important;
+ height: 800px !important;
+ max-height: 900px !important;
 }
-```
-{% endtab %}
-{% endtabs %}
-
-| 123 | .widget\_mini .widget\_body{ width:600px;} |
-| --- |
-
-
-Phần **600**px bạn có thể điều chỉnh con số cho phù hợp với website.![](https://docv4.subiz.com/wp-content/uploads/2018/05/css-chieu-rong.png)
-
-### ​ {#undefined}
-
-#### Thay đổi chiều cao cửa sổ chat {#thay-doi-chieu-cao-cua-so-chat}
-
-```text
-.widget_mini .widget_body{ height: 800px !important; max-height: 900px !important;}
 ```
 
 Phần **800**px bạn có thể điều chỉnh con số cho phù hợp với website.
 
-![](../../../.gitbook/assets/css-chieu-cao.png)
+![CSS ch&#x1EC9;nh s&#x1EED;a chi&#x1EC1;u cao c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/css-chieu-cao%20%281%29.png)
+{% endtab %}
+
+{% tab title="Chiều rộng" %}
+Đoạn mã tùy chỉnh chiều rộng cửa sổ chat Subiz
+
+```text
+.widget_mini .widget_body{ width:600px;}
+```
+
+Phần **600**px bạn có thể điều chỉnh con số cho phù hợp với website.
+
+![T&#xF9;y ch&#x1EC9;nh chi&#x1EC1;u r&#x1ED9;ng c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/css-chieu-rong.png)
+{% endtab %}
+{% endtabs %}
+
+
 
 #### Tùy chỉnh cỡ chữ {#tuy-chinh-co-chu}
 
