@@ -41,7 +41,7 @@ Lưu ý, **cần chọn màu sắc cửa sổ chat tương đồng với màu s�
 
 Tại phần Bubble Button, bạn click chọn Thư viện Bubble Button và chọn mẫu Bubble theo ý muốn.
 
-![](../../../.gitbook/assets/thu-vien-bubble.png)
+![Th&#x1B0; vi&#x1EC7;n Bubble button](../../../.gitbook/assets/thu-vien-bubble.png)
 
 {% hint style="info" %}
 Lưu ý, **màu sắc của bubble sẽ tương ứng với màu sắc của cả cửa sổ Subiz mà bạn đã chọn.**
