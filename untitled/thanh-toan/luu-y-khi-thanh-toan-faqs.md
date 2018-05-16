@@ -77,7 +77,7 @@ Hiện tại Subiz phát hành 02 loại hình ưu đãi tới khách hàng: Pro
 
 – Về cơ bản, đây là 2 loại chương trình ưu đãi được xây dựng và phát triển cho các khách hàng Subiz: Khuyến mại \(giảm giá\) và Credit \(Tín dụng\).
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 ## Subiz có những chính sách ưu đãi nào?
 

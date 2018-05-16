@@ -6,7 +6,7 @@ Việc nâng cấp tài khoản lên gói dịch vụ trả phí sau khi bạn �
 
 1. Truy nhập vào Tài khoản [Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F) . Cài đặt &gt; **Thanh toán**
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 Thanh toán dịch vụ Subiz
 
@@ -29,7 +29,7 @@ Khi bạn thực hiện thanh toán thành công, tài khoản sẽ được nâ
 
 Dưới đây là minh họa giao diện hiển thị thông tin tài khoản của bạn khi đã hoàn tất nâng cấp:
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 
 Sau khi nâng cấp tài khoản thành công, bất kỳ lúc nào bạn đều có thể [thay đổi những thông tin thuê bao](https://docs.subiz.com/quan-ly-thong-tin-goi-dich-vu/) này.
 
@@ -37,7 +37,7 @@ Sau khi nâng cấp tài khoản thành công, bất kỳ lúc nào bạn đều
 
 1. Truy nhập vào Tài khoản [Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F) . Cài đặt &gt; **Thanh toán**
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 Thanh toán dịch vụ Subiz
 
