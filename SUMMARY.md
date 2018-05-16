@@ -7,7 +7,7 @@
     * [Subiz hoạt động như thế nào?](page-2/gioi-thieu-subiz/untitled.md)
   * Khám phá các gói và tính năng
     * [Khám phá các kênh trong Subiz](page-2/kham-pha-cac-goi-va-tinh-nang/untitled.md)
-    * Khám phá tính năng trong Subiz
+    * [Khám phá tính năng trong Subiz](page-2/kham-pha-cac-goi-va-tinh-nang/kham-pha-tinh-nang-trong-subiz.md)
     * Các gói sử dụng Subiz
 * Bắt đầu với Subiz
   * Thiết lập môi trường tương tác
