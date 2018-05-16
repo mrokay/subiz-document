@@ -18,11 +18,7 @@ User list là danh sách khách hàng có tương tác với Agent Subiz.
 
 ###  Thứ tự xử lý các cuộc hội thoại
 
-## Tương tác trên kênh Subiz chat
 
-**Tương tác trên kênh Subiz chat là khởi tạo cuộc hội thoại để bắt đầu trò chuyện tư vấn khách truy cập website.** Đây là những khách hàng đang có nhu cầu tìm hiểu về sản phẩm, dịch vụ và thông tin của doanh nghiệp.
-
-Bạn \(Agent\) cần đăng nhập [App.subiz.com](https://app.subiz.com) để bắt đầu online và sẵn sàng  tư vấn khách hàng.
 
 ###  Tạo cuộc tương tác mới 
 
@@ -31,11 +27,11 @@ Có hai hình thức khởi tạo một cuộc tương tác với khách hàng:
 **1. Khách hàng chủ động khởi tạo cuộc tương tác**  
 Khi truy cập website của bạn, khách hàng sẽ gửi tin nhắn yêu cầu hỗ trợ ngay trên cửa sổ chat Subiz.
 
-![Kh&#xE1;ch h&#xE0;ng nh&#x1EAF;n tin tr&#xEA;n c&#x1EED;a s&#x1ED5; chat Subiz](../.gitbook/assets/cua-so-chat-tren-website.jpg)
+![Kh&#xE1;ch h&#xE0;ng nh&#x1EAF;n tin tr&#xEA;n c&#x1EED;a s&#x1ED5; chat Subiz](../../.gitbook/assets/cua-so-chat-tren-website.jpg)
 
 Để xem được tin nhắn từ khách hàng, bạn vào mục **HÀNH ĐỘNG**&gt; chọn **Khách hàng** &gt; chọn tương tác chưa đọc trong **LIST ACTIVITIES** &gt; **Cửa sổ chat** mở và trả lời tại đây.
 
-![Xem n&#x1ED9;i dung tin nh&#x1EAF;n kh&#xE1;ch h&#xE0;ng g&#x1EED;i](../.gitbook/assets/chat-1.jpg)
+![Xem n&#x1ED9;i dung tin nh&#x1EAF;n kh&#xE1;ch h&#xE0;ng g&#x1EED;i](../../.gitbook/assets/chat-1.jpg)
 
  _**Lưu ý**_: Nếu bạn không nhận được tin nhắn từ khách hàng, hãy xem lại cài đặt [tính năng RULE](https://docv4.subiz.com/tao-rule-moi/) tự động phân phối cuộc hội thoại cho bạn \(Agent\) hay chưa?
 
@@ -48,11 +44,11 @@ _**Lưu ý**_: Khi không nhận được thông báo, hãy kiểm tra lại má
 **2. Agent chủ động khởi tạo cuộc tương tác**  
 Nếu khách hàng không chủ động tương tác trước, thì bạn cần quan sát trên trang **KHÁCH** để biết khách hàng đang quan tâm điều gì và chủ động tương tác hỗ trợ khách hàng.
 
-![Quan s&#xE1;t kh&#xE1;ch truy c&#x1EAD;p website](../.gitbook/assets/khach-truy-cap.jpg)
+![Quan s&#xE1;t kh&#xE1;ch truy c&#x1EAD;p website](../../.gitbook/assets/khach-truy-cap.jpg)
 
  Để chủ động tương tác với khách truy cập website, bạn vào mục **KHÁCH** &gt; chọn **Khách hàng** &gt; chọn **Tạo hội thoại mới** &gt; chọn **Subiz Chat** &gt; **Cửa sổ chat mở** và bạn gửi tin nhắn tại đây.
 
-![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i v&#x1EDB;i kh&#xE1;ch truy c&#x1EAD;p](../.gitbook/assets/chat-2.jpg)
+![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i v&#x1EDB;i kh&#xE1;ch truy c&#x1EAD;p](../../.gitbook/assets/chat-2.jpg)
 
 ### Thêm Agent vào cuộc hội thoại 
 
@@ -60,7 +56,7 @@ Nếu khách hàng không chủ động tương tác trước, thì bạn cần 
 
 Thao tác: Chọn nút  **"Add Agent"**  &gt; chọn **Agent** &gt; chọn **Thêm**
 
-![Th&#xEA;m Agent tham gia h&#x1ED9;i tho&#x1EA1;i](../.gitbook/assets/3.-them-agent.jpg)
+![Th&#xEA;m Agent tham gia h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/3.-them-agent.jpg)
 
  _**Lưu ý**_: Chỉ Agent được phân phối cuộc hội thoại mới có quyền thêm Agent khác.
 
@@ -125,6 +121,8 @@ Tại vùng nhập tin nhắn, bạn có thể lựa chọn gửi kèm biểu t�
 + Với kênh Messenger, tin nhắn không hiển thị cho Agent. Nhưng tin nhắn vẫn tồn tại và hiển thị nếu bạn đăng nhập Fanpage.
 
 ## Tương tác qua kênh Email
+
+Sau khi tích hợp Email vào Subiz, bạn sẽ trực tiếp nhận và gửi email cho khách hàng ngay trên ứng dụng App.subiz.com.
 
 ###  Tạo cuộc tương tác mới
 
