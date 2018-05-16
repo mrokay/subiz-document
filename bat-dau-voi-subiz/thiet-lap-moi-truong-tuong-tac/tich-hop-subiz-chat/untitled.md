@@ -6,12 +6,32 @@ Tại trang **Cửa sổ hội thoại**, bạn có thể thực hiện các cà
 
 ### Chọn l**oại cửa sổ**
 
-Subiz đã tạo sẵn 2 dạng kích thước **thu gọn** hoặc **mở rộng** cho cửa sổ chat trên website của bạn. Ngoài ra bạn có thể tùy chỉnh CSS để điều chỉnh chiều cao và chiều rộng phù hợp với yêu cầu của bạn
+Subiz đã tạo sẵn 2 dạng kích thước **thu gọn** hoặc **mở rộng** cho cửa sổ chat trên website của bạn. 
 
 * **Thu gọn:** Kích thước tiêu chuẩn
 * **Mở rộng:** Chiều dài cửa sổ toàn màn hình, giúp khách hàng dễ theo dõi cuộc chat với bạn
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/02/widgettype-1.png)
+
+Ngoài ra bạn có thể tùy chỉnh CSS để điều chỉnh chiều cao và chiều rộng phù hợp với yêu cầu của bạn
+
+{% tabs %}
+{% tab title="Chiều cao" %}
+```text
+ height: 800px !important;
+ max-height: 900px !important;
+}
+```
+
+ Phần **800**px bạn có thể điều chỉnh con số cho phù hợp với website.
+
+![](../../../.gitbook/assets/css-chieu-cao%20%281%29.png)
+{% endtab %}
+
+{% tab title="Chiều rộng" %}
+
+{% endtab %}
+{% endtabs %}
 
 ### Chọn v**ị trí cửa sổ chat**
 
@@ -25,11 +45,19 @@ Bạn có thể chọn vị trí cửa sổ chat xuất hiện trên website t�
 
 ### Chỉnh sửa **màu sắc**
 
+{% hint style="info" %}
+Lưu ý, **cần chọn màu sắc cửa sổ chat tương đồng với màu sắc của thương hiệu,** nhưng cũng cần chọn màu sắc để dễ nhận biết trên website của bạn
+{% endhint %}
+
 Bạn có thể tùy chỉnh màu sắc cho cửa sổ Subiz bằng cách chọn 1 trong các màu được gợi ý, hoặc tùy chỉnh màu riêng biệt của doanh nghiệp.
 
-Lưu ý, **cần chọn màu sắc cửa sổ chat tương đồng với màu sắc của thương hiệu,** nhưng cũng cần chọn màu sắc để dễ nhận biết trên website của bạn
+#### Chỉnh sửa theo màu sắc gợi ý từ Subiz
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/02/widgetcolour-1.png)
+
+#### Tùy chỉnh CSS để có màu sắc riêng biệt của doanh nghiệp
+
+
 
 ### **4. Tùy chỉnh bubble**
 
