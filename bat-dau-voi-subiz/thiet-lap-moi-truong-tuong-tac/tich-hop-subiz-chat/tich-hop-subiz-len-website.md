@@ -44,7 +44,11 @@ Nếu hệ thống báo không tìm thấy cửa sổ Chat, bạn kiểm tra l�
 
 ### Tích hợp Subiz trên các nền tảng
 
-Khi website của bạn được xây dựng trên các nền tảng khác, vui lòng chọn nền tảng web và xem hướng dẫn tích hợp cho từng nền tảng dưới đây:
+Khi website của bạn được xây dựng trên các nền tảng khác, vui lòng chọn nền tảng web và xem hướng dẫn tích hợp cho từng nền tảng dưới đây
+
+{% hint style="danger" %}
+Nếu bạn đang dùng nền tảng **không** có trong danh sách này, hãy liên lạc ngay cho Subiz để được trợ giúp.
+{% endhint %}
 
 {% tabs %}
 {% tab title="WordPress" %}
@@ -93,8 +97,4 @@ Bạn chỉ cần thực hiện theo lựa chọn này nếu các tệp mẫu đ
 ![C&#xE0;i m&#xE3; nh&#xFA;ng Subiz tr&#xEA;n Joomla](../../../.gitbook/assets/joomla2.gif)
 {% endtab %}
 {% endtabs %}
-
-{% hint style="danger" %}
-Nếu bạn đang dùng nền tảng **không** có trong danh sách này, hãy liên lạc ngay cho Subiz để được trợ giúp.
-{% endhint %}
 
