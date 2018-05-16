@@ -10,7 +10,7 @@
     * Khám phá tính năng trong Subiz
     * Các gói sử dụng Subiz
 * Bắt đầu với Subiz
-  * [Thiết lập môi trường tương tác](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/README.md)
+  * Thiết lập môi trường tương tác
     * Tích hợp Subiz chat
       * [Tích hợp Subiz lên Website](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/tich-hop-subiz-len-website.md)
       * [Cài đặt cửa sổ Subiz chat trên website](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/untitled.md)
