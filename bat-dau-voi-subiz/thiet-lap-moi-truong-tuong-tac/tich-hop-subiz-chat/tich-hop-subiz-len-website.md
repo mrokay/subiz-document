@@ -4,11 +4,9 @@ Subiz Live Chat là một kênh tương tác với khách hàng ghé thăm websi
 
 ### Cách tích hợp Subiz lên website
 
-Để tích hợp cửa sổ Subiz trên website, bạn thực hiện theo 03 bước sau:
+Tích hợp Subiz vào website bằng việc copy đoạn mã nhúng Subiz \(không được thay đổi, copy toàn bộ mã\) và dán vào các trang mà bạn muốn đặt cửa sổ Subiz Chat. Bạn thực hiện theo 03 bước sau:
 
 #### Bước 1: Lấy mã nhúng của Subiz
-
-Tích hợp Subiz vào website bằng việc copy đoạn mã nhúng Subiz \(không được thay đổi, copy toàn bộ mã\) và dán vào các trang mà bạn muốn đặt cửa sổ Subiz Chat.
 
 Để lấy mã nhúng của Subiz bạn làm theo các bước sau:
 
@@ -92,7 +90,7 @@ Bạn chỉ cần thực hiện theo lựa chọn này nếu các tệp mẫu đ
 2. Chọn Template đang sử dụng &gt; Click vào file **Index.php**
 3. Paste mã nhúng Subiz vào trước thẻ &lt;/body&gt;
 
-![](../../../.gitbook/assets/joomla2.gif)
+![C&#xE0;i m&#xE3; nh&#xFA;ng Subiz tr&#xEA;n Joomla](../../../.gitbook/assets/joomla2.gif)
 {% endtab %}
 {% endtabs %}
 
