@@ -19,7 +19,7 @@ Tại phần Mã nhúng Subiz, click nút Sao chép để thực hiện sao ché
 
 ![Sao ch&#xE9;p m&#xE3; nh&#xFA;ng Subiz](../../../.gitbook/assets/copy-embed-code.png)
 
-{% hint style="danger" %}
+{% hint style="info" %}
 **Lưu ý:** Mỗi Tài khoản Subiz có một mã nhúng khác nhau, vì thế khi thay đổi Tài khoản Subiz, bạn đồng thời phải tích hợp lại mã nhúng.
 {% endhint %}
 
@@ -41,7 +41,7 @@ Nếu bạn vẫn không thấy cửa sổ Subiz Chat, bạn có thể kiểm tr
 
 ![Ki&#x1EC3;m tra xem m&#xE3; nh&#xFA;ng Subiz tr&#xEA;n website c&#x1EE7;a b&#x1EA1;n](../../../.gitbook/assets/kiem-tra-cai-ma-nhung.png)
 
-{% hint style="info" %}
+{% hint style="danger" %}
 Nếu hệ thống báo không tìm thấy cửa sổ Chat, bạn kiểm tra lại mã nhúng Subiz trên website hoặc liên hệ với Subiz để được hỗ trợ.
 {% endhint %}
 
