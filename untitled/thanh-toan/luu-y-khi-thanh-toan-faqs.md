@@ -52,8 +52,25 @@ Nếu tất cả các thông tin bạn điền là chính xác, bạn có thể 
 
 Hóa đơn được yêu cầu thực hiện trong vòng **30 ngày** kể từ ngày doanh nghiệp hoàn tất nghĩa vụ thanh toán. Subiz không có trách nhiệm xuất hóa đơn bù nếu quá thời gian quy định. Chính sách này được áp dụng với tất cả khách hàng của Subiz.
 
-  
-Quản lý hóa đơn 
+##  Quản lý hóa đơn 
+
+Tại thời điểm bắt đầu chu kỳ kế tiếp, hệ thống sẽ tự động gia hạn dịch vụ đồng thời hóa đơn gia hạn sẽ phát sinh tương ứng.
+
+Để kiểm soát thông tin tốt nhất, Subiz sẽ gửi thông báo về việc gia hạn tài khoản qua các phương thức: Email tới người phụ trách tài khoản; Hiển thị thông báo trên trang quản lý Dashboard; Hiển thị thông báo tại phần Thông báo mới.
+
+![](https://docs.subiz.com/wp-content/uploads/2016/01/overdue-invoice-1024x284.png)
+
+Khi nhận được thông báo, bạn có thể kiểm tra hóa đơn trực tiếp tại [trang thanh toán](https://dashboard.subiz.com/subscription/index) như hình minh họa:  
+![b4\_Them-agent\_thanh-toan](https://docs.subiz.com/wp-content/uploads/2015/10/b4_Them-agent_thanh-toan.png)
+
+* * Nếu tài khoản của bạn được thiết lập gọi thanh toán tự động qua thẻ tín dụng, hệ thống sẽ tự động gọi thanh toán trong vòng 24h tính từ thời điểm hóa đơn phát sinh. Xem thêm [Bật/Tắt gia hạn tự động với thẻ tín dụng.](https://docs.subiz.com/quan-ly-thong-tin-goi-dich-vu/#tudonggiahan) Trong trường hợp thẻ lỗi, bạn cần kích hoạt lại thẻ thanh toán. Xem hướng dẫn [tại đây](https://docs.subiz.com/quan-ly-thong-tin-goi-dich-vu/#thaydoiphuongthucthanhtoan).
+  * Nếu tài khoản của bạn sử dụng hình thức thanh toán chuyển khoản, trong vòng 07 ngày hệ thống sẽ gửi thông báo nhắc qua email về việc đề nghị thanh toán gia hạn tài khoản.
+
+**Lưu ý**: Hóa đơn phát sinh cần được thanh toán hoàn tất trong vòng 07 ngày, tính cả ngày nghỉ.  
+Trường hợp bạn có kế hoạch thanh toán chậm, hãy phản hồi cho Subiz.
+
+* Nếu bạn muốn thực hiện thanh toán gia hạn trước khi phát sinh hóa đơn, vui lòng gửi email tới [billing@subiz.com](mailto:billing@subiz.com) để được hỗ trợ.
+* Trường hợp bạn đã thực hiện thanh toán nhưng hệ thống vẫn hiển thị thông báo hóa đơn quá hạn, [xem thêm](https://docs.subiz.com/thong-bao-tai-khoan-co-hoa-don-qua-han/).
 
 ##  Chính sách hoàn tiền 
 
@@ -80,9 +97,7 @@ Hiện tại Subiz phát hành 02 loại hình ưu đãi tới khách hàng: Pro
 
 – Về cơ bản, đây là 2 loại chương trình ưu đãi được xây dựng và phát triển cho các khách hàng Subiz: Khuyến mại \(giảm giá\) và Credit \(Tín dụng\).
 
-
-
-
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ## Subiz có những chính sách ưu đãi nào?
 
