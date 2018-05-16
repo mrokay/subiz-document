@@ -25,7 +25,7 @@ Ngoài ra bạn có thể tùy chỉnh CSS để điều chỉnh chiều cao và
 
  Phần **800**px bạn có thể điều chỉnh con số cho phù hợp với website.
 
-![](../../../.gitbook/assets/css-chieu-cao%20%281%29.png)
+![T&#xF9;y ch&#x1EC9;nh chi&#x1EC1;u cao c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/css-chieu-cao%20%281%29.png)
 {% endtab %}
 
 {% tab title="Chiều rộng" %}
