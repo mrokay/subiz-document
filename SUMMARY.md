@@ -24,7 +24,16 @@
     * FAQs
       * [Những vấn đề gặp phải khi đăng nhập Dashboard](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/faqs/untitled-1.md)
       * Tôi không nhận được email của Subiz
-  * [Triển khai hoạt động](bat-dau-voi-subiz/untitled.md)
+  * [Triển khai hoạt động](bat-dau-voi-subiz/untitled/README.md)
+    * Quản lý Agent
+      * Các loại Agent
+      * Thêm Agent mới
+      * Thay đổi thông tin Agent \(chỉnh sửa Agent\)
+      * Tạo nhóm Agent
+    * Phân phối cuộc hội thoại
+      * Rule phân phối cuộc hội thoại
+      * Tạo Rule mới
+      * Quản lý danh sách Rule
   * [Làm việc trên Subiz](bat-dau-voi-subiz/lam-viec-tren-subiz.md)
 * Sử dụng Subiz nâng cao
   * [Tăng tương tác](su-dung-subiz-nang-cao/tang-tuong-tac/README.md)
