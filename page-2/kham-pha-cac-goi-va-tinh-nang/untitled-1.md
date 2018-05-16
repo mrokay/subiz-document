@@ -1,3 +1,7 @@
+---
+description: Sẽ chèn link vào các mục sau khi hoàn thiện đưa bài lên web
+---
+
 # Các gói sử dụng Subiz
 
 Subiz triển khai theo mô hình SAAS \(software as a service\), tạm dịch là phần mềm như một dịch vụ, cung cấp doanh nghiệp 4 gói dịch vụ bao gồm:
@@ -20,13 +24,15 @@ Gói Miễn phí sẽ phù hợp với những doanh nghiệp nhỏ hay các doa
 {% endtab %}
 
 {% tab title="Cơ bản" %}
-Nếu doanh nghiệp vừa và nhỏ, lượng tương tác tại một thời điểm thường chưa đạt mức 100 cuộc chat, kịch bản cho mời chat tự động dừng lại ở việc phân loại các nhóm đối tượng cơ bản \(khách mới, khách cũ, khách xem quá 03 trang\) thì gói Cơ bản hoàn toàn đáp ứng được nhu cầu.
+Đối với doanh nghiệp vừa và nhỏ, lượng tương tác tại một thời điểm thường chưa đạt mức 100 cuộc chat, kịch bản mời chat tự động dừng lại ở việc phân loại các nhóm đối tượng cơ bản \(khách mới, khách cũ, khách xem quá 03 trang\) thì gói Cơ bản hoàn toàn đáp ứng được nhu cầu.
 
 Tổng lượng chat trong ngày không hề bị giới hạn, bạn có thể tăng số lượng agent tương ứng để đáp ứng tốt nhất số lượng yêu cầu chat nhận được từ khách hàng.
 {% endtab %}
 
 {% tab title="Nâng cao" %}
-Điểm mạnh của gói nâng cao là số lượng Rule sẽ không bị giới hạn. Điều này phục vụ cho những doanh nghiệp có số lượng website tích hợp lớn, cần sử dụng nhiều thiết lập hội thoại cho những đường dẫn url khác nhau, hoặc sử dụng nhiều Automation chuyên sâu cho nhiều nhóm đối tượng.
+Điểm mạnh của gói nâng cao là số lượng Rule được thiết lập sẽ không bị giới hạn. Điều này phục vụ cho những doanh nghiệp có số lượng website tích hợp lớn, cần sử dụng nhiều thiết lập hội thoại cho những đường dẫn URL khác nhau, hoặc sử dụng nhiều Automation chuyên sâu cho nhiều nhóm đối tượng.
 {% endtab %}
 {% endtabs %}
+
+Sau khi sử dụng các gói dịch vụ, nếu có nhu cầu, doanh nghiệp hoàn toàn có thể nâng cấp/ hạ gói dịch vụ của mình một cách dễ dàng. Chi tiết **xem tại đây.**
 
