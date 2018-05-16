@@ -8,13 +8,13 @@ CSS là viết tắt của cụm từ “Cascading Style Sheet”, nó là một
 
 #### Tùy chỉnh CSS ở đâu? {#tuy-chinh-css-o-dau}
 
-Bạn sẽ đăng nhập vào trang app.subiz.com, vào phần **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Cửa sổ hội thoại &gt; Tùy chỉnh CSS** để thực hiện những thay đổi về CSS này.![](https://docv4.subiz.com/wp-content/uploads/2018/05/Tuy-chinh-CSS.png)
+Bạn sẽ đăng nhập vào trang app.subiz.com, vào phần **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Cửa sổ hội thoại &gt; Tùy chỉnh CSS** để thực hiện những thay đổi về CSS này.
+
+![](https://docv4.subiz.com/wp-content/uploads/2018/05/Tuy-chinh-CSS.png)
 
 Tiếp theo, **bạn Copy và paste đoạn css tương ứng để tùy chỉnh thành phần bạn muốn, sau đó quay lại màn hình cài đặt cửa sổ chat và Lưu thay đổi**
 
 Dưới đây là một số tùy chỉnh css một số thành phần trên cửa sổ chat bạn có thể tham khảo.
-
-
 
 #### Thay đổi chiều rộng cửa sổ chat
 
@@ -28,11 +28,13 @@ Phần **600**px bạn có thể điều chỉnh con số cho phù hợp với w
 
 #### Thay đổi chiều cao cửa sổ chat {#thay-doi-chieu-cao-cua-so-chat}
 
-| 1234 | .widget\_mini .widget\_body{ height: 800px !important; max-height: 900px !important;} |
-| --- |
+```text
+.widget_mini .widget_body{ height: 800px !important; max-height: 900px !important;}
+```
 
+Phần **800**px bạn có thể điều chỉnh con số cho phù hợp với website.
 
-Phần **800**px bạn có thể điều chỉnh con số cho phù hợp với website.![](https://docv4.subiz.com/wp-content/uploads/2018/05/css-chieu-cao.png)
+![](../../../.gitbook/assets/css-chieu-cao.png)
 
 #### Tùy chỉnh cỡ chữ {#tuy-chinh-co-chu}
 
