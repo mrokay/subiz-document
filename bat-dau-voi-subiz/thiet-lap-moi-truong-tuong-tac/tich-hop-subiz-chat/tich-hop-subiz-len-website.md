@@ -12,9 +12,8 @@ Tích hợp Subiz vào website bằng việc copy đoạn mã nhúng Subiz \(kh�
 
 Để lấy mã nhúng của Subiz bạn làm theo các bước sau:
 
-**1.** [Đăng nhập tài khoản Subiz](http://app.subiz.com/)​
-
-**2.** Vào phần **Cài đặt &gt; Tài khoản &gt; Tích hợp**
+1. [Đăng nhập tài khoản Subiz](http://app.subiz.com/)
+2. Vào phần **Cài đặt &gt; Tài khoản &gt; Tích hợp**
 
 Tại phần Mã nhúng Subiz, click nút Sao chép để thực hiện sao chép nhanh đoạn mã nhúng.![](http://docv4.subiz.com/wp-content/uploads/2018/02/copy-embed-code.png)
 
