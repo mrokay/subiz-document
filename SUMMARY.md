@@ -26,14 +26,14 @@
       * Tôi không nhận được email của Subiz
   * [Triển khai hoạt động](bat-dau-voi-subiz/untitled/README.md)
     * Quản lý Agent
-      * Các loại Agent
-      * Thêm Agent mới
-      * Thay đổi thông tin Agent \(chỉnh sửa Agent\)
-      * Tạo nhóm Agent
+      * [Các loại Agent](bat-dau-voi-subiz/untitled/quan-ly-agent/cac-loai-agent.md)
+      * [Thêm Agent mới](bat-dau-voi-subiz/untitled/quan-ly-agent/untitled.md)
+      * [Thay đổi thông tin Agent \(chỉnh sửa Agent\)](bat-dau-voi-subiz/untitled/quan-ly-agent/thay-doi-thong-tin-agent-chinh-sua-agent.md)
+      * [Tạo nhóm Agent](bat-dau-voi-subiz/untitled/quan-ly-agent/untitled-1.md)
     * Phân phối cuộc hội thoại
-      * Rule phân phối cuộc hội thoại
-      * Tạo Rule mới
-      * Quản lý danh sách Rule
+      * [Rule phân phối cuộc hội thoại](bat-dau-voi-subiz/untitled/untitled/rule-phan-phoi-cuoc-hoi-thoai.md)
+      * [Tạo Rule mới](bat-dau-voi-subiz/untitled/untitled/untitled.md)
+      * [Quản lý danh sách Rule](bat-dau-voi-subiz/untitled/untitled/quan-ly-danh-sach-rule.md)
   * [Làm việc trên Subiz](bat-dau-voi-subiz/lam-viec-tren-subiz.md)
 * Sử dụng Subiz nâng cao
   * [Tăng tương tác](su-dung-subiz-nang-cao/tang-tuong-tac/README.md)
