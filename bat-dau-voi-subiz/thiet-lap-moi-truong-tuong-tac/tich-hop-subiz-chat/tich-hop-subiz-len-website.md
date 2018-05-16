@@ -91,6 +91,8 @@ Bạn chỉ cần thực hiện theo lựa chọn này nếu các tệp mẫu đ
 1. Vào Joomla Admin &gt; Template Manager &gt; Chọn mục **Template** và Filter theo Site 
 2. Chọn Template đang sử dụng &gt; Click vào file **Index.php**
 3. Paste mã nhúng Subiz vào trước thẻ &lt;/body&gt;
+
+![](../../../.gitbook/assets/joomla2.gif)
 {% endtab %}
 {% endtabs %}
 
