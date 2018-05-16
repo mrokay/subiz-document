@@ -19,7 +19,25 @@ Tại phần Mã nhúng Subiz, click nút Sao chép để thực hiện sao ché
 
 > **Lưu ý:** Mỗi Tài khoản Subiz có một mã nhúng khác nhau, vì thế khi thay đổi Tài khoản Subiz, bạn đồng thời phải tích hợp lại mã nhúng.
 
+> sdgádgágs
 
+{% hint style="info" %}
+ọigaplsjgsla;jgsag
+{% endhint %}
+
+
+
+{% tabs %}
+{% tab title="ádfádfsa" %}
+gddf
+{% endtab %}
+
+{% tab title="ấdfsdf" %}
+fdgagddfgá
+
+![](../../../.gitbook/assets/css-chieu-rong.png)
+{% endtab %}
+{% endtabs %}
 
 #### Bước 2: Đặt mã nhúng Subiz vào website
 
