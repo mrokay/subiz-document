@@ -1,6 +1,6 @@
 # Tương tác trên kênh Subiz chat
 
-Tương tác trên kênh Subiz chat là khởi tạo cuộc hội thoại để bắt đầu trò chuyện tư vấn khách truy cập website. Đây là những khách hàng đang có nhu cầu tìm hiểu về sản phẩm, dịch vụ và thông tin của doanh nghiệp.
+**Tương tác trên kênh Subiz chat là khởi tạo cuộc hội thoại để bắt đầu trò chuyện tư vấn khách truy cập website**. Đây là những khách hàng đang có nhu cầu tìm hiểu về sản phẩm, dịch vụ và thông tin của doanh nghiệp.
 
 Bạn \(Agent\) cần đăng nhập [App.subiz.com](https://app.subiz.com) để bắt đầu online và sẵn sàng  tư vấn khách hàng.
 
@@ -84,6 +84,10 @@ Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp 
 _**Hướng dẫn gắn thẻ Tag**_: Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
 
 ![G&#x1EAF;n th&#x1EBB; Tag](http://docv4.subiz.com/wp-content/uploads/2018/01/Tag.png)
+
+{% hint style="danger" %}
+Lưu ý: Bạn cần cài đặt Tag trước khi gắn thẻ Tag cuộc hội thoại \([Xem chi tiết](https://docv4.subiz.com/cai-dat-tag/)\)
+{% endhint %}
 {% endtab %}
 
 {% tab title="Xóa thẻ Tag" %}
