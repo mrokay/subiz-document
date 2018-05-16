@@ -67,25 +67,25 @@ Nếu website của bạn được xây dựng trên các nền tảng khác, vu
 {% endtab %}
 
 {% tab title="Magento" %}
-To embed Subiz code on your Magento, go to your Magento them files and check if the file indicated exists or not, so please refer two options below:
+Để nhúng mã Subiz trên Magento của bạn, vui lòng tham khảo hai tùy chọn bên dưới:
 
-**Option 1**
+**Lựa chọn 1**
 
-1. Look for your Magento tempale in app/design/frontend/{template}/page/html/head.phtml. If this file doesn’t exist, then you will need to check if the app/design/frontend/{template}/default/page/html/head.phtml file exists.
-2. Paste Subiz embed code right before the &lt;/head&gt; section of the file.
+1. Tìm Magento template tại app/design/frontend/{template}/page/html/head.phtml. Nếu tệp này không tồn tại, thì bạn cần phải kiểm tra xem tệp ứng dụng app/design/frontend/{template}/default/page/html/head.phtml có tồn tại hay không?
+2. Khi tìm thấy, nhúng mã code Subiz ngay trước thẻ &lt;/head&gt; của tệp.
 
-**Option 2**
+**Lựa chọn 2**
 
-You only need to do this option if the template files described in the option 1 don’t exist.  This situation due to some custom Magento templates might not have a head.phtml file and the template would be using the base template file.
+Bạn chỉ cần thực hiện theo lựa chọn này nếu các tệp mẫu được mô tả trong Lựa chọn 1 không tồn tại. Có trường hợp này do một số mẫu Magento có thể không có tệp head.phtml và sử dụng tệp mẫu cơ sở.
 
-1. Copy the app/design/frontend/default/page/html/head.phtml file from your default base template to your custom template folder at app/design/frontend/{template}/page/html/head.phtml.
-2. Open the file and paste Subiz chat code before the &lt;/head&gt;
+1. Sao chép tệp ứng dụng app/design/frontend/default/page/html/head.phtml từ mẫu cơ sở mặc địch vào thư mục tùy chỉnh tại app/design/frontend/{template}/page/html/head.phtml.
+2. Mở tệp và dán mã nhũng Subiz trước thẻ &lt;/head&gt;
 {% endtab %}
 
 {% tab title="Joomla" %}
-1. Open Joomla Admin &gt; Template Manager &gt; Choose your **Template and** Filter by **site** 
-2. Choose your templte &gt; Open **Index.php** file 
-3. Paste Subiz embed code right before &lt;/body&gt; tag &gt; Finish 
+1. Vào Joomla Admin &gt; Template Manager &gt; Chọn mục **Template** và Filter theo Site 
+2. Chọn Template đang sử dụng &gt; Click vào file **Index.php**
+3. Paste mã nhúng Subiz vào trước thẻ &lt;/body&gt;
 {% endtab %}
 {% endtabs %}
 
