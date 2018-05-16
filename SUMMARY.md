@@ -6,7 +6,7 @@
     * [Subiz là gì?](page-2/gioi-thieu-subiz/subiz-la-gi.md)
     * [Subiz hoạt động như thế nào?](page-2/gioi-thieu-subiz/untitled.md)
   * Khám phá các gói và tính năng
-    * Khám phá các kênh trong Subiz
+    * [Khám phá các kênh trong Subiz](page-2/kham-pha-cac-goi-va-tinh-nang/untitled.md)
     * Khám phá tính năng trong Subiz
     * Các gói sử dụng Subiz
 * Bắt đầu với Subiz
