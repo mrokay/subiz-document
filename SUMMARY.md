@@ -46,7 +46,7 @@
   * [Quản lý dữ liệu](su-dung-subiz-nang-cao/untitled/README.md)
     * [Phân khúc khách hàng](su-dung-subiz-nang-cao/untitled/phan-khuc-khach-hang.md)
     * [Cập nhật và chỉnh sửa thông tin user](su-dung-subiz-nang-cao/untitled/cap-nhat-va-chinh-sua-thong-tin-user.md)
-    * Quan sát khách truy cập
+    * [Quan sát khách truy cập](su-dung-subiz-nang-cao/untitled/quan-sat-khach-truy-cap.md)
     * [Làm thế nào để chặn một User](su-dung-subiz-nang-cao/untitled/lam-the-nao-de-chan-mot-user.md)
   * [Nâng cao trải nghiệm khách hàng](su-dung-subiz-nang-cao/nang-cao-trai-nghiem-khach-hang.md)
   * [Nâng cao hiệu quả bán hàng với Subiz](su-dung-subiz-nang-cao/untitled-1.md)
