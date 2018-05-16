@@ -8,7 +8,9 @@ Messenger là một trong các kênh tương tác mà bạn có thể tích hợ
 
 Bước 1: **Đăng nhập tài khoản Subiz &gt; Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Messenger**
 
-Click chọn nút **Kết nối với Fanpage**![](https://docv4.subiz.com/wp-content/uploads/2018/03/messenger-page.png)
+Click chọn nút **Kết nối với Fanpage**
+
+![](https://docv4.subiz.com/wp-content/uploads/2018/03/messenger-page.png)
 
 Bước 2: **Nhập thông tin tài khoản Facebook của bạn** \(tài khoản Admin của Fanpage mà bạn dự định tích hợp\)![](https://docv4.subiz.com/wp-content/uploads/2018/03/login-facebook.png)
 
