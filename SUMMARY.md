@@ -13,7 +13,7 @@
   * Thiết lập môi trường tương tác
     * Tích hợp Subiz chat
       * [Tích hợp Subiz lên Website](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/tich-hop-subiz-len-website.md)
-      * [Cài đặt cửa sổ Subiz chat trên website](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/untitled.md)
+      * [Tùy chỉnh cửa sổ chat Subiz trên website](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/untitled.md)
       * [Sáng tạo cửa sổ chat Subiz ấn tượng](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/tuy-chinh-cua-so-subiz-chat.md)
     * [Tích hợp sử dụng Email trên Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz.md)
     * [Tích hợp Fanpage Facebook vào Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-fanpage-facebook-vao-subiz.md)

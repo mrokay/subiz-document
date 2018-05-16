@@ -1,4 +1,4 @@
-# Cài đặt cửa sổ Subiz chat trên website
+# Tùy chỉnh cửa sổ chat Subiz trên website
 
 Cửa sổ tương tác Subiz trên website của doanh nghiệp là nơi khách truy cập trò chuyện với tư vấn viên của doanh nghiệp. Không đơn giản là nơi bạn tương tác hỗ trợ khách hàng, mà còn là nơi bạn khẳng định thương hiệu, chất lượng dịch vụ và tiếng nói của doanh nghiệp.
 
