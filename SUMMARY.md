@@ -30,7 +30,7 @@
   * [Tăng tương tác](su-dung-subiz-nang-cao/tang-tuong-tac/README.md)
     * Tạo Automation
   * [Quản lý dữ liệu](su-dung-subiz-nang-cao/untitled/README.md)
-    * Phân khúc khách hàng
+    * [Phân khúc khách hàng](su-dung-subiz-nang-cao/untitled/phan-khuc-khach-hang.md)
     * Cập nhật và chỉnh sửa thông tin user
     * Quan sát khách truy cập
     * [Làm thế nào để chặn một User](su-dung-subiz-nang-cao/untitled/lam-the-nao-de-chan-mot-user.md)
