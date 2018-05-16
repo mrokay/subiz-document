@@ -1,6 +1,6 @@
 # Sáng tạo cửa sổ chat Subiz ấn tượng
 
-### CÁCH TÙY CHỈNH CSS CHO CỬA SỔ SUBIZ CHAT
+### Tùy chỉnh CSS cho cửa sổ chat Subiz
 
 Bên cạnh việc sử dụng những cài đặt cửa sổ chat trên website mà Subiz đã cung cấp. Bạn có thể dễ dàng tùy chỉnh những thành phần khác trên cửa sổ chat bằng cách sử dụng mã CSS.
 
