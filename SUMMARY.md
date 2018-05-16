@@ -8,7 +8,7 @@
   * Khám phá các gói và tính năng
     * [Khám phá các kênh trong Subiz](page-2/kham-pha-cac-goi-va-tinh-nang/untitled.md)
     * [Khám phá tính năng trong Subiz](page-2/kham-pha-cac-goi-va-tinh-nang/kham-pha-tinh-nang-trong-subiz.md)
-    * Các gói sử dụng Subiz
+    * [Các gói sử dụng Subiz](page-2/kham-pha-cac-goi-va-tinh-nang/untitled-1.md)
 * Bắt đầu với Subiz
   * Thiết lập môi trường tương tác
     * Tích hợp Subiz chat
