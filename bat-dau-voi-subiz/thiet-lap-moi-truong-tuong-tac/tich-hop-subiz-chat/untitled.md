@@ -10,34 +10,12 @@ Tại trang **Cửa sổ hội thoại**, bạn có thể thực hiện các tù
 
 ### Chọn l**oại cửa sổ**
 
-Subiz đã tạo sẵn 2 dạng kích thước thu gọn hoặc mở rộng cho cửa sổ chat trên website của bạn. Ngoài ra bạn có thể tùy chỉnh CSS để điều chỉnh chiều cao và chiều rộng phù hợp với yêu cầu của bạn
-
-{% tabs %}
-{% tab title="Chọn loại cửa sổ có sẵn" %}
-Bạn có thể chọn một trong 2 dạng kích thước **thu gọn** hoặc **mở rộng** cho cửa sổ chat trên website của bạn. 
+Subiz đã tạo sẵn 2 dạng kích thước thu gọn hoặc mở rộng cho cửa sổ chat trên website của bạn. Bạn hãy chọn cho website của mình kiểu dáng bạn thích
 
 * **Thu gọn:** Kích thước tiêu chuẩn
 * **Mở rộng:** Chiều dài cửa sổ toàn màn hình, giúp khách hàng dễ theo dõi cuộc chat với bạn
 
-![Ch&#x1ECD;n ki&#x1EC3;u c&#x1EED;a s&#x1ED5; c&#xF3; s&#x1EB5;n Thu g&#x1ECD;n ho&#x1EB7;c M&#x1EDF; r&#x1ED9;ng](../../../.gitbook/assets/loai-cua-so.png)
-{% endtab %}
-
-{% tab title="Tùy chỉnh chiều cao" %}
-```text
- height: 800px !important;
- max-height: 900px !important;
-}
-```
-
- Phần **800**px bạn có thể điều chỉnh con số cho phù hợp với website.
-
-![T&#xF9;y ch&#x1EC9;nh chi&#x1EC1;u cao c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/css-chieu-cao%20%281%29.png)
-{% endtab %}
-
-{% tab title="Chiều rộng" %}
-
-{% endtab %}
-{% endtabs %}
+![Ch&#x1ECD;n ki&#x1EC3;u c&#x1EED;a s&#x1ED5; chat Thu g&#x1ECD;n ho&#x1EB7;c M&#x1EDF; r&#x1ED9;ng cho website](../../../.gitbook/assets/loai-cua-so%20%281%29.png)
 
 ### Chọn v**ị trí cửa sổ chat**
 
