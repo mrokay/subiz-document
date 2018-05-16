@@ -71,12 +71,12 @@ If your website platform is not listed below, please contact us for better assis
 {% tab title="Magento" %}
 To embed Subiz code on your Magento, go to your Magento them files and check if the file indicated exists or not, so please refer two options below:
 
-Option 1
+**Option 1**
 
 1. Look for your Magento tempale in app/design/frontend/{template}/page/html/head.phtml. If this file doesn’t exist, then you will need to check if the app/design/frontend/{template}/default/page/html/head.phtml file exists.
 2. Paste Subiz embed code right before the &lt;/head&gt; section of the file.
 
-Option 2
+**Option 2**
 
 You only need to do this option if the template files described in the option 1 don’t exist.  This situation due to some custom Magento templates might not have a head.phtml file and the template would be using the base template file.
 
@@ -86,9 +86,7 @@ You only need to do this option if the template files described in the option 1 
 
 {% tab title="Joomla" %}
 1. Open Joomla Admin &gt; Template Manager &gt; Choose your **Template and** Filter by **site** 
-
 2. Choose your templte &gt; Open **Index.php** file 
-
 3. Paste Subiz embed code right before &lt;/body&gt; tag &gt; Finish 
 {% endtab %}
 {% endtabs %}
