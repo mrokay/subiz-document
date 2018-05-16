@@ -26,13 +26,17 @@ _Để xem được tin nhắn từ khách hàng, bạn thao tác như sau:_
 
 ![Xem n&#x1ED9;i dung tin nh&#x1EAF;n kh&#xE1;ch h&#xE0;ng g&#x1EED;i](../../.gitbook/assets/chat-1.jpg)
 
- 
+{% hint style="danger" %}
+ _**Lưu ý**_: Nếu bạn không nhận được tin nhắn từ khách hàng, hãy xem lại cài đặt [tính năng RULE](https://docv4.subiz.com/tao-rule-moi/) tự động phân phối cuộc hội thoại cho bạn \(Agent\) hay chưa?
+{% endhint %}
 
-Subiz sẽ thông báo âm thanh và thông báo màn hình khi có tin nhắn mới của khách hàng.
+ Subiz sẽ thông báo âm thanh và thông báo màn hình khi có tin nhắn mới của khách hàng.
 
 ![Subiz th&#xF4;ng b&#xE1;o m&#xE0;n h&#xEC;nh](https://docv4.subiz.com/wp-content/uploads/2018/02/thong-bao-tin-nhan-moi.png)
 
+{% hint style="danger" %}
 _**Lưu ý**_: Khi không nhận được thông báo, hãy kiểm tra lại máy tính của bạn, thiết lập trình duyệt cho phép Subiz thông báo âm thanh và màn hình.
+{% endhint %}
 {% endtab %}
 
 {% tab title=" Agent khởi tạo cuộc tương tác" %}
@@ -65,11 +69,9 @@ _Hướng dẫn thêm Agent:_
 2. _Chọn **Agent**_ 
 3. _Chọn **Thêm**_
 
- 
-
 ![Th&#xEA;m Agent tham gia h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/3.-them-agent.jpg)
 
-{% hint style="info" %}
+{% hint style="danger" %}
 _**Lưu ý**_: Chỉ Agent được phân phối cuộc hội thoại mới có quyền thêm Agent khác.
 {% endhint %}
 
@@ -77,13 +79,19 @@ _**Lưu ý**_: Chỉ Agent được phân phối cuộc hội thoại mới có 
 
 Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp Agent dễ dàng phân loại và quản lý các tương tác của khách hàng.
 
+{% tabs %}
+{% tab title="Gắn thẻ Tag" %}
 _**Hướng dẫn gắn thẻ Tag**_: Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
 
 ![G&#x1EAF;n th&#x1EBB; Tag](http://docv4.subiz.com/wp-content/uploads/2018/01/Tag.png)
+{% endtab %}
 
-Bạn có thể xóa Tag như sau: Chọn nút **Tag** &gt; chọn **X** xóa Tag
+{% tab title="Xóa thẻ Tag" %}
+**Hướng dẫn xóa thẻ Tag**: Chọn nút **Tag** &gt; chọn **X** xóa Tag
 
 ![X&#xF3;a th&#x1EBB; Tag](https://docv4.subiz.com/wp-content/uploads/2018/02/Bieu-tuong-X.png)
+{% endtab %}
+{% endtabs %}
 
 ### Kết thúc hội thoại
 
@@ -103,7 +111,9 @@ Subiz sẽ tính cuộc hội thoại được kết thúc bằng hành động 
 {% endtab %}
 {% endtabs %}
 
+{% hint style="danger" %}
 _**Lưu ý**_: Khi cuộc hội thoại kết thúc sẽ có thông báo trên cửa sổ chat, đồng thời phần nhập tin nhắn sẽ chuyển màu xám và không thể thao tác thêm. **Để tiếp tục trò chuyện, bạn cần Tạo hội thoại mới.**
+{% endhint %}
 
 ![H&#x1ED9;i tho&#x1EA1;i &#x111;&#xE3; k&#x1EBF;t th&#xFA;c](https://docv4.subiz.com/wp-content/uploads/2018/02/ket-qua-end-cuoc-chat.png)
 
@@ -115,7 +125,9 @@ _**Hướng dẫn sử dụng**_: Tại cửa sổ chat, bạn bắt đầu bằ
 
 ![S&#x1EED; d&#x1EE5;ng th&#x1B0; vi&#xEA;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](https://docv4.subiz.com/wp-content/uploads/2018/02/example.png)
 
+{% hint style="danger" %}
 _**Lưu ý**_: Bạn có thể [thêm và chỉnh sửa Thư viện câu trả lời](https://docv4.subiz.com/thu-vien-cau-tra-loi/) theo hướng dẫn
+{% endhint %}
 
 ### Sử dụng Emojis cảm xúc và chia sẻ file
 
