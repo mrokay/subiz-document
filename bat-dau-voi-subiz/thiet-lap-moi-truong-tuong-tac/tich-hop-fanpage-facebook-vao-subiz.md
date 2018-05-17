@@ -20,13 +20,15 @@ Click chọn nút **Kết nối với Fanpage**
 
 Khi bạn cho phép Subiz quản lý tin nhắn của Fanpage, tất cả các tin nhắn của Fanpage được hiển thị và có thể trả lời \(reply\) từ Subiz
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/permission.png)![](https://docv4.subiz.com/wp-content/uploads/2018/03/permission-2.png)
+![](../../.gitbook/assets/permission.png)
+
+![](../../.gitbook/assets/permission-2.png)
 
 **Bước 4: Lựa chọn các Fanpage mà bạn muốn tích hợp**
 
 Sau khi bạn đăng nhập tài khoản và cho phép Subiz truy cập dữ liệu, tất cả các Fanpage mà bạn quản lý sẽ được hiển thị trên trang Messenger. Bạn có thể xóa các Fanpage mà bạn không muốn tích hợp bằng cách click vào nút xóa bên cạnh Fanpage đó.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/fanpage-list.png)
+![L&#x1EF1;a ch&#x1ECD;n Fanpage t&#xED;ch h&#x1EE3;p v&#x1EDB;i Subiz](../../.gitbook/assets/fanpage-list%20%281%29.png)
 
 ​
 
