@@ -7,9 +7,13 @@ description: >-
 
 # Làm việc trên Subiz
 
-
+1. Tương tác khách truy cập website trên kênh Subiz chat
+2. Tương tác khách hàng qua kênh Email
+3. Tương tác khách hàng trên Facebook qua kênh Messenger
 
 
 
 ###  
+
+
 
