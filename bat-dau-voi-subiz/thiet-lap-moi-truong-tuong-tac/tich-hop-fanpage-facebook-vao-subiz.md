@@ -10,11 +10,11 @@ Messenger là một trong các kênh tương tác mà bạn có thể tích hợ
 
 Click chọn nút **Kết nối với Fanpage**
 
-![](../../.gitbook/assets/fanpage-list.png)
+![K&#x1EBF;t n&#x1ED1;i v&#x1EDB;i Fanpage](../../.gitbook/assets/messenger-page.png)
 
 **Bước 2: Nhập thông tin tài khoản Facebook của bạn** \(tài khoản Admin của Fanpage mà bạn dự định tích hợp\)
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/login-facebook.png)
+![Nh&#x1EAD;p th&#xF4;ng tin t&#xE0;i kho&#x1EA3;n Facebook c&#x1EE7;a b&#x1EA1;n](../../.gitbook/assets/login-facebook%20%281%29.png)
 
 **Bước 3: Cho phép Subiz truy cập dữ liệu trên Facebook của bạn**
 
