@@ -53,7 +53,7 @@ Với gói Miễn phí, Bạn vẫn có thể đăng nhập, online và chat v�
 
 Tuy nhiên, bảng so sánh dưới đây sẽ giúp bạn cân nhắc sự khác biệt:
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 > Nâng cấp tài khoản lên gói trả phí giúp bạn sử dụng đầy đủ nhất, tốt nhất các tính năng mà Subiz cung cấp.
 

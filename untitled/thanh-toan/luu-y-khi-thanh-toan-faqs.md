@@ -54,7 +54,9 @@ Hóa đơn được yêu cầu thực hiện trong vòng **30 ngày** kể từ 
 
 ##  Quản lý hóa đơn
 
-Để theo dõi các thông tin Hóa đơn
+Để theo dõi thông tin, tình trạng Hóa đơn \(tình trạng thanh toán, chu kì, thời hạn còn lại..\) bạn có thể đăng nhập vào [Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F) chọn Cài đặt/Thanh toán. Thông tin sẽ được hiển thị như sau:
+
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 
 
@@ -67,23 +69,6 @@ Sau khi đăng ký tài khoản mới, bạn sẽ được sử dụng toàn b�
 #### Tài khoản trả phí
 
 Khi bạn quyết định nâng cấp tài khoản, bạn cần xác định số agent \(hỗ trợ viên\), chu kỳ thanh toán và loại gói dịch vụ. Thanh toán sẽ được hoàn tất vào đầu chu kỳ sử dụng. Chúng tôi không có chính sách hoàn thanh toán – đây là chính sách đối với tất cả khách hàng – và bạn sẽ chịu trách nhiệm về toàn bộ các lần thanh toán của tài khoản bạn sở hữu.
-
-#### Hủy tài khoản
-
-Bạn có thể hủy tài khoản bất kỳ lúc nào ngay tại [trang quản lý tài khoản](https://dashboard.subiz.com/subscription/index).  
-Sau khi hủy, tài khoản của bạn sẽ ngừng ngay lập tức. Thanh toán trước đó của bạn sẽ bị mất và không được hoàn lại.
-
-Để biết thêm thông tin về dịch vụ, bạn có thể tìm hiểu [Chính sách bảo mật](http://subiz.com/vi/privacy-policy.html) và [Điều khoản sử dụng](http://subiz.com/vi/terms-of-service.html).
-
-Nếu bạn có bất kỳ câu hỏi khác, hãy [chat với chúng tôi](http://subiz.com/vi).
-
-## Phân biệt mã Credit và mã khuyến mại \(Promotion code\)
-
-Hiện tại Subiz phát hành 02 loại hình ưu đãi tới khách hàng: Promotion Code \(Mã khuyến mại\) và Credit Code \(Mã tín dụng\)
-
-– Về cơ bản, đây là 2 loại chương trình ưu đãi được xây dựng và phát triển cho các khách hàng Subiz: Khuyến mại \(giảm giá\) và Credit \(Tín dụng\).
-
-![](../../.gitbook/assets/image%20%282%29.png)
 
 ## Subiz có những chính sách ưu đãi nào?
 
