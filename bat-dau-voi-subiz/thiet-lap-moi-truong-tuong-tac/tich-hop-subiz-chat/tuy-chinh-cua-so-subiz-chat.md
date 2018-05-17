@@ -16,7 +16,7 @@ Tiếp theo, **bạn Copy và paste đoạn css tương ứng để tùy chỉnh
 
 Dưới đây là một số tùy chỉnh css một số thành phần trên cửa sổ chat bạn có thể tham khảo.
 
-#### Thay đổi kích thước cửa sổ chat
+#### Thay đổi kích thước cửa sổ chat và font chữ
 
 Bạn có thể thay đổi chiều cao và chiều rộng theo ý muốn:
 
@@ -57,37 +57,21 @@ Phần **600**px bạn có thể điều chỉnh con số cho phù hợp với w
 .message-content{ font-size:20px;}
 ```
 
-![](../../../.gitbook/assets/css-size-font.png)
+![Thay &#x111;&#x1ED5;i c&#x1EE1; ch&#x1EEF; tr&#xEA;n c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/css-size-font.png)
 
 ####  {#tuy-chinh-mau-sac-toan-bo-cua-so-chat}
 
-
-
-
-
-
-
-* Dài màu chuyển tiếp
-
-| 12 | .color-theme-default{background-image: linear-gradient\(to right top, \#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f\);} |
-| --- |
-
-
-Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với website.
-
-![](https://docv4.subiz.com/wp-content/uploads/2018/05/CSS-mau-sac-toan-bo.png)
-
-#### Tùy chỉnh màu sắc từng phần trên cửa sổ chat {#tuy-chinh-mau-sac-tung-phan-tren-cua-so-chat}
+#### Tùy chỉnh màu sắc trên cửa sổ chat Subiz {#tuy-chinh-mau-sac-tung-phan-tren-cua-so-chat}
 
 {% tabs %}
-{% tab title="Tùy chỉnh màu sắc toàn bộ cửa sổ chat" %}
+{% tab title="Màu sắc toàn bộ cửa sổ chat" %}
 {% hint style="danger" %}
 Khi bạn chọn cách tùy chỉnh màu sắc toàn bộ cửa sổ chat, bạn sẽ không thể tùy chỉnh màu sắc cho từng phần riêng biệt như header, khung tin nhắn hay nút tạo mới được nữa
 {% endhint %}
 
 Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp.
 
-* Màu sắc đơn
+* **Mã code tùy chỉnh toàn bộ cửa sổ chat theo màu sắc đơn**
 
 ```text
 .color-theme-default
@@ -96,7 +80,7 @@ Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuy�
 
 Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
 
-* Dài màu chuyển tiếp
+* **Mã code tùy chỉnh toàn bộ cửa sổ chat theo dải màu chuyển tiếp**
 
 ```text
 .color-theme-default
@@ -108,7 +92,7 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 ![T&#xF9;y ch&#x1EC9;nh m&#xE0;u s&#x1EAF;c to&#xE0;n b&#x1ED9; c&#x1EED;a s&#x1ED5; chat theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p](../../../.gitbook/assets/css-mau-sac-toan-bo.png)
 {% endtab %}
 
-{% tab title="Tùy chỉnh màu sắc header" %}
+{% tab title="Màu sắc header" %}
 Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
 
 * **Mã code tùy chỉnh màu sắc đơn của header**
@@ -131,10 +115,10 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 ![T&#xF9;y ch&#x1EC9;nh m&#xE0;u s&#x1EAF;c header theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p](../../../.gitbook/assets/css-mau-header.png)
 {% endtab %}
 
-{% tab title="Tùy chỉnh màu sắc khung tin nhắn" %}
+{% tab title="Màu sắc khung tin nhắn" %}
 Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
 
-* **Mã code tùy chỉnh theo màu sắc đơn**
+* **Mã code tùy chỉnh theo màu sắc đơn cho khung tin nhắn**
 
 ```text
 .message-body {background-color:#00000;}
@@ -142,7 +126,7 @@ Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuy�
 
 Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
 
-* **Mã code tùy chỉnh theo dài màu chuyển tiếp**
+* **Mã code tùy chỉnh theo dài màu chuyển tiếp cho khung tin nhắn**
 
 ```text
 .message-body
@@ -154,10 +138,10 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 ![T&#xF9;y ch&#x1EC9;nh m&#xE0;u khung tin nh&#x1EAF;n theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p](../../../.gitbook/assets/css-khung-tin-nhan.png)
 {% endtab %}
 
-{% tab title="Tùy chỉnh màu sắc nút \"Tạo mới\"" %}
+{% tab title="Màu sắc nút \"Tạo mới\"" %}
 Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
 
-* Màu sắc đơn
+* **Mã code tùy chỉnh theo màu sắc đơn cho nút "Tạo mới"**
 
 ```text
 .add-new-conversation
@@ -166,7 +150,7 @@ Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuy�
 
 Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
 
-* Dài màu chuyển tiếp
+* **Mã code tùy chỉnh theo dải màu chuyển tiếp cho nút "Tạo mới"**
 
 ```text
 .add-new-conversation
