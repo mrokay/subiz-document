@@ -12,3 +12,5 @@ Trải nghiệm khách hàng không chỉ là cơ hội để xây dựng mối 
 * Tạo automation tự động gửi tin nhắn giúp bạn chủ động tương tác với khách hàng, gửi các thông điệp đến từng nhóm khách hàng cụ thể.
 * Tạo automation tự động gửi lời chào cho khách hàng truy cập tạo cảm giác thân thiện, luôn chào đón của doanh nghiệp
 
+
+
