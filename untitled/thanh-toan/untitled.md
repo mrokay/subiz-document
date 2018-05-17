@@ -39,6 +39,8 @@ Sau khi nâng cấp tài khoản thành công, bất kỳ lúc nào bạn đều
 
 Cần đoạn giới thiệu
 
+các bước
+
 1. Truy nhập vào Tài khoản [Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F) . Cài đặt &gt; **Thanh toán**
 
 ![](../../.gitbook/assets/image%20%2812%29.png)
@@ -49,9 +51,13 @@ Thanh toán dịch vụ Subiz
 
 ![Thanh to&#xE1;n chuy&#x1EC3;n kho&#x1EA3;n](../../.gitbook/assets/thanh-toan-chuyen-khoan.png)
 
-3. Hệ thống tự động hiển thị thông tin thanh toán tương ứng
+{% hint style="info" %}
+Lưu ý: Hệ thống tự động hiển thị thông tin thanh toán tương ứng
 
 * Số tiền
 * Nội dung chuyển khoản
 * Số tài khoản ghi nhận thanh toán
+{% endhint %}
+
+
 
