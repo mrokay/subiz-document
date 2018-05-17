@@ -4,8 +4,6 @@ Nếu bạn muốn quản lý các thông tin về tài khoản bao gồm gói c
 
 ![Qu&#x1EA3;n l&#xFD; th&#xF4;ng tin t&#xE0;i kho&#x1EA3;n](../../.gitbook/assets/quan-ly-thong-tin-tai-khoan.png)
 
-
-
 Trang thanh toán bao gồm những thông tin sau:
 
 * **Gói dịch vụ**: Bạn sẽ biết được tài khoản của bạn đang ở gói dịch vụ nào: Free, Standard/Trial, Standard, Advanced Free: Gói Miễn phí Trial: Tài khoản của bạn đang trong thời gian dùng thử Standard: Gói Cơ bản Advanced: Gói Nâng cao

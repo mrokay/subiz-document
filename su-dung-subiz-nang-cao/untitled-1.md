@@ -6,6 +6,22 @@ description: Sẽ chèn link vào các mục sau khi hoàn thiện đưa bài l�
 
 Dù đã cài đặt Subiz nhưng bạn vẫn chưa thực sự biết cách nâng cao hiệu quả kinh doanh online và thúc đẩy doanh số? Trong bài viết này, Subiz sẽ chỉ ra cho bạn những cách tối ưu sử dụng Subiz trong việc gia tăng doanh số bán hàng của mình:
 
+Bạn nên luôn nhớ rằng "Khách hàng ở đâu- Doanh nghiệp ở đó", do vậy, khi khách hàng đến với bạn, tức là họ cần bạn, bạn phải tương tác với họ làm sao để giữ chân khách hàng, nâng cao hiệu quả bán hàng. Trong bài viết này, Subiz sẽ gợi ý bạn cách tối ưu sử dụng Subiz, gia tăng doanh số bán hàng hiệu quả:
+
+{% tabs %}
+{% tab title="Website" %}
+
+{% endtab %}
+
+{% tab title="Facebook" %}
+
+{% endtab %}
+
+{% tab title="Email" %}
+
+{% endtab %}
+{% endtabs %}
+
 #### Tăng hiệu suất làm việc cho các Agent {#tang-hieu-suat-lam-viec-cho-cac-agent}
 
 * Sử dụng Thư viện câu trả lời có trên Subiz sẽ giúp Agent tiết kiệm thời gian và tập trung chăm sóc khách hàng hiệu quả hơn, giúp các Agent trả lời nhanh chóng và chính xác câu hỏi của khách hàng, giảm thời gian khách hàng phải chờ đợi và chuyên nghiệp hóa tương tác với khách hàng
