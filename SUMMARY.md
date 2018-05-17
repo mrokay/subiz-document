@@ -51,7 +51,6 @@
   * [Nâng cao trải nghiệm khách hàng](su-dung-subiz-nang-cao/nang-cao-trai-nghiem-khach-hang.md)
   * [Nâng cao hiệu quả bán hàng với Subiz](su-dung-subiz-nang-cao/untitled-1.md)
   * [Nâng cao hiệu quả marketing với Subiz](su-dung-subiz-nang-cao/nang-cao-hieu-qua-marketing-voi-subiz.md)
-  * [Subiz làm việc với GA](su-dung-subiz-nang-cao/subiz-lam-viec-voi-ga.md)
 * [Báo cáo & Thống kê](bao-cao-and-thong-ke-1.md)
 * Thanh toán
   * Thanh toán

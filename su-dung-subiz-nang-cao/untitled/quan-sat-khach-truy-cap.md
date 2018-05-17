@@ -2,9 +2,9 @@
 
 ### Làm thế nào để quan sát khách truy cập?
 
-**Bạn có thể theo dõi các khách đang truy cập website của bạn** tại trang **Khách**. Mỗi khách truy cập được nhận diện bằng [cookie](http://vi.wikipedia.org/wiki/Cookie) trên trình duyệt của họ.
+Khách truy cập là những khách hàng có nhu cầu tìm hiểu thông tin, sản phẩm và dịch vụ của doanh nghiệp. **Họ đều có thể trở thành khách hàng tiềm năng, do đó, hãy quan sát hành trình khách hàng trên website xem họ đang quan tâm những thông tin gì để chủ động tiếp cận và hỗ trợ họ**. Càng tương tác nhiều thì cơ hội bán hàng của bạn càng cao. 
 
-Khách truy cập là những khách hàng có nhu cầu tìm hiểu thông tin, sản phẩm và dịch vụ của doanh nghiệp. **Họ đều có thể trở thành khách hàng tiềm năng, nên hãy quan sát xem họ đang quan tâm những thông tin gì để chủ động tiếp cận và hỗ trợ họ**. Càng tương tác nhiều thì cơ hội bán hàng của bạn càng cao. Đừng bỏ lỡ hàng ngàn khách hàng hàng ngày đang truy cập vào website của bạn.
+**Bạn có thể theo dõi các khách đang truy cập website của bạn** tại trang **Khách**. Mỗi khách truy cập được nhận diện bằng [cookie](http://vi.wikipedia.org/wiki/Cookie) trên trình duyệt của họ.
 
 ![](../../.gitbook/assets/visitor.png)
 
@@ -15,13 +15,13 @@ Với mỗi khách truy cập, bạn sẽ có những thông tin sau:
 * **Vị trí địa lý**: vị trí của khách truy cập được xác định thông qua địa chỉ IP
 * **Trang đang xem** : Địa chỉ trang mà khách đang xem trên website của bạn
 
-Click vào từng khách truy cập trên trang Khách, bạn sẽ được chuyển về trang Hoạt động để tương tác trực tiếp với khách hàng đó.
+Khi click vào từng khách truy cập trên trang **Khách**, bạn sẽ được chuyển về trang **Hoạt động** để tương tác trực tiếp với khách hàng đó.
 
 ![](../../.gitbook/assets/agent-chu-dong-tao-tuong-tac.png)
 
 ### Subiz xác định thông tin vị trí khách truy cập dựa vào đâu?
 
-![Hi&#x1EC3;n th&#x1ECB; th&#xF4;ng tin v&#x1ECB; tr&#xED; kh&#xE1;ch truy](../../.gitbook/assets/location-e1464840433967.png)
+![](../../.gitbook/assets/screenshot_52.png)
 
 Để xác định vị trí địa lý khách hàng, Subiz sử dụng dịch vụ của bên thứ 3 là **Maxmind**. Nó được xác định dựa trên địa chỉ IP. Các địa chỉ IP này đôi khi được liên kết với một ISP \(Internet Service Provider\) hoặc VPN \(Virtual Private Network\) nên sự khác biệt với địa điểm thực của khách hàng hoàn toàn có thể xảy ra.
 
