@@ -69,7 +69,25 @@ Với mỗi **khách hàng**, bạn vào mục **List Activities** sẽ nhận b
 
 ![](../../.gitbook/assets/attach-file.jpg)
 
+5. Gắn thẻ Tag hội thoại Email
 
+Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp Agent dễ dàng phân loại và quản lý các tương tác của khách hàng. 
+
+{% tabs %}
+{% tab title="Gắn thẻ Tag" %}
+_**Hướng dẫn gắn thẻ Tag**:_ Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**![](http://docv4.subiz.com/wp-content/uploads/2018/01/Tag.png)
+{% endtab %}
+
+{% tab title="Xóa thẻ Tag" %}
+**Hướng dẫn xóa thẻ Tag**: Chọn nút **Tag** &gt; chọn **X** xóa Tag
+
+​![](https://docv4.subiz.com/wp-content/uploads/2018/02/Bieu-tuong-X.png)
+{% endtab %}
+{% endtabs %}
+
+{% hint style="danger" %}
+Lưu ý: Bạn cần cài đặt Tag trước khi gắn thẻ Tag cuộc hội thoại \([Xem chi tiết](https://docv4.subiz.com/cai-dat-tag/)\)
+{% endhint %}
 
 ## 
 
