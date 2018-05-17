@@ -1,5 +1,7 @@
 # Phương thức thanh toán
 
+Subiz có 2 hình thức thành toán.....
+
 ## Thanh toán qua Thẻ tín dụng \(Credit và Debit card\)
 
 Việc nâng cấp tài khoản lên gói dịch vụ trả phí sau khi bạn đã trải nghiệm thời gian dùng thử vô cùng đơn giản. Chỉ vài phút thao tác, tài khoản của bạn sẽ được nâng cấp ngay lập tức.
@@ -34,6 +36,8 @@ Dưới đây là minh họa giao diện hiển thị thông tin tài khoản c�
 Sau khi nâng cấp tài khoản thành công, bất kỳ lúc nào bạn đều có thể thay đổi những thông tin thuê bao này.
 
 ## Thanh toán qua Chuyển Khoản ngân hàng 
+
+Cần đoạn giới thiệu
 
 1. Truy nhập vào Tài khoản [Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F) . Cài đặt &gt; **Thanh toán**
 
