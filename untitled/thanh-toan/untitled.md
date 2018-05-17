@@ -31,7 +31,7 @@ Dưới đây là minh họa giao diện hiển thị thông tin tài khoản c�
 
 ![](../../.gitbook/assets/image%20%284%29.png)
 
-Sau khi nâng cấp tài khoản thành công, bất kỳ lúc nào bạn đều có thể [thay đổi những thông tin thuê bao](https://docs.subiz.com/quan-ly-thong-tin-goi-dich-vu/) này.
+Sau khi nâng cấp tài khoản thành công, bất kỳ lúc nào bạn đều có thể thay đổi những thông tin thuê bao này.
 
 ## Thanh toán qua Chuyển Khoản ngân hàng 
 
