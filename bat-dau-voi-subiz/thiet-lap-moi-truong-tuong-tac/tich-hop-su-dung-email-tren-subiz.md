@@ -15,7 +15,7 @@ Với các email bạn đang sử dụng để tương tác với khách hàng, 
 * Nhập địa chỉ email muốn chuyển tiếp vào phần **Nhập địa chỉ email**
 * Chọn **Thêm**
 
-![](http://docv4.subiz.com/wp-content/uploads/2018/02/new-income-email.png)
+![Th&#xEA;m &#x111;&#x1ECB;a ch&#x1EC9; email v&#xE0;o danh s&#xE1;ch Income Email](../../.gitbook/assets/new-income-email.png)
 
 #### **Bước 2: Cài đặt chuyển tiếp trên email của bạn**
 
