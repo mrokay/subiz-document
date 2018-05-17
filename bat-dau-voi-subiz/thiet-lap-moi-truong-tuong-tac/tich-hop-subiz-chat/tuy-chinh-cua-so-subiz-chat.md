@@ -59,29 +59,7 @@ Phần **600**px bạn có thể điều chỉnh con số cho phù hợp với w
 
 ![](../../../.gitbook/assets/css-size-font.png)
 
-#### Tùy chỉnh màu sắc toàn bộ cửa sổ chat {#tuy-chinh-mau-sac-toan-bo-cua-so-chat}
-
-Khi bạn chọn cách tùy chỉnh màu sắc toàn bộ cửa sổ chat, bạn sẽ không thể tùy chỉnh màu sắc cho từng phần riêng biệt như header, khung tin nhắn hay nút tạo mới được nữa
-
-Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp.
-
-* Màu sắc đơn
-
-| 12 | .color-theme-default{background-color:\#000000;} |
-| --- |
-
-
-Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
-
-* Dài màu chuyển tiếp
-
-| 12 | .color-theme-default{background-image: linear-gradient\(to right top, \#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f\);} |
-| --- |
-
-
-Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với website.![](https://docv4.subiz.com/wp-content/uploads/2018/05/CSS-mau-sac-toan-bo.png)
-
-#### Tùy chỉnh màu sắc từng phần trên cửa sổ chat {#tuy-chinh-mau-sac-tung-phan-tren-cua-so-chat}
+#### Tùy chỉnh màu sắc trên cửa sổ chat {#tuy-chinh-mau-sac-tung-phan-tren-cua-so-chat}
 
 {% tabs %}
 {% tab title="Màu sắc toàn bộ cửa sổ chat" %}
@@ -91,7 +69,7 @@ Khi bạn chọn cách tùy chỉnh màu sắc toàn bộ cửa sổ chat, bạn
 
 Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp.
 
-* Màu sắc đơn
+* **Mã code tùy chỉnh theo màu sắc đơn cho toàn bộ cửa sổ chat**
 
 ```text
 .color-theme-default{background-color:#000000;}
@@ -100,7 +78,7 @@ Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuy�
   
 Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
 
-* Dài màu chuyển tiếp
+* **Mã code tùy chỉnh theo dài màu chuyển tiếp cho toàn bộ cửa sổ chat**
 
 ```text
 .color-theme-default{background-image: linear-gradient(to right top, #056587, #0085a3, #00a6ac, #00c59f, #0be17f);}
