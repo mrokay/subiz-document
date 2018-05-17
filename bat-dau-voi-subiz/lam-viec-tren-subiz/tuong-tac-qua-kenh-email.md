@@ -39,7 +39,7 @@ Cửa sổ Email mở, bạn soạn mail gửi khách hàng tại đây:
 
 ###  Trả lời Email khách hàng
 
-Trong **List Activities** của từng khách hàng, bạn sẽ nhận biết được kênh tương tác qua biểu tượng **Email** và **tiêu đề Mail.**
+Với mỗi **khách hàng**, bạn vào mục **List Activities** sẽ nhận biết được kênh tương tác qua **biểu tượng Mail và tiêu đề Email.** 
 
 ![Nh&#x1EAD;n email t&#x1EEB; kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/xem-email.jpg)
 
@@ -55,7 +55,13 @@ Một số tính năng hữu ích trên kênh Email
 
 ### Một số chức năng hữu ích trên Email Subiz
 
+1. Hỗ trợ soạn thảo Email dưới dạng HTML
 
+![](../../.gitbook/assets/html-1.jpg)
+
+  2. Tùy chỉnh font chữ văn bản
+
+![](../../.gitbook/assets/font-chu-1.jpg)
 
 
 

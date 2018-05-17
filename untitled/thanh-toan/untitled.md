@@ -8,7 +8,7 @@ Việc nâng cấp tài khoản lên gói dịch vụ trả phí sau khi bạn �
 
 1. Truy nhập vào Tài khoản [Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F) . Cài đặt &gt; **Thanh toán**
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 Thanh toán dịch vụ Subiz
 
@@ -43,7 +43,7 @@ các bước
 
 1. Truy nhập vào Tài khoản [Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F) . Cài đặt &gt; **Thanh toán**
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 Thanh toán dịch vụ Subiz
 
