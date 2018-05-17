@@ -57,9 +57,9 @@ Phần **600**px bạn có thể điều chỉnh con số cho phù hợp với w
 .message-content{ font-size:20px;}
 ```
 
-![](../../../.gitbook/assets/css-size-font.png)
+![Thay &#x111;&#x1ED5;i c&#x1EE1; ch&#x1EEF; tr&#xEA;n c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/css-size-font.png)
 
-#### Tùy chỉnh màu sắc trên cửa sổ chat {#tuy-chinh-mau-sac-tung-phan-tren-cua-so-chat}
+#### Tùy chỉnh màu sắc trên cửa sổ chat Subiz {#tuy-chinh-mau-sac-tung-phan-tren-cua-so-chat}
 
 {% tabs %}
 {% tab title="Màu sắc toàn bộ cửa sổ chat" %}
@@ -69,24 +69,25 @@ Khi bạn chọn cách tùy chỉnh màu sắc toàn bộ cửa sổ chat, bạn
 
 Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp.
 
-* **Mã code tùy chỉnh theo màu sắc đơn cho toàn bộ cửa sổ chat**
+* **Mã code tùy chỉnh toàn bộ cửa sổ chat theo màu sắc đơn**
 
 ```text
-.color-theme-default{background-color:#000000;}
+.color-theme-default
+{background-color:#000000;}
 ```
 
-  
 Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
 
-* **Mã code tùy chỉnh theo dài màu chuyển tiếp cho toàn bộ cửa sổ chat**
+* **Mã code tùy chỉnh toàn bộ cửa sổ chat theo dải màu chuyển tiếp**
 
 ```text
-.color-theme-default{background-image: linear-gradient(to right top, #056587, #0085a3, #00a6ac, #00c59f, #0be17f);}
+.color-theme-default
+{background-image: linear-gradient(to right top, #056587, #0085a3, #00a6ac, #00c59f, #0be17f);}
 ```
 
-Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với 
+Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với website.
 
-![T&#xF9;y ch&#x1EC9;nh m&#xE0;u s&#x1EAF;c theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p cho to&#xE0;n b&#x1ED9; c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/css-mau-sac-toan-bo%20%281%29.png)
+![T&#xF9;y ch&#x1EC9;nh m&#xE0;u s&#x1EAF;c to&#xE0;n b&#x1ED9; c&#x1EED;a s&#x1ED5; chat theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p](../../../.gitbook/assets/css-mau-sac-toan-bo.png)
 {% endtab %}
 
 {% tab title="Màu sắc header" %}
@@ -115,7 +116,7 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 {% tab title="Màu sắc khung tin nhắn" %}
 Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
 
-* **Mã code tùy chỉnh theo màu sắc đơn**
+* **Mã code tùy chỉnh theo màu sắc đơn cho khung tin nhắn**
 
 ```text
 .message-body {background-color:#00000;}
@@ -123,14 +124,14 @@ Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuy�
 
 Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
 
-* **Mã code tùy chỉnh theo dài màu chuyển tiếp**
+* **Mã code tùy chỉnh theo dài màu chuyển tiếp cho khung tin nhắn**
 
 ```text
 .message-body
 {background-image: linear-gradient(to right top, #056587, #0085a3, #00a6ac, #00c59f, #0be17f);}
 ```
 
-Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với
+Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với website
 
 ![T&#xF9;y ch&#x1EC9;nh m&#xE0;u khung tin nh&#x1EAF;n theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p](../../../.gitbook/assets/css-khung-tin-nhan.png)
 {% endtab %}
@@ -147,7 +148,7 @@ Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuy�
 
 Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
 
-* **Mã code tùy chỉnh theo dài màu chuyển tiếp cho nút "Tạo mới"**
+* **Mã code tùy chỉnh theo dải màu chuyển tiếp cho nút "Tạo mới"**
 
 ```text
 .add-new-conversation
@@ -170,37 +171,39 @@ Ngoài ra, nếu bạn muốn sử dụng một ngôn ngữ khác ngoài các ng
 
 Đăng nhập tài khoản và vào [Cài đặt cửa sổ hội thoại](https://app.subiz.com/settings/widget-setting), phần **Ngôn ngữ**. Chọn 1 ngôn ngữ cụ thể và click vào “Tùy chỉnh ngôn ngữ”.
 
+![N&#x1A1;i b&#x1EAF;t &#x111;&#x1EA7;u th&#x1EF1;c hi&#x1EC7;n t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF;](../../../.gitbook/assets/tc-ngon-ngu-1.png)
 
+Chọn “Nhấn để tải xuống file tùy chỉnh ngôn ngữ cho widget” để tải về file .po mẫu.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/Customize.png)
-
-Chọn “Nhấn để tải xuống file tùy chỉnh ngôn ngữ cho widget” để tải về file .po mẫu.![](https://docv4.subiz.com/wp-content/uploads/2018/04/download.png)
+![T&#x1EA3;i xu&#x1ED1;ng file t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; cho widget](../../../.gitbook/assets/tai-file-tuy-chinh-ngon-ngu.png)
 
 #### Bước 2: Tùy chỉnh file ngôn ngữ {#buoc-2-tuy-chinh-file-ngon-ngu}
 
 * Truy cập [https://localise.biz/free/poeditor](https://localise.biz/free/poeditor), tải lên file mẫu mà bạn vừa tải về.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/drop-a-file.png)
+![&#x110;&#x1B0;a file t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; l&#xEA;n](../../../.gitbook/assets/drop-a-file.png)
 
 * Tại Source text là phần ngôn ngữ gốc. Bạn có thể dịch ra các ngôn ngữ mà bạn muốn tại phần Translation. Ví dụ, dịch sang tiếng Đức: Email and Name = Email und Name.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/edit-file.png)
+![D&#x1ECB;ch c&#xE1;c ng&#xF4;n ng&#x1EEF; b&#x1EA1;n mu&#x1ED1;n t&#xF9;y ch&#x1EC9;nh](../../../.gitbook/assets/edit-file.png)
 
 * Chọn Save để Lưu thay đổi sau khi hoàn tất.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/save-button.png)
+![L&#x1B0;u file &#x111;&#xE3; d&#x1ECB;ch](../../../.gitbook/assets/save-button.png)
 
 * Click vào file để tải về.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/save-file.png)
+![T&#x1EA3;i file &#x111;&#xE3; d&#x1ECB;ch v&#x1EC1; m&#xE1;y t&#xED;nh](../../../.gitbook/assets/save-file.png)
 
 #### Bước 3: Tải lên file .po đã chỉnh sửa và lưu thay đổi {#buoc-3-tai-len-file-po-da-chinh-sua-va-luu-thay-doi}
 
 Tại phần cài đặt Ngôn ngữ, bạn chọn 1 ngôn ngữ và chọn Tùy chỉnh ngôn ngữ. Sau khi tải file mới lên, ngôn ngữ mới sẽ được ghi đè lên ngôn ngữ bạn vừa chọn.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/upload-file.png)
+![T&#x1EA3;i file &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; l&#xEA;n Subiz](../../../.gitbook/assets/upload-file.png)
 
-Sau khi có thông báo file tải lên thành công, bạn thoát ra ngoài và Lưu thay đổi.![](https://docv4.subiz.com/wp-content/uploads/2018/04/upload-success.png)
+Sau khi có thông báo file tải lên thành công, bạn thoát ra ngoài và Lưu thay đổi.
+
+![Th&#xF4;ng b&#xE1;o t&#x1EA3;i file &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; th&#xE0;nh c&#xF4;ng](../../../.gitbook/assets/upload-success.png)
 
 ###  {#loi-khi-tich-hop-len-website}
 

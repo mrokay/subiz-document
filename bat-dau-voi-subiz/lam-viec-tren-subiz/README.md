@@ -1,24 +1,21 @@
+---
+description: >-
+  Subiz là Công cụ giúp bạn dễ dàng tiếp cận, tương tác và quản lý khách hàng
+  trên Website, Email, Messenger. Hãy đăng nhập App.subiz.com và bắt đầu ngày
+  làm việc hiệu quả.
+---
+
 # Làm việc trên Subiz
 
-## User list của bạn \(My User\)
+Hướng dẫn làm việc trên Subiz như sau:
 
-###  Conversation là gì?
-
-Cuộc hội thoại là cuộc trò chuyện hay tương tác giữa khách hàng và Agent trên các kênh khác nhau như Website, Email, Fanpage Messenger,...
-
-
-
-###  User list của bạn \(My User\)
-
-User list là danh sách khách hàng có tương tác với Agent Subiz.
-
-##  Làm gì đầu giờ sáng mỗi ngày
-
-###  Xem các cuộc hội thoại chưa đọc
-
-###  Thứ tự xử lý các cuộc hội thoại
+1. [Tương tác khách truy cập website trên kênh Subiz chat](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-tren-kenh-subiz-chat)
+2. [Tương tác khách hàng qua kênh Email](https://subiz.gitbook.io/subiz-document/~/edit/primary/bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-email)
+3. [Tương tác khách hàng trên Facebook qua kênh Messenger](https://subiz.gitbook.io/subiz-document/~/edit/primary/bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-messenger)
 
 
 
 ###  
+
+
 

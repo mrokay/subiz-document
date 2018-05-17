@@ -44,7 +44,7 @@ Tại mục **Cài đặt**, bạn có thể thiết lập các tính năng có 
 {% endtab %}
 
 {% tab title="Thống kê" %}
-Bạn có thể thống kê số lượng tương tác với khách hàng, nắm được tình hình tương tác, những vấn đề khách hàng thường gặp phải và đưa ra hướng cải thiện chất lượng dịch vụ khách hàng ngay tại mục **Thống kê** trên Dashboard. 
+Bạn có thể thống kê số lượng tương tác với khách hàng, nắm được tình hình tương tác, những vấn đề khách hàng thường gặp phải và đưa ra hướng cải thiện chất lượng dịch vụ khách hàng ngay tại mục Thống kê trên Dashboard. 
 
 Tại đây, bạn có thể thống kê các cuộc tương tác dựa theo từng tư vấn viên, nhóm tư vấn viên theo thời gian hoặc theo dõi, phân tích các cuộc tương tác về các vấn đề cụ thể dựa vào Tag.
 
