@@ -4,11 +4,21 @@ Subiz vận hành theo mô hình SAAS \(software as a service\), tạm dịch l�
 
 ### Cung cấp dịch vụ theo hình thức "Thuê Bao" là gì? {#cung-cap-dich-vu-theo-hinh-thuc-thue-bao-la-gi}
 
+Subiz là dịch vụ thuê bao, sẽ tính phí dựa trên 3 yếu tố:
+
+- Loại gói: Cơ bản/Nâng cao \(Standard/ Advanced\)
+
+- Số agent: số lượng người đăng nhập Subiz
+
+- Chu kì thanh toán: 01, 03, 06, 12, 24 tháng
+
 Bạn cần thanh toán gói thuê bao vào đầu mỗi chu kỳ thanh toán. \(Thuê bao trả trước\)
 
-Hiện tại, bạn có thể lựa chọn một trong các chu kỳ: 1 tháng, 3 tháng, 6 tháng, 1 năm, 2 năm.
+Tùy theo quy mô và nhu cầu mà doanh nghiệp có thể chọn đăng kí 1 hay nhiều agent \(số người đăng nhập sử dụng tài khoản.
 
-Với mỗi chu kỳ bạn sẽ được hưởng một mức ưu đãi khác nhau \([Chi tiết](https://subiz.com/vi/calculator.html)\)
+  
+
+\([Chi tiết](https://subiz.com/vi/calculator.html)\)
 
 > **Note:** Với chu kì 12 tháng, bạn có thể tiết kiệm 20%
 
