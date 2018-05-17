@@ -10,7 +10,7 @@ Messenger là một trong các kênh tương tác mà bạn có thể tích hợ
 
 Click chọn nút **Kết nối với Fanpage**
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/messenger-page.png)
+![](../../.gitbook/assets/fanpage-list.png)
 
 **Bước 2: Nhập thông tin tài khoản Facebook của bạn** \(tài khoản Admin của Fanpage mà bạn dự định tích hợp\)
 
