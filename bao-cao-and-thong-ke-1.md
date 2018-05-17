@@ -24,7 +24,21 @@ Thống kê cuộc hội thoại giúp bạn có đánh giá tổng quan về t�
 
 #### Các tiêu chí thống kê
 
-Tại mục Thống kê, bạn có thể thống kê số lượng cuộc hội thoại theo kênh, Agent và thời gian:
+Tại mục Thống kê, bạn có thể thống kê số lượng cuộc hội thoại theo **kênh, Agent** và **thời gian**:
+
+{% tabs %}
+{% tab title="Kênh" %}
+
+{% endtab %}
+
+{% tab title="Agent" %}
+
+{% endtab %}
+
+{% tab title="Thống kê theo thời gian" %}
+Lọc cuộc hội thoại theo kênh giúp bạn biết được lượng tương tác qua từng kênh Subiz Chat/ Email/ Messenger
+{% endtab %}
+{% endtabs %}
 
 **Kênh:** Lọc cuộc hội thoại theo kênh giúp bạn biết được lượng tương tác qua từng kênh Subiz Chat/ Email/ Messenger 
 
