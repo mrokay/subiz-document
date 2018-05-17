@@ -1,5 +1,7 @@
 # Thay đổi gói dịch vụ
 
+Cần đoạn giới thiệu
+
 ### Nâng/ Hạ tài khoản
 
 #### Nâng cấp tài khoản
@@ -36,7 +38,7 @@ Sau đó lựa chọn gói Nâng cao và tiến hành nâng cấp tài khoản:
 
 #### Hạ cấp tài khoản
 
-Để hạ cấp tài khoản, bạn vào mục `Gói cước hiện tại` và tiến hành hạ cấp tài khoản
+Để hạ cấp tài khoản, bạn vào mục **Gói cước hiện tại** `Gói cước hiện tại`và tiến hành hạ cấp tài khoản
 
 ![](../../.gitbook/assets/ha-tai-khoan.png)
 
