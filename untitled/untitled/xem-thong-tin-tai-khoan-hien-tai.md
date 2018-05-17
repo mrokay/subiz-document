@@ -17,7 +17,7 @@ Trang thanh toán bao gồm những thông tin sau:
 * **Danh sách hóa đơn**: Toàn bộ hóa đơn và trạng thái thanh toán của hóa đơn sẽ được hiển thị. Bạn dễ dàng kiểm soát việc thanh toán, dễ dàng tải về để tiện cho quá trình chia sẻ, lưu trữ.
 
 {% hint style="info" %}
-**Lưu ý**: Chỉ có Agent Owner hoặc Agent được cấp quyền truy cập đầy đủ mục quản lý tài khoản mới xem được trang thanh toán.
+**Lưu ý**: Chỉ có Agent Owner hoặc Agent được cấp quyền truy cập đầy đủ mục quản lý tài khoản mới chỉnh sửa được các mục trong trang thanh toán.
 {% endhint %}
 
 
