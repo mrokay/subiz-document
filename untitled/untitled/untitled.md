@@ -30,9 +30,9 @@ Sau khi nâng cấp tài khoản, hệ thống sẽ phát sinh hóa đơn trong 
 
 #### Hạ cấp tài khoản
 
-Để hạ cấp tài khoản, bạn vào mục **Gói cước hiện tại** `Gói cước hiện tại`và tiến hành hạ cấp tài khoản
+Để hạ cấp tài khoản, bạn vào mục **Gói cước hiện tại** và tiến hành hạ cấp tài khoản
 
-![](../../.gitbook/assets/ha-tai-khoan.png)
+![H&#x1EA1; c&#x1EA5;p t&#xE0;i kho&#x1EA3;n](../../.gitbook/assets/ha-tai-khoan.png)
 
 ### Thay đổi số lượng Agent
 
