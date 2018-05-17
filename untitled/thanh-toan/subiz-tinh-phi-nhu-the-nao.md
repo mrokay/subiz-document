@@ -10,3 +10,9 @@ Hiện tại, bạn có thể lựa chọn một trong các chu kỳ: 1 tháng, 
 
 Với mỗi chu kỳ bạn sẽ được hưởng một mức ưu đãi khác nhau \([Chi tiết](https://subiz.com/vi/calculator.html)\)
 
+> **Note:** Với chu kì 12 tháng, bạn có thể tiết kiệm 20%
+
+
+
+
+
