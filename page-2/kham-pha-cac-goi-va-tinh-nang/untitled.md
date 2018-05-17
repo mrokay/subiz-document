@@ -4,7 +4,11 @@
 
 ### **Subiz Chat**
 
-**Cửa sổ Subiz chat là cửa sổ tương tác xuất hiện trên website của bạn sau khi bạn tích hợp mã nhúng Subiz lên website.** Khách truy cập sẽ tương tác trực tiếp với tư vấn viên của bạn ngay trên cửa sổ này
+Subiz Chat bao gồm 2 phần: **Tương tác trên Dashboard dành cho doanh nghiệp** và **cửa số Subiz Chat**.
+
+**Mọi tương tác của khách hàng với doanh nghiệp sẽ được hiển thị ngay trên Dashboard sau khi bạn tích hợp Subiz lên Website**, doanh nghiệp có thể dễ dàng tương tác trực tiếp với khách hàng của mình.
+
+**Cửa sổ Subiz Chat là cửa sổ tương tác xuất hiện trên website của bạn sau khi bạn tích hợp mã nhúng Subiz lên Website.** Khách truy cập sẽ tương tác trực tiếp với tư vấn viên của bạn ngay trên cửa sổ này
 
 **Nếu lần đầu truy cập website**, khách truy cập sẽ thấy cửa sổ hiển thị ở dạng sẵn sàng gửi tin nhắn mới.
 
@@ -36,7 +40,7 @@
 
 ### **Subiz Email**
 
-Để hỗ trợ doanh nghiệp thực hiện hiệu quả email marketing theo xu hướng mới, Subiz đã phát triển kênh tương tác Subiz Email, không chỉ giúp doanh nghiệp thuận tiện tương tác email cá nhân, mà còn thực hiện các email marketing và nâng cao trải nghiệm khách hàng và độ bộ hóa dữ liệu khách hàng.
+Để hỗ trợ doanh nghiệp thực hiện hiệu quả email marketing theo xu hướng mới, Subiz đã phát triển kênh tương tác Subiz Email, không chỉ giúp doanh nghiệp thuận tiện tương tác email cá nhân, mà còn thực hiện các email marketing và nâng cao trải nghiệm khách hàng và đồng bộ hóa dữ liệu khách hàng.
 
 ![](https://lh4.googleusercontent.com/OkoeWf52SoJsYOpjCMnIc6in9G_gPD6tRYmD01uJwsvP5BAcXuO2mJuwi4K1IquwgzfyHoeOgYEZBhlY3Wn0hHOmkSiY2j-51I-6LbTE-VdoHXFGgVBn9SGk6ciCT9xCng56-qPI)
 

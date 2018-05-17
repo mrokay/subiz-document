@@ -2,7 +2,7 @@
 
 ### Subiz hoạt động như thế nào?
 
-Nếu bạn chưa hiểu rõ về cách Subiz hoạt động thì bạn đến đúng nơi rồi đó! Tại đây, bạn sẽ biết được Subiz bao gồm những mục chính sẽ hỗ trợ bạn tương tác với khách hàng từ nhiều kênh và quản lý hoạt động kinh doanh một cách dễ dàng.
+Tại đây, bạn sẽ biết được Subiz bao gồm những mục chính sẽ hỗ trợ bạn tương tác với khách hàng từ nhiều kênh và quản lý hoạt động kinh doanh một cách dễ dàng.
 
 Subiz bao gồm các phần:
 
