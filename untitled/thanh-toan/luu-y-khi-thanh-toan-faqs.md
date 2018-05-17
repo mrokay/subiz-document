@@ -1,10 +1,14 @@
 # Lưu ý khi thanh toán \(FAQs\)
 
-## Tôi đã thanh toán rồi mà hệ thống vẫn hiển thị thông báo? 
+### Tôi đã thanh toán rồi mà hệ thống vẫn hiển thị thông báo? 
 
 Tình trạng này xảy ra với những trường hợp thanh toán thiếu do chênh lệch số dư khi thực hiện chuyển tiền. Việc này đã được lưu ý ngay tại email xác nhận thanh toán từ hệ thống khi thực hiện cập nhật thanh toán cho tài khoản bạn. Bạn vui lòng thanh toán chính xác số tiền hệ thống cung cấp.
 
+{% hint style="info" %}
 Nếu có bất kỳ câu hỏi nào liên quan đến hóa đơn phát sinh và việc thực hiện thanh toán, vui lòng gửi phản hồi đến email [billing@subiz.com](mailto:billing@subiz.com) để được hỗ trợ.
+{% endhint %}
+
+
 
 ##  Tại sao thanh toán thẻ không thành công? 
 
@@ -38,10 +42,11 @@ Nếu tất cả các thông tin bạn điền là chính xác, bạn có thể 
 
 ## Hợp đồng và Hóa đơn \(đối với khách hàng doanh nghiệp\) 
 
+{% hint style="info" %}
 * **Hợp đồng** được thực hiện với thuê bao có chu kỳ thanh toán từ **12 tháng** trở lên.
 * **Hóa đơn** được xuất theo yêu cầu của doanh nghiệp với chu kỳ thanh toán từ **03 tháng** trở lên.
-
-**Lưu ý:** Sản phẩm của Subiz thuộc đối tượng không chịu thuế. Phần VAT trong hóa đơn sẽ được gạch chéo.
+* Sản phẩm của Subiz thuộc đối tượng không chịu thuế. Phần VAT trong hóa đơn sẽ được gạch chéo.
+{% endhint %}
 
 Để gửi yêu cầu thực hiện Hợp đồng và Hóa đơn, bạn vui lòng điền thông tin theo [mẫu](https://docs.subiz.com/wp-content/uploads/2017/12/Subiz_Th%C3%B4ng-tin-doanh-nghi%E1%BB%87p.doc) và gửi tới email [billing@subiz.com](mailto:billing@subiz.com).
 
@@ -60,7 +65,7 @@ Hóa đơn được yêu cầu thực hiện trong vòng **30 ngày** kể từ 
 
 
 
-##  Chính sách hoàn tiền 
+### Chính sách hoàn tiền 
 
 #### Thời gian dùng thử
 
