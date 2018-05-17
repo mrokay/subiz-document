@@ -6,7 +6,7 @@ Trong quá trình tương tác với khác hàng trên Subiz, bạn có thể g�
 
 Bạn có thể chặn một User theo 2 cách sau
 
-#### Chặn trực tiếp User trong tab Activities \( Hoạt động \)
+#### Chặn trực tiếp User trong tab Activities \(Hoạt động\)
 
 Trong cuộc hội thoại, bạn có thể chặn user bằng cách click vào biểu tượng ba chấm ở góc phải màn hình và bật nút Block
 
