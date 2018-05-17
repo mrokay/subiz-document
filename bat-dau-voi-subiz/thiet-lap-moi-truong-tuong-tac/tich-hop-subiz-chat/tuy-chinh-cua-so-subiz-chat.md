@@ -110,39 +110,56 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 {% tab title="Tùy chỉnh màu sắc khung tin nhắn" %}
 Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
 
-* Mã code tùy cMàu sắc đơn
+* **Mã code tùy chỉnh theo màu sắc đơn**
+
+```text
+.message-body {background-color:#00000;}
+```
+
+Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
+
+* **Mã code tùy chỉnh theo dài màu chuyển tiếp**
+
+```text
+.message-body
+{background-image: linear-gradient(to right top, #056587, #0085a3, #00a6ac, #00c59f, #0be17f);}
+```
+
+Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với
+
+![T&#xF9;y ch&#x1EC9;nh m&#xE0;u khung tin nh&#x1EAF;n theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p](../../../.gitbook/assets/css-khung-tin-nhan.png)
 {% endtab %}
 
 {% tab title="Tùy chỉnh màu sắc nút \"Tạo mới\"" %}
+Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
 
-{% endtab %}
-{% endtabs %}
+* Màu sắc đơn
 
-
-
-**2. Tùy chỉnh màu sắc khung tin nhắn trên cửa sổ chat**
-
-
-
-| 1 | .message-body {background-color:\#00000;} |
-| --- |
-
+```text
+.add-new-conversation
+{background-color:#000000;}
+```
 
 Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
 
 * Dài màu chuyển tiếp
 
-| 12 | .message-body{background-image: linear-gradient\(to right top, \#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f\);} |
-| --- |
+```text
+.add-new-conversation
+{background-image: linear-gradient(to right top, #056587, #0085a3, #00a6ac, #00c59f, #0be17f);}
+```
+
+Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với website.
+
+![T&#xF9;y ch&#x1EC9;nh m&#xE0;u n&#xFA;t &quot;T&#x1EA1;o m&#x1EDB;i&quot; theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p](../../../.gitbook/assets/css-tao-moi.png)
+{% endtab %}
+{% endtabs %}
 
 
-Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với website.![](https://docv4.subiz.com/wp-content/uploads/2018/05/css-khung-tin-nhan.png)
+
+
 
 **3. Tùy chỉnh màu sắc nút “Tạo mới” tin nhắn trên cửa sổ chat**
-
-Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
-
-* Màu sắc đơn
 
 | 1 | .add-new-conversation {background-color:\#00000;} |
 | --- |
@@ -150,13 +167,12 @@ Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuy�
 
 Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
 
-* Dài màu chuyển tiếp
-
+* 
 | 12 | .add-new-conversation{background-image: linear-gradient\(to right top, \#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f\);} |
 | --- |
 
 
-Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với website.
+
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/05/Css-tao-moi.png)
 
