@@ -2,9 +2,13 @@
 
 ### Subiz là gì?
 
-Subiz là công cụ tương tác khách hàng tối ưu, toàn diện và mạnh mẽ. Là nền tảng tương tác giúp doanh nghiệp dễ dàng nhận diện, phân loại khách hàng tiềm năng từ đó xây dựng chân dung khách hàng mục tiêu và lên kế hoạch triển khai các chiến lược marketing tương tác, theo đuổi, chăm sóc, chuyển đổi và giữ chân khách hàng.
+Subiz là công cụ tương tác với khách hàng của doanh nghiệp mang lại doanh số cao
 
-### Subiz đem lại giá trị gì cho khách hàng?
+ tối ưu, toàn diện và mạnh mẽ. 
+
+Là nền tảng tương tác giúp doanh nghiệp dễ dàng nhận diện, phân loại khách hàng tiềm năng từ đó xây dựng chân dung khách hàng mục tiêu và lên kế hoạch triển khai các chiến lược marketing tương tác, theo đuổi, chăm sóc, chuyển đổi và giữ chân khách hàng.
+
+### Subiz đem lại giá trị gì cho khách hàng? \(Lợi ích & giá trị từ Subiz\)
 
 ![](https://lh5.googleusercontent.com/mzwaq8tJ0XRcMkxTUDi754pxbriE53--ZfQ1h08VjiOU87Jc_lfWIOo4d6HqtFYZIcBallrmczAk3y4qd7rEhhm18520IbYftHZiRGDgHU_nOz0sMR6iP7U_4Xg5VDSvUkUS6s9A)
 
