@@ -85,6 +85,8 @@ Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
 ```
 
 Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với 
+
+![T&#xF9;y ch&#x1EC9;nh m&#xE0;u s&#x1EAF;c theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p cho to&#xE0;n b&#x1ED9; c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/css-mau-sac-toan-bo.png)
 {% endtab %}
 
 {% tab title="Màu sắc header" %}
