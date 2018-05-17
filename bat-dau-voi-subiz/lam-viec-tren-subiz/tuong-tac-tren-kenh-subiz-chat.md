@@ -19,14 +19,11 @@ Khi truy cập website của bạn, khách hàng sẽ gửi tin nhắn yêu cầ
 
 _Để xem được tin nhắn từ khách hàng, bạn thao tác như sau:_
 
-1. _Vào mục **HÀNH ĐỘNG**_
-2. _Chọn **Khách hàng**_ 
-3. _Chọn tương tác chưa đọc trong **LIST ACTIVITIES**_ 
-4. _**Cửa sổ chat** mở và trả lời tại đây._
+_Vào mục **HÀNH ĐỘNG &gt;** Chọn **Khách hàng**  &gt; Chọn tương tác chưa đọc trong **LIST ACTIVITIES**  &gt; **Cửa sổ chat** mở và trả lời tại đây._
 
 ![Xem n&#x1ED9;i dung tin nh&#x1EAF;n kh&#xE1;ch h&#xE0;ng g&#x1EED;i](../../.gitbook/assets/chat-1.jpg)
 
-{% hint style="danger" %}
+{% hint style="info" %}
  _**Lưu ý**_: Nếu bạn không nhận được tin nhắn từ khách hàng, hãy xem lại cài đặt [tính năng RULE](https://docv4.subiz.com/tao-rule-moi/) tự động phân phối cuộc hội thoại cho bạn \(Agent\) hay chưa?
 {% endhint %}
 
@@ -34,7 +31,7 @@ _Để xem được tin nhắn từ khách hàng, bạn thao tác như sau:_
 
 ![Subiz th&#xF4;ng b&#xE1;o m&#xE0;n h&#xEC;nh](https://docv4.subiz.com/wp-content/uploads/2018/02/thong-bao-tin-nhan-moi.png)
 
-{% hint style="danger" %}
+{% hint style="info" %}
 _**Lưu ý**_: Khi không nhận được thông báo, hãy kiểm tra lại máy tính của bạn, thiết lập trình duyệt cho phép Subiz thông báo âm thanh và màn hình.
 {% endhint %}
 {% endtab %}
@@ -47,11 +44,7 @@ Nếu khách hàng không chủ động tương tác trước, thì bạn cần 
 
  _Để tạo cuộc hội thoại với khách truy cập website, bạn vào thao tác như sau:_
 
-1. _Vào mục **KHÁCH**_ 
-2. _Chọn **Khách hàng**_ 
-3. _Chọn **Tạo hội thoại mới**_ 
-4. _Chọn **Subiz Chat**_
-5.  _**Cửa sổ chat mở** và bạn gửi tin nhắn tại đây._
+_Vào mục **KHÁCH**  &gt; Chọn **Khách hàng**  &gt; Chọn **Tạo hội thoại mới**  &gt; Chọn **Subiz Chat &gt; Cửa sổ chat mở** và bạn gửi tin nhắn tại đây._
 
 ![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i v&#x1EDB;i kh&#xE1;ch truy c&#x1EAD;p](../../.gitbook/assets/chat-2.jpg)
 
@@ -63,15 +56,11 @@ Nếu khách hàng không chủ động tương tác trước, thì bạn cần 
 
  Khi bạn đang trò chuyện cùng khách hàng, bạn có thể Mời thêm Agent tham gia cuộc hội thoại và cùng hỗ trợ khách hàng.
 
-_Hướng dẫn thêm Agent:_ 
-
-1. _Chọn nút  **"Add Agent"**_ 
-2. _Chọn **Agent**_ 
-3. _Chọn **Thêm**_
+_Hướng dẫn thêm Agent:  Chọn nút  **"Add Agent"**  &gt; Chọn **Agent**  &gt; Chọn **Thêm**_
 
 ![Th&#xEA;m Agent tham gia h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/3.-them-agent.jpg)
 
-{% hint style="danger" %}
+{% hint style="info" %}
 _**Lưu ý**_: Chỉ Agent được phân phối cuộc hội thoại mới có quyền thêm Agent khác.
 {% endhint %}
 
@@ -85,7 +74,7 @@ _**Hướng dẫn gắn thẻ Tag**_: Chọn nút **Tag** &gt; chọn **tên th�
 
 ![G&#x1EAF;n th&#x1EBB; Tag](http://docv4.subiz.com/wp-content/uploads/2018/01/Tag.png)
 
-{% hint style="danger" %}
+{% hint style="info" %}
 Lưu ý: Bạn cần cài đặt Tag trước khi gắn thẻ Tag cuộc hội thoại \([Xem chi tiết](https://docv4.subiz.com/cai-dat-tag/)\)
 {% endhint %}
 {% endtab %}
@@ -115,7 +104,7 @@ Subiz sẽ tính cuộc hội thoại được kết thúc bằng hành động 
 {% endtab %}
 {% endtabs %}
 
-{% hint style="danger" %}
+{% hint style="info" %}
 _**Lưu ý**_: Khi cuộc hội thoại kết thúc sẽ có thông báo trên cửa sổ chat, đồng thời phần nhập tin nhắn sẽ chuyển màu xám và không thể thao tác thêm. **Để tiếp tục trò chuyện, bạn cần Tạo hội thoại mới.**
 {% endhint %}
 
@@ -129,7 +118,7 @@ _**Hướng dẫn sử dụng**_: Tại cửa sổ chat, bạn bắt đầu bằ
 
 ![S&#x1EED; d&#x1EE5;ng th&#x1B0; vi&#xEA;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](https://docv4.subiz.com/wp-content/uploads/2018/02/example.png)
 
-{% hint style="danger" %}
+{% hint style="info" %}
 _**Lưu ý**_: Bạn có thể [thêm và chỉnh sửa Thư viện câu trả lời](https://docv4.subiz.com/thu-vien-cau-tra-loi/) theo hướng dẫn
 {% endhint %}
 
