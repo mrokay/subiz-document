@@ -4,9 +4,7 @@
 
 Subiz là công cụ tương tác với khách hàng của doanh nghiệp mang lại doanh số cao.
 
-Khi sử dụng Subiz, doanh nghiệp sẽ có cái nhìn toàn diện về chân dung khách hàng mục tiêu và lên kế hoạch triển khai các chiến lược marketing tương tác, theo đuổi, chăm sóc, chuyển đổi và giữ chân khách hàng.
-
- Intercom shows you who is using your product or website and makes it easy to personally communicate with them through targeted content, behavior-driven email, in-app, and web messages.
+Doanh nghiệp sẽ biết được ai đang sử dụng, quan tâm đến sản phẩm, dịch vụ của mình, cá nhân hóa tương tác với họ để cái nhìn toàn diện về chân dung khách hàng mục tiêu và lên kế hoạch triển khai các chiến lược marketing tương tác và chăm sóc khách hàng.
 
 ### Lợi ích & giá trị từ Subiz
 
