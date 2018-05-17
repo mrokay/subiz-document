@@ -170,6 +170,8 @@ Ngoài ra, nếu bạn muốn sử dụng một ngôn ngữ khác ngoài các ng
 
 Đăng nhập tài khoản và vào [Cài đặt cửa sổ hội thoại](https://app.subiz.com/settings/widget-setting), phần **Ngôn ngữ**. Chọn 1 ngôn ngữ cụ thể và click vào “Tùy chỉnh ngôn ngữ”.
 
+
+
 ![](https://docv4.subiz.com/wp-content/uploads/2018/04/Customize.png)
 
 Chọn “Nhấn để tải xuống file tùy chỉnh ngôn ngữ cho widget” để tải về file .po mẫu.![](https://docv4.subiz.com/wp-content/uploads/2018/04/download.png)
