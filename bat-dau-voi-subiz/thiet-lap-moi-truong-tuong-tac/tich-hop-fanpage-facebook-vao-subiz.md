@@ -22,7 +22,7 @@ Khi bạn cho phép Subiz quản lý tin nhắn của Fanpage, tất cả các t
 
 ![](../../.gitbook/assets/permission.png)
 
-![](../../.gitbook/assets/permission-2.png)
+![Cho ph&#xE9;p Subiz k&#x1EBF;t n&#x1ED1;i v&#x1EDB;i Fanpage c&#x1EE7;a b&#x1EA1;n](../../.gitbook/assets/permission-2.png)
 
 **Bước 4: Lựa chọn các Fanpage mà bạn muốn tích hợp**
 
