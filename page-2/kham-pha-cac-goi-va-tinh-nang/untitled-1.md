@@ -8,7 +8,7 @@ Dựa vào tính chất và mô hình doanh nghiệp, doanh nghiệp có thể t
 
 {% tabs %}
 {% tab title="Trial" %}
-Với những doanh nghiệp lần đầu tiếp cận Subiz, muốn được trải nghiệm Subiz, Subiz đưa ra gói Trial, cho phép bạn trải nghiệm các tính năng của Subiz trong vòng 30 ngày tính từ thời điểm đăng ký tài khoản.
+Với **những doanh nghiệp lần đầu tiếp cận Subiz**, muốn được trải nghiệm Subiz, Subiz đưa ra gói Trial, cho phép bạn trải nghiệm các tính năng của Subiz trong vòng 30 ngày tính từ thời điểm đăng ký tài khoản.
 
 Kết thúc 30 ngày dùng thử, bạn có thể quyết định nâng cấp tài khoản lên gói trả phí hoặc nếu không, hệ thống sẽ tự động cập nhật tài khoản của bạn sang gói Miễn phí.
 

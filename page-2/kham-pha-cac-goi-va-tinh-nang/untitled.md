@@ -1,7 +1,5 @@
 # Khám phá các kênh trong Subiz
 
-
-
 ### **Subiz Chat**
 
 Subiz Chat bao gồm 2 phần: **Tương tác trên Dashboard dành cho doanh nghiệp** và **cửa số Subiz Chat**.

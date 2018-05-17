@@ -2,9 +2,7 @@
 
 ### Subiz hoạt động như thế nào?
 
-Tại đây, bạn sẽ biết được Subiz bao gồm những mục chính sẽ hỗ trợ bạn tương tác với khách hàng từ nhiều kênh và quản lý hoạt động kinh doanh một cách dễ dàng.
-
-Subiz bao gồm các phần:
+Mọi hoạt động trên Subiz diễn ra dựa trên 2 phần:
 
 **Cửa sổ Subiz Chat:** Với các khách truy cập website, khi cần sự tư vấn, khách hàng sẽ tương tác với bạn từ cửa sổ Subiz nằm trên website của bạn.
 
@@ -40,13 +38,13 @@ Tại trang này, bạn có thể quan sát khách hàng trên Website, biết �
 {% endtab %}
 
 {% tab title="Cài đặt" %}
-Bạn có thể thiết lập các tính năng có trong Subiz ngay tại mục Cài đặt để triển khai sử dụng Subiz và tương tác khách hàng hiệu quả.
+Tại mục **Cài đặt**, bạn có thể thiết lập các tính năng có trong Subiz ngay sau khi mới tạo tài khoản hoặc thay đổi, chỉnh sửa các tính năng khi có bất cứ sự thay đổi trong mô hình kinh doanh của mình nhằm triển khai sử dụng Subiz và tương tác khách hàng hiệu quả.
 
 ![M&#x1EE5;c C&#xE0;i &#x111;&#x1EB7;t- Thi&#x1EBF;t l&#x1EAD;p c&#xE1;c t&#xED;nh n&#x103;ng tr&#xEA;n Subiz](https://lh6.googleusercontent.com/Uo2dVWCRoOgzHGERvhgv05Hx4tZAdGRawKJCM1_ksp4yxFNJC5bVdsvLehvqcQnRqguZP6R4eLwDs29_jtE5VMPhGjRTNi1arU2g5gpwlUEpt-JQEk9sHMeTw3VR4SRAi5ie_RP-)
 {% endtab %}
 
 {% tab title="Thống kê" %}
-Bạn có thể thống kế số lượng tương tác với khách hàng, nắm được tình hình tương tác, những vấn đề khách hàng thường gặp phải và đưa ra hướng cải thiện chất lượng dịch vụ khách hàng ngay tại mục Thống kê trên Dashboard. 
+Bạn có thể thống kê số lượng tương tác với khách hàng, nắm được tình hình tương tác, những vấn đề khách hàng thường gặp phải và đưa ra hướng cải thiện chất lượng dịch vụ khách hàng ngay tại mục Thống kê trên Dashboard. 
 
 Tại đây, bạn có thể thống kê các cuộc tương tác dựa theo từng tư vấn viên, nhóm tư vấn viên theo thời gian hoặc theo dõi, phân tích các cuộc tương tác về các vấn đề cụ thể dựa vào Tag.
 
