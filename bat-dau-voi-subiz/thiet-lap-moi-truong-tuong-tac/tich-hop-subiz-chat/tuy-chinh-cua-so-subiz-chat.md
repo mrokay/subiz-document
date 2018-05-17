@@ -18,10 +18,10 @@ Dưới đây là một số tùy chỉnh css một số thành phần trên c�
 
 #### Thay đổi kích thước cửa sổ chat
 
-Bạn có thể thay đổi chiều cao và chiều rộng theo ý muốn
+Bạn có thể thay đổi chiều cao và chiều rộng theo ý muốn:
 
 {% tabs %}
-{% tab title="Chiều cao" %}
+{% tab title="Thay đổi chiều cao" %}
 Đoạn mã tùy chỉnh chiều cao cửa sổ chat Subiz
 
 ```text
@@ -36,7 +36,7 @@ Phần **800**px bạn có thể điều chỉnh con số cho phù hợp với w
 ![CSS ch&#x1EC9;nh s&#x1EED;a chi&#x1EC1;u cao c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/css-chieu-cao%20%281%29.png)
 {% endtab %}
 
-{% tab title="Chiều rộng" %}
+{% tab title="Thay đổi chiều rộng" %}
 Đoạn mã tùy chỉnh chiều rộng cửa sổ chat Subiz
 
 ```text
@@ -48,8 +48,6 @@ Phần **600**px bạn có thể điều chỉnh con số cho phù hợp với w
 ![T&#xF9;y ch&#x1EC9;nh chi&#x1EC1;u r&#x1ED9;ng c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/css-chieu-rong.png)
 {% endtab %}
 {% endtabs %}
-
-
 
 #### Tùy chỉnh cỡ chữ {#tuy-chinh-co-chu}
 
@@ -85,31 +83,46 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 
 #### Tùy chỉnh màu sắc từng phần trên cửa sổ chat {#tuy-chinh-mau-sac-tung-phan-tren-cua-so-chat}
 
-**1. Tuy chỉnh màu sắc header cửa sổ chat**
-
+{% tabs %}
+{% tab title="Tùy chỉnh màu sắc header" %}
 Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
 
-* Màu sắc đơn
+* **Mã code tùy chỉnh màu sắc đơn của header**
 
-| 1 | .widget-header {background-color:\#00000;} |
-| --- |
-
+```text
+.widget-header {background-color:#00000;}
+```
 
 Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
 
-* Dài màu chuyển tiếp
+* **Mã code tùy chỉnh dài màu chuyển tiếp của header**
 
-| 12 | .widget-header{background-image: linear-gradient\(to right top, \#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f\);} |
-| --- |
+```text
+.widget-header
+{background-image: linear-gradient(to right top, #056587, #0085a3, #00a6ac, #00c59f, #0be17f);}
+```
+
+Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với website
+
+![T&#xF9;y ch&#x1EC9;nh m&#xE0;u s&#x1EAF;c header theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p](../../../.gitbook/assets/css-mau-header.png)
+{% endtab %}
+
+{% tab title="Tùy chỉnh màu sắc khung tin nhắn" %}
+Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
+
+* Mã code tùy cMàu sắc đơn
+{% endtab %}
+
+{% tab title="Tùy chỉnh màu sắc nút \"Tạo mới\"" %}
+
+{% endtab %}
+{% endtabs %}
 
 
-Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với website.![](https://docv4.subiz.com/wp-content/uploads/2018/05/CSS-mau-header.png)
 
 **2. Tùy chỉnh màu sắc khung tin nhắn trên cửa sổ chat**
 
-Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
 
-* Màu sắc đơn
 
 | 1 | .message-body {background-color:\#00000;} |
 | --- |

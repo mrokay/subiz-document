@@ -4,7 +4,7 @@ description: Sẽ chèn link vào các mục sau khi hoàn thiện đưa bài l�
 
 # Các gói sử dụng Subiz
 
-Subiz triển khai theo mô hình SAAS \(software as a service\), tạm dịch là phần mềm như một dịch vụ, cung cấp doanh nghiệp 4 gói dịch vụ bao gồm:
+
 
 {% tabs %}
 {% tab title="Trial" %}
@@ -18,19 +18,21 @@ Trong suốt thời gian dùng thử, bạn sẽ được trải nghiệm toàn 
 {% tab title="Miễn phí" %}
 Sau khi kết thúc 30 ngày sử dụng gói Trial, nếu không có nhu cầu trả phí, Subiz sẽ tự động chuyển sang gói Miễn phí.
 
-Gói Miễn phí sẽ phù hợp với những doanh nghiệp nhỏ hay các doanh nghiệp đang trong giai đoạn khởi nghiệp muốn sử dụng Subiz. Bạn sẽ không phải trả bất cứ một khoản phí nào khi sử dụng gói dịch vụ này, tuy nhiên, các tính năng có trong gói Miễn phí này sẽ có sự giới hạn khi sử dụng. Chi tiết xem tại đây.
+Gói Miễn phí sẽ phù hợp với **những doanh nghiệp nhỏ hay các doanh nghiệp đang trong giai đoạn khởi nghiệp** muốn sử dụng Subiz. Bạn sẽ không phải trả bất cứ một khoản phí nào khi sử dụng gói dịch vụ này, tuy nhiên, các tính năng có trong gói Miễn phí này sẽ có sự giới hạn khi sử dụng. Chi tiết xem tại đây.
 
 Đặc biệt, nhằm đem lại những trải nghiệm thực sự hữu ích, gói Miễn phí của Subiz là không giới hạn, và bạn có thể duy trì sử dụng gói dịch vụ này trọn đời nếu bạn muốn.
 {% endtab %}
 
 {% tab title="Cơ bản" %}
-Đối với doanh nghiệp vừa và nhỏ, lượng tương tác tại một thời điểm thường chưa đạt mức 100 cuộc chat, kịch bản mời chat tự động dừng lại ở việc phân loại các nhóm đối tượng cơ bản \(khách mới, khách cũ, khách xem quá 03 trang\) thì gói Cơ bản hoàn toàn đáp ứng được nhu cầu.
+**Đối với doanh nghiệp vừa và nhỏ**, lượng tương tác tại một thời điểm thường chưa đạt mức 100 cuộc chat, kịch bản mời chat tự động dừng lại ở việc phân loại các nhóm đối tượng cơ bản \(khách mới, khách cũ, khách xem quá 03 trang\) thì gói Cơ bản hoàn toàn đáp ứng được nhu cầu.
 
 Tổng lượng chat trong ngày không hề bị giới hạn, bạn có thể tăng số lượng agent tương ứng để đáp ứng tốt nhất số lượng yêu cầu chat nhận được từ khách hàng.
 {% endtab %}
 
 {% tab title="Nâng cao" %}
-Điểm mạnh của gói nâng cao là số lượng Rule được thiết lập sẽ không bị giới hạn. Điều này phục vụ cho những doanh nghiệp có số lượng website tích hợp lớn, cần sử dụng nhiều thiết lập hội thoại cho những đường dẫn URL khác nhau, hoặc sử dụng nhiều Automation chuyên sâu cho nhiều nhóm đối tượng.
+Gói dịch vụ này phù hợp với **những doanh nghiệp lớn** có lượng website, Facebook, Email, Zalo,... tích hợp lớn và lượng tương tác với khách hàng mỗi ngày cao.
+
+Điểm mạnh của gói nâng cao là số lượng Rule được thiết lập sẽ không bị giới hạn. Điều này phục vụ cho những doanh nghiệp cần sử dụng nhiều thiết lập hội thoại cho những đường dẫn URL khác nhau, hoặc sử dụng nhiều Automation chuyên sâu cho nhiều nhóm đối tượng.
 {% endtab %}
 {% endtabs %}
 
