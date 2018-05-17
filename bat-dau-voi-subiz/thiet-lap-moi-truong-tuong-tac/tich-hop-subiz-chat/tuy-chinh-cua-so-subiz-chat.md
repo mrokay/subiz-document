@@ -84,7 +84,32 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 #### Tùy chỉnh màu sắc từng phần trên cửa sổ chat {#tuy-chinh-mau-sac-tung-phan-tren-cua-so-chat}
 
 {% tabs %}
-{% tab title="Tùy chỉnh màu sắc header" %}
+{% tab title="Màu sắc toàn bộ cửa sổ chat" %}
+{% hint style="danger" %}
+Khi bạn chọn cách tùy chỉnh màu sắc toàn bộ cửa sổ chat, bạn sẽ không thể tùy chỉnh màu sắc cho từng phần riêng biệt như header, khung tin nhắn hay nút tạo mới được nữa
+{% endhint %}
+
+Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp.
+
+* Màu sắc đơn
+
+```text
+.color-theme-default{background-color:#000000;}
+```
+
+  
+Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
+
+* Dài màu chuyển tiếp
+
+```text
+.color-theme-default{background-image: linear-gradient(to right top, #056587, #0085a3, #00a6ac, #00c59f, #0be17f);}
+```
+
+Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với 
+{% endtab %}
+
+{% tab title="Màu sắc header" %}
 Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
 
 * **Mã code tùy chỉnh màu sắc đơn của header**
@@ -107,7 +132,7 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 ![T&#xF9;y ch&#x1EC9;nh m&#xE0;u s&#x1EAF;c header theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p](../../../.gitbook/assets/css-mau-header.png)
 {% endtab %}
 
-{% tab title="Tùy chỉnh màu sắc khung tin nhắn" %}
+{% tab title="Màu sắc khung tin nhắn" %}
 Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
 
 * **Mã code tùy chỉnh theo màu sắc đơn**
@@ -130,7 +155,7 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 ![T&#xF9;y ch&#x1EC9;nh m&#xE0;u khung tin nh&#x1EAF;n theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p](../../../.gitbook/assets/css-khung-tin-nhan.png)
 {% endtab %}
 
-{% tab title="Tùy chỉnh màu sắc nút \"Tạo mới\"" %}
+{% tab title="Màu sắc nút \"Tạo mới\"" %}
 Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
 
 * **Mã code tùy chỉnh theo màu sắc đơn cho nút "Tạo mới"**
