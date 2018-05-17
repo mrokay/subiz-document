@@ -6,7 +6,7 @@ Bạn \(Agent\) cần[ tích hợp Email và thiết lập chuyển tiếp mail]
 
 ### Chủ động gửi Email tới khách hàng
 
-Địa chỉ **Email khách hàng** phải được cập nhật trong mục **Thông tin khách hàng** thì bạn sẽ tạo được hội thoại mới trên kênh Email.
+Địa chỉ **Email khách hàng** phải được cập nhật trong mục **Thông tin khách hàng,** sau đó ****bạn sẽ tạo được hội thoại mới trên kênh Email.
 
 ![L&#x1B0;u &#x111;&#x1ECB;a ch&#x1EC9; Email kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/cap-nhat-mail.jpg)
 
@@ -49,19 +49,25 @@ Với mỗi **khách hàng**, bạn vào mục **List Activities** sẽ nhận b
 2. Chọn **nút Reply**
 3. **Viết nội dung mail và Gửi**
 
-Một số tính năng hữu ích trên kênh Email
-
 ![Tr&#x1EA3; l&#x1EDD;i email kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/nut-reply-1.jpg)
 
 ### Một số chức năng hữu ích trên Email Subiz
 
 1. Hỗ trợ soạn thảo Email dưới dạng HTML
 
-![](../../.gitbook/assets/html-1.jpg)
+![](../../.gitbook/assets/code.jpg)
 
   2. Tùy chỉnh font chữ văn bản
 
-![](../../.gitbook/assets/font-chu-1.jpg)
+![](../../.gitbook/assets/font.jpg)
+
+3. Chèn link trực tiếp vào chữ hoặc hình ảnh
+
+![](../../.gitbook/assets/link.jpg)
+
+4. Đình kèm tệp tài liệu hay tệp hình ảnh
+
+![](../../.gitbook/assets/attach-file.jpg)
 
 
 
