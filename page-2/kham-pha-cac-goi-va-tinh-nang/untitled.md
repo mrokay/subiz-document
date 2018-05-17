@@ -1,12 +1,14 @@
 # Khám phá các kênh trong Subiz
 
+
+
 ### **Subiz Chat**
 
 Subiz Chat bao gồm 2 phần: **Tương tác trên Dashboard dành cho doanh nghiệp** và **cửa số Subiz Chat**.
 
-**Mọi tương tác của khách hàng với doanh nghiệp sẽ được hiển thị ngay trên Dashboard của Subiz sau khi bạn tích hợp Subiz lên Website**, doanh nghiệp có thể dễ dàng tương tác trực tiếp với khách hàng của mình từ nhiều Website ngay tại đây.
+**Mọi tương tác của khách hàng với doanh nghiệp sẽ được hiển thị ngay trên Dashboard sau khi bạn tích hợp Subiz lên Website**, doanh nghiệp có thể dễ dàng tương tác trực tiếp với khách hàng của mình.
 
-**Cửa sổ Subiz Chat là cửa sổ tương tác xuất hiện trên website của bạn sau khi bạn tích hợp mã nhúng Subiz lên Website.** Tại đây, khách truy cập sẽ tương tác trực tiếp với tư vấn viên của bạn.
+**Cửa sổ Subiz Chat là cửa sổ tương tác xuất hiện trên website của bạn sau khi bạn tích hợp mã nhúng Subiz lên Website.** Khách truy cập sẽ tương tác trực tiếp với tư vấn viên của bạn ngay trên cửa sổ này
 
 **Nếu lần đầu truy cập website**, khách truy cập sẽ thấy cửa sổ hiển thị ở dạng sẵn sàng gửi tin nhắn mới.
 
@@ -38,28 +40,27 @@ Subiz Chat bao gồm 2 phần: **Tương tác trên Dashboard dành cho doanh ng
 
 ### **Subiz Email**
 
-Khi tích hợp sử dụng Email trên Subiz, doanh nghiệp có thể thuận tiện tương tác với khách hàng ngay trên Subiz, không chỉ cá nhân hóa việc gửi và nhận email mà còn thực hiện các email marketing và nâng cao trải nghiệm khách hàng.
+Để hỗ trợ doanh nghiệp thực hiện hiệu quả email marketing theo xu hướng mới, Subiz đã phát triển kênh tương tác Subiz Email, không chỉ giúp doanh nghiệp thuận tiện tương tác email cá nhân, mà còn thực hiện các email marketing và nâng cao trải nghiệm khách hàng và đồng bộ hóa dữ liệu khách hàng.
 
 ![](https://lh4.googleusercontent.com/OkoeWf52SoJsYOpjCMnIc6in9G_gPD6tRYmD01uJwsvP5BAcXuO2mJuwi4K1IquwgzfyHoeOgYEZBhlY3Wn0hHOmkSiY2j-51I-6LbTE-VdoHXFGgVBn9SGk6ciCT9xCng56-qPI)
 
-Bạn có thể thực hiện tất cả các nhiệm vụ ngay trên Subiz:
+Tư vấn viên có thể:
 
-* **Tích hợp nhiều email trên Subiz** để vừa nhận và gửi email đến từng khách hàng mà không cần sử dụng bất cứ công cụ hỗ trợ email nào khác.
-* **Chủ động gửi Email Marketing** dựa theo phân khúc và hành vi của khách hàng, thuận tiện chăm sóc khách hàng đúng mục tiêu, đúng thời điểm, không bỏ lỡ bất kỳ một khách hàng nào.
-* **Theo dõi các phản hồi của khách hàng** qua email theo thời gian thực, dễ dàng nắm bắt thông tin khách hàng và lọc tìm kiếm khách hàng, tăng tốc độ xử lý và chăm sóc khách hàng hiệu quả hơn.
+* Quan sát lịch sử tương tác với khách hàng qua email, bao gồm các thông tin xuyên suốt hành trình mua hàng và lịch sử tương tác giữa họ với doanh nghiệp,…
+* Dễ dàng theo đuổi và duy trì tương tác nhằm bán hàng, chăm sóc khách hàng hiệu quả, gia tăng mức độ hài lòng và biến họ trở thành khách hàng trung thành của doanh nghiệp.
 
 ### **Subiz Messenger**
 
-![T&#x1EA5;t c&#x1EA3; tin nh&#x1EAF;n c&#x1EE7;a Fanpage &#x111;&#x1B0;&#x1EE3;c hi&#x1EC3;n th&#x1ECB; v&#xE0; ph&#x1EA3;n h&#x1ED3;i ngay tr&#xEA;n Subiz.](https://lh6.googleusercontent.com/s2D2uzDp24ZUKnhwfZrNeDvCCZp8Pbslv3lox-CTMS9dfk5AkA8fVkYN064zVfMNDJr_y1HGzCuJIDxQJveVmvynhUWfDMXLt0UN1FYmW97R1ujT01eEE7SwqEP8oM4EcW1h7y7D)
+Với Subiz, khi khách hàng đã vào fanpage của bạn thì cửa sổ Message sẽ luôn chào đón với những câu chào phù hợp, hay một tin khuyến mãi nóng hot nhất được thông báo tới khách hàng.
 
-Tích hợp Fanpage trên Subiz đồng nghĩa với việc bạn có thể thực hiện nhiều nhiệm vụ, nâng cao hiệu quả tiếp thị và thuận tiện chăm sóc khách hàng:
+![](https://lh6.googleusercontent.com/s2D2uzDp24ZUKnhwfZrNeDvCCZp8Pbslv3lox-CTMS9dfk5AkA8fVkYN064zVfMNDJr_y1HGzCuJIDxQJveVmvynhUWfDMXLt0UN1FYmW97R1ujT01eEE7SwqEP8oM4EcW1h7y7D)
 
-* **Tích hợp nhiều Fanpage** trên cùng 1 màn hình Subiz để đưa tất cả dữ liệu được về 1 giỏ, dễ dàng quản lý.
-* Doanh nghiệp có nhiều tin nhắn, sử dụng Subiz để **phân bổ công việc hợp lý** như: Round-robin, cho từng nhóm, từng người...
-* **Làm việc song song với Chatbot**: Nghĩa là bạn có thể vừa dùng Subiz, vừa cài HaravanBot / FlowXO ... Chatbot đem lại trải nghiệm mới cho khách hàng, Subiz đem lại cách làm việc mới cho nhân viên.
-* **Làm việc với Plugin Facebook Live Chat**: Nếu web bạn có nhiều khách hàng login Facebook trên cùng trình duyệt \(điều này các bạn có thể dùng Facebook Pixel và so sánh với số người truy cập \); bạn thích Plugin Facebook Live chat. Bạn hãy cài nó lên web, còn dùng Subiz như phần mềm làm việc và lưu trữ dữ liệu của bạn. 
+Tất cả tin nhắn của Fanpage được hiển thị và phản hồi ngay trên Subiz.
 
-{% hint style="info" %}
-**Lưu ý:** Ngay sau khi tích hợp các kênh tương tác với khách hàng lên Subiz, bạn có thể thực hiện các hoạt động tiếp thị và chăm sóc khách hàng trên tất cả các kênh tương tác này ngay tại Subiz mà không phải mở từng kênh tương tác.
-{% endhint %}
+Tích hợp Fanpage trên Subiz đồng nghĩa với việc bạn có thể thực hiện nhiều nhiệm vụ như:
+
+* Tích hợp nhiều Fanpage lên cùng một tài khoản Subiz, quản lý các tương tác trên nhiều Fanpage một cách thuận tiện.
+* Gửi tin nhắn tới danh sách khách hàng đã có tương tác với bạn
+* Phân nhóm khách hàng theo từng Fanpage và phân phối tương tác cho các tư vấn viên phù hợp
+* Thống kê các cuộc tương tác trên Messenger
 

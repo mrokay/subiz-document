@@ -1,10 +1,10 @@
 # Những vấn đề gặp phải khi đăng nhập Dashboard
 
-Khi đăng nhập sử dụng trang quản lý Dashboard, bạn có thể gặp một số tình huống khiến bạn không thể đăng nhập tài khoản. Bài viết sau sẽ đề cập tới những trường hợp này và cách thực hiện để bạn đăng nhập thành công.
+ Khi đăng nhập sử dụng trang quản lý Dashboard, bạn có thể gặp một số tình huống khiến bạn không thể đăng nhập tài khoản. Bài viết sau sẽ đề cập tới những trường hợp này và cách thực hiện để bạn đăng nhập thành công.
 
 ### Người dùng hoặc mật khẩu không đúng
 
-* **Nguyên nhân:** Bạn nhập sai thông tin đăng nhập: Email hoặc mật khẩu
+ **Nguyên nhân:** Bạn nhập sai thông tin đăng nhập: Email hoặc mật khẩu
 
 ![Email ho&#x1EB7;c m&#x1EAD;t kh&#x1EA9;u kh&#xF4;ng &#x111;&#xFA;ng](../../../.gitbook/assets/dia-chi-email-hoac-mat-khau-khong-dung.png)
 
@@ -42,8 +42,9 @@ Một trong những lỗi trình duyệt phổ biến là  ERRERR\_SSL\_VERSION\
 
 ![L&#x1ED7;i ERRERR\_SSL\_VERSION\_OR\_CIPHER\_MISMATCH](../../../.gitbook/assets/0_zqf4zds8yt-qr3gx.jpg)
 
-* **Nguyên nhân:**
-  * Kết nối Internet kém
+**Nguyên nhân:**
+
+* Kết nối Internet kém
 * Bộ nhớ cache và cookie của trình duyệt không bị xóa
 * Tiện ích bổ sung hoặc tiện ích không cần thiết được cài đặt trong trình duyệt
 * Trang web bị chặn trong Tường lửa

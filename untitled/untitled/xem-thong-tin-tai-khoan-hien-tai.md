@@ -1,10 +1,10 @@
 # Xem thông tin tài khoản hiện tại
 
-Cần đoạn giới thiệu
-
- Để quản lý thông tin tài khoản, bạn có thể kiểm tra tại [trang thanh toán](https://app.subiz.com/payment-home).
+ Để quản lý thông tin tài khoản, bạn có thể kiểm tra  tại [trang thanh toán](https://app.subiz.com/payment-home).
 
 ![Qu&#x1EA3;n l&#xFD; th&#xF4;ng tin t&#xE0;i kho&#x1EA3;n](../../.gitbook/assets/quan-ly-thong-tin-tai-khoan.png)
+
+
 
 Bao gồm:
 

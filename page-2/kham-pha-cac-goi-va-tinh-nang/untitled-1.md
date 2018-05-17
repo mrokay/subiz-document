@@ -4,11 +4,11 @@ description: Sẽ chèn link vào các mục sau khi hoàn thiện đưa bài l�
 
 # Các gói sử dụng Subiz
 
-Dựa vào tính chất và mô hình doanh nghiệp, doanh nghiệp có thể tùy chọn 1 trong số các gói dịch vụ dưới đây của Subiz
+
 
 {% tabs %}
 {% tab title="Trial" %}
-Với **những doanh nghiệp lần đầu tiếp cận Subiz**, muốn được trải nghiệm Subiz, Subiz đưa ra gói Trial, cho phép bạn trải nghiệm các tính năng của Subiz trong vòng 30 ngày tính từ thời điểm đăng ký tài khoản.
+Với những doanh nghiệp lần đầu tiếp cận Subiz, muốn được trải nghiệm Subiz, Subiz đưa ra gói Trial, cho phép bạn trải nghiệm các tính năng của Subiz trong vòng 30 ngày tính từ thời điểm đăng ký tài khoản.
 
 Kết thúc 30 ngày dùng thử, bạn có thể quyết định nâng cấp tài khoản lên gói trả phí hoặc nếu không, hệ thống sẽ tự động cập nhật tài khoản của bạn sang gói Miễn phí.
 
@@ -35,8 +35,6 @@ Gói dịch vụ này phù hợp với **những doanh nghiệp lớn** có lư�
 Điểm mạnh của gói nâng cao là số lượng Rule được thiết lập sẽ không bị giới hạn. Điều này phục vụ cho những doanh nghiệp cần sử dụng nhiều thiết lập hội thoại cho những đường dẫn URL khác nhau, hoặc sử dụng nhiều Automation chuyên sâu cho nhiều nhóm đối tượng.
 {% endtab %}
 {% endtabs %}
-
-Để lựa chọn được gói dịch vụ phù hợp, bạn có thể tham khảo những tính năng hiện có trong từng gói **tại đây**
 
 Sau khi sử dụng các gói dịch vụ, nếu có nhu cầu, doanh nghiệp hoàn toàn có thể nâng cấp/ hạ gói dịch vụ của mình một cách dễ dàng. Chi tiết **xem tại đây.**
 
