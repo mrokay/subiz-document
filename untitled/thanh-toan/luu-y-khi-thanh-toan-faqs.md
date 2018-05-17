@@ -52,6 +52,12 @@ Nếu tất cả các thông tin bạn điền là chính xác, bạn có thể 
 
 Hóa đơn được yêu cầu thực hiện trong vòng **30 ngày** kể từ ngày doanh nghiệp hoàn tất nghĩa vụ thanh toán. Subiz không có trách nhiệm xuất hóa đơn bù nếu quá thời gian quy định. Chính sách này được áp dụng với tất cả khách hàng của Subiz.
 
+##  Quản lý hóa đơn
+
+Để theo dõi các thông tin Hóa đơn
+
+
+
 ##  Chính sách hoàn tiền 
 
 #### Thời gian dùng thử

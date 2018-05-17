@@ -8,5 +8,5 @@ Bạn cần thanh toán gói thuê bao vào đầu mỗi chu kỳ thanh toán. \
 
 Hiện tại, bạn có thể lựa chọn một trong các chu kỳ: 1 tháng, 3 tháng, 6 tháng, 1 năm, 2 năm.
 
-Với mỗi chu kỳ bạn sẽ được hưởng một mức ưu đãi khác nhau \([Chi tiết](https://subiz.com/vi/pricing.html#morestandard)\)
+Với mỗi chu kỳ bạn sẽ được hưởng một mức ưu đãi khác nhau \([Chi tiết](https://subiz.com/vi/calculator.html)\)
 
