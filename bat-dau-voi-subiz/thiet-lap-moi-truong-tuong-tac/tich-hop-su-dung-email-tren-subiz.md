@@ -27,7 +27,10 @@ Nếu bạn sử dụng tài khoản gmail, bạn cài đặt chuyển tiếp th
 * Click vào biểu tượng bánh xe và chọn **Setting**
 * Tại phần Setting, chọn **Forwarding and POP/IMAP**
 * Click vào **Add a forwarding address**
-* Nhập địa chỉ email mà Subiz đã cung cấp cho bạn \(để tránh sai sót, bạn ấn vào nút **Sao chép** tại trang **Cài đặt email** trên app.Subiz.com để copy địa chỉ email này\)![](http://docv4.subiz.com/wp-content/uploads/2018/02/button-copy.png)​
+* Nhập địa chỉ email mà Subiz đã cung cấp cho bạn \(để tránh sai sót, bạn ấn vào nút **Sao chép** tại trang **Cài đặt email** trên app.Subiz.com để copy địa chỉ email này\)​
+
+![Sao ch&#xE9;p &#x111;&#x1ECB;a ch&#x1EC9; email Subiz cung c&#x1EA5;p cho b&#x1EA1;n](../../.gitbook/assets/button-copy-email.png)
+
 * Chọn **Next &gt; Proceed**
 * Gmail sẽ gửi một thư xác nhận tới địa chỉ email mà Subiz đã cấp cho bạn. Bạn kiểm tra thư này ngay tại phần Activities trên trang app. subiz.com như một đoạn hội thoại mới. Click vào link xác nhận được gửi trong thư.
 * Trở lại trang Setting trong tài khoản Gmail và tải lại trang \(nhấn F5\)
