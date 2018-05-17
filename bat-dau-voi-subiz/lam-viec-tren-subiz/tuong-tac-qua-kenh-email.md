@@ -1,6 +1,6 @@
 # Tương tác qua kênh Email
 
-Tương tác qua kênh Email là cuộc tương tác gửi và nhận email của khách hàng ngay trên ứng dụng App.subiz.com.
+Tương tác qua kênh Email là cuộc tương tác gửi và nhận email của khách hàng ngay trên ứng dụng Subiz.
 
 Bạn \(Agent\) cần[ tích hợp Email và thiết lập chuyển tiếp mail](https://docv4.subiz.com/thiet-lap-chuyen-tiep-email/) để có thể tạo mới hội thoại trên kênh Email.
 
@@ -37,11 +37,9 @@ Cửa sổ Email mở, bạn soạn mail gửi khách hàng tại đây:
 {% endtab %}
 {% endtabs %}
 
-
-
-
-
 ###  Trả lời Email khách hàng
+
+
 
 ### Một số tính năng hữu ích trên kênh Email
 
