@@ -71,13 +71,9 @@ Tại trang thống kê Tag, bạn có thể thống kê số lượng tag đã 
 
 {% tabs %}
 {% tab title="Kênh" %}
-{% tabs %}
-{% tab title="Thời gian" %}
-Chọn kênh mà bạn muốn thống kê Tag: Subiz Chat/ Email/ Messenger
+Lựa chọn kênh bạn muốn thống kê Tag: Subiz Chat, Email, Messenger
 
-![Th&#x1ED1;ng k&#xEA; tag theo k&#xEA;nh](.gitbook/assets/thong-ke-tag-theo-kenh.png)
-{% endtab %}
-{% endtabs %}
+![Th&#x1ED1;ng k&#xEA; Tag theo k&#xEA;nh](.gitbook/assets/thong-ke-tag-theo-kenh%20%281%29.png)
 {% endtab %}
 
 {% tab title="Loại Tag" %}
