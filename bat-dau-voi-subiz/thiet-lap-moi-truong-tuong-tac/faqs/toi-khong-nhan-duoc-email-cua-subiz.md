@@ -32,6 +32,10 @@ Công cụ để kiếm tra: [MxToolbox](http://mxtoolbox.com/blacklists.aspx) .
 
 Máy chủ email bạn không ổn định \([soft bounce](http://kb.mailchimp.com/delivery/deliverability-research/soft-vs-hard-bounces)\) và gián đoạn đúng thời điểm Subiz gửi email tới email của bạn. Nếu 03 lần gửi liên tiếp không thành công thì hệ thống sẽ dừng \(block\) việc gửi tới email đó. Để giải quyết, bạn cần cho chúng tôi biết để mở lại đồng thời thông báo với bên cung cấp dịch vụ email để đảm bảo sự ổn định hơn.
 
+{% hint style="info" %}
+
+{% endhint %}
+
 Chúng tôi khuyến cáo, nếu lượng cuộc chat của bạn nhiều \( hơn 30 cuộc mỗi ngày\), bạn nên tắt chức năng nhận [lịch sử chat](https://docs.subiz.com/lich-su-chat/) qua email. Nó làm hòm mail của bạn thêm nhiều email mà chưa chắc bạn đã đọc được hết. Các cuộc chat này đã được Subiz lưu mà bạn có thể đọc bất cứ lúc nào.
 
 ### Liên hệ với Subiz để được hỗ trợ
