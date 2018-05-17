@@ -133,7 +133,7 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 {% tab title="Tùy chỉnh màu sắc nút \"Tạo mới\"" %}
 Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
 
-* Màu sắc đơn
+* **Mã code tùy chỉnh theo màu sắc đơn cho nút "Tạo mới"**
 
 ```text
 .add-new-conversation
@@ -142,7 +142,7 @@ Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuy�
 
 Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
 
-* Dài màu chuyển tiếp
+* **Mã code tùy chỉnh theo dài màu chuyển tiếp cho nút "Tạo mới"**
 
 ```text
 .add-new-conversation
