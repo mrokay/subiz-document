@@ -6,7 +6,7 @@ Khi đăng nhập sử dụng trang quản lý Dashboard, bạn có thể gặp 
 
 * **Nguyên nhân:** Bạn nhập sai thông tin đăng nhập: Email hoặc mật khẩu
 
-![Email ho&#x1EB7;c m&#x1EAD;t kh&#x1EA9;u kh&#xF4;ng &#x111;&#xFA;ng](../../../.gitbook/assets/dia-chi-email-hoac-mat-khau-khong-dung.png)
+![Email ho&#x1EB7;c m&#x1EAD;t kh&#x1EA9;u kh&#xF4;ng &#x111;&#xFA;ng](../../../.gitbook/assets/dia-chi-email-hoac-mat-khau-khong-dung%20%281%29.png)
 
 * **Cách khắc phục:** Với trường hợp này, bạn cần kiểm tra lại thông tin đăng nhập như: Email, mật khẩu xem đã chính xác chưa?
 
@@ -16,7 +16,7 @@ Nếu không chắc chắn về mật khẩu, bạn có thể thực hiện rese
 
 * **Nguyên nhân:** Agent đang ở trạng thái Inactive
 
-![Agent &#x111;ang b&#x1ECB; kh&#xF3;a](../../../.gitbook/assets/agent-bi-khoa.png)
+![Agent b&#x1ECB; kh&#xF3;a](../../../.gitbook/assets/agent-bi-khoa%20%281%29.png)
 
 * **Cách khắc phục:** Để mở khóa, bạn cần liên hệ người quản lý tài khoản chính \(owner\) hoặc agent có quyền cài đặt tài khoản vào phần: Cài đặt&gt; Tài khoản &gt;Danh sách agent &gt; Lựa chon Agent và bật Active trạng thái.
 
@@ -38,7 +38,7 @@ Nếu không chắc chắn về mật khẩu, bạn có thể thực hiện rese
 
 Một trong những lỗi trình duyệt phổ biến là  ERRERR\_SSL\_VERSION\_OR\_CIPHER\_MISMATCH, trình duyệt sẽ hiển thị lỗi khi hệ thống hoặc trình duyệt không thể thiết lập kết nối Dashboard Subiz.
 
-![L&#x1ED7;i ERRERR\_SSL\_VERSION\_OR\_CIPHER\_MISMATCH](../../../.gitbook/assets/0_zqf4zds8yt-qr3gx.jpg)
+![L&#x1ED7;i ERRERR\_SSL\_VERSION\_OR\_CIPHER\_MISMATCH](../../../.gitbook/assets/0_zqf4zds8yt-qr3gx%20%281%29.jpg)
 
 {% tabs %}
 {% tab title="Nguyên nhân" %}
