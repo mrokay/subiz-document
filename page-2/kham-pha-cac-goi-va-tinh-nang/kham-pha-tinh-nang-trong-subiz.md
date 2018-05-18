@@ -8,6 +8,8 @@ Doanh nghiệp sử dụng Subiz hàng ngày để tương tác khách truy cậ
 
 Bạn có thể phân phối cuộc hội thoại tới các tư vấn viên của mình hoặc chuyển cuộc hội thoại đang chat cho các tư vấn viên khác hỗ trợ.  
 
+![Danh s&#xE1;ch c&#xE1;c Rule- ph&#xE2;n ph&#x1ED1;i Agents](../../.gitbook/assets/import-rule.png)
+
 Chẳng hạn: Những cuộc tư vấn của khách hàng nước ngoài sẽ giao cho một hay một nhóm tư vấn viên chuyên phụ trách mảng nước ngoài
 
 ### **Automation**
