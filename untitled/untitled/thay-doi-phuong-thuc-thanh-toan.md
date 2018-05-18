@@ -6,7 +6,7 @@
 
 **Chuyển từ phương thức chuyển khoản sang thẻ tín dụng:** Chọn mục **phương thức thanh toán / Thêm thẻ**
 
-![Chuy&#x1EC3;n thanh to&#xE1;n qua th&#x1EBB;](../../.gitbook/assets/chuyen-thanh-toan-qua-the.png)
+![Chuy&#x1EC3;n th&#xF4;ng tin thanh to&#xE1;n](../../.gitbook/assets/chuyen-thanh-toan-qua-the.png)
 
 **Chuyển từ thẻ tín dụng sang chuyển khoản:** Click vào phần thẻ tín dụng và xóa thông tin thẻ, thanh toán của bạn sẽ chuyển về phương thức chuyển khoản:
 
