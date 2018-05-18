@@ -30,18 +30,5 @@ Hướng dẫn tạo hội thoại mới trên kênh Messenger: Chọn **khách 
 {% endtab %}
 {% endtabs %}
 
-Để trả lời tin nhắn của khách hàng, bạn thao tác như sau:  Chọn **Khách hàng** &gt; Xem trong **List Activities** &gt; Chọn **Messenger** tin nhắn chưa đọc &gt; **Cửa sổ chat mở và nhắn tin tại đây**.
-
-![](../../.gitbook/assets/chat-messenger-1.jpg)
-
-Khi đã hỗ trợ khách hàng xong một vấn đề, bạn hãy kết thúc cuộc hội thoại: Chọn nút **End Chat** &gt; Xác nhận          **Kết thúc**
-
-![](../../.gitbook/assets/end-messenger-1.jpg)
-
-Sau này, bạn sẽ thuận tiện chủ động gửi tin nhắn cho khách hàng trên Messenger.  
-Hướng dẫn tạo mới hội thoại Messenger: Chọn khách hàng &gt; Chọn Tạo hội thoại mới &gt; Chọn kênh Messenger &gt; Chọn trang Fanpage &gt; Cửa sổ chat mở và nhắn tin tại đây
-
-![](../../.gitbook/assets/new-messenger-2.jpg)
-
 
 
