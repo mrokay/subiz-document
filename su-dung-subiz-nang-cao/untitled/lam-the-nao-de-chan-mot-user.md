@@ -64,7 +64,7 @@ Mỗi User kết nối được tới Subiz đều được cấp một mã số
 
 Đây là  danh sách những địa chỉ IP, Email hoặc ID đã bị chặn.
 
-![Spam list](../../.gitbook/assets/spam-list.png)
+![Spam List](../../.gitbook/assets/spam-list.png)
 
 #### Block User
 
