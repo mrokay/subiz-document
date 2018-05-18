@@ -16,10 +16,7 @@ Bạn có thể chủ động gửi Email tới khách hàng với 2 bước đ�
 
 {% tabs %}
 {% tab title="1. Tạo hội thoại mới trên kênh Email" %}
-Hướng dẫn tạo hội thoại mới trên kênh Email như sau:
-
-1. Chọn K**hách hàng** muốn gửi mail
-2. Chọn **Tạo hội thoại mới &gt;** Chọn **Email** 
+_Hướng dẫn tạo hội thoại mới trên kênh Email như sau:_ Chọn K**hách hàng** muốn gửi mail &gt; Chọn **Tạo hội thoại mới &gt;** Chọn **Email** 
 
 ![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i Email](../../.gitbook/assets/tao-hoi-thoai-email.jpg)
 {% endtab %}

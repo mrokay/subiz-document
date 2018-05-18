@@ -6,9 +6,9 @@ Tương tác qua kênh Messenger là cuộc hội thoại tương tác giữa kh
 
 Subiz hiển thị tên kênh Messenger và tên trang Fanpage, giúp bạn nhận biết được nguồn khách hàng của mình. 
 
-**Thao tác**: Chọn **Khách hàng** &gt; Xem trong **List Activities** &gt; Chọn **Messenger**
+_Thao tác_: Chọn **Khách hàng** &gt; Xem trong **List Activities** &gt; Chọn **Messenger**
 
-![Xem ngu&#x1ED3;n kh&#xE1;ch h&#xE0;ng trong List Activities](../../.gitbook/assets/fanpage-messenger-1%20%281%29.jpg)
+![T&#xEA;n Fanpage hi&#x1EC3;n th&#x1ECB; trong List Activities](../../.gitbook/assets/fanpage-messenger-1%20%281%29.jpg)
 
 Với kênh Messenger, chỉ khi khách hàng trên Fanpage chủ động gửi tin nhắn trước, bạn \(Agent Subiz\) có thể bắt đầu tương tác và tạo hội thoại mới được.
 
@@ -23,8 +23,6 @@ Với kênh Messenger, chỉ khi khách hàng trên Fanpage chủ động gửi 
 
 {% tab title="Kết thúc hội thoại Messenger" %}
 Khi đã hỗ trợ khách hàng xong một vấn đề, hãy kết thúc cuộc hội thoại: Chọn nút **End Chat** &gt; Xác nhận **Kết thúc.**
-
-Sau này, bạn sẽ thuận tiện chủ động gửi tin nhắn cho khách hàng trên Messenger.
 
 ![X&#xE1;c nh&#x1EAD;n k&#x1EBF;t th&#xFA;c h&#x1ED9;i tho&#x1EA1;i Messenger](../../.gitbook/assets/end-messenger-1.jpg)
 {% endtab %}
