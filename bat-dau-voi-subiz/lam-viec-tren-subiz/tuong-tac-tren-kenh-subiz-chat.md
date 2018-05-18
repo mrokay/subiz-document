@@ -64,13 +64,31 @@ _Hướng dẫn thêm Agent: Chọn nút  **"Add Agent"**  &gt; Chọn **Agent**
 _**Lưu ý**_: Chỉ Agent được phân phối cuộc hội thoại mới có quyền thêm Agent khác.
 {% endhint %}
 
+### Sử dụng thư viện câu trả lời 
+
+Thư viện câu trả lời là những tin nhắn mẫu được soạn sẵn, giúp bạn trò chuyện với khách hàng một cách nhanh chóng và hiệu quả.
+
+_**Hướng dẫn sử dụng**_: Tại cửa sổ chat, bạn bắt đầu bằng kí tự "**/**" + **shortcut** &gt; chọn **Câu trả lời mẫu** &gt; **Enter**
+
+![S&#x1EED; d&#x1EE5;ng th&#x1B0; vi&#xEA;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](https://docv4.subiz.com/wp-content/uploads/2018/02/example.png)
+
+{% hint style="info" %}
+_**Lưu ý**_: Bạn có thể [thêm và chỉnh sửa Thư viện câu trả lời](https://docv4.subiz.com/thu-vien-cau-tra-loi/) theo hướng dẫn
+{% endhint %}
+
+### Sử dụng Emoji cảm xúc và chia sẻ file
+
+Tại vùng nhập tin nhắn, bạn có thể lựa chọn gửi kèm biểu tượng cảm xúc hoặc file đính kèm.
+
+![Emoji c&#x1EA3;m x&#xFA;c v&#xE0; file &#x111;&#xED;nh k&#xE8;m](http://docv4.subiz.com/wp-content/uploads/2018/01/Icon.png)
+
 ### Gắn Tag
 
 Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp Agent dễ dàng phân loại và quản lý các tương tác của khách hàng.
 
 {% tabs %}
 {% tab title="Gắn thẻ Tag" %}
-**Hướng dẫn gắn thẻ Tag**: Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
+_Hướng dẫn gắn thẻ Tag_: Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
 
 ![G&#x1EAF;n th&#x1EBB; Tag](http://docv4.subiz.com/wp-content/uploads/2018/01/Tag.png)
 
@@ -80,7 +98,7 @@ Lưu ý: Bạn cần cài đặt Tag trước khi gắn thẻ Tag cuộc hội t
 {% endtab %}
 
 {% tab title="Xóa thẻ Tag" %}
-**Hướng dẫn xóa thẻ Tag**: Chọn nút **Tag** &gt; chọn **X** xóa Tag
+_**Hướng dẫn xóa thẻ Tag**_: Chọn nút **Tag** &gt; chọn **X** xóa Tag
 
 ![X&#xF3;a th&#x1EBB; Tag](https://docv4.subiz.com/wp-content/uploads/2018/02/Bieu-tuong-X.png)
 {% endtab %}
@@ -110,23 +128,7 @@ _**Lưu ý**_: Khi cuộc hội thoại kết thúc sẽ có thông báo trên c
 
 ![H&#x1ED9;i tho&#x1EA1;i &#x111;&#xE3; k&#x1EBF;t th&#xFA;c](https://docv4.subiz.com/wp-content/uploads/2018/02/ket-qua-end-cuoc-chat.png)
 
-### Sử dụng thư viện câu trả lời 
-
-Thư viện câu trả lời là những tin nhắn mẫu được soạn sẵn, giúp bạn trò chuyện với khách hàng một cách nhanh chóng và hiệu quả.
-
-_**Hướng dẫn sử dụng**_: Tại cửa sổ chat, bạn bắt đầu bằng kí tự "**/**" + **shortcut** &gt; chọn **Câu trả lời mẫu** &gt; **Enter**
-
-![S&#x1EED; d&#x1EE5;ng th&#x1B0; vi&#xEA;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](https://docv4.subiz.com/wp-content/uploads/2018/02/example.png)
-
-{% hint style="info" %}
-_**Lưu ý**_: Bạn có thể [thêm và chỉnh sửa Thư viện câu trả lời](https://docv4.subiz.com/thu-vien-cau-tra-loi/) theo hướng dẫn
-{% endhint %}
-
-### Sử dụng Emojis cảm xúc và chia sẻ file
-
-Tại vùng nhập tin nhắn, bạn có thể lựa chọn gửi kèm biểu tượng cảm xúc hoặc file đính kèm.
-
-![Emoji c&#x1EA3;m x&#xFA;c v&#xE0; file &#x111;&#xED;nh k&#xE8;m](http://docv4.subiz.com/wp-content/uploads/2018/01/Icon.png)
+### 
 
 ### Chặn khách hàng
 
@@ -134,7 +136,8 @@ Tại vùng nhập tin nhắn, bạn có thể lựa chọn gửi kèm biểu t�
 
 ![Ch&#x1EB7;n kh&#xE1;ch h&#xE0;ng](https://docv4.subiz.com/wp-content/uploads/2018/05/chặn-user-2.jpg)
 
- Khi bạn chọn chức năng "**Chặn người này**", lưu ý:
+{% hint style="warning" %}
+Khi bạn chọn chức năng "**Chặn người này**", lưu ý:
 
 + Khách hàng bị chặn có ảnh đại diện hình gạch chéo.
 
@@ -143,6 +146,7 @@ Tại vùng nhập tin nhắn, bạn có thể lựa chọn gửi kèm biểu t�
 +Với kênh Email, Email khách hàng gửi đến sẽ không hiển thị  cho Agent.
 
 + Với kênh Messenger, tin nhắn không hiển thị cho Agent. Nhưng tin nhắn vẫn tồn tại và hiển thị nếu bạn đăng nhập Fanpage.
+{% endhint %}
 
 ## 
 
