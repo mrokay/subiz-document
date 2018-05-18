@@ -26,7 +26,7 @@ Gói **Miễn phí** sẽ phù hợp với **những doanh nghiệp nhỏ** hay 
 {% endtab %}
 
 {% tab title="Cơ bản" %}
-**Đối với doanh nghiệp vừa và nhỏ**, lượng tương tác tại một thời điểm thường chưa đạt mức 100 cuộc chat, kịch bản mời chat tự động dừng lại ở việc phân loại các nhóm đối tượng cơ bản \(khách mới, khách cũ, khách xem quá 03 trang\) thì gói Cơ bản hoàn toàn đáp ứng được nhu cầu.
+**Đối với doanh nghiệp vừa và nhỏ**, lượng tương tác tại một thời điểm thường chưa đạt mức 100 cuộc chat, kịch bản mời chat tự động dừng lại ở việc phân loại các nhóm đối tượng cơ bản \(khách mới, khách cũ, khách xem quá 03 trang\) thì gói **Cơ bản** hoàn toàn đáp ứng được nhu cầu.
 
 Tổng lượng chat trong ngày không hề bị giới hạn, bạn có thể tăng số lượng agent tương ứng để đáp ứng tốt nhất số lượng yêu cầu chat nhận được từ khách hàng.
 {% endtab %}
