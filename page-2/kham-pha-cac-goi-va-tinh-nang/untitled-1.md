@@ -8,19 +8,21 @@ Dựa vào tính chất và mô hình doanh nghiệp, doanh nghiệp có thể t
 
 {% tabs %}
 {% tab title="Trial" %}
-Với **những doanh nghiệp lần đầu tiếp cận Subiz**, muốn được trải nghiệm Subiz, Subiz đưa ra gói Trial, cho phép bạn trải nghiệm các tính năng của Subiz trong vòng 30 ngày tính từ thời điểm đăng ký tài khoản.
+Gói **Trial** dành cho **những doanh nghiệp lần đầu tiếp cận Subiz**, muốn được trải nghiệm Subiz
 
-Kết thúc 30 ngày dùng thử, bạn có thể quyết định nâng cấp tài khoản lên gói trả phí hoặc nếu không, hệ thống sẽ tự động cập nhật tài khoản của bạn sang gói Miễn phí.
+Sử dụng gói **Trial**, bạn có thể trải nghiệm toàn bộ các tính năng của Subiz trong vòng 30 ngày tính từ thời điểm đăng ký tài khoản.
 
-Trong suốt thời gian dùng thử, bạn sẽ được trải nghiệm toàn bộ các tính năng có trên Subiz. Chi tiết các tính năng **xem tại đây**.
+Kết thúc 30 ngày dùng thử, bạn có thể quyết định nâng cấp tài khoản lên các gói trả phí của Subiz hoặc nếu không, hệ thống sẽ tự động cập nhật tài khoản của bạn sang gói **Miễn phí**.
+
+Chi tiết các tính năng **xem tại đây.**
 {% endtab %}
 
 {% tab title="Miễn phí" %}
-Sau khi kết thúc 30 ngày sử dụng gói Trial, nếu không có nhu cầu trả phí, Subiz sẽ tự động chuyển sang gói Miễn phí.
+Sau khi kết thúc 30 ngày sử dụng gói **Trial**, nếu không có nhu cầu trả phí, Subiz sẽ tự động chuyển sang gói **Miễn phí**.
 
-Gói Miễn phí sẽ phù hợp với **những doanh nghiệp nhỏ hay các doanh nghiệp đang trong giai đoạn khởi nghiệp** muốn sử dụng Subiz. Bạn sẽ không phải trả bất cứ một khoản phí nào khi sử dụng gói dịch vụ này, tuy nhiên, các tính năng có trong gói Miễn phí này sẽ có sự giới hạn khi sử dụng. Chi tiết xem tại đây.
+Gói **Miễn phí** sẽ phù hợp với **những doanh nghiệp nhỏ** hay **các doanh nghiệp đang trong giai đoạn khởi nghiệp** muốn sử dụng Subiz. Bạn sẽ không phải trả bất cứ một khoản phí nào khi sử dụng gói dịch vụ này, tuy nhiên, các tính năng có trong gói **Miễn phí** này sẽ có sự giới hạn khi sử dụng. Chi tiết **xem tại đây**.
 
-Đặc biệt, nhằm đem lại những trải nghiệm thực sự hữu ích, gói Miễn phí của Subiz là không giới hạn, và bạn có thể duy trì sử dụng gói dịch vụ này trọn đời nếu bạn muốn.
+Đặc biệt, nhằm hỗ trợ cho các doanh nghiệp khởi nghiệp, tạo nền tảng vững chắc để phát triển, bạn có thể duy trì sử dụng gói dịch vụ này trọn đời nếu bạn muốn.
 {% endtab %}
 
 {% tab title="Cơ bản" %}
@@ -30,9 +32,9 @@ Tổng lượng chat trong ngày không hề bị giới hạn, bạn có thể 
 {% endtab %}
 
 {% tab title="Nâng cao" %}
-Gói dịch vụ này phù hợp với **những doanh nghiệp lớn** có lượng website, Facebook, Email, Zalo,... tích hợp lớn và lượng tương tác với khách hàng mỗi ngày cao.
+Gói **Nâng cao** của Subiz là dành cho **những doanh nghiệp lớn** có lượng website, Facebook, Email, Zalo,... tích hợp lớn và lượng tương tác với khách hàng mỗi ngày cao.
 
-Điểm mạnh của gói nâng cao là số lượng Rule được thiết lập sẽ không bị giới hạn. Điều này phục vụ cho những doanh nghiệp cần sử dụng nhiều thiết lập hội thoại cho những đường dẫn URL khác nhau, hoặc sử dụng nhiều Automation chuyên sâu cho nhiều nhóm đối tượng.
+Điểm mạnh của gói **Nâng cao** là số lượng Rule được thiết lập sẽ không bị giới hạn. Điều này phục vụ cho những doanh nghiệp cần sử dụng nhiều thiết lập hội thoại cho những đường dẫn URL khác nhau, hoặc sử dụng nhiều Automation chuyên sâu cho nhiều nhóm đối tượng.
 {% endtab %}
 {% endtabs %}
 

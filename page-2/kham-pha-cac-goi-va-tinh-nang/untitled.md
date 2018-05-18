@@ -2,7 +2,7 @@
 
 ### **Subiz Chat**
 
-Subiz Chat bao gồm 2 phần: **Tương tác trên Dashboard dành cho doanh nghiệp** và **cửa số Subiz Chat**.
+Subiz Chat bao gồm 2 phần: **Tương tác trên Dashboard dành cho doanh nghiệp** và **Cửa số Subiz Chat**.
 
 **Mọi tương tác của khách hàng với doanh nghiệp sẽ được hiển thị ngay trên Dashboard của Subiz sau khi bạn tích hợp Subiz lên Website**, doanh nghiệp có thể dễ dàng tương tác trực tiếp với khách hàng của mình từ nhiều Website ngay tại đây.
 
@@ -45,6 +45,7 @@ Khi tích hợp sử dụng Email trên Subiz, doanh nghiệp có thể thuận 
 Bạn có thể thực hiện tất cả các nhiệm vụ ngay trên Subiz:
 
 * **Tích hợp nhiều email trên Subiz** để vừa nhận và gửi email đến từng khách hàng mà không cần sử dụng bất cứ công cụ hỗ trợ email nào khác.
+* **Cá nhân hóa Email:** gửi và phản hồi email của từng khách hàng ngay trên Subiz
 * **Chủ động gửi Email Marketing** dựa theo phân khúc và hành vi của khách hàng, thuận tiện chăm sóc khách hàng đúng mục tiêu, đúng thời điểm, không bỏ lỡ bất kỳ một khách hàng nào.
 * **Theo dõi các phản hồi của khách hàng** qua email theo thời gian thực, dễ dàng nắm bắt thông tin khách hàng và lọc tìm kiếm khách hàng, tăng tốc độ xử lý và chăm sóc khách hàng hiệu quả hơn.
 

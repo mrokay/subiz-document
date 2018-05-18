@@ -44,15 +44,15 @@ Tại mục **Cài đặt**, bạn có thể thiết lập các tính năng có 
 {% endtab %}
 
 {% tab title="Thống kê" %}
-Bạn có thể thống kê số lượng tương tác với khách hàng, nắm được tình hình tương tác, những vấn đề khách hàng thường gặp phải và đưa ra hướng cải thiện chất lượng dịch vụ khách hàng ngay tại mục Thống kê trên Dashboard. 
+Bạn có thể thống kê số lượng tương tác với khách hàng, nắm được tình hình tương tác, những vấn đề khách hàng thường gặp phải và đưa ra hướng cải thiện chất lượng dịch vụ khách hàng ngay tại mục **Thống kê** trên Dashboard. 
 
-Tại đây, bạn có thể thống kê các cuộc tương tác dựa theo từng tư vấn viên, nhóm tư vấn viên theo thời gian hoặc theo dõi, phân tích các cuộc tương tác về các vấn đề cụ thể dựa vào Tag.
+Tại đây, bạn có thể thống kê các cuộc tương tác dựa theo từng tư vấn viên, nhóm tư vấn viên theo thời gian hoặc theo dõi, phân tích các cuộc tương tác về các vấn đề cụ thể dựa vào **Tag.**
 
 ![Th&#x1ED1;ng k&#xEA; c&#xE1;c cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i v&#xE0; th&#x1ED1;ng k&#xEA; theo Tag tr&#xEA;n m&#x1EE5;c Th&#x1ED1;ng k&#xEA;](https://lh5.googleusercontent.com/aDTSDiWS14Qtu8D2mMVN0eg2ku3TTXpDya7Jfn2npzU7jJEmGOQZMoSyPQWDcGkNdLycu7P0mdarOKr1shpKb1nwslpbALXrEbZPt-2lRWIchX0anDUNRM5PcTj1Q_eH0POz4OpR)
 {% endtab %}
 
 {% tab title="Thanh toán" %}
-Bạn có thể kiểm tra gói cước sử dụng, quản lý các thanh toán sử dụng Subiz và gia hạn thanh toán bằng cách click vào **Cài đặt** =&gt; **Thanh toán**
+Bạn có thể kiểm tra gói cước sử dụng, quản lý các thanh toán sử dụng Subiz và gia hạn thanh toán một cách thuận tiện, nhanh chóng ngay trong mục **Cài đặt** trên Dashboard
 
 ![Qu&#x1EA3;n l&#xFD; v&#xE0; gia h&#x1EA1;n g&#xF3;i c&#x1B0;&#x1EDB;c s&#x1EED; d&#x1EE5;ng t&#x1EA1;i m&#x1EE5;c Thanh to&#xE1;n](../../.gitbook/assets/screenshot_48.png)
 {% endtab %}
