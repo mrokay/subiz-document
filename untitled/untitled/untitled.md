@@ -32,7 +32,7 @@ Sau khi nâng cấp tài khoản, hệ thống sẽ phát sinh hóa đơn trong 
 
 Để hạ cấp tài khoản, bạn vào mục **Gói cước hiện tại** và tiến hành hạ cấp tài khoản
 
-![H&#x1EA1; c&#x1EA5;p t&#xE0;i kho&#x1EA3;n](../../.gitbook/assets/ha-tai-khoan.png)
+![H&#x1EA1; c&#x1EA5;p t&#xE0;i kho&#x1EA3;n](../../.gitbook/assets/ha-tai-khoan%20%281%29.png)
 
 ### Thay đổi số lượng Agent
 
@@ -40,7 +40,7 @@ Sau khi nâng cấp tài khoản, hệ thống sẽ phát sinh hóa đơn trong 
 
 Để tăng Agent bạn Click vào mục **Mua thêm Agent** sau đó lựa chọn số lượng Agent phù hợp:
 
-![Mua th&#xEA;m Agent](../../.gitbook/assets/mua-them-agents.png)
+![Mua th&#xEA;m Agent](../../.gitbook/assets/mua-them-agents%20%281%29.png)
 
 **Giảm Agent**
 
@@ -52,13 +52,13 @@ Sau khi nâng cấp tài khoản, hệ thống sẽ phát sinh hóa đơn trong 
 
 Để thay đổi chu kỳ thanh toán, bạn click vào mục **Thay đổi chu kỳ thanh toán** và lựa chọn chu kỳ phù hợp:
 
-![Thay &#x111;&#x1ED5;i chu k&#x1EF3; thay to&#xE1;n](../../.gitbook/assets/thay-doi-chu-ky-thanh-toan.png)
+![Thay &#x111;&#x1ED5;i chu k&#x1EF3; thanh to&#xE1;n](../../.gitbook/assets/thay-doi-chu-ky-thanh-toan.png)
 
 ### Hạ tài khoản xuống gói miễn phí
 
 Tùy vào nhu cầu sử dụng và hoạt động kinh doanh, bạn có thể lựa chọn Hạ tài khoản xuống gói miễn phí và nâng cấp lại bất cứ khi nào:
 
-![H&#x1EA1; t&#xE0;i kho&#x1EA3;n xu&#x1ED1;ng g&#xF3;i mi&#x1EC5;n ph&#xED;](../../.gitbook/assets/ha-tai-khoan-xuong-goi-mien-phi.png)
+![H&#x1EA1; t&#xE0;i kho&#x1EA3;n xu&#x1ED1;ng g&#xF3;i mi&#x1EC5;n ph&#xED;](../../.gitbook/assets/ha-tai-khoan-xuong-goi-mien-phi%20%281%29.png)
 
 
 
