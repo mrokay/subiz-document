@@ -128,8 +128,6 @@ _**Lưu ý**_: Khi cuộc hội thoại kết thúc sẽ có thông báo trên c
 
 ![H&#x1ED9;i tho&#x1EA1;i &#x111;&#xE3; k&#x1EBF;t th&#xFA;c](https://docv4.subiz.com/wp-content/uploads/2018/02/ket-qua-end-cuoc-chat.png)
 
-### 
-
 ### Chặn khách hàng
 
  Agent có thể chặn khách hàng đã có tương tác như sau: Trong cửa sổ hội thoại  chọn nút **Chặn** &gt; bật **ON** chức năng **Chặn người này**
