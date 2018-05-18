@@ -17,10 +17,6 @@
       * [Sáng tạo cửa sổ chat Subiz ấn tượng](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/tuy-chinh-cua-so-subiz-chat.md)
     * [Tích hợp sử dụng Email trên Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz.md)
     * [Tích hợp Fanpage Facebook vào Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-fanpage-facebook-vao-subiz.md)
-    * Tối ưu môi trường tương tác
-      * Download Subiz app
-      * Trải nghiệm Subiz như phần mềm cài trên máy tính
-      * Cài đặt thông tin doanh nghiệp
     * FAQs
       * [Những vấn đề gặp phải khi đăng nhập Dashboard](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/faqs/untitled-1.md)
       * [Tôi không nhận được email của Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/faqs/toi-khong-nhan-duoc-email-cua-subiz.md)
@@ -38,7 +34,6 @@
     * [Tương tác trên kênh Subiz chat](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-tren-kenh-subiz-chat.md)
     * [Tương tác qua kênh Email](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-email.md)
     * [Tương tác qua kênh Messenger](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-messenger.md)
-    * Tối ưu tương tác khách hàng
 * Sử dụng Subiz nâng cao
   * [Tăng tương tác](su-dung-subiz-nang-cao/tang-tuong-tac/README.md)
     * [Tạo Automation](su-dung-subiz-nang-cao/tang-tuong-tac/tao-automation.md)
