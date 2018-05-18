@@ -38,13 +38,13 @@ Hướng dẫn tạo hội thoại mới trên kênh Messenger: Chọn **khách 
 
 ### Một số tính năng hữu ích trên kênh Messenger
 
-#### 1. **Quản trị nhiều Fanpage trong ứng dụng Subiz**
+### 1. **Quản trị nhiều Fanpage trong ứng dụng Subiz**
 
 Khi bạn là quản trị viên của nhiều Fanpage, Subiz sẽ giúp bạn dễ dàng tương tác và quản lý hiệu quả khách hàng trên từng trang.
 
 ![K&#x1EBF;t n&#x1ED1;i nhi&#x1EC1;u Fanpage v&#xE0;o t&#xE0;i kho&#x1EA3;n Subiz](../../.gitbook/assets/nhieu-fanpage-1.jpg)
 
-#### **2. Sử dụng thư viện câu trả lời**
+### **2. Sử dụng thư viện câu trả lời**
 
 Thư viện câu trả lời là những tin nhắn mẫu được soạn sẵn, giúp bạn trò chuyện với khách hàng một cách nhanh chóng và hiệu quả.
 
@@ -56,7 +56,7 @@ _**Hướng dẫn sử dụng**_: Tại cửa sổ chat, bạn bắt đầu bằ
 _**Lưu ý**_: Bạn có thể [thêm và chỉnh sửa Thư viện câu trả lời](https://docv4.subiz.com/thu-vien-cau-tra-loi/) theo hướng dẫn
 {% endhint %}
 
-#### 3. Gắn Tag cuộc hội thoại
+### 3. Gắn Tag cuộc hội thoại
 
 Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp Agent dễ dàng phân loại và quản lý các tương tác của khách hàng.
 
@@ -72,14 +72,32 @@ Lưu ý: Bạn cần cài đặt Tag trước khi gắn thẻ Tag cuộc hội t
 {% endtab %}
 {% endtabs %}
 
-#### 4. Rule tự động phân phối hội thoại 
+### 4. Rule tự động phân phối hội thoại 
 
 Rule là các quy tắc do bạn thiết lập để tự động phân phối cuộc hội thoại tới một hoặc một nhóm Agent.   
-**Hướng dẫn tạo Rule phân phối hội thoại trên trang Fanpage cho 1 Agent:**
+Hướng dẫn tạo Rule phân phối hội thoại trên trang Fanpage cho 1 Agent**: Cài đặt Tài khoản** &gt; **Rule** &gt; **Tạo mới Rule &gt; Điền thông tin như trong ảnh.** 
 
 ![Rule ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i tr&#xEA;n k&#xEA;nh Messenger Fanpage](../../.gitbook/assets/rule-messenger-1.jpg)
 
+### 5. Thêm Agent vào cuộc hội thoại 
 
+ Khi bạn đang trò chuyện cùng khách hàng, bạn có thể Mời thêm Agent tham gia cuộc hội thoại và cùng hỗ trợ khách hàng.
+
+_Hướng dẫn thêm Agent: Chọn nút  **"Add Agent"**  &gt; Chọn **Agent**  &gt; Chọn **Thêm**_
+
+![Th&#xEA;m Agent tham gia h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/3.-them-agent.jpg)
+
+{% hint style="info" %}
+_**Lưu ý**_: Chỉ Agent được phân phối cuộc hội thoại mới có quyền thêm Agent khác.
+{% endhint %}
+
+### 6. Sử dụng Emojis cảm xúc và chia sẻ file
+
+Tại vùng nhập tin nhắn, bạn có thể lựa chọn gửi kèm biểu tượng cảm xúc hoặc file đính kèm.
+
+![Emoji c&#x1EA3;m x&#xFA;c v&#xE0; file &#x111;&#xED;nh k&#xE8;m](http://docv4.subiz.com/wp-content/uploads/2018/01/Icon.png)
+
+### 
 
 
 
