@@ -30,7 +30,7 @@ Sau này, bạn sẽ thuận tiện chủ động gửi tin nhắn cho khách h�
 {% endtab %}
 
 {% tab title="Tạo hội thoại mới Messenger" %}
-Hướng dẫn tạo hội thoại mới trên kênh Messenger: Chọn **khách hàng** &gt; Chọn **Tạo hội thoại mới** &gt; Chọn kênh **Messenger** &gt; Chọn **tên Fanpage** &gt; **Cửa sổ chat mở và nhắn tin tại đây**
+_Hướng dẫn tạo hội thoại mới trên kênh Messenger_: Chọn **khách hàng** &gt; Chọn **Tạo hội thoại mới** &gt; Chọn kênh **Messenger** &gt; Chọn **tên Fanpage** &gt; **Cửa sổ chat mở và nhắn tin tại đây**
 
 ![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i tr&#xEA;n k&#xEA;nh Messenger](../../.gitbook/assets/new-messenger-2.jpg)
 {% endtab %}
@@ -48,7 +48,7 @@ Khi bạn là quản trị viên của nhiều Fanpage, Subiz sẽ giúp bạn d
 
 Thư viện câu trả lời là những tin nhắn mẫu được soạn sẵn, giúp bạn trò chuyện với khách hàng một cách nhanh chóng và hiệu quả.
 
-_**Hướng dẫn sử dụng**_: Tại cửa sổ chat, bạn bắt đầu bằng kí tự "**/**" + **shortcut** &gt; chọn **Câu trả lời mẫu** &gt; **Enter**
+_Hướng dẫn sử dụng_: Tại cửa sổ chat, bạn bắt đầu bằng kí tự "**/**" + **shortcut** &gt; chọn **Câu trả lời mẫu** &gt; **Enter**
 
 ![S&#x1EED; d&#x1EE5;ng th&#x1B0; vi&#xEA;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](https://docv4.subiz.com/wp-content/uploads/2018/02/example.png)
 
@@ -62,7 +62,7 @@ Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp 
 
 {% tabs %}
 {% tab title="Gắn thẻ Tag" %}
-**Hướng dẫn gắn thẻ Tag**: Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
+_Hướng dẫn gắn thẻ Tag_: Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
 
 ![G&#x1EAF;n th&#x1EBB; Tag](http://docv4.subiz.com/wp-content/uploads/2018/01/Tag.png)
 
@@ -75,7 +75,7 @@ Lưu ý: Bạn cần cài đặt Tag trước khi gắn thẻ Tag cuộc hội t
 ### 4. Rule tự động phân phối hội thoại 
 
 Rule là các quy tắc do bạn thiết lập để tự động phân phối cuộc hội thoại tới một hoặc một nhóm Agent.   
-Hướng dẫn tạo Rule phân phối hội thoại trên trang Fanpage cho 1 Agent**: Cài đặt Tài khoản** &gt; **Rule** &gt; **Tạo mới Rule &gt; Điền thông tin như trong ảnh.** 
+_Hướng dẫn tạo Rule phân phối hội thoại trên trang Fanpage cho 1 Agent_**: Cài đặt Tài khoản** &gt; **Rule** &gt; **Tạo mới Rule &gt; Điền thông tin như trong ảnh.** 
 
 ![Rule ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i tr&#xEA;n k&#xEA;nh Messenger Fanpage](../../.gitbook/assets/rule-messenger-1.jpg)
 
