@@ -65,12 +65,18 @@ Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp 
 _Hướng dẫn gắn thẻ Tag_: Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
 
 ![G&#x1EAF;n th&#x1EBB; Tag](http://docv4.subiz.com/wp-content/uploads/2018/01/Tag.png)
+{% endtab %}
+
+{% tab title="Xóa thẻ Tag" %}
+_Hướng dẫn xóa thẻ Tag_: Chọn nút **Tag** &gt; chọn **X** xóa Tag
+
+![X&#xF3;a th&#x1EBB; Tag](https://lh3.googleusercontent.com/0f7SAEUcpoE8T0_g_8w5BLnp-rnG1nHwRAUk11nrYE6-wSoQcJOKQ2K1hOt5OTHajApBiXkOaSwF9ZXoNiLVqy-cuZQbyOqmPWlNGWVb1RhXs0Veu6AVvvde2jq5tvR17Ax13SBe)
+{% endtab %}
+{% endtabs %}
 
 {% hint style="info" %}
 Lưu ý: Bạn cần cài đặt Tag trước khi gắn thẻ Tag cuộc hội thoại \([Xem chi tiết](https://docv4.subiz.com/cai-dat-tag/)\)
 {% endhint %}
-{% endtab %}
-{% endtabs %}
 
 ### 4. Rule tự động phân phối hội thoại 
 
