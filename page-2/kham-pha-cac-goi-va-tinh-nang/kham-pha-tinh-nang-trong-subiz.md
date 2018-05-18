@@ -25,6 +25,8 @@ Ngoài ra, bạn còn có thể cài đặt các Automation thực hiện các h
 
 Bạn có thể phân nhóm khách hàng dựa trên những tiêu chí phù hợp với mô hình kinh doanh của mình
 
+![Ph&#xE2;n kh&#xFA;c kh&#xE1;ch h&#xE0;ng theo ti&#xEA;u ch&#xED; &#x111;&#x1ECB;a l&#xFD;](../../.gitbook/assets/segment-list.png)
+
 Từ danh sách khách hàng đã được phân chia như vậy, bạn có thể gửi các tin nhắn tự động hoặc các email marketing cho từng nhóm khách hàng đúng mục tiêu.  
   
   
