@@ -19,3 +19,5 @@ Khi đã hỗ trợ khách hàng xong một vấn đề, bạn hãy kết thúc 
 Sau này, bạn sẽ thuận tiện chủ động gửi tin nhắn cho khách hàng trên Messenger.  
 Hướng dẫn tạo mới hội thoại Messenger: Chọn khách hàng &gt; Chọn Tạo hội thoại mới &gt; Chọn Messnger &gt; Chọn trang Fanpage gửi đi &gt; 
 
+
+

@@ -64,6 +64,4 @@
     * [Thay đổi gói dịch vụ](untitled/untitled/untitled.md)
     * [Thay đổi phương thức thanh toán](untitled/untitled/thay-doi-phuong-thuc-thanh-toan.md)
     * [FAQs](untitled/untitled/untitled-1.md)
-* Thanh test 1
-* Thanh test 2
 
