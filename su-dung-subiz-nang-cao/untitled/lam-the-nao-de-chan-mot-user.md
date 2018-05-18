@@ -10,7 +10,7 @@ Bạn có thể chặn một User theo 2 cách sau:
 
 Trong cuộc hội thoại, bạn có thể chặn user bằng cách click vào biểu tượng ba chấm ở góc phải màn hình và bật nút Block
 
-![Ch&#x1EB7;n User tr&#x1EF1;c ti&#x1EBF;p](../../.gitbook/assets/chan-user-truc-tiep.png)
+![Ch&#x1EB7;n user tr&#x1EF1;c ti&#x1EBF;p](../../.gitbook/assets/chan-chat-truc-tiep.png)
 
 #### Chặn User thông qua Blacklist \( Danh sách đen \)
 
@@ -20,7 +20,7 @@ Blacklist là danh sách những user mà bạn đã chặn. Để thêm vào da
 {% tab title="Chặn bằng IP" %}
 Mỗi user kết nối internet đều có một địa chỉ IP. Bạn có thể nhập địa chỉ IP vào BlackList Ips để chặn User này.
 
-![Ch&#x1EB7;n theo &#x111;&#x1ECB;a ch&#x1EC9; IP](../../.gitbook/assets/chan-theo-dia-chi-ip.png)
+![Ch&#x1EB7;n theo &#x111;&#x1ECB;a ch&#x1EC9; IP](../../.gitbook/assets/chan-theo-dia-chi-ip%20%281%29.png)
 
 Tuy nhiên, trong trường hợp có nhiều users sử dụng chung 1 IP, cách chặn này sẽ khiến bạn chặn luôn cả những users còn lại.  Ví dụ Subiz Team đang dùng 1 IP là 112.134.233.134, nếu chặn IP này tất cả máy tính tại Văn phòng Subiz sẽ không thấy Widget hiển thị trên cửa sổ website Subiz.com
 
@@ -32,7 +32,7 @@ Tuy nhiên, trong trường hợp có nhiều users sử dụng chung 1 IP, các
 {% tab title="Chặn bằng Email" %}
 Sau khi nhập email của user bạn muốn chặn, tất cả mail được gửi từ địa chỉ này đều bị chặn.
 
-![Ch&#x1EB7;n theo Email](../../.gitbook/assets/chan-theo-email.png)
+![Ch&#x1EB7;n theo &#x111;&#x1ECB;a ch&#x1EC9; email](../../.gitbook/assets/chan-theo-email.png)
 
 {% hint style="info" %}
 **Lưu ý:** Việc chặn địa chỉ mail được sử dụng khi bạn muốn chặn tương tác trên kênh email.
@@ -42,17 +42,13 @@ Sau khi nhập email của user bạn muốn chặn, tất cả mail được g�
 {% tab title="Chặn bằng User ID" %}
 Mỗi User kết nối được tới Subiz đều được cấp một mã số và gọi là User ID.  Những gì bạn cần làm là copy ID của User muốn chặn trong mục activity và dán vào ô chặn:
 
-![Ch&#x1EB7;n theo ID](../../.gitbook/assets/chan-theo-id.png)
+![Ch&#x1EB7;n theo User ID](../../.gitbook/assets/chan-theo-id%20%281%29.png)
 
 Đây là cách chặn chính xác và tổng quan nhất trên tất cả các kênh mà User này kết nối như Email,  Subiz Chat, Messenger.
 
-{% hint style="info" %}
 **Cách lấy User ID**: Click vào 1 User trong tab Activities và lấy URL, copy đoạn đánh dấu đỏ như sau:
 
-![C&#xE1;ch l&#x1EA5;y User ID](../../.gitbook/assets/cach-lay-user-id.png)
-
-### 
-{% endhint %}
+![L&#x1EA5;y User ID](../../.gitbook/assets/cach-lay-user-id.png)
 {% endtab %}
 {% endtabs %}
 
@@ -79,7 +75,7 @@ Bao gồm danh sách các Users đã bị Chặn, Agent thao tác chặn và th�
 * **Bỏ chặn trực tiếp trên trang Activities:**  Từ Tab activities -&gt; Tìm User và tắt Chặn User.
 * **Bỏ chặn trong Blacklist:** Trong BlackList , click vào biểu tượng remove đối với User muốn bỏ chặn
 
-![B&#x1ECF; ch&#x1EB7;n m&#x1ED9;t User](../../.gitbook/assets/bo-chan.png)
+![B&#x1ECF; ch&#x1EB7;n User](../../.gitbook/assets/bo-chan.png)
 
 ### Điều gì xảy ra khi bạn chặn một User
 
@@ -88,5 +84,7 @@ Bao gồm danh sách các Users đã bị Chặn, Agent thao tác chặn và th�
 * Với Channel Messenger: Tin nhắn được chặn ở Subiz Core và không hiển thị cho Agent. Lưu  ý: tin nhắn vẫn tồn tại và hiển thị nếu khách dùng Quản trị fanpage.
 * Các agent bị chặn có Avatar gạch chéo  
 
-![Hi&#x1EC7;n th&#x1ECB; Agent b&#x1ECB; ch&#x1EB7;n](../../.gitbook/assets/spam-avatar.png)
+![Hi&#x1EC3;n th&#x1ECB; Agent b&#x1ECB; ch&#x1EB7;n](../../.gitbook/assets/spam-avatar.png)
+
+
 
