@@ -1,6 +1,6 @@
 # Thay đổi gói dịch vụ
 
-Cần đoạn giới thiệu
+Trong quá trình sử dụng Subiz, tùy vào tình hình kinh doanh và chiến lược phát triển, bạn có thay đổi thông tin tài khoản bất cứ khi nào để phù hợp với nhu cầu của doanh nghiệp.
 
 ### Nâng/ Hạ tài khoản
 
@@ -38,19 +38,19 @@ Sau khi nâng cấp tài khoản, hệ thống sẽ phát sinh hóa đơn trong 
 
 #### Mua thêm Agent
 
-Để tăng Agent bạn Click vào mục `Mua thêm Agent` sau đó lựa chọn số lượng Agent phù hợp:
+Để tăng Agent bạn Click vào mục **Mua thêm Agent** sau đó lựa chọn số lượng Agent phù hợp:
 
 ![Mua th&#xEA;m Agent](../../.gitbook/assets/mua-them-agents.png)
 
 **Giảm Agent**
 
-Để giảm số lượng Agent, bạn vào mục `Xem thêm` sau đó thay đổi số lượng Agent phù hợp.
+Để giảm số lượng Agent, bạn vào mục **Xem thêm** sau đó thay đổi số lượng Agent phù hợp.
 
 ![Gi&#x1EA3;m Agent](../../.gitbook/assets/giam-agent.png)
 
 ### Thay đổi chu kỳ thanh toán
 
-Để thay đổi chu kỳ thanh toán, bạn click vào mục Thay đổi chu kỳ thanh toán và lựa chọn chu kỳ phù hợp:
+Để thay đổi chu kỳ thanh toán, bạn click vào mục **Thay đổi chu kỳ thanh toán** và lựa chọn chu kỳ phù hợp:
 
 ![Thay &#x111;&#x1ED5;i chu k&#x1EF3; thay to&#xE1;n](../../.gitbook/assets/thay-doi-chu-ky-thanh-toan.png)
 
