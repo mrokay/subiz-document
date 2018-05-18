@@ -4,11 +4,14 @@ description: Sẽ chèn link vào các mục sau khi hoàn thiện đưa bài l�
 
 # Nâng cao hiệu quả marketing với Subiz
 
-Thực hiện các chiến lược tiếp thị, chăm sóc khách hàng và bán hàng thôi chưa đủ. Subiz còn hỗ trợ bạn quản lý và điều hành các hoạt động marketing, đánh phá, phân tích từ đó lên kế hoạch nâng cao hiệu quả marketing của mình một cách khoa học.
+Thực hiện các chiến lược tiếp thị, chăm sóc khách hàng và bán hàng thôi chưa đủ. Bạn  còn có thể quản lý và điều hành các hoạt động marketing ngay trên Subiz, đánh phá, phân tích từ đó lên kế hoạch nâng cao hiệu quả marketing của mình một cách khoa học.
 
-* Tạo phân khúc khách hàng giúp bạn chia nhỏ tập dữ liệu khách hàng, từ đó có chiến lược riêng với từng nhóm đối tượng.
-* Tạo automation hỏi email khách hàng giúp bạn có thêm thông tin liên hệ, đồng thời có bộ dữ liệu khách hàng đầy đủ.
-* Đánh giá, phân tích hoạt động markeitng qua các **báo cáo thống kê**:
-  * **Thống kê cuộc hội thoại**: Tại đây, bạn sẽ có được số liệu chi tiết về những cuộc tương tác, thời điểm có nhiều khách hàng tương tác, những agent nào có nhiều/ ít cuộc tương tác nhất và kênh nào hoạt động hiệu quả nhất.
-  * **Thống kê Tag**: Bạn có thể nắm được các vấn đề khách hàng gặp phải hay những lỗi kỹ thuật, sai lầm trong chăm sóc khách hàng,... dựa trên thẻ Tag từ đó thống kê và đánh giá chính xác hiệu quả tương tác của mình.
+Trước tiên, bạn cần **thu thập thông tin khách hàng** có tương tác ở trên các kênh như Website, Facebook, Email, ….
+
+Với danh sách khách hàng có trong tay, bạn có thể phân chia khách hàng thành các nhóm đối tượng cụ thể phù hợp với mô hình kinh doanh của mình. Bằng cách lựa chọn các điều kiện và tạo **Phân khúc khách hàng** trên Subiz. Chi tiết **xem tại đây.**
+
+Từ những nhóm khách hàng đó, bạn có thể **lên lịch trình gửi Email Marketing** chăm sóc theo tuần, tháng hoặc chủ động tương tác với khách hàng sau khi quan sát khách hàng đang truy cập trang nào tại trang **Khách** trên Dashboard của Subiz.
+
+Bạn có thể theo dõi lượng tương tác với khách hàng trên **Thống kê** để nắm được tình hình các cuộc tương tác và những vấn đề khách hàng hay gặp phải để từ đó điều chỉnh lại hoạt động marketing của mình.  
+
 
