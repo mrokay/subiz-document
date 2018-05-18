@@ -18,7 +18,7 @@ Nếu không chắc chắn về mật khẩu, bạn có thể thực hiện rese
 
 ![Agent b&#x1ECB; kh&#xF3;a](../../../.gitbook/assets/agent-bi-khoa%20%281%29.png)
 
-* **Cách khắc phục:** Để mở khóa, bạn cần liên hệ người quản lý tài khoản chính \(owner\) hoặc agent có quyền cài đặt tài khoản vào phần: Cài đặt&gt; Tài khoản &gt;Danh sách agent &gt; Lựa chon Agent và bật Active trạng thái.
+* **Cách khắc phục:** Để mở khóa, bạn cần liên hệ người quản lý tài khoản chính \(owner\) hoặc agent có quyền cài đặt tài khoản vào phần: **Cài đặt&gt; Tài khoản &gt;Danh sách agent &gt; Lựa chon Agent** và bật Active trạng thái.
 
 ![M&#x1EDF; kh&#xF3;a Agent](../../../.gitbook/assets/active.jpg)
 
