@@ -6,7 +6,9 @@ Doanh nghiệp sử dụng Subiz hàng ngày để tương tác khách truy cậ
 
 **Rule là các quy tắc do bạn thiết lập để tự động phân phối cuộc hội thoại tới một hoặc một nhóm Agent**.  Đây là thiết lập cực kì quan trọng khi bắt đầu sử dụng Subiz.
 
-Bạn có thể phân phối cuộc hội thoại tới các tư vấn viên của mình hoặc chuyển cuộc hội thoại đang chat cho các tư vấn viên khác hỗ trợ.  Chẳng hạn: Những cuộc tư vấn của khách hàng nước ngoài sẽ giao cho một hay một nhóm tư vấn viên chuyên phụ trách mảng nước ngoài
+Bạn có thể phân phối cuộc hội thoại tới các tư vấn viên của mình hoặc chuyển cuộc hội thoại đang chat cho các tư vấn viên khác hỗ trợ.  
+
+Chẳng hạn: Những cuộc tư vấn của khách hàng nước ngoài sẽ giao cho một hay một nhóm tư vấn viên chuyên phụ trách mảng nước ngoài
 
 ### **Automation**
 
