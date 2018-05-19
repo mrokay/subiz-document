@@ -10,7 +10,7 @@ Nếu có bất kỳ câu hỏi nào liên quan đến hóa đơn phát sinh và
 
 
 
-##  Tại sao thanh toán thẻ không thành công? 
+###  Tại sao thanh toán thẻ không thành công? 
 
 #### Tại sao thẻ tín dụng của tôi bị từ chối?
 
@@ -40,7 +40,7 @@ Nếu tất cả các thông tin bạn điền là chính xác, bạn có thể 
 
 2, Liên hệ với ngân hàng phát hành thẻ và yêu cầu mở thanh toán
 
-## Hợp đồng và Hóa đơn \(đối với khách hàng doanh nghiệp\) 
+### Hợp đồng và Hóa đơn \(đối với khách hàng doanh nghiệp\) 
 
 {% hint style="info" %}
 * **Hợp đồng** được thực hiện với thuê bao có chu kỳ thanh toán từ **12 tháng** trở lên.
@@ -57,7 +57,7 @@ Nếu tất cả các thông tin bạn điền là chính xác, bạn có thể 
 
 Hóa đơn được yêu cầu thực hiện trong vòng **30 ngày** kể từ ngày doanh nghiệp hoàn tất nghĩa vụ thanh toán. Subiz không có trách nhiệm xuất hóa đơn bù nếu quá thời gian quy định. Chính sách này được áp dụng với tất cả khách hàng của Subiz.
 
-##  Quản lý hóa đơn
+###  Quản lý hóa đơn
 
 Để theo dõi thông tin, tình trạng Hóa đơn \(tình trạng thanh toán, chu kì, thời hạn còn lại..\) bạn có thể truy cập vào tài khoản [Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F) &gt; Cài đặt/**Thanh toán**. Thông tin sẽ được hiển thị như sau:
 
@@ -75,7 +75,7 @@ Sau khi đăng ký tài khoản mới, bạn sẽ được sử dụng toàn b�
 
 Khi bạn quyết định nâng cấp tài khoản, bạn cần xác định số agent \(hỗ trợ viên\), chu kỳ thanh toán và loại gói dịch vụ. Thanh toán sẽ được hoàn tất vào đầu chu kỳ sử dụng. Chúng tôi không có chính sách hoàn thanh toán – đây là chính sách đối với tất cả khách hàng – và bạn sẽ chịu trách nhiệm về toàn bộ các lần thanh toán của tài khoản bạn sở hữu.
 
-## Subiz có những chính sách ưu đãi nào?
+### Subiz có những chính sách ưu đãi nào?
 
 - Subiz hỗ trợ ưu đãi ưu đãi tới 30% khi thanh toán chu kỳ dài, xem chi tiết tại bảng tính giá.
 
