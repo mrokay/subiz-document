@@ -24,7 +24,7 @@ Gói Miễn phí không giới hạn thời gian, bạn có thể duy trì trọ
 
 Tuy nhiên, bảng so sánh dưới đây sẽ giúp bạn cân nhắc sự khác biệt:
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 > Nâng cấp tài khoản lên gói trả phí giúp bạn sử dụng đầy đủ nhất, tốt nhất các tính năng mà Subiz cung cấp.
 

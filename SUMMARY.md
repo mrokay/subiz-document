@@ -22,7 +22,7 @@
       * [Tôi không nhận được email của Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/faqs/toi-khong-nhan-duoc-email-cua-subiz.md)
   * [Triển khai hoạt động](bat-dau-voi-subiz/untitled/README.md)
     * Quản lý Agent
-      * [Các loại Agent](bat-dau-voi-subiz/untitled/quan-ly-agent/cac-loai-agent.md)
+      * [Định nghĩa Agent](bat-dau-voi-subiz/untitled/quan-ly-agent/cac-loai-agent.md)
       * [Thêm Agent mới](bat-dau-voi-subiz/untitled/quan-ly-agent/untitled.md)
       * [Thay đổi thông tin Agent \(chỉnh sửa Agent\)](bat-dau-voi-subiz/untitled/quan-ly-agent/thay-doi-thong-tin-agent-chinh-sua-agent.md)
       * [Tạo nhóm Agent](bat-dau-voi-subiz/untitled/quan-ly-agent/untitled-1.md)

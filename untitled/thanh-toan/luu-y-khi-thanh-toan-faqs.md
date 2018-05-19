@@ -61,7 +61,7 @@ Hóa đơn được yêu cầu thực hiện trong vòng **30 ngày** kể từ 
 
 Để theo dõi thông tin, tình trạng Hóa đơn \(tình trạng thanh toán, chu kì, thời hạn còn lại..\) bạn có thể truy cập vào tài khoản [Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F) &gt; Cài đặt/**Thanh toán**. Thông tin sẽ được hiển thị như sau:
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 
 
