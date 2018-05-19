@@ -10,9 +10,11 @@ Với những doanh nghiệp **lần đầu tiếp cận Subiz**, gói **Trial**
 
 Kết thúc 30 ngày dùng thử, bạn có thể quyết định nâng cấp tài khoản lên gói Cơ bản/Nâng cao ****hoặc nếu không, hệ thống sẽ tự động cập nhật tài khoản của bạn sang gói **Miễn phí.**
 
-> Nâng cấp tài khoản lên gói trả phí giúp bạn sử dụng đầy đủ nhất, tốt nhất các tính năng mà Subiz cung cấp.
+{% hint style="info" %}
+Nâng cấp tài khoản lên gói trả phí giúp bạn sử dụng đầy đủ nhất, tốt nhất các tính năng mà Subiz cung cấp.
+{% endhint %}
 
-Dựa vào tính chất và mô hình doanh nghiệp, doanh nghiệp có thể tùy chọn 1 trong số các gói dịch vụ dưới đây của Subiz
+Dựa vào tính chất và mô hình doanh nghiệp, doanh nghiệp có thể tùy chọn 1 trong số các gói dịch vụ dưới đây của Subiz:
 
 {% tabs %}
 {% tab title="Gói Miễn phí" %}
@@ -22,7 +24,7 @@ Gói **Miễn phí** sẽ phù hợp với **những doanh nghiệp nhỏ** hay 
 {% endtab %}
 
 {% tab title="Gói Cơ bản \(Standard\)" %}
-Với gói **Cơ bản**, bạn có thể sử dụng không giới hạn Automation \(Lời mời chat tự động\), 03 Rule \(Nguyên tắc phân phối hội thoại\). Đối với **doanh nghiệp vừa và nhỏ**, lượng tương tác tại một thời điểm thường chưa đạt mức 100 cuộc tương tác, tệp khách hàng chỉ nằm trong một đối tượng nhất định, chưa có nhu cầu phân phối hội thoại quá nhiều thì gói Cơ bản hoàn toàn đáp ứng được nhu cầu.
+Với gói **Cơ bản**, bạn có thể sử dụng không giới hạn không giới hạn số loại hành động Automation \(Lời mời chat tự động\), 03 Rule \(Nguyên tắc phân phối hội thoại\). Đối với **doanh nghiệp vừa và nhỏ**, lượng tương tác tại một thời điểm thường chưa đạt mức 100 cuộc tương tác, tệp khách hàng chỉ nằm trong một đối tượng nhất định, chưa có nhu cầu phân phối hội thoại quá nhiều thì gói Cơ bản hoàn toàn đáp ứng được nhu cầu.
 
 Tổng lượng cuộc tương tác trong ngày không hề bị giới hạn, bạn có thể tăng số lượng agent tương ứng để đáp ứng tốt nhất số lượng yêu cầu tương tác qua các kênh nhận được từ khách hàng.  
 {% endtab %}
