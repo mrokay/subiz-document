@@ -14,7 +14,9 @@ Tùy theo quy mô và nhu cầu của doanh nghiệp, bạn có thể chọn gó
 
 Bạn có thể nhận được ưu đãi lên đến 20% khi đăng kí chu kỳ thanh toán từ 3 tháng trở lên \([Chi tiết](https://subiz.com/vi/calculator.html)\)
 
+{% hint style="info" %}
 Note: Bạn có thể nâng cấp, hạ cấp, thêm, xóa bỏ agent, thay đổi thời hạn bất cứ lúc nào.
+{% endhint %}
 
 ### Đối tượng có thể truy cập vào trang thanh toán?
 
