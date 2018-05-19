@@ -2,7 +2,7 @@
 
 ### Tổng quan báo cáo thống kê
 
-Trong Subiz, mọi dữ liệu tương tác của bạn với khách hàng đều được lưu lại. Những báo cáo thống kê này sẽ giúp bạn kiểm tra được tình hình hoạt động kinh doanh trực tuyến, nắm bắt chất lượng dịch vụ chăm sóc khách hàng và  quản lý đội ngũ nhân viên hiệu quả.
+Trong Subiz, mọi dữ liệu tương tác của bạn với khách hàng đều được lưu lại. Những báo cáo thống kê này sẽ giúp bạn kiểm tra được tình hình hoạt động kinh doanh trực tuyến, nắm bắt chất lượng dịch vụ chăm sóc khách hàng và quản lý đội ngũ nhân viên hiệu quả.
 
 Để theo dõi thống kê tương tác trên Subiz bạn chỉ cần đăng nhập tài khoản Subiz và click vào mục **Thống kê.** 
 
