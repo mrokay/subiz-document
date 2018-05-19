@@ -1,12 +1,15 @@
-# Thêm Agent mới
+# Tạo thêm nhiều tài khoản đăng nhập Subiz
 
-### THÊM AGENT MỚI {#them-agent-moi}
+**Từ tài khoản chính đăng ký Subiz \(Agent owner\), bạn có thể tạo thêm nhiều tài khoản Agent thành viên cùng đăng nhập Subiz và tương tác với khách hàng.**
 
-Agent là thuật ngữ chỉ người sử dụng Subiz để tương tác với khách hàng. **Bạn hãy mời các đồng nghiệp tham gia sử dụng Subiz dựa trên trách nhiệm công việc và nhu cầu của doanh nghiệp.**
+### Mời Agent {#them-agent-moi}
 
-Mỗi tài khoản Subiz có thể tạo nhiều tài khoản Agent, mỗi Agent sẽ có một tài khoản đăng nhập riêng. Số lượng Agent có thể hoạt động cùng lúc phụ thuộc vào gói dịch vụ mà bạn đang sử dụng. **Bạn nên phân quyền và quản lý hoạt động của các Agent.**
+Tạo thêm tài khoản Agent có hai bước như sau:
 
-**Để thêm một Agent mới, trước hết bạn cần gửi lời mời đến họ qua email,** sau đó Agent được mời **cần kích hoạt tài khoản**, hướng dẫn cụ thể như sau:
+1. Mời Agent
+2. Xác nhận kích hoạt 
+
+
 
 **Bước 1: Gửi lời mời Agent**
 
