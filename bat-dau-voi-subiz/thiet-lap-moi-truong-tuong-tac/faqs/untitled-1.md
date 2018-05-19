@@ -40,24 +40,20 @@ Một trong những lỗi trình duyệt phổ biến là  ERRERR\_SSL\_VERSION\
 
 ![L&#x1ED7;i ERRERR\_SSL\_VERSION\_OR\_CIPHER\_MISMATCH](../../../.gitbook/assets/0_zqf4zds8yt-qr3gx%20%281%29.jpg)
 
-{% tabs %}
-{% tab title="Nguyên nhân" %}
-* Kết nối Internet kém
-* Bộ nhớ cache và cookie của trình duyệt không bị xóa
-* Tiện ích bổ sung hoặc tiện ích không cần thiết được cài đặt trong trình duyệt
-* Trang web bị chặn trong Tường lửa
-* Trang web có thể bị chặn hoặc chuyển vào chương trình chống vi-rút.
-{% endtab %}
+* **Nguyên nhân**
 
-{% tab title="Cách khắc phục" %}
-* Kiểm tra kết nối internet của bạn
-* Xóa bộ nhớ cache và cookie của trình duyệt.
-* Loại bỏ tiện ích mở rộng và tiện ích không cần thiết
-* Kiểm tra tường lửa, danh sách đen và danh sách trắng phần mềm chống vi rút.
-* Bật TLS 1.3
-* Tắt giao thức QUIC
-{% endtab %}
-{% endtabs %}
+  * Kết nối Internet kém
+  * Bộ nhớ cache và cookie của trình duyệt không bị xóa
+  * Tiện ích bổ sung hoặc tiện ích không cần thiết được cài đặt trong trình duyệt
+  * Trang web bị chặn trong Tường lửa
+  * Trang web có thể bị chặn hoặc chuyển vào chương trình chống vi-rút.
+
+* **Cách khắc phục**
+  * Xóa bộ nhớ cache và cookie của trình duyệt.
+  * Loại bỏ tiện ích mở rộng và tiện ích không cần thiết
+  * Kiểm tra tường lửa, danh sách đen và danh sách trắng phần mềm chống vi rút.
+  * Bật TLS 1.3
+  * Tắt giao thức QUIC
 
 Nếu bạn không đăng nhập được vì bất cứ lý do nào khác, hãy liên hệ ngay support@subiz.com để Subiz hỗ trợ ngay cho bạn
 
