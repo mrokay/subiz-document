@@ -34,8 +34,6 @@ Nằm trong kế hoạch triển khai, phần thống kê báo cáo của gói N
 {% endtab %}
 {% endtabs %}
 
-Tuy nhiên, bảng so sánh dưới đây sẽ giúp bạn cân nhắc sự khác biệt:
-
 Xem bảng so sánh chi tiết [tại đây](http://subiz.com/vi/pricing.html#morestandard).
 
 #### Tại sao tôi nên nâng cấp tài khoản lên gói trả phí?
@@ -46,7 +44,7 @@ Xem bảng so sánh chi tiết [tại đây](http://subiz.com/vi/pricing.html#mo
 
 Subiz được thiết kế linh hoạt, phù hợp với nhu cầu sử dụng khác nhau của từng doanh nghiệp. Bạn hãy cân nhắc phương án sử dụng tốt nhất cho doanh nghiệp của mình.
 
-![](../../.gitbook/assets/image%20%2819%29.png)
-
 ### 
+
+
 
