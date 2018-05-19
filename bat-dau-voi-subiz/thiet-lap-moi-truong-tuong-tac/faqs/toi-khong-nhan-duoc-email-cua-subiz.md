@@ -1,6 +1,6 @@
 # Tôi không nhận được email của Subiz
 
-Subiz sử dụng dịch vụ gửi email của những hệ thống lớn \( [AWS SES](https://aws.amazon.com/ses/); [Sendgrid](https://sendgrid.com/); [Mailgun](https://www.mailgun.com/) \) đảm bảo tính ổn định và gửi với số lượng lớn email trong ngày. Vì một lý do nào đó bạn không nhận được email của Subiz, bạn cần giải quyết như sau:
+Subiz sử dụng dịch vụ gửi email của những hệ thống lớn \([AWS SES](https://aws.amazon.com/ses/); [Sendgrid](https://sendgrid.com/); [Mailgun](https://www.mailgun.com/)\) đảm bảo tính ổn định và gửi với số lượng lớn email trong ngày. Vì một lý do nào đó bạn không nhận được email của Subiz, bạn cần giải quyết như sau:
 
 ### Kiểm tra lại hòm email của bạn.
 
