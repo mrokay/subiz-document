@@ -8,7 +8,7 @@ Trong quá trình sử dụng Subiz, tùy vào tình hình kinh doanh và chiế
 
 * **Tài khoản ở gói miễn phí**
 
-Nếu tài khoản của bạn ở gói miễn phí và muốn nâng cấp lên gói trả phí, bạn cần đăng nhập vào trang [Thanh toán](https://app.subiz.com/payment-home) sau đó lựa chọn số lượng Agent và chu kỳ phù hợp rồi click vào phần **Đăng ký ngay**
+Khi tài khoản của bạn ở gói miễn phí và muốn nâng cấp lên gói trả phí, bạn cần đăng nhập vào trang [Thanh toán](https://app.subiz.com/payment-home) sau đó lựa chọn số lượng Agent và chu kỳ phù hợp rồi click vào phần **Đăng ký ngay**
 
 ![N&#xE2;ng c&#x1EA5;p g&#xF3;i t&#xE0;i kho&#x1EA3;n](../../.gitbook/assets/nang-cap-goi-tai-khoan.png)
 
