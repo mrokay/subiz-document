@@ -1,18 +1,18 @@
 # Làm thế nào để chặn một User
 
-Trong quá trình tương tác với khác hàng trên Subiz, bạn có thể gặp những users gây phiền toái cho cuộc trò chuyện như gửi tin nhắn spam, có những lời nói khiếm nhã hay có những hành vi làm ảnh hưởng đến doanh nghiệp...Vậy làm cách nào để ngăn những user này gửi email/ tin nhắn spam đến doanh nghiệp? Bài viết sau sẽ chia sẻ cho bạn những hướng dẫn cụ thể.
+Trong quá trình tương tác với khách hàng trên Subiz, bạn có thể gặp những users gây phiền toái cho cuộc trò chuyện như gửi tin nhắn spam, có những lời nói khiếm nhã hay có những hành vi làm ảnh hưởng đến doanh nghiệp...Vậy làm cách nào để ngăn những user này gửi email/ tin nhắn spam đến doanh nghiệp? Bài viết sau sẽ chia sẻ cho bạn những hướng dẫn cụ thể.
 
 ### Chặn một User
 
 Bạn có thể chặn một User theo 2 cách sau:
 
-#### Chặn trực tiếp User trong tab Activities \( Hoạt động \)
+#### Chặn trực tiếp User trong tab Activities \(Hoạt động\)
 
 Trong cuộc hội thoại, bạn có thể chặn user bằng cách click vào biểu tượng ba chấm ở góc phải màn hình và bật nút Block
 
 ![Ch&#x1EB7;n user tr&#x1EF1;c ti&#x1EBF;p](../../.gitbook/assets/chan-chat-truc-tiep.png)
 
-#### Chặn User thông qua Blacklist \( Danh sách đen \)
+#### Chặn User thông qua Blacklist \(Danh sách đen\)
 
 Blacklist là danh sách những user mà bạn đã chặn. Để thêm vào danh sách này, bạn vào mục **Cài đặt/ Tài khoản/ Danh sách đen/ Chặn**. Tại đây bạn chỉ cần copy địa chỉ **IP, Email** hoặc **ID** của User muốn chặn.
 
@@ -56,17 +56,19 @@ Mỗi User kết nối được tới Subiz đều được cấp một mã số
 
 Để theo dõi được danh sách các user bị chặn cũng như lịch sử chặn,  bạn có thể theo dõi trong mục **Blacklist**
 
-#### Spam List
-
+{% tabs %}
+{% tab title="Spam List" %}
 Đây là  danh sách những địa chỉ IP, Email hoặc ID đã bị chặn.
 
 ![Spam List](../../.gitbook/assets/spam-list.png)
+{% endtab %}
 
-#### Block User
-
-Bao gồm danh sách các Users đã bị Chặn, Agent thao tác chặn và thời gian chặn
+{% tab title="Block User" %}
+Bao gồm danh sách các Users đã bị Chặn, Agent thao tác chặn và thời gian chặn 
 
 ![Block User](../../.gitbook/assets/block-user.png)
+{% endtab %}
+{% endtabs %}
 
 ### Bỏ chặn một User
 
