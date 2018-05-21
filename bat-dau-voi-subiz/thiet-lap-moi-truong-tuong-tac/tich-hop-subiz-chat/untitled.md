@@ -1,6 +1,6 @@
 # Tùy chỉnh cửa sổ chat Subiz trên website
 
-Cửa sổ tương tác Subiz trên website của doanh nghiệp là nơi khách truy cập trò chuyện với tư vấn viên của doanh nghiệp. Không đơn giản là nơi bạn tương tác hỗ trợ khách hàng, mà còn là nơi bạn khẳng định thương hiệu, chất lượng dịch vụ và tiếng nói của doanh nghiệp.
+**Cửa sổ tương tác Subiz trên website của doanh nghiệp là nơi khách truy cập trò chuyện với tư vấn viên của doanh nghiệp.** Không đơn giản là nơi bạn tương tác hỗ trợ khách hàng, mà còn là nơi bạn khẳng định thương hiệu, chất lượng dịch vụ và tiếng nói của doanh nghiệp.
 
 Để tùy chỉnh cửa sổ chat, bạn đăng nhập tài khoản **Subiz &gt; Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Cửa sổ hội thoại**
 
@@ -39,12 +39,12 @@ Lưu ý, **cần chọn màu sắc cửa sổ chat tương đồng với màu s�
 
 ### **Tùy chỉnh bubble**
 
-Tại phần Bubble Button, bạn click chọn Thư viện Bubble Button và chọn mẫu Bubble theo ý muốn.
+Tại phần Bubble Button, bạn click chọn **Thư viện Bubble Button** và chọn mẫu Bubble theo ý muốn.
 
 ![Th&#x1B0; vi&#x1EC7;n Bubble button](../../../.gitbook/assets/thu-vien-bubble.png)
 
 {% hint style="info" %}
-Lưu ý, **màu sắc của bubble sẽ tương ứng với màu sắc của cả cửa sổ Subiz mà bạn đã chọn.**
+Lưu ý, màu sắc của bubble sẽ tương ứng với màu sắc của cả cửa sổ Subiz mà bạn đã chọn.
 {% endhint %}
 
 ### **Tùy chọn ngôn ngữ**
