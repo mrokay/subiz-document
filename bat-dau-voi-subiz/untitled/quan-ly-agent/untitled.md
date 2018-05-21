@@ -48,8 +48,22 @@ Hướng dẫn thao tác: Đăng nhập **App.subiz.com** &gt; **Cài đặt** &
 
 ![T&#xF9;y ch&#x1EC9;nh th&#xF4;ng tin Agent](../../../.gitbook/assets/edit-agent-1.jpg)
 
+Bạn có thể tùy chỉnh các trạng thái của Agent:
+
+* **Trạng thái Active**
+
+![](https://lh4.googleusercontent.com/acdlcYtdEiS9KwqgRqzU-bE-y87ob5hCOdSmPZ6baOnJEtvMp2obuz1_Wu4v8ghzeGIdUZJXGIGy-AtL6ynP9gC8slsyKC5EXzR38TCb_XfXhl9AqqfUpoi-03gAykRPJm6SQhws)
+
+* **Trạng thái Inactive**
+
+![](https://lh5.googleusercontent.com/_HJugw96DZ598mNZ9oKzsvcI2u2whyVCvjBA1W0nb0tzu0sGJex4u71oTppa26KmsEaLudwSjJmZW1y0iW3Yoso9d1uPLPURWB_IIiorLXCuIp75qNXFKRkCVzN-kmJfGXoU5sFn)
+
+* **Trạng thái Deleted:** Agent đã bị xóa
+
 {% hint style="info" %}
-Lưu ý: Tài khoản Agent bị xóa sẽ không thể sử dụng để đăng ký lại tài khoản Subiz. Bạn có thể dùng chức năng Inactive \(Khóa\) Agent để có thể tiếp tục sử dụng tài khoản khi cần.
+Khi một Agent được chuyển sang trạng thái Inactive, sẽ đồng thời bị xóa khỏi các group và rule mà Agent tham gia. Nếu chỉ có duy nhất Agent đó ở trong một conversation đang mở, conversation sẽ được chuyển về danh sách cuộc hội thoại chưa được phân phối.
+
+Tài khoản Agent bị xóa sẽ không thể sử dụng để đăng ký lại tài khoản Subiz. Bạn có thể dùng chức năng Inactive \(Khóa\) Agent để có thể tiếp tục sử dụng tài khoản khi cần.
 {% endhint %}
 
 _Hướng dẫn Khóa tài khoản Agent \(Inactive Agent\) như sau_: Chọn **nút Chỉnh/ Xóa** &gt; Tắt **OFF** trạng thái Agent ****&gt; Chọn **Lưu** 
