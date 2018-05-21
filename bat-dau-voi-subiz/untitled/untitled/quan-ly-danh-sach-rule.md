@@ -6,19 +6,25 @@ Lúc này, **bạn cần thay đổi thứ tự các rule, hoặc chỉnh sửa 
 
 Bạn cần quan tâm và thực hiện 3 vấn đề sau:
 
-#### **1. Sắp xếp thứ tự của rule** {#1-sap-xep-thu-tu-cua-rule}
+### **Sắp xếp thứ tự của rule**
 
 Các rule sẽ hoạt động **theo thứ tự ưu tiên từ trên xuống dưới**.
 
 Ví dụ, khi có một cuộc hội thoại mới, nếu thỏa mãn điều kiện của rule 1, cuộc hội thoại sẽ được phân phối cho Agent/ nhóm Agent của rule 1. Nếu chưa thỏa mãn, hệ thống tiếp tục lần lượt kiểm tra điều kiện của rule 2, 3 …
 
+{% hint style="info" %}
 _Lưu ý: Chỉ rule trong trạng thái Active mới có thể hoạt động_
+{% endhint %}
 
-Để sắp xếp lại thứ tự các rule, bạn click vào **Sắp xếp lại**.![](http://docv4.subiz.com/wp-content/uploads/2018/01/reorder-rule.png)
+Để sắp xếp lại thứ tự các rule, bạn click vào **Sắp xếp lại**.
 
-Sử dụng chuột kéo thả để sắp xếp mức độ ưu tiên của các rule theo mong muốn, sau đó chọn **Lưu thay đổi**.![](https://docv4.subiz.com/wp-content/uploads/2018/02/sap-xep-lai-rule.png)
+![](http://docv4.subiz.com/wp-content/uploads/2018/01/reorder-rule.png)
 
-#### **2. Chỉnh sửa rule** {#2-chinh-sua-rule}
+Sử dụng chuột kéo thả để sắp xếp mức độ ưu tiên của các rule theo mong muốn, sau đó chọn **Lưu thay đổi**.
+
+![](https://docv4.subiz.com/wp-content/uploads/2018/02/sap-xep-lai-rule.png)
+
+### **Chỉnh sửa rule**
 
 * Chọn biểu tượng sửa tương ứng của rule muốn chỉnh sửa
 
@@ -32,7 +38,7 @@ Sử dụng chuột kéo thả để sắp xếp mức độ ưu tiên của cá
 
 Tại trang cập nhật, bạn có thể thay đổi trạng thái Active/ Inactive cho rule đó.
 
-#### **3. Xóa rule** {#3-xoa-rule}
+### **Xóa rule**
 
 * Chọn biểu tượng xóa tương ứng trên rule
 * Click Xóa để xác nhận
