@@ -2,13 +2,8 @@
 
 * [Trang Home](README.md)
 * [Tổng quan Subiz](page-2/README.md)
-  * Giới thiệu Subiz
-    * [Subiz là gì?](page-2/gioi-thieu-subiz/subiz-la-gi.md)
-    * [Subiz hoạt động như thế nào?](page-2/gioi-thieu-subiz/untitled.md)
-  * Khám phá các gói và tính năng
-    * [Khám phá các kênh trong Subiz](page-2/kham-pha-cac-goi-va-tinh-nang/untitled.md)
-    * [Khám phá tính năng trong Subiz](page-2/kham-pha-cac-goi-va-tinh-nang/kham-pha-tinh-nang-trong-subiz.md)
-    * [Các gói sử dụng Subiz](page-2/kham-pha-cac-goi-va-tinh-nang/untitled-1.md)
+  * [Subiz là gì?](page-2/subiz-la-gi.md)
+  * [Subiz hoạt động như thế nào?](page-2/untitled.md)
 * Bắt đầu với Subiz
   * Thiết lập môi trường tương tác
     * Tích hợp Subiz chat
