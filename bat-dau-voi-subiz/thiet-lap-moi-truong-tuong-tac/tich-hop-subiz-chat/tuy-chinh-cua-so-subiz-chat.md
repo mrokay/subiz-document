@@ -1,5 +1,36 @@
 # Sáng tạo cửa sổ chat Subiz ấn tượng
 
+### Sáng tạo cách giới thiệu trên cửa sổ chat
+
+Vào những dịp đặc biệt, hoặc khi có các chương trình khuyến mại, bạn nên thay đổi và sáng tạo lời giới thiệu về doanh nghiệp ngay trên cửa sổ chat để tăng sự thu hút và tạo sự ấn tượng với khách truy cập website.
+
+{% tabs %}
+{% tab title="Gắn link trên lời giới thiệu" %}
+
+{% endtab %}
+
+{% tab title="Xuống dòng trên lời giới thiệu" %}
+Đoạn mã giúp bạn gắn link trên lời giới thiệu
+
+```text
+<p> Normal text <a href="http://example.com"> <font color="yellow">Linked text</font></a></p>
+```
+
+Những thành phần bạn có thể thay đổi trong đoạn mã trên:
+
+* **Normal text:** Là đoạn giới thiệu ban đầu bạn muốn trình bày
+* [**http://example.com**](http://example.com)**:** Là đường link trang đích bạn muốn khách hàng xem sau khi bấm vào Linked text
+* **Yellow:** Là màu bạn muốn chọn cho Linked text
+* **Linked text:** Là đoạn chữ chứa đường link trang đích
+
+**Ví dụ:** &lt;p&gt; Kỷ niệm sinh nhật lần thứ 5. Chúng tôi giảm giá 50% nhiều mặt hàng. Vui lòng xem chi tiết &lt;a href="http://example.com"&gt; &lt;font color="yellow"&gt;tại đây!&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+
+![S&#xE1;ng t&#x1EA1;o l&#x1EDD;i gi&#x1EDB;i thi&#x1EC7;u k&#xE8;m link](../../../.gitbook/assets/loi-gioi-thieu-1.png)
+{% endtab %}
+{% endtabs %}
+
+
+
 ### Tùy chỉnh CSS cho cửa sổ chat Subiz
 
 Bên cạnh việc sử dụng những cài đặt cửa sổ chat trên website mà Subiz đã cung cấp. Bạn có thể dễ dàng tùy chỉnh những thành phần khác trên cửa sổ chat bằng cách sử dụng mã CSS.
