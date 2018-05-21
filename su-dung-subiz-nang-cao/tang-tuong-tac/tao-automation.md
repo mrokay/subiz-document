@@ -4,8 +4,6 @@ Với tính năng Automation, giờ đây bạn có thể tự động hóa vi�
 
 Cụ thể, bạn có thể cài đặt các Automation thực hiện các hành động khác nhau với từng đối tượng khách hàng với các điều kiện nhất định.
 
-### 
-
 Tại trang Tạo Automation, bạn cài đặt lần lượt theo các bước sau:
 
 ### **Nhập Tên và Mô tả cho Automation**
