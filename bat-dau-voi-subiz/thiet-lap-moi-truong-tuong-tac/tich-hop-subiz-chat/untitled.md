@@ -84,7 +84,7 @@ Thực hiện cài đặt tại phần **Quản lý Whitelist Domain**.
 
 ![Qu&#x1EA3;n l&#xFD; whitelist domain](../../../.gitbook/assets/whitedomain.png)
 
-Tại trang Whitelist Domain, click chọn Thêm Whitelist Domain mới.
+Tại trang Whitelist Domain, click chọn **Thêm Whitelist Domain mới.**
 
 ![](../../../.gitbook/assets/whitelist-domain-page.png)
 
