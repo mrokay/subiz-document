@@ -2,7 +2,7 @@
 
 ### Subiz hoạt động như thế nào?
 
-Sử dụng Subiz, doanh nghiệp có thể tiếp cận và quản trị khách hàng đến từ nhiều kênh ngay tại Dashboard của Subiz.
+Subiz là công cụ giúp bạn chào đón, tiếp cận, bán hàng và quản trị khách hàng đến từ nhiều kênh ngay tại Dashboard của Subiz.
 
 ![Dashboard- B&#x1EA3;ng &#x111;i&#x1EC1;u khi&#x1EC3;n Subiz](https://lh6.googleusercontent.com/qhascWQCmWk1mjcwjnl17SjuVfoT8Hcsvm5kkfrAZTkfk5LYszIDBO3oe7RNambG8rVbqEefnpbnhO1uF2_zViJ8_3Q0_l7JU1tIwSPBURmLnTKpCDcwsghQ5waS8f_tVYT2YNMa)
 
