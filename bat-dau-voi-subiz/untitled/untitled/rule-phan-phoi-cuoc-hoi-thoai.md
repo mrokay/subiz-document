@@ -2,8 +2,7 @@
 
 **Với Subiz, các cuộc hội thoại sẽ được phân phối một cách tự động tới một hay một nhóm Agent, bằng cách bạn thiết lập và sử dụng các Rule**
 
-Bạn có thể sử dụng Rule mặc định ban đầu, sử dụng thư viện Rule có sẵn hoặc tạo “Rule Mới” để thực hiện phân phối tự động các cuộc hội thoại sao cho phù hợp với nhu cầu thực tế của doanh nghiệp  
-
+Bạn có thể sử dụng Rule mặc định ban đầu, sử dụng thư viện Rule có sẵn hoặc tạo “Rule Mới” để thực hiện phân phối tự động các cuộc hội thoại sao cho phù hợp với nhu cầu thực tế của doanh nghiệp
 
 ### **Sử dụng Rule mặc định ban đầu**
 
