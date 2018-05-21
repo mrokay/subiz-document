@@ -6,10 +6,6 @@ Vào những dịp đặc biệt, hoặc khi có các chương trình khuyến m
 
 {% tabs %}
 {% tab title="Gắn link trên lời giới thiệu" %}
-
-{% endtab %}
-
-{% tab title="Xuống dòng trên lời giới thiệu" %}
 Đoạn mã giúp bạn gắn link trên lời giới thiệu
 
 ```text
@@ -27,9 +23,21 @@ Những thành phần bạn có thể thay đổi trong đoạn mã trên:
 
 ![S&#xE1;ng t&#x1EA1;o l&#x1EDD;i gi&#x1EDB;i thi&#x1EC7;u k&#xE8;m link](../../../.gitbook/assets/loi-gioi-thieu-1.png)
 {% endtab %}
+
+{% tab title="Xuống dòng trên lời giới thiệu" %}
+Đoạn mã giúp bạn xuống dòng trên lời giới thiệu
+
+```text
+<br>Text
+```
+
+Bạn đặt đoạn mã trên trước đoạn Text \(chữ\) mà bạn muốn nó xuống dòng.
+
+Ví dụ: &lt;p&gt; Kỷ niệm sinh nhật lần thứ 5. Chúng tôi giảm giá 50% nhiều mặt hàng cao cấp. &lt;br&gt;Vui lòng xem chi tiết &lt;a href="http://example.com"&gt; &lt;font color="yellow"&gt;tại đây!&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+
+![](../../../.gitbook/assets/loi-gioi-thieu-2.png)
+{% endtab %}
 {% endtabs %}
-
-
 
 ### Tùy chỉnh CSS cho cửa sổ chat Subiz
 
