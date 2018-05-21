@@ -6,13 +6,13 @@ Sử dụng Subiz, doanh nghiệp có thể tiếp cận và quản trị khách
 
 ![Dashboard- B&#x1EA3;ng &#x111;i&#x1EC1;u khi&#x1EC3;n Subiz](https://lh6.googleusercontent.com/qhascWQCmWk1mjcwjnl17SjuVfoT8Hcsvm5kkfrAZTkfk5LYszIDBO3oe7RNambG8rVbqEefnpbnhO1uF2_zViJ8_3Q0_l7JU1tIwSPBURmLnTKpCDcwsghQ5waS8f_tVYT2YNMa)
 
-Tại đây, bạn có thể theo dõi khách hàng đang truy cập đến đâu và bắt đầu tương tác, theo đuổi khách hàng từ Website, Facebook, Email, Zalo,...
+Tại đây, bạn có thể theo dõi khách hàng đang truy cập, nắm rõ thông tin và hành vi khách hàng, chủ động tương tác và theo đuổi khách hàng từ nhiều kênh bán hàng của doanh nghiệp như Website, Facebook, Email, Zalo,...
 
 Doanh nghiệp có thể nâng cao tỉ lệ chuyển đổi khách hàng và gia tăng doanh số bán hàng bằng cách:
 
 * Thu thập thông tin khách hàng và triển khai các chiến lược marketing tự động với **Automation**
 * Phân khúc và quản lý danh sách khách hàng tiềm năng qua **Segment**
-* Phân phối các cuộc hội thoại đến tư vấn viên thông qua tính năng **Rule**
+* Phân phối các cuộc hội thoại và điều hành hoạt động của tư vấn viên thông qua tính năng **Rule**
 
 ### **Các thuật ngữ có trong Subiz**
 
