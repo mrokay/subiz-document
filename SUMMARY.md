@@ -21,7 +21,7 @@
       * [Tạo thêm Agent sử dụng Subiz](bat-dau-voi-subiz/untitled/quan-ly-agent/untitled.md)
       * [Quản lý nhóm Agent](bat-dau-voi-subiz/untitled/quan-ly-agent/untitled-1.md)
     * Phân phối cuộc hội thoại
-      * [Rule phân phối cuộc hội thoại](bat-dau-voi-subiz/untitled/untitled/rule-phan-phoi-cuoc-hoi-thoai.md)
+      * [Cách thức phân phối cuộc hội thoại](bat-dau-voi-subiz/untitled/untitled/rule-phan-phoi-cuoc-hoi-thoai.md)
       * [Tạo Rule mới](bat-dau-voi-subiz/untitled/untitled/untitled.md)
       * [Quản lý danh sách Rule](bat-dau-voi-subiz/untitled/untitled/quan-ly-danh-sach-rule.md)
   * [Làm việc trên Subiz](bat-dau-voi-subiz/lam-viec-tren-subiz/README.md)

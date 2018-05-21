@@ -21,7 +21,9 @@ Bạn hãy dựa vào số lượng Agent mình đang có và **đặc biệt l�
 
 * Click \(+\) hoặc \(-\) để chọn/ bỏ chọn Agent là thành viên trong group
 
-​![](http://docv4.subiz.com/wp-content/uploads/2018/01/groupmember.png) – Click chọn Tạo nhóm![](http://docv4.subiz.com/wp-content/uploads/2018/01/createbutton.png)
+​![](http://docv4.subiz.com/wp-content/uploads/2018/01/groupmember.png) 
+
+*  Click chọn **Tạo nhóm**
 
 ### **2. Sửa thông tin nhóm** Agent
 
