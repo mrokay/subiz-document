@@ -33,6 +33,10 @@ Người được Mời Agent sẽ nhận Mail xác nhận kích hoạt tài kho
 Agent này cần **đăng nhập Email được mời** &gt; **Kiểm tra mail Subiz** &gt; Chọn "**Join your team**"
 
 ![Email x&#xE1;c nh&#x1EAD;n k&#xED;ch ho&#x1EA1;t t&#xE0;i kho&#x1EA3;n](../../../.gitbook/assets/join-team.jpg)
+
+{% hint style="danger" %}
+Khi một Agent được mời mà chưa kích hoạt tài khoản, thì trạng thái của Agent này trong danh sách Agent là "Pending"
+{% endhint %}
 {% endtab %}
 {% endtabs %}
 
