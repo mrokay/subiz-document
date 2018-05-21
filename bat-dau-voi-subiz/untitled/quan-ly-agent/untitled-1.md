@@ -11,7 +11,7 @@ Bạn hãy dựa vào số lượng Agent mình đang có và **đặc biệt l�
 * Nhóm Agent chuyên phụ trách sản phẩm 1
 * Nhóm Agent chuyên phụ trách sản phẩm 2
 
-#### **1. Tạo Nhóm** {#1-tao-nhom}
+### **1. Tạo Nhóm**
 
 Để tạo group Agent, bạn vào **Cài đặt &gt; Tài khoản &gt; Agent &gt; Nhóm Agent, click vào Tạo nhóm.**
 
@@ -21,7 +21,7 @@ Bạn hãy dựa vào số lượng Agent mình đang có và **đặc biệt l�
 
 ​![](http://docv4.subiz.com/wp-content/uploads/2018/01/groupmember.png) – Click chọn Tạo nhóm![](http://docv4.subiz.com/wp-content/uploads/2018/01/createbutton.png)
 
-#### **2. Sửa thông tin nhóm**  {#2-sua-thong-tin-nhom}
+### **2. Sửa thông tin nhóm** 
 
 Để sửa đổi thông tin về 1 nhóm, bạn vào **Cài đặt &gt; Tài khoản &gt; Nhóm Agent** &gt; chọn nhóm muốn sửa &gt; chọn biểu tượng chỉnh sửa.![](http://docv4.subiz.com/wp-content/uploads/2018/01/edit-group.png)
 
