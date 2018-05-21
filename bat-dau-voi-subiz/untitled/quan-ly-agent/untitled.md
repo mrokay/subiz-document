@@ -48,7 +48,7 @@ Hướng dẫn thao tác: Đăng nhập **App.subiz.com** &gt; **Cài đặt** &
 
 ![T&#xF9;y ch&#x1EC9;nh th&#xF4;ng tin Agent](../../../.gitbook/assets/edit-agent-1.jpg)
 
-Bạn có thể tùy chỉnh các trạng thái của Agent:
+Bạn có thể tùy chỉnh trạng thái của Agent:
 
 * **Trạng thái Active**
 
@@ -61,7 +61,7 @@ Bạn có thể tùy chỉnh các trạng thái của Agent:
 * **Trạng thái Deleted:** Agent đã bị xóa
 
 {% hint style="info" %}
-Khi một Agent được chuyển sang trạng thái Inactive, sẽ đồng thời bị xóa khỏi các group và rule mà Agent tham gia. Nếu chỉ có duy nhất Agent đó ở trong một conversation đang mở, conversation sẽ được chuyển về danh sách cuộc hội thoại chưa được phân phối.
+Khi một Agent được chuyển sang trạng thái Inactive, sẽ đồng thời bị xóa khỏi các group và rule mà Agent tham gia. Nếu chỉ có duy nhất Agent đó ở trong một hội thoại \(conversation\) đang mở, conversation sẽ được chuyển về danh sách cuộc hội thoại chưa được phân phối.
 
 Tài khoản Agent bị xóa sẽ không thể sử dụng để đăng ký lại tài khoản Subiz. Bạn có thể dùng chức năng Inactive \(Khóa\) Agent để có thể tiếp tục sử dụng tài khoản khi cần.
 {% endhint %}
