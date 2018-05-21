@@ -19,7 +19,7 @@
     * Quản lý Agent
       * [Định nghĩa Agent](bat-dau-voi-subiz/untitled/quan-ly-agent/cac-loai-agent.md)
       * [Tạo thêm Agent sử dụng Subiz](bat-dau-voi-subiz/untitled/quan-ly-agent/untitled.md)
-      * [Tạo nhóm Agent](bat-dau-voi-subiz/untitled/quan-ly-agent/untitled-1.md)
+      * [Quản lý nhóm Agent](bat-dau-voi-subiz/untitled/quan-ly-agent/untitled-1.md)
     * Phân phối cuộc hội thoại
       * [Rule phân phối cuộc hội thoại](bat-dau-voi-subiz/untitled/untitled/rule-phan-phoi-cuoc-hoi-thoai.md)
       * [Tạo Rule mới](bat-dau-voi-subiz/untitled/untitled/untitled.md)
