@@ -4,7 +4,7 @@
 
 Subiz là công cụ tương tác với khách hàng của doanh nghiệp mang lại doanh số cao.
 
-Doanh nghiệp có thể tương tác với khách hàng từ nhiều kênh ngay trên Subiz. Dữ liệu tương tác được tập trung giúp bạn hiểu rõ bức tranh khách hàng và lên kế hoạch triển khai các chiến lược marketing tương tác, chăm sóc và giữ chân khách hàng một cách hiệu quả.  
+Doanh nghiệp có thể tương tác với khách hàng từ nhiều kênh ngay trên Subiz. Dữ liệu tương tác được tập trung giúp bạn hiểu rõ bức tranh khách hàng và triển khai các chiến lược tiếp thị, tương tác, chăm sóc và giữ chân khách hàng một cách hiệu quả.  
 
 
 ### Lợi ích & giá trị từ Subiz
