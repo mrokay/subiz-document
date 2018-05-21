@@ -13,7 +13,7 @@ Với mỗi khách truy cập, bạn sẽ biết được những thông tin sau
 * **Ảnh đại diện:** Hiển thị chữ cái đầu tiên trong tên của visitor
 * **Họ tên, Email**: Các thông tin này được lưu từ lần truy cập trước hoặc chuyển từ website của bạn vào hệ thống Subiz qua API Javascript
 * **Vị trí địa lý**: vị trí của khách truy cập được xác định thông qua địa chỉ IP
-* **Trang đang xem** : Địa chỉ trang mà khách đang xem trên website của bạn
+* **Trang đang xem**: Địa chỉ trang mà khách đang xem trên website của bạn
 
 Khi click vào từng khách truy cập trên trang **Khách**, bạn sẽ bắt đầu để tương tác trực tiếp với khách hàng đó trên mục **Hoạt động**
 
