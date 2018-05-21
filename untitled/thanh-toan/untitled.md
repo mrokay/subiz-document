@@ -15,9 +15,9 @@ Bước 2:  Lựa chọn thông tin của gói dịch vụ
 
 Subiz tính phí theo 3 yếu tố:
 
-* Loại gói: Cơ bản/Nâng cao \( Standard/Advanced\).
-* Số agent: số người đăng nhập Subiz
-* Chu kì thanh toán: 01, 03, 06,12, 24 tháng
+* **Loại gói:** Cơ bản/Nâng cao \( Standard/Advanced\).
+* **Số agent:** số người đăng nhập Subiz
+* **Chu kì thanh toán:** 01, 03, 06,12, 24 tháng
 
 Bạn chỉ cần lựa chọn gói dịch vụ phù hợp, điền thông tin và Click vào Đăng ký ngay.
 
