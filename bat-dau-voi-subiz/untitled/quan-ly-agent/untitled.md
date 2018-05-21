@@ -2,6 +2,12 @@
 
 **Từ tài khoản chính đăng ký Subiz \(Agent owner\), bạn có thể tạo thêm nhiều tài khoản Agent thành viên cùng đăng nhập Subiz và tương tác với khách hàng.**
 
+{% hint style="info" %}
+* Bạn hãy mời các đồng nghiệp tham gia sử dụng Subiz dựa trên trách nhiệm công việc và nhu cầu của doanh nghiệp
+* Số lượng Agent có thể sử dụng Subiz là số lượng bạn đăng ký sử dụng với Subiz.
+* Bạn cần phân quyền và quản lý hoạt động của các Agent.
+{% endhint %}
+
 ### Mời Agent {#them-agent-moi}
 
 Tạo thêm tài khoản Agent có hai bước như sau:
@@ -39,7 +45,7 @@ Hướng dẫn thao tác: Đăng nhập **App.subiz.com** &gt; **Cài đặt** &
 ![T&#xF9;y ch&#x1EC9;nh th&#xF4;ng tin Agent](../../../.gitbook/assets/edit-agent-1.jpg)
 
 {% hint style="info" %}
-Lưu ý: Tài khoản Agent bị xóa sẽ không thể sử dụng để đăng ký lại tài khoản Subiz. Bạn có thể dùng chức năng Inactive \(Khóa\) Agent để có thể tiếp tục sử dụng tài khỏa khi cần.
+Lưu ý: Tài khoản Agent bị xóa sẽ không thể sử dụng để đăng ký lại tài khoản Subiz. Bạn có thể dùng chức năng Inactive \(Khóa\) Agent để có thể tiếp tục sử dụng tài khoản khi cần.
 {% endhint %}
 
 _Hướng dẫn Khóa tài khoản Agent \(Inactive Agent\) như sau_: Chọn **nút Chỉnh/ Xóa** &gt; Tắt **OFF** trạng thái Agent ****&gt; Chọn **Lưu** 
