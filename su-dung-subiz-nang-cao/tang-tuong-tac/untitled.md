@@ -14,9 +14,7 @@ Với hành động hỏi địa chỉ email, **bạn có thể để điều ki
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/04/t%E1%BA%A1o-form-h%E1%BB%8Fi-email.png)
 
-**Như vậy các user chưa có thông tin email sẽ nhận được tin nhắn chứa form hỏi email ngay sau khi họ gửi tin nhắn trên cửa sổ Subiz.**
-
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/form-h%E1%BB%8Fi-email-1.png)
+**Như vậy các user chưa có thông tin email sẽ nhận được tin nhắn chứa form hỏi email ngay sau khi họ gửi tin nhắn trên cửa sổ Subiz.**![](https://docv4.subiz.com/wp-content/uploads/2018/04/form-h%E1%BB%8Fi-email-1.png)
 
 #### Ngôn ngữ hỏi thông tin {#ngon-ngu-hoi-thong-tin}
 
