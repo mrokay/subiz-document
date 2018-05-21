@@ -2,7 +2,7 @@
 
 ### Agent là gì?
 
-**Agent là thuật ngữ chỉ Tài khoản đăng nhập Subiz để làm việc và tương tác với khách hàng**. Agent có thể là người quản lý, tư vấn viên, hoặc bất kỳ nhân viên nào trong doanh nghiệp. Mỗi Agent sẽ có một tài khoản đăng nhập riêng.
+**Agent là thuật ngữ chỉ người sử dụng Subiz để làm việc và tương tác với khách hàng**. Agent có thể là người quản lý, tư vấn viên, hoặc bất kỳ nhân viên nào trong doanh nghiệp. Mỗi Agent sẽ có một tài khoản đăng nhập riêng.
 
 ### **Các loại Agent**
 
@@ -21,14 +21,11 @@ Bạn có thể lựa chọn phân quyền Agent là “**Không có quyền tru
 2. **Cài đặt tài khoản**: Quyền truy cập đầy đủ cho phép tùy chỉnh cài đặt tài khoản và quản lý agent \(thêm, sửa thông tin hoặc xóa agent\)
 3. **Hội thoại**: Quyền truy cập cho phép xuất dữ liệu user và xem conversation của các Agent khác.
 
-  
-
-
 ![Ph&#xE2;n quy&#x1EC1;n Agent](../../../.gitbook/assets/image%20%2811%29.png)
 
 ### Thông tin cá nhân của Agent
 
- **Thông tin cá nhân của Agent là thông tin tài khoản đăng nhập Subiz của bạn, sẽ hiển thị trong cửa sổ chat Subiz trên website.** Khi bạn thiết lập đầy đủ các thông tin của Agent, hình ảnh của bạn sẽ chuyên nghiệp và uy tín hơn trong mắt khách hàng.
+**Thông tin cá nhân của Agent là thông tin tài khoản đăng nhập Subiz của bạn, sẽ hiển thị trong cửa sổ chat Subiz trên website.** Khi bạn thiết lập đầy đủ các thông tin của Agent, hình ảnh của bạn sẽ chuyên nghiệp và uy tín hơn trong mắt khách hàng.
 
 _Hướng dẫn tùy chỉnh thông tin cá nhân_: Chọn **Ảnh đại diện góc phải màn hình** &gt; Chọn **Thông tin cá nhân**
 
