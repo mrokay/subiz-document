@@ -12,7 +12,7 @@ Tích hợp Subiz vào website bằng việc copy đoạn mã nhúng Subiz \(kh�
 
 1. [Đăng nhập tài khoản Subiz](http://app.subiz.com/)
 2. Vào phần **Cài đặt &gt; Tài khoản &gt; Tích hợp**
-3. Tại phần Mã nhúng Subiz, click nút Sao chép để thực hiện sao chép nhanh đoạn mã nhúng.
+3. Tại phần **Mã nhúng Subiz**, click nút **Sao chép** để thực hiện sao chép nhanh đoạn mã nhúng.
 
 ![Sao ch&#xE9;p m&#xE3; nh&#xFA;ng Subiz](../../../.gitbook/assets/copy-embed-code.png)
 
@@ -22,7 +22,7 @@ Tích hợp Subiz vào website bằng việc copy đoạn mã nhúng Subiz \(kh�
 
 #### Bước 2: Đặt mã nhúng Subiz vào website
 
-Subiz tương thích với hầu hết các website xây dựng trên các nền tảng khác nhau. Việc đặt mã nhúng vào website khá đơn giản, chỉ cần Copy mã nhúng Subiz và dán vào mọi trang bạn muốn có cửa sổ Subiz Chat. Code nhúng Subiz phải được đặt ngay trước thẻ đóng &lt;/body&gt;.
+Subiz tương thích với hầu hết các website xây dựng trên các nền tảng khác nhau. Việc đặt mã nhúng vào website khá đơn giản, chỉ cần Copy mã nhúng Subiz và dán vào mọi trang bạn muốn có cửa sổ Subiz Chat. Code mã nhúng Subiz phải được đặt ngay trước thẻ đóng &lt;/body&gt;.
 
 ![C&#xE1;ch &#x111;&#x1EB7;t m&#xE3; nh&#xFA;ng Subiz](../../../.gitbook/assets/embedcode.gif)
 
@@ -44,7 +44,7 @@ Nếu hệ thống báo không tìm thấy cửa sổ Chat, bạn kiểm tra l�
 
 ### Tích hợp Subiz trên các nền tảng
 
-Khi website của bạn được xây dựng trên các nền tảng khác, vui lòng chọn nền tảng web và xem hướng dẫn tích hợp cho từng nền tảng dưới đây
+Khi website của bạn được xây dựng trên các nền tảng khác, vui lòng chọn nền tảng web và xem hướng dẫn tích hợp cho từng nền tảng dưới đây:
 
 {% hint style="danger" %}
 Nếu bạn đang dùng nền tảng **không** có trong danh sách này, hãy liên lạc ngay cho Subiz để được trợ giúp.
