@@ -35,7 +35,7 @@ Bạn đặt đoạn mã trên trước đoạn Text \(chữ\) mà bạn muốn 
 
 Ví dụ: &lt;p&gt; Kỷ niệm sinh nhật lần thứ 5. Chúng tôi giảm giá 50% nhiều mặt hàng cao cấp. &lt;br&gt;Vui lòng xem chi tiết &lt;a href="http://example.com"&gt; &lt;font color="yellow"&gt;tại đây!&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
 
-![](../../../.gitbook/assets/loi-gioi-thieu-2.png)
+![Xu&#x1ED1;ng d&#xF2;ng tr&#xEA;n &#x111;o&#x1EA1;n gi&#x1EDB;i thi&#x1EC7;u](../../../.gitbook/assets/loi-gioi-thieu-2.png)
 {% endtab %}
 {% endtabs %}
 
@@ -49,7 +49,7 @@ CSS là viết tắt của cụm từ “Cascading Style Sheet”, nó là một
 
 Bạn sẽ đăng nhập vào trang app.subiz.com, vào phần **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Cửa sổ hội thoại &gt; Tùy chỉnh CSS** để thực hiện những thay đổi về CSS này.
 
-![T&#xF9;y ch&#x1EC9;nh CSS](../../../.gitbook/assets/noi-tuy-chinh-css.png)
+![B&#x1EAF;t &#x111;&#x1EA7;u t&#xF9;y ch&#x1EC9;nh CSS](../../../.gitbook/assets/noi-tuy-chinh-css.png)
 
 Tiếp theo, **bạn Copy và paste đoạn css tương ứng để tùy chỉnh thành phần bạn muốn, sau đó quay lại màn hình cài đặt cửa sổ chat và Lưu thay đổi**
 
