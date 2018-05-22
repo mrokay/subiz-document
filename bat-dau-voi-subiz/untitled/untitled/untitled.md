@@ -50,7 +50,9 @@ Lưu ý: Một rule chỉ được thực thi khi thông tin của cuộc hội 
 
 ### Bước 3: Chọn cách thức phân phối các cuộc tương tác cho Agent
 
-Bây giờ, bạn chọn cách thức phân phối cuộc các cuộc thội thoại thỏa mãn các điều kiện đã đặt ở trên.![](http://docv4.subiz.com/wp-content/uploads/2018/01/rule-assign.png)
+Bây giờ, bạn chọn cách thức phân phối cuộc các cuộc thội thoại thỏa mãn các điều kiện đã đặt ở trên.
+
+![](http://docv4.subiz.com/wp-content/uploads/2018/01/rule-assign.png)
 
 #### **1. Phân phối tới các Agent hoặc nhóm Agent**
 
@@ -72,6 +74,8 @@ Bạn cần chọn một trong những kiểu phân phối sau:
 #### **2. Phân phối cuộc chat đồng đều theo vòng** {#2-phan-phoi-cuoc-chat-dong-deu-theo-vong}
 
 Các cuộc hội thoại sẽ được chia đều lần lượt theo vòng cho các Agent được chọn. Ví dụ, bạn chọn 3 agent trong danh sách agent, khi có 6 cuộc hội thoại, thì sẽ phân phối theo thứ tự 1,2,3 sau đó quay vòng 4,5,6![](https://docv4.subiz.com/wp-content/uploads/2018/02/phan-phoi-dong-deu-theo-vong.png)
+
+
 
 
 
