@@ -35,7 +35,7 @@ Lưu ý: Một rule chỉ được thực thi khi thông tin của cuộc hội 
 | sfcs |  |  |
 |  |  |  |
 
-
+![](../../../.gitbook/assets/danh-sach-cac-dieu-kien-trong-automation-subiz-customer-communication-platform-1.png)
 
 | **CÁC ĐIỀU KIỆN** | **CÁCH SỬ DỤNG** | **VÍ DỤ** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -86,5 +86,7 @@ Các cuộc hội thoại sẽ được chia đều lần lượt theo vòng cho
 
 
 
-
+|  | ghvguhybvu | juhbnuhjn | hjuhyugybh |
+| --- | --- |
+|  |  |  |  |
 
