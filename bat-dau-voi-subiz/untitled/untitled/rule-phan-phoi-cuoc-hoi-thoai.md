@@ -8,9 +8,11 @@ Bạn có thể sử dụng Rule mặc định ban đầu, sử dụng thư vi�
 
 Là Rule phân phối tất cả các cuộc tương tác của tất cả các User \(khách hàng\) cho Agent chủ tài khoản \(Agent owner\) ngay sau khi tích hợp một hay nhiều kênh tương tác cho tài khoản Subiz của bạn. **Đây là rule mặc định, Subiz đã thiết lập ban đầu cho mọi tài khoản.**
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/Rule-m%E1%BA%B7c-%C4%91%E1%BB%8Bnh-1.jpg)
+![Rule m&#x1EB7;c &#x111;&#x1ECB;nh ban &#x111;&#x1EA7;u](../../../.gitbook/assets/rule-mac-dinh-1.jpg)
 
-**Bạn có thể xem chi tiết nội dung và cách thiết lập của rule mặc định này**![](https://docv4.subiz.com/wp-content/uploads/2018/04/Rule-m%E1%BA%B7c-%C4%91%E1%BB%8Bnh-2.jpg)
+**Bạn có thể xem chi tiết nội dung và cách thiết lập của rule mặc định này**
+
+![Ch&#x1EC9;nh s&#x1EED;a n&#x1ED9;i dung Rule m&#x1EB7;c &#x111;&#x1ECB;nh](../../../.gitbook/assets/rule-mac-dinh-2.jpg)
 
 Bạn có thể **chỉnh sửa các điều kiện, cách thức phân phối** trong rule mặc định này để tạo ra một rule mới, ví dụ thêm Agent được nhận cuộc chat…. Xem hướng dẫn chi tiết [tạo rule mới](https://docv4.subiz.com/tao-rule-moi/) và cách thức chỉnh sửa.
 
@@ -28,7 +30,7 @@ Thư viện Rule là danh sách các Rule mà Subiz đã tạo sẵn cho bạn, 
 
 4. Chọn biểu tượng nhập tại rule mà bạn muốn sử dụng
 
- ![](http://docv4.subiz.com/wp-content/uploads/2018/01/import-rule.png)​
+![S&#x1EED; d&#x1EE5;ng Th&#x1B0; vi&#x1EC7;n rule](../../../.gitbook/assets/import-rule.png)
 
 5. Chỉnh sửa Rule nếu muốn và chọn **Tạo rule**
 
