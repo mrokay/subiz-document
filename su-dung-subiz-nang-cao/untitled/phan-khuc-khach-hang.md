@@ -8,7 +8,7 @@ Tại trang **Cài đặt Phân khúc**, bạn có thể tạo phân khúc mới
 
 Để tạo Phân khúc mới, bạn vào **Cài đặt &gt; Tài khoản &gt; Phân khúc, chọn Tạo phân khúc**.
 
-![N&#xFA;t t&#x1EA1;o ph&#xE2;n kh&#xFA;c m&#x1EDB;i](../../.gitbook/assets/tao-moi-phan-khuc.png)
+![N&#xFA;t t&#x1EA1;o ph&#xE2;n kh&#xFA;c kh&#xE1;ch h&#xE0;ng m&#x1EDB;i](../../.gitbook/assets/tao-moi-phan-khuc%20%281%29.png)
 
 Tạo phân khúc mới theo các bước:
 
