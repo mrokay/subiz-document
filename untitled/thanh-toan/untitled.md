@@ -8,7 +8,7 @@ Hiện tại, Subiz hỗ trợ 02 hình thức thanh toán: Thanh toán qua Th�
 Bước 1: Truy nhập vào Tài khoản[ Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F) . Cài đặt &gt; Thanh toán  
 
 
-![&#x110;&#x103;ng nh&#x1EAD;p t&#xE0;i kho&#x1EA3;n Thanh to&#xE1;n](https://lh6.googleusercontent.com/bZ6Z6NWYW-oMT5Ddv961tr5bAZsPOXZbKG18lyQpVvR-FVKTOa55WxklcA8VqO5GlLEEt6FN4SUxz8GjMe7dFMviKGbiX0M3eGdKEQo89R7YEqiAt7T-cbkw47cnYiFd_uJKkMC-)
+![&#x110;&#x103;ng nh&#x1EAD;p Trang thanh to&#xE1;n](https://lh6.googleusercontent.com/bZ6Z6NWYW-oMT5Ddv961tr5bAZsPOXZbKG18lyQpVvR-FVKTOa55WxklcA8VqO5GlLEEt6FN4SUxz8GjMe7dFMviKGbiX0M3eGdKEQo89R7YEqiAt7T-cbkw47cnYiFd_uJKkMC-)
 
 Bước 2:  Lựa chọn thông tin của gói dịch vụ  
 

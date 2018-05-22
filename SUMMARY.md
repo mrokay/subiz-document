@@ -44,7 +44,6 @@
     * [Subiz tính phí như thế nào](untitled/thanh-toan/subiz-tinh-phi-nhu-the-nao.md)
     * [Cách chọn gói dịch vụ phù hợp nhất?](untitled/thanh-toan/cach-chon-goi-dich-vu-phu-hop-nhat.md)
     * [Phương thức thanh toán](untitled/thanh-toan/untitled.md)
-    * Automation Credit
     * [Lưu ý khi thanh toán \(FAQs\)](untitled/thanh-toan/luu-y-khi-thanh-toan-faqs.md)
   * Quản lý gói dịch vụ
     * [Xem thông tin tài khoản hiện tại](untitled/untitled/xem-thong-tin-tai-khoan-hien-tai.md)
