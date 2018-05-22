@@ -8,7 +8,7 @@ Tại trang **Cài đặt Phân khúc**, bạn có thể tạo phân khúc mới
 
 Để tạo Phân khúc mới, bạn vào **Cài đặt &gt; Tài khoản &gt; Phân khúc, chọn Tạo phân khúc**.
 
-![](http://docv4.subiz.com/wp-content/uploads/2018/01/T%E1%BA%A1o-ph%C3%A2n-kh%C3%BAc.png)
+![N&#xFA;t t&#x1EA1;o ph&#xE2;n kh&#xFA;c m&#x1EDB;i](../../.gitbook/assets/tao-moi-phan-khuc.png)
 
 Tạo phân khúc mới theo các bước:
 
