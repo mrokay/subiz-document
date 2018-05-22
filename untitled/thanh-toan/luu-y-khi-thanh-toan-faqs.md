@@ -8,9 +8,7 @@ Tình trạng này xảy ra với những trường hợp thanh toán thiếu do
 Nếu có bất kỳ câu hỏi nào liên quan đến hóa đơn phát sinh và việc thực hiện thanh toán, vui lòng gửi phản hồi đến email [billing@subiz.com](mailto:billing@subiz.com) để được hỗ trợ.
 {% endhint %}
 
-
-
-###  Tại sao thanh toán thẻ không thành công? 
+### Tại sao thanh toán thẻ không thành công? 
 
 #### Tại sao thẻ tín dụng của tôi bị từ chối?
 
@@ -62,8 +60,6 @@ Hóa đơn được yêu cầu thực hiện trong vòng **30 ngày** kể từ 
 Để theo dõi thông tin, tình trạng Hóa đơn \(tình trạng thanh toán, chu kì, thời hạn còn lại..\) bạn có thể truy cập vào tài khoản [Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F) &gt; Cài đặt/**Thanh toán**. Thông tin sẽ được hiển thị như sau:
 
 ![Th&#xF4;ng tin H&#xF3;a &#x111;&#x1A1;n](../../.gitbook/assets/screenshot_11.png)
-
-
 
 ### Chính sách hoàn tiền 
 
