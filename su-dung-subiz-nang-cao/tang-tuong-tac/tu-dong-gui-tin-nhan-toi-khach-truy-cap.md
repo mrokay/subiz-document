@@ -63,5 +63,7 @@ Nếu khách truy cập “không thực hiện ẩn” cửa sổ chat này, c�
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/04/cua-so-ko-bi-an.png)
 
-Nếu khách truy cập “thực hiện ẩn” cửa sổ chat và đọc những trang tiếp theo mà bạn có thiết lập trang thiết lập tin nhắn tự động của trang đó, thì tin nhắn sẽ hiển thị dưới dạng preview.![](https://docv4.subiz.com/wp-content/uploads/2018/02/loi-chao-Automation-300x250.jpg)
+Nếu khách truy cập “thực hiện ẩn” cửa sổ chat và đọc những trang tiếp theo mà bạn có thiết lập trang thiết lập tin nhắn tự động của trang đó, thì tin nhắn sẽ hiển thị dưới dạng preview.
+
+![](https://docv4.subiz.com/wp-content/uploads/2018/02/loi-chao-Automation-300x250.jpg)
 
