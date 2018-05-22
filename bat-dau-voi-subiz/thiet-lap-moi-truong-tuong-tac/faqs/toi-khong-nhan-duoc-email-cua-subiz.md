@@ -4,7 +4,7 @@ Subiz sử dụng dịch vụ gửi email của những hệ thống lớn \([AW
 
 ### Kiểm tra lại hòm email của bạn.
 
-Nội dung email Subiz có thể chứa các đoạn chat giao dịch. Có nhiều từ ngữ có thể liên quan đến giá, báo giá… làm các hệ thống mail tưởng là thư quảng cáo, hoặc thư rác. Vậy hãy kiểm tra trong thư mục rác \(spam\) hoặc phần thư quảng cáo \( Promotion nếu là email Google \).
+Nội dung email Subiz có thể chứa các đoạn chat giao dịch. Có nhiều từ ngữ có thể liên quan đến giá, báo giá… làm các hệ thống mail tưởng là thư quảng cáo, hoặc thư rác. Vậy hãy kiểm tra trong thư mục rác \(spam\) hoặc phần thư quảng cáo \(Promotion nếu là email Google\).
 
 Nếu phát hiện, bạn sẽ xác nhận nó không phải là Spam để đảm bảo cho những lần sau.
 
@@ -20,7 +20,7 @@ Bạn cũng cần chú ý những bộ lọc email mà bạn tạo. Có thể n�
 
 * **Domain của bạn bị coi là Spam**
 
-![Domain c&#x1EE7;a b&#x1EA1;n b&#x1ECB; coi l&#xE0; Spam v&#xE0; &#x111;&#x1B0;&#x1EE3;c li&#x1EC7;t k&#xEA; b&#x1EDF;i c&#xE1;c t&#x1ED5; ch&#x1EE9;c tr&#xEA;n th&#x1EBF; gi&#x1EDB;i \( blacklist\).](../../../.gitbook/assets/block-email%20%281%29.png)
+![Domain c&#x1EE7;a b&#x1EA1;n b&#x1ECB; coi l&#xE0; Spam v&#xE0; &#x111;&#x1B0;&#x1EE3;c li&#x1EC7;t k&#xEA; b&#x1EDF;i c&#xE1;c t&#x1ED5; ch&#x1EE9;c tr&#xEA;n th&#x1EBF; gi&#x1EDB;i \(blacklist\).](../../../.gitbook/assets/block-email%20%281%29.png)
 
 Công cụ để kiếm tra: [MxToolbox](http://mxtoolbox.com/blacklists.aspx) . Cách giải quyết là bạn liên lạc với tổ chức liệt kê domain bạn là Spam để yêu cầu họ gỡ bỏ.
 
