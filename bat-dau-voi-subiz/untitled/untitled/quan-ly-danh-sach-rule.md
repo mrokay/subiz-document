@@ -18,7 +18,7 @@ _Lưu ý: Chỉ rule trong trạng thái Active mới có thể hoạt động_
 
 Để sắp xếp lại thứ tự các rule, bạn click vào **Sắp xếp lại**.
 
-![](http://docv4.subiz.com/wp-content/uploads/2018/01/reorder-rule.png)
+![Ch&#x1ECD;n s&#x1EAF;p x&#x1EBF;p l&#x1EA1;i Rule](../../../.gitbook/assets/sap-xep-lai-rule.png)
 
 Sử dụng chuột kéo thả để sắp xếp mức độ ưu tiên của các rule theo mong muốn, sau đó chọn **Lưu thay đổi**.
 
