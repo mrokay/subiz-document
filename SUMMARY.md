@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Trang Home](README.md)
-* [Tổng quan Subiz](page-2/README.md)
+* Tổng quan Subiz
   * [Subiz là gì?](page-2/subiz-la-gi.md)
   * [Subiz hoạt động như thế nào?](page-2/untitled.md)
 * Bắt đầu với Subiz
