@@ -43,7 +43,16 @@ Click **Thêm điều kiện** khi bạn muốn thêm điều kiện khác. Ch�
 | Tiêu đề trang | Các website thường đặt tiêu đề trang liên quan đến một chủ đề nhất định, với mỗi chủ đề, bạn có thể đặt một automation để hỗ trợ và hướng dẫn khách hàng đúng thời điểm | Gửi lời chào tới các khách hàng vào xem các trang có tiêu đề chứa từ “máy ảnh”. Điều kiện: Tiêu đề trang – chứa – máy ảnhGửi lời chào tới các khách hàng vào xem trang có tiêu đề chứa từ “giá” |
 | URL trang | Thực hiện automation khi khách hàng truy cập vào một trang cụ thể | Gửi tin nhắn tới khách hàng đang xem trang bảng giá: Điều kiện: URL của trang – bằng – https://subiz.com/vi/pricing.html |
 
-### **Chọn kênh thực hiện Automation**
+### 
+
+```text
+|Tiêu đề trang | Các website thường đặt tiêu đề trang liên quan đến một chủ đề nhất định, với mỗi chủ đề, bạn có thể đặt một automation để hỗ trợ và hướng dẫn khách hàng đúng thời điểm |Gửi lời chào tới các khách hàng vào xem các trang có tiêu đề chứa từ “máy ảnh”. Điều kiện: Tiêu đề trang – chứa – máy ảnhGửi lời chào tới các khách hàng vào xem trang có tiêu đề chứa từ “giá” 
+| --- | --- | --- |
+| URL trang | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+```
+
+### C**họn kênh thực hiện Automation**
 
 Tiếp theo bạn chọn kênh áp dụng Automation. Mỗi kênh sẽ có các hành động tương ứng phù hợp.
 
