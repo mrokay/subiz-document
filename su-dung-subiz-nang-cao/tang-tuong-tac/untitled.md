@@ -12,11 +12,11 @@ Với hành động hỏi địa chỉ email, **bạn có thể để điều ki
 * User chưa có thông tin địa chỉ email
 * Có tin nhắn từ user gửi tới
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/t%E1%BA%A1o-form-h%E1%BB%8Fi-email.png)
+![T&#x1EA1;o automation h&#x1ECF;i th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/tao-form-hoi-email.png)
 
 **Như vậy các user chưa có thông tin email sẽ nhận được tin nhắn chứa form hỏi email ngay sau khi họ gửi tin nhắn trên cửa sổ Subiz.**
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/form-h%E1%BB%8Fi-email-1.png)
+![Form h&#x1ECF;i th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng tr&#xEA;n c&#x1EED;a s&#x1ED5; chat](../../.gitbook/assets/form-hoi-email-1.png)
 
 ### Ngôn ngữ hỏi thông tin
 
@@ -42,7 +42,9 @@ Khi bạn muốn tùy chỉnh ngôn ngữ hỏi thông tin khách hàng, thì b�
 
 ### Hỏi thông tin bởi agent nào?
 
-Bạn cần chọn một agent làm đại diện cho doanh nghiệp của bạn để hỏi thông tin khách hàng![](https://docv4.subiz.com/wp-content/uploads/2018/04/hoi-thong-tin-tu-agent-nao.png)
+Bạn cần chọn một agent làm đại diện cho doanh nghiệp của bạn để hỏi thông tin khách hàng
+
+![L&#x1EF1;a ch&#x1ECD;n Agent &#x111;&#x1EA1;i di&#x1EC7;n h&#x1ECF;i th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/hoi-thong-tin-tu-agent-nao.png)
 
 ### Lưu ý khi thiết lập Automation hỏi địa chỉ email 
 
