@@ -4,7 +4,7 @@
 
 Subiz là công cụ giúp bạn chào đón, tiếp cận, bán hàng và quản trị khách hàng đến từ nhiều kênh ngay tại Dashboard của Subiz.
 
-![Dashboard- B&#x1EA3;ng &#x111;i&#x1EC1;u khi&#x1EC3;n Subiz](https://lh6.googleusercontent.com/qhascWQCmWk1mjcwjnl17SjuVfoT8Hcsvm5kkfrAZTkfk5LYszIDBO3oe7RNambG8rVbqEefnpbnhO1uF2_zViJ8_3Q0_l7JU1tIwSPBURmLnTKpCDcwsghQ5waS8f_tVYT2YNMa)
+![Dashboard- B&#x1EA3;ng &#x111;i&#x1EC1;u khi&#x1EC3;n Subiz](../.gitbook/assets/uvwvioclwkitqzfkjtaqsfvc0qs6nju3r3uuqcmpehezho75siwhgwmatgaomtiaqickgqqj03guoipbbqirv5l6bjklwv6t0fdn.png)
 
 Tại đây, bạn có thể theo dõi khách hàng đang truy cập, nắm rõ thông tin và hành vi khách hàng, chủ động tương tác và theo đuổi khách hàng từ nhiều kênh bán hàng của doanh nghiệp như Website, Facebook, Email, Zalo,...
 
