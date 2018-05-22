@@ -12,13 +12,13 @@ Bạn muốn gửi thông điệp quảng cáo tới các khách vào 1 trang s�
 
 Ví dụ: URL của trang – chứa – http://abc.com.vn/
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/url.png)
+![G&#x1EED;i tin nh&#x1EAF;n d&#x1EF1;a tr&#xEA;n &#x111;i&#x1EC1;u ki&#x1EC7;n URL c&#x1EE7;a trang](../../.gitbook/assets/url.png)
 
 ### 2. Gửi tin nhắn đến khách chưa có thông tin cá nhân {#2-gui-tin-nhan-den-khach-chua-co-thong-tin-ca-nhan}
 
 Với các khách hàng chưa có thông tin cá nhân trên hệ thống, bạn có thể gửi chào kèm theo lời mời khách để lại thông tin cá nhân để bạn có thể liên hệ lại bất cứ lúc nào.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/user-info.png)
+![&#x110;i&#x1EC1;u ki&#x1EC7;n g&#x1EED;i tin nh&#x1EAF;n cho kh&#xE1;ch ch&#x1B0;a c&#xF3; th&#xF4;ng tin](../../.gitbook/assets/user-info.png)
 
 ### 3. Gửi tin nhắn cho khách hàng theo khu vực địa lý {#3-gui-tin-nhan-cho-khach-hang-theo-khu-vuc-dia-ly}
 
@@ -26,13 +26,13 @@ Subiz hỗ trợ bạn gửi tin nhắn riêng biệt tới từng đối tượ
 
 Điều kiện: Mã quốc gia – bằng – VN
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/VN.png)
+![&#x110;i&#x1EC1;u ki&#x1EC7;n g&#x1EED;i tin nh&#x1EAF;n cho kh&#xE1;ch Vi&#x1EC7;t Nam](../../.gitbook/assets/vn.png)
 
 Với khách hàng nước ngoài, bạn cài đặt tin nhắn bằng ngôn ngữ Tiếng Anh.
 
 Điều kiện: Mã quốc gia – không phải là – VN
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/En.png)
+![&#x110;i&#x1EC1;u ki&#x1EC7;n g&#x1EED;i tin nh&#x1EAF;n b&#x1EB1;ng ti&#x1EBF;ng Anh](../../.gitbook/assets/en.png)
 
 Về điều kiện Quốc gia và Mã quốc gia, bạn đối chiếu theo chuẩn tại [https://countrycode.org/](https://countrycode.org/). Trong đó: Tên Quốc gia xem tại cột COUNTRY và Mã quốc gia xem tại cột ISO CODES, phần mã 2 kí tự.
 
@@ -40,7 +40,7 @@ Ví dụ:
 
 Quốc gia – Afghanistan. Mã quốc gia – AF
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/countrycode.png)
+![C&#xE1;ch xem m&#xE3; code c&#xE1;c qu&#x1ED1;c gia](../../.gitbook/assets/countrycode.png)
 
 ### 4. Loại trừ 1 địa chỉ IP cụ thể {#4-loai-tru-1-dia-chi-ip-cu-the}
 
@@ -48,7 +48,7 @@ Trong trường hợp bạn muốn gửi tin nhắn tự động tới khách h�
 
 Điều kiện: Địa chỉ IP của user – không phải là –
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/ip.png)
+![&#x110;i&#x1EC1;u ki&#x1EC7;n lo&#x1EA1;i tr&#x1EEB; m&#x1ED9;t &#x111;&#x1ECB;a ch&#x1EC9; IP](../../.gitbook/assets/ip.png)
 
 ### Lưu ý khi tạo Automation gửi tin nhắn tự động {#luu-y-khi-tao-automation-gui-tin-nhan-tu-dong}
 
@@ -61,9 +61,9 @@ Trong trường hợp bạn muốn gửi tin nhắn tự động tới khách h�
 
 Nếu khách truy cập “không thực hiện ẩn” cửa sổ chat này, các tin nhắn tự động tiếp theo sẽ được thông báo bằng số lượng, nằm ở trên cùng bên trái của cửa số chat. Khi khách truy cập nhấn vào thông báo đó, thì tất cả các tin nhắn sẽ hiển thị ra.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/cua-so-ko-bi-an.png)
+![Tin nh&#x1EAF;n hi&#x1EC7;n tr&#xEA;n c&#x1EED;a s&#x1ED5; chat kh&#xF4;ng b&#x1ECB; &#x1EA9;n](../../.gitbook/assets/cua-so-ko-bi-an.png)
 
 Nếu khách truy cập “thực hiện ẩn” cửa sổ chat và đọc những trang tiếp theo mà bạn có thiết lập trang thiết lập tin nhắn tự động của trang đó, thì tin nhắn sẽ hiển thị dưới dạng preview.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/loi-chao-Automation-300x250.jpg)
+![Tin nh&#x1EAF;n hi&#x1EC7;n khi kh&#xE1;ch h&#xE0;ng &#x1EA9;n c&#x1EED;a s&#x1ED5; chat](../../.gitbook/assets/loi-chao-automation-300x250.jpg)
 
