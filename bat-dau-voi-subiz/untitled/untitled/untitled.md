@@ -1,6 +1,6 @@
 # Tạo Rule mới
 
-Tạo Rule mới **là tạo quy tắc mới** để thiết lập tự động phân phối cuộc hội thoại tới một hoặc một nhóm Agent của bạn.
+ạo Rule mới **là tạo quy tắc mới** để thiết lập tự động phân phối cuộc hội thoại tới một hoặc một nhóm Agent của bạn.
 
 Để tạo rule mới, bạn [đăng nhập tài khoản](https://app.subiz.com/login) và vào phần **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Rule &gt; Tạo Rule mới**
 
@@ -26,7 +26,7 @@ Lưu ý: Một rule chỉ được thực thi khi thông tin của cuộc hội 
 * Click **Thêm điều kiện** để kết hợp nhiều điều kiện trong một rule.
 * Chọn **Và/ Hoặc** để xác định mối quan hệ giữa các điều kiện.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/Dieu-kien-trong-rule-1.png)
+![Thi&#x1EBF;t l&#x1EAD;p c&#xE1;c &#x111;i&#x1EC1;u ki&#x1EC7;n trong Rule](../../../.gitbook/assets/dieu-kien-trong-rule-1.png)
 
 **Bạn có thể chọn một hay nhiều điều kiện trong danh sách các điều kiện trong Rule dưới đây:​**
 
@@ -52,7 +52,7 @@ Lưu ý: Một rule chỉ được thực thi khi thông tin của cuộc hội 
 
 Bây giờ, bạn chọn cách thức phân phối cuộc các cuộc thội thoại thỏa mãn các điều kiện đã đặt ở trên.
 
-![](http://docv4.subiz.com/wp-content/uploads/2018/01/rule-assign.png)
+![Ch&#x1ECD;n c&#xE1;ch th&#x1EE9;c ph&#xE2;n ph&#x1ED1;i c&#xE1;c cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../../.gitbook/assets/rule-assign.png)
 
 #### **1. Phân phối tới các Agent hoặc nhóm Agent**
 
@@ -63,17 +63,19 @@ Bạn cần chọn một trong những kiểu phân phối sau:
 * _**Phân phối tới tất cả các available Agent:**_ phân phối cuộc hội thoại cho tất cả Agent đang được kích hoạt
 * _**Phân phối tới các agents:**_ Phân phối cuộc hội thoại cho một hoặc một số Agent cụ thể. Click để chọn Agent trong list các Agent, sau khi chọn bạn không muốn chọn phân phối cho Agent đó nữa thì nhấn vào nút loại bỏ bên tay phải. Ví dụ sau, đã chọn 02 Agent
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/Phan-phoi-toi-cac-agent.png)
+![Ch&#x1ECD;n Agent &#x111;&#x1B0;&#x1EE3;c ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../../.gitbook/assets/phan-phoi-toi-cac-agent.png)
 
 * _**Phân phối tới các nhóm:**_ Phân phối cuộc hội thoại cho nhóm Agent. Ví dụ dưới đây thì cuộc hội thoại đươc chọn phân phối cho nhóm bán hàng \(Sales\)
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/Phan-phoi-toi-cac-nhom.png)
+![Ch&#x1ECD;n nh&#xF3;m Agent &#x111;&#x1B0;&#x1EE3;c ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../../.gitbook/assets/phan-phoi-toi-cac-nhom.png)
 
 * _**Phân phối tới agent có tương tác cuối cùng với user:**_ Phân phối cuộc hội thoại cho Agent có tương tác gần nhất với user \(khách hàng\)
 
 #### **2. Phân phối cuộc chat đồng đều theo vòng** {#2-phan-phoi-cuoc-chat-dong-deu-theo-vong}
 
-Các cuộc hội thoại sẽ được chia đều lần lượt theo vòng cho các Agent được chọn. Ví dụ, bạn chọn 3 agent trong danh sách agent, khi có 6 cuộc hội thoại, thì sẽ phân phối theo thứ tự 1,2,3 sau đó quay vòng 4,5,6![](https://docv4.subiz.com/wp-content/uploads/2018/02/phan-phoi-dong-deu-theo-vong.png)
+Các cuộc hội thoại sẽ được chia đều lần lượt theo vòng cho các Agent được chọn. Ví dụ, bạn chọn 3 agent trong danh sách agent, khi có 6 cuộc hội thoại, thì sẽ phân phối theo thứ tự 1,2,3 sau đó quay vòng 4,5,6
+
+![Ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c chat &#x111;&#x1ED3;ng &#x111;&#x1EC1;u theo v&#xF2;ng cho c&#xE1;c Agent &#x111;&#x1B0;&#x1EE3;c ch&#x1ECD;n](../../../.gitbook/assets/phan-phoi-dong-deu-theo-vong.png)
 
 
 
