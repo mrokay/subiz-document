@@ -21,7 +21,7 @@ Khi click vào từng khách truy cập trên trang **Khách**, bạn sẽ bắt
 
 ### Subiz xác định thông tin vị trí khách truy cập dựa vào đâu?
 
-![V&#x1ECB; tr&#xED; kh&#xE1;ch truy c&#x1EAD;p &#x111;&#x1B0;&#x1EE3;c x&#xE1;c &#x111;&#x1ECB;nh d&#x1EF1;a tr&#xEA;n &#x111;&#x1ECB;a ch&#x1EC9; IP](../../.gitbook/assets/screenshot_52.png)
+![](../../.gitbook/assets/assets2f-lcrbjdxgv2cwmzzedgk2f-lcfnbeua9alvfvpn-6j2f-lcfosmb7mvcu3afmx_w2fscreenshot_52.png)
 
 Để xác định vị trí địa lý khách hàng, Subiz sử dụng dịch vụ của bên thứ 3 là **Maxmind**. Nó được xác định dựa trên địa chỉ IP. Các địa chỉ IP này đôi khi được liên kết với một ISP \(Internet Service Provider\) hoặc VPN \(Virtual Private Network\) nên sự khác biệt với địa điểm thực của khách hàng hoàn toàn có thể xảy ra.
 
