@@ -39,7 +39,7 @@ Lọc hội thoại theo Agent/ nhóm Agent giúp bạn đánh giá công việc
 {% tab title="Thời gian" %}
 Bạn có thể lọc theo các khoảng thời gian cụ thể và thực hiện so sánh để thấy sự biến động.
 
-![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c theo th&#x1EDD;i gian](.gitbook/assets/thong-ke-tuong-tac-theo-thoi-gian.png)
+![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c theo th&#x1EDD;i gian](.gitbook/assets/thong-ke-tuong-tac-theo-thoi-gian%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 
