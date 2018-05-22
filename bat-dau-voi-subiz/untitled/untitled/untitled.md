@@ -30,13 +30,6 @@ Lưu ý: Một rule chỉ được thực thi khi thông tin của cuộc hội 
 
 **Bạn có thể chọn một hay nhiều điều kiện trong danh sách các điều kiện trong Rule dưới đây:​**
 
-| các | sfgádf | adfgddgsa |
-| --- | --- | --- |
-| sfcs |  |  |
-|  |  |  |
-
-![](../../../.gitbook/assets/danh-sach-cac-dieu-kien-trong-automation-subiz-customer-communication-platform-1.png)
-
 | **CÁC ĐIỀU KIỆN** | **CÁCH SỬ DỤNG** | **VÍ DỤ** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Any condition | Bất cứ điều kiện nàoKhi lựa chọn điều kiện này, các cuộc hội thoại sẽ luôn được phân phối cho các agent được thiết lập trong rule |  |
@@ -81,12 +74,4 @@ Bạn cần chọn một trong những kiểu phân phối sau:
 Các cuộc hội thoại sẽ được chia đều lần lượt theo vòng cho các Agent được chọn. Ví dụ, bạn chọn 3 agent trong danh sách agent, khi có 6 cuộc hội thoại, thì sẽ phân phối theo thứ tự 1,2,3 sau đó quay vòng 4,5,6
 
 ![Ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c chat &#x111;&#x1ED3;ng &#x111;&#x1EC1;u theo v&#xF2;ng cho c&#xE1;c Agent &#x111;&#x1B0;&#x1EE3;c ch&#x1ECD;n](../../../.gitbook/assets/phan-phoi-dong-deu-theo-vong.png)
-
-
-
-
-
-|  | ghvguhybvu | juhbnuhjn | hjuhyugybh |
-| --- | --- |
-|  |  |  |  |
 
