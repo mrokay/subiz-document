@@ -30,6 +30,11 @@ Lưu ý: Một rule chỉ được thực thi khi thông tin của cuộc hội 
 
 **Bạn có thể chọn một hay nhiều điều kiện trong danh sách các điều kiện trong Rule dưới đây:​**
 
+| các | sfgádf | adfgddgsa |
+| --- | --- | --- |
+| sfcs |  |  |
+|  |  |  |
+
 
 
 | **CÁC ĐIỀU KIỆN** | **CÁCH SỬ DỤNG** | **VÍ DỤ** |
