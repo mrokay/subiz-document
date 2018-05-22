@@ -49,6 +49,5 @@
   * Quản lý gói dịch vụ
     * [Xem thông tin tài khoản hiện tại](untitled/untitled/xem-thong-tin-tai-khoan-hien-tai.md)
     * [Thay đổi gói dịch vụ](untitled/untitled/untitled.md)
-    * [Thay đổi phương thức thanh toán](untitled/untitled/thay-doi-phuong-thuc-thanh-toan.md)
     * [FAQs](untitled/untitled/untitled-1.md)
 
