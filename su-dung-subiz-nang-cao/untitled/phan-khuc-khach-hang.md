@@ -44,7 +44,7 @@ Phân khúc khách hàng chỉ có thể được tạo khi bạn đang sử d�
 
 Các Phân khúc đã được tạo sẽ hiển thị trong danh sách Phân khúc.
 
-![](http://docv4.subiz.com/wp-content/uploads/2018/01/segment-list.png)
+![Danh s&#xE1;ch ph&#xE2;n kh&#xFA;c kh&#xE1;ch h&#xE0;ng c&#x1EE7;a b&#x1EA1;n](http://docv4.subiz.com/wp-content/uploads/2018/01/segment-list.png)
 
 **Được tạo:** Thời gian Phân khúc được khởi tạo
 
