@@ -86,7 +86,7 @@ Bao gồm danh sách các Users đã bị Chặn, Agent thao tác chặn và th�
 * Với Channel Messenger: Tin nhắn được chặn ở Subiz Core và không hiển thị cho Agent. Lưu  ý: tin nhắn vẫn tồn tại và hiển thị nếu khách dùng Quản trị fanpage.
 * Các agent bị chặn có Avatar gạch chéo  
 
-![Hi&#x1EC3;n th&#x1ECB; Agent b&#x1ECB; ch&#x1EB7;n](../../.gitbook/assets/spam-avatar.png)
+![Avatetr User b&#x1ECB; block](../../.gitbook/assets/avatar-spam.png)
 
 
 

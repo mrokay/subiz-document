@@ -8,7 +8,7 @@ Hiện tại, Subiz hỗ trợ 02 hình thức thanh toán: Thanh toán qua Th�
 Bước 1: Truy nhập vào Tài khoản[ Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F) . Cài đặt &gt; Thanh toán  
 
 
-![](https://lh6.googleusercontent.com/bZ6Z6NWYW-oMT5Ddv961tr5bAZsPOXZbKG18lyQpVvR-FVKTOa55WxklcA8VqO5GlLEEt6FN4SUxz8GjMe7dFMviKGbiX0M3eGdKEQo89R7YEqiAt7T-cbkw47cnYiFd_uJKkMC-)
+![&#x110;&#x103;ng nh&#x1EAD;p t&#xE0;i kho&#x1EA3;n Thanh to&#xE1;n](https://lh6.googleusercontent.com/bZ6Z6NWYW-oMT5Ddv961tr5bAZsPOXZbKG18lyQpVvR-FVKTOa55WxklcA8VqO5GlLEEt6FN4SUxz8GjMe7dFMviKGbiX0M3eGdKEQo89R7YEqiAt7T-cbkw47cnYiFd_uJKkMC-)
 
 Bước 2:  Lựa chọn thông tin của gói dịch vụ  
 
@@ -21,17 +21,17 @@ Subiz tính phí theo 3 yếu tố:
 
 Bạn chỉ cần lựa chọn gói dịch vụ phù hợp, điền thông tin và Click vào Đăng ký ngay.
 
-![](https://lh5.googleusercontent.com/t7swLtIl3Usrs1H3_FBmoDCGnz2Pe7JSuukqZDCXFmrW3LjX_nlr5pqItAgZ4gY36HrNPqot_f22vH3TjDnEjXf8tIiERwwcuNf5MLypmcREnVScf4EMlBfFBhbbvtcLVw0hVN36)
+![Th&#xF4;ng tin &#x111;&#x103;ng k&#xED;](https://lh5.googleusercontent.com/t7swLtIl3Usrs1H3_FBmoDCGnz2Pe7JSuukqZDCXFmrW3LjX_nlr5pqItAgZ4gY36HrNPqot_f22vH3TjDnEjXf8tIiERwwcuNf5MLypmcREnVScf4EMlBfFBhbbvtcLVw0hVN36)
 
 Sau khi điền đầy đủ thông tin ở gói dịch vụ mà bạn chọn, nhấn vào nút Đăng ký ngay, giao diện thanh toán qua thẻ tín dụng sẽ được hiển thị như sau:
 
-![](https://lh4.googleusercontent.com/0aPysyra5mMUUEOHzCqEC6AeEftPIXA2nHscSUwfvJsRCPlm6eqEMVh6YLUHnZlgsf0h-EcjVvHEqqbemgRrkwWWExjIuiRinhFeokQ3BrE96zgiyXgh-QDxpWgwFUiLxJQ0yV3I)
+![Nh&#x1EAD;p th&#xF4;ng tin thanh to&#xE1;n](https://lh4.googleusercontent.com/0aPysyra5mMUUEOHzCqEC6AeEftPIXA2nHscSUwfvJsRCPlm6eqEMVh6YLUHnZlgsf0h-EcjVvHEqqbemgRrkwWWExjIuiRinhFeokQ3BrE96zgiyXgh-QDxpWgwFUiLxJQ0yV3I)
 
 Khi bạn thực hiện thanh toán thành công, tài khoản sẽ được nâng cấp ngay lập tức, đồng thời hệ thống sẽ gửi xác nhận cung cấp dịch vụ thành công tới email đăng ký của bạn.
 
 Dưới đây là minh họa giao diện hiển thị thông tin tài khoản của bạn khi đã hoàn tất nâng cấp:
 
-![](https://lh6.googleusercontent.com/P-HOVM6zmqYEHk0p5MCJL_zh1BxFwhLc54gAyag_ErmkSstnRN8NqH9FOGPBYcKC7QyvN71f5bDMMOtFO_KQycE26uH4khsBeRIhU9zo409-44TEXkmmTDQXXkvearOouVUAd8lH)
+![Th&#xF4;ng tin g&#xF3;i c&#x1B0;&#x1EDB;c](https://lh6.googleusercontent.com/P-HOVM6zmqYEHk0p5MCJL_zh1BxFwhLc54gAyag_ErmkSstnRN8NqH9FOGPBYcKC7QyvN71f5bDMMOtFO_KQycE26uH4khsBeRIhU9zo409-44TEXkmmTDQXXkvearOouVUAd8lH)
 
 {% hint style="info" %}
 Sau khi nâng cấp tài khoản thành công, bất kỳ lúc nào bạn đều có thể thay đổi những thông tin thuê bao này.

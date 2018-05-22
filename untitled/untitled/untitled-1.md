@@ -2,7 +2,7 @@
 
 ### Tôi có thể thay đổi gói dịch vụ Subiz bất cứ lúc nào?
 
-Đúng vậy, bạn có thể thay đổi gói dịch vụ của mình bất cứ khi nào để phù hợp nhất với tình hình kinh doanh và hoạt động của công ty. Bạn có thể thêm/ bớt Agent, tăng/giảm chu kỳ thanh toán hoặc thay đổi phương thức thanh toán phù hợp.
+Đúng vậy, bạn có thể thay đổi gói dịch vụ của mình bất cứ khi nào để phù hợp nhất với tình hình kinh doanh và hoạt động của công ty. Bạn có thể thêm/bớt Agent, tăng/giảm chu kỳ thanh toán hoặc thay đổi phương thức thanh toán phù hợp.
 
 ### Tại sao hệ thống hiển thị thông báo về hóa đơn quá hạn?
 
@@ -42,7 +42,7 @@ Tại thời điểm bắt đầu chu kỳ kế tiếp, hệ thống sẽ tự �
 Hóa đơn quá hạn sẽ được thông báo qua các kênh sau:
 
 * Hiển thị thông báo trên màn hình quản lý Dashboard
-*  Hiển thị thông báo tại phần Thông báo mới
+* Hiển thị thông báo tại phần Thông báo mới
 * Gửi Email thông báo tới email đăng ký chính \(mặc định\), hoặc email được xác nhận phụ trách.
 
 {% hint style="info" %}

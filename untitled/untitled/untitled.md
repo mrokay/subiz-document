@@ -23,7 +23,7 @@ Sau đó lựa chọn gói Nâng cao và tiến hành nâng cấp tài khoản:
 ![N&#xE2;ng c&#x1EA5;p l&#xEA;n g&#xF3;i n&#xE2;ng cao](../../.gitbook/assets/nang-cap-len-goi-nang-cao.png)
 
 {% hint style="info" %}
-Sau khi nâng cấp tài khoản, hệ thống sẽ phát sinh hóa đơn trong tài khoản của bạn. Bạn có thể lựa chọn thanh toán qua Thẻ tín dụng hoặc Chuyển khoản theo **Hướng dẫn thanh toán**
+Sau khi nâng cấp tài khoản, hệ thống sẽ phát sinh hóa đơn trong tài khoản của bạn. Bạn có thể lựa chọn thanh toán qua Thẻ tín dụng hoặc Chuyển khoản theo [**Hướng dẫn thanh toán**](https://subiz.gitbook.io/subiz-document/untitled/thanh-toan/untitled)
 {% endhint %}
 
 
