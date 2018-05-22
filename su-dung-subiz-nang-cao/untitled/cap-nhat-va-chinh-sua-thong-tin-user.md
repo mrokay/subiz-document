@@ -8,11 +8,11 @@ Tại trang **Hoạt động**, bạn có thể đồng thời theo dõi danh s�
 
 **Danh sách user hiển thị là các user đã được chỉ định cho bạn.** Ngoài ra, bạn có thể sử dụng bộ lọc để tìm kiếm user theo phân khúc và kiểm tra danh sách các user chưa được phân phối.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/list-user.png)
+![T&#xEC;m ki&#x1EBF;m user theo c&#xE1;c ph&#xE2;n kh&#xFA;c](../../.gitbook/assets/list-user.png)
 
 **User sẽ được hiển thị theo tên và ảnh đại diện**. Tại ảnh đại diện của user có trạng thái online \(màu xanh\) hoặc offline \(màu xám\). Nếu có tương tác mới từ user, bạn sẽ thấy hiển thị số tin nhắn màu đỏ và thời gian tin nhắn được gửi đến.
 
-![](http://docv4.subiz.com/wp-content/uploads/2018/01/User-list.png)
+![Danh s&#xE1;ch user](../../.gitbook/assets/user-list.png)
 
 Khi click vào từng user, bạn có thể kiểm tra lịch sử hoạt động của user đó \(trong phần List Activities\) và bắt đầu các cuộc hội thoại với user.
 
@@ -20,7 +20,7 @@ Khi click vào từng user, bạn có thể kiểm tra lịch sử hoạt độn
 
 **Khi chọn một user cụ thể, bạn sẽ thấy hiển thị lịch sử hoạt động và tương tác của user với doanh nghiệp,** ví dụ xem 1 trang trên website và tương tác của user đó với bạn qua Subiz Chat hoặc Email\).
 
-![](http://docv4.subiz.com/wp-content/uploads/2018/01/List-acivities.png)
+![C&#xE1;c ho&#x1EA1;t &#x111;&#x1ED9;ng c&#x1EE7;a user](../../.gitbook/assets/list-acivities.png)
 
 Các cuộc hội thoại có tin nhắn chưa đọc sẽ hiển thị thông báo đỏ.
 
@@ -37,5 +37,5 @@ Bạn có thể theo dõi thông tin cụ thể của từng user bao gồm:
 
 **Để nhập thông tin cho user**, bạn click vào mũi tên phía dưới ảnh đại diện của Agent phía trên list activities, nhập thông tin và chọn Lưu thay đổi.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/Cap-nhat-thong-tin-user.png)
+![C&#x1EAD;p nh&#x1EAD;t th&#xF4;ng tin user](../../.gitbook/assets/cap-nhat-thong-tin-user.png)
 
