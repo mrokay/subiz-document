@@ -107,7 +107,7 @@ Tại mỗi điểm giao bạn có thể quan sát được số lượng tin nh
 
 Ví dụ: Thống kê 5 tag được gắn nhiều nhất ngày 19/04
 
-![Th&#x1ED1;ng k&#xEA; tag &#x111;&#x1B0;&#x1EE3;c s&#x1EED; d&#x1EE5;ng nhi&#x1EC1;u nh&#x1EA5;t](.gitbook/assets/thong-ke-5-tag-duoc-su-dung-nhieu-nhat.png)
+![Th&#x1ED1;ng k&#xEA; tag &#x111;&#x1B0;&#x1EE3;c s&#x1EED; d&#x1EE5;ng nhi&#x1EC1;u nh&#x1EA5;t](.gitbook/assets/thong-ke-5-tag-duoc-su-dung-nhieu-nhat%20%281%29.png)
 
 
 
