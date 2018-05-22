@@ -4,14 +4,14 @@ Tạo Rule mới **là tạo quy tắc mới** để thiết lập tự động 
 
 Để tạo rule mới, bạn [đăng nhập tài khoản](https://app.subiz.com/login) và vào phần **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Rule &gt; Tạo Rule mới**
 
-![](http://docv4.subiz.com/wp-content/uploads/2018/01/create-rule.png)
+![T&#x1EA1;o Rule m&#x1EDB;i](../../../.gitbook/assets/taorulemoi.png)
 
 ### Bước 1: Đặt tên và mô tả Rule
 
 * **Tên:** Đặt tên để quản lý trong bảng danh sách các rule.
 * **Mô tả**: Mô tả điều kiện và đối tượng của rule để dễ nhận biết.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/01/rule-name.png)
+![Nh&#x1EAD;p t&#x1EC7;p v&#xE0; m&#xF4; t&#x1EA3; v&#x1EC1; Rule](../../../.gitbook/assets/ten-va-mo-ta-rule.png)
 
 ### Bước 2: Đặt các điều kiện cho Rule
 
