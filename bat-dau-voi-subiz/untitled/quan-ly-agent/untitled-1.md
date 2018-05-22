@@ -33,5 +33,5 @@ Bạn hãy dựa vào số lượng Agent mình đang có và **đặc biệt l�
 
 Tại trang Sửa nhóm, thực hiện chỉnh sửa và click chọn **Lưu thay đổi**.
 
-![Th&#xEA;m v&#xE0; lo&#x1EA1;i b&#x1ECF; thanh vi&#xEA;n trong nh&#xF3;m](../../../.gitbook/assets/sua-thong-tin-nhom-agent.png)
+![Th&#xEA;m v&#xE0; lo&#x1EA1;i b&#x1ECF; th&#xE0;nh vi&#xEA;n trong nh&#xF3;m](../../../.gitbook/assets/assets2f-lcrbjdxgv2cwmzzedgk2f-ld5c18npnczhz8x2mpd2f-ld5cw41ur5vwcqf1snm2fsua-thong-tin-nhom-agent.png)
 
