@@ -31,7 +31,7 @@
 * Sử dụng Subiz nâng cao
   * [Tăng tương tác](su-dung-subiz-nang-cao/tang-tuong-tac/README.md)
     * [Tạo Automation](su-dung-subiz-nang-cao/tang-tuong-tac/tao-automation.md)
-    * [Các ví dụ tự động gửi tin nhắn tới khách truy cập](su-dung-subiz-nang-cao/tang-tuong-tac/tu-dong-gui-tin-nhan-toi-khach-truy-cap.md)
+    * [Các ví dụ tự động gửi tin nhắn](su-dung-subiz-nang-cao/tang-tuong-tac/tu-dong-gui-tin-nhan-toi-khach-truy-cap.md)
     * [Tự động hỏi địa chỉ email của khách hàng](su-dung-subiz-nang-cao/tang-tuong-tac/untitled.md)
   * [Quản lý dữ liệu](su-dung-subiz-nang-cao/untitled/README.md)
     * [Phân khúc khách hàng](su-dung-subiz-nang-cao/untitled/phan-khuc-khach-hang.md)
