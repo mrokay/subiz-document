@@ -27,7 +27,7 @@ Tại mục Thống kê, bạn có thể thống kê số lượng cuộc hội 
 {% tab title="Kênh" %}
 Lọc cuộc hội thoại theo kênh giúp bạn biết được lượng tương tác qua từng kênh Subiz Chat/ Email/ Messenger 
 
-![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c theo c&#xE1;c k&#xEA;nh](.gitbook/assets/thong-ke-tuong-tac-theo-kenh.png)
+![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c theo c&#xE1;c k&#xEA;nh](.gitbook/assets/thong-ke-tag-theo-kenh%20%281%29.png)
 {% endtab %}
 
 {% tab title="Agent" %}
