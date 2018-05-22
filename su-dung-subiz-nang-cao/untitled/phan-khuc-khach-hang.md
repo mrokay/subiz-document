@@ -38,7 +38,7 @@ Chế độ **Lọc tất cả user \(**chỉ có ở gói Nâng cao\):
 Phân khúc khách hàng chỉ có thể được tạo khi bạn đang sử dụng gói Trial hoặc gói Nâng Cao. Bạn sẽ thấy số lượng phân khúc còn lại ngay dưới phần Tạo phân khúc. Nếu đã sử dụng hết số lượng Phân khúc cho phép, bạn cần nâng cấp tài khoản lên gói Nâng cao hoặc đăng ký mua thêm để tạo thêm Phân khúc mới.
 {% endhint %}
 
-![](http://docv4.subiz.com/wp-content/uploads/2018/01/segment-limit.png)
+![S&#x1ED1; ph&#xE2;n kh&#xFA;c c&#xF2;n l&#x1EA1;i &#x111;&#x1B0;&#x1EE3;c quy&#x1EC1;n t&#x1EA1;o th&#xEA;m](../../.gitbook/assets/so-phan-khuc-duoc-tao.png)
 
 ## Quản lý danh sách phân khúc
 
