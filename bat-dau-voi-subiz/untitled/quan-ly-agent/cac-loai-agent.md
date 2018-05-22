@@ -54,13 +54,13 @@ _Hướng dẫn tùy chỉnh thông tin_: **Thay đổi các trường thông ti
 {% tab title="2. Ảnh đại diện" %}
 _Hướng dẫn thay đổi ảnh đại diện_: Chọn **Thay đổi ảnh đại diện** &gt; **Tải ảnh lên** &gt; Chọn **Lưu**
 
-![](../../../.gitbook/assets/avatar-1%20%281%29.jpg)
+![Thay &#x111;&#x1ED5;i anh &#x111;&#x1EA1;i di&#x1EC7;n \(Avatar\)](../../../.gitbook/assets/thay-doi-avatar.jpg)
 {% endtab %}
 
 {% tab title="3. Mật khẩu" %}
 _Hướng dẫn thay đổi mật khẩu_: chọn **Đổi mật khẩu** &gt; **Nhập mật khẩu mới** &gt; **Xác nhận**
 
-![](../../../.gitbook/assets/pass-1.jpg)
+![Thay &#x111;&#x1ED5;i m&#x1EAD;t kh&#x1EA9;u](../../../.gitbook/assets/thay-doi-mat-khau.jpg)
 {% endtab %}
 {% endtabs %}
 
