@@ -1,4 +1,4 @@
-# Tự động gửi tin nhắn tới khách truy cập
+# Các ví dụ tự động gửi tin nhắn tới khách truy cập
 
 Hành động Gửi tin nhắn tới user được thực hiện trên kênh Subiz Chat. Hành động này sẽ khởi tạo cuộc hội thoại với khách truy cập website thỏa mãn điều kiện đặt trước và gửi kèm 1 tin nhắn. **Tin nhắn có chức năng như lời mời chat tự động, giúp bạn gửi lời chào riêng biệt tới từng đối tượng khách hàng.**
 
@@ -52,10 +52,12 @@ Trong trường hợp bạn muốn gửi tin nhắn tự động tới khách h�
 
 ### Lưu ý khi tạo Automation gửi tin nhắn tự động {#luu-y-khi-tao-automation-gui-tin-nhan-tu-dong}
 
+{% hint style="info" %}
 * Nhấn Enter để xuống dòng khi tạo tin nhắn
 * Khi viết URL hệ thống sẽ hiển thị dạng link để khách hàng click trực tiếp
 * Một automation chỉ chạy 1 lần với 1 khách truy cập. Bạn có thể tạo nhiều Automation để gửi nhiều tin nhắn tùy theo chiến lược của công ty.
 * Khi khách vừa truy cập website, cửa sổ Subiz chat sẽ tự bật với lời chào bạn đã thiết lập.
+{% endhint %}
 
 Nếu khách truy cập “không thực hiện ẩn” cửa sổ chat này, các tin nhắn tự động tiếp theo sẽ được thông báo bằng số lượng, nằm ở trên cùng bên trái của cửa số chat. Khi khách truy cập nhấn vào thông báo đó, thì tất cả các tin nhắn sẽ hiển thị ra.
 
