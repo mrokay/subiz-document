@@ -18,23 +18,23 @@ _Lưu ý: Chỉ rule trong trạng thái Active mới có thể hoạt động_
 
 Để sắp xếp lại thứ tự các rule, bạn click vào **Sắp xếp lại**.
 
-![Ch&#x1ECD;n s&#x1EAF;p x&#x1EBF;p l&#x1EA1;i Rule](../../../.gitbook/assets/sap-xep-lai-rule.png)
+![Ch&#x1ECD;n s&#x1EAF;p x&#x1EBF;p l&#x1EA1;i Rule](../../../.gitbook/assets/sap-xep-lai-rule%20%281%29.png)
 
 Sử dụng chuột kéo thả để sắp xếp mức độ ưu tiên của các rule theo mong muốn, sau đó chọn **Lưu thay đổi**.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/sap-xep-lai-rule.png)
+![S&#x1EAF;p x&#x1EBF;p l&#x1EA1;i th&#x1EE9; t&#x1EF1; th&#x1EF1;c hi&#x1EC7;n Rule](../../../.gitbook/assets/sap-xep-lai-rule.png)
 
 ### **Chỉnh sửa rule**
 
 * Chọn biểu tượng sửa tương ứng của rule muốn chỉnh sửa
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/chinh-sua-rule-1024x243.png)
+![Ch&#x1ECD;n v&#xE0; ch&#x1EC9;nh s&#x1EED;a Rule](../../../.gitbook/assets/chinh-sua-rule-1024x243.png)
 
 * Thay đổi lại thông tin trên trang cập nhật
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/Cap-nhat-rule.png)
+![Thay &#x111;&#x1ED5;i v&#xE0; ch&#x1EC9;nh s&#x1EED;a c&#xE1;c th&#xE0;nh ph&#x1EA7;n trong Rule](../../../.gitbook/assets/cap-nhat-rule.png)
 
-* Click vào Cập nhật để hoàn tất.
+* Click vào **Cập nhật** để hoàn tất.
 
 Tại trang cập nhật, bạn có thể thay đổi trạng thái Active/ Inactive cho rule đó.
 
@@ -43,7 +43,7 @@ Tại trang cập nhật, bạn có thể thay đổi trạng thái Active/ Inac
 * Chọn biểu tượng xóa tương ứng trên rule
 * Click Xóa để xác nhận
 
-![](http://docv4.subiz.com/wp-content/uploads/2018/01/delete-rule.png)
+![X&#xF3;a Rule](../../../.gitbook/assets/delete-rule.png)
 
 ​
 
