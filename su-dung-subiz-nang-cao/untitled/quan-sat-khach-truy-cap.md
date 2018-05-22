@@ -17,7 +17,7 @@ Với mỗi khách truy cập, bạn sẽ biết được những thông tin sau
 
 Khi click vào từng khách truy cập trên trang **Khách**, bạn sẽ bắt đầu để tương tác trực tiếp với khách hàng đó trên mục **Hoạt động**
 
-![Ch&#x1EE7; &#x111;&#x1ED9;ng t&#x1B0;&#x1A1;ng t&#xE1;c v&#x1EDB;i kh&#xE1;ch truy c&#x1EAD;p ](../../.gitbook/assets/agent-chu-dong-tao-tuong-tac.png)
+![](../../.gitbook/assets/assets2f-lcrbjdxgv2cwmzzedgk2f-lccwktkrblkqygrim-l2f-lccwuvt7zd7uvvi3suq2fagent-chu-dong-tao-tuong-t.png)
 
 ### Subiz xác định thông tin vị trí khách truy cập dựa vào đâu?
 
