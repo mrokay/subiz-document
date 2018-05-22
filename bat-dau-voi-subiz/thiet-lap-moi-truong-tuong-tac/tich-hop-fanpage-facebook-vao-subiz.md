@@ -18,7 +18,7 @@ Messenger là một trong các kênh tương tác mà bạn có thể tích hợ
 Nhập thông tin tài khoản Admin của Fanpage mà bạn dự định tích hợp
 {% endhint %}
 
-![Nh&#x1EAD;p th&#xF4;ng tin t&#xE0;i kho&#x1EA3;n Facebook c&#x1EE7;a b&#x1EA1;n](../../.gitbook/assets/login-facebook%20%281%29.png)
+![Nh&#x1EAD;p th&#xF4;ng tin t&#xE0;i kho&#x1EA3;n Facebook c&#x1EE7;a b&#x1EA1;n](../../.gitbook/assets/login-facebook%20%282%29.png)
 
 ### **Bước 3: Cho phép Subiz truy cập dữ liệu trên Facebook của bạn**
 
@@ -26,7 +26,7 @@ Khi bạn cho phép Subiz quản lý tin nhắn của Fanpage, tất cả các t
 
 ![](../../.gitbook/assets/permission.png)
 
-![Cho ph&#xE9;p Subiz k&#x1EBF;t n&#x1ED1;i v&#x1EDB;i Fanpage c&#x1EE7;a b&#x1EA1;n](../../.gitbook/assets/permission-2.png)
+![Cho ph&#xE9;p Subiz k&#x1EBF;t n&#x1ED1;i v&#x1EDB;i Fanpage c&#x1EE7;a b&#x1EA1;n](../../.gitbook/assets/permission-2%20%281%29.png)
 
 ### **Bước 4: Lựa chọn các Fanpage mà bạn muốn tích hợp**
 
