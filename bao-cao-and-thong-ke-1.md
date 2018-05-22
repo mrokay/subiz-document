@@ -55,7 +55,7 @@ Khi đặt con trỏ chuột vào các điểm giao, bạn sẽ thấy hiện th
 
 Ví dụ: Thống kê số cuộc hội thoại trên kênh Subiz Chat của nhóm Support trong 30 ngày gần đây.
 
-![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c tr&#xEA;n k&#xEA;nh Subiz chat c&#x1EE7;a nh&#xF3;m Supporters 30 ng&#xE0;y v&#x1EEB;a qua](.gitbook/assets/thong-ke-chat-cua-nhom-support-subiz-30-ngay-vua-qua.png)
+![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c tr&#xEA;n k&#xEA;nh Subiz chat c&#x1EE7;a nh&#xF3;m Supporters 30 ng&#xE0;y v&#x1EEB;a qua](.gitbook/assets/thong-ke-chat-cua-nhom-support-subiz-30-ngay-vua-qua%20%281%29.png)
 
 ### Thống kê tag
 
