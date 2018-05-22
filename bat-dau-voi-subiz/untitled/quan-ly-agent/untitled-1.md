@@ -17,11 +17,11 @@ Bạn hãy dựa vào số lượng Agent mình đang có và **đặc biệt l�
 
 * Nhập tên và chọn biểu tượng cho nhóm
 
-![](http://docv4.subiz.com/wp-content/uploads/2018/01/nameandicon.png)
+![Nh&#x1EAD;p t&#xEA;n nh&#xF3;m v&#xE0; ch&#x1ECD;n bi&#x1EC3;u t&#x1B0;&#x1EE3;ng nh&#xF3;m](../../../.gitbook/assets/tao-nhom-agent.png)
 
 * Click \(+\) hoặc \(-\) để chọn/ bỏ chọn Agent là thành viên trong group
 
-​![](http://docv4.subiz.com/wp-content/uploads/2018/01/groupmember.png) 
+![Th&#xEA;m v&#xE0; lo&#x1EA1;i b&#x1ECF; th&#xE0;nh vi&#xEA;n trong nh&#xF3;m](../../../.gitbook/assets/them-thanh-vien-agent.png)
 
 *  Click chọn **Tạo nhóm**
 
@@ -29,13 +29,9 @@ Bạn hãy dựa vào số lượng Agent mình đang có và **đặc biệt l�
 
 Để sửa đổi thông tin về 1 nhóm, bạn vào **Cài đặt &gt; Tài khoản &gt; Nhóm Agent** &gt; chọn nhóm muốn sửa &gt; chọn biểu tượng chỉnh sửa.
 
-![](http://docv4.subiz.com/wp-content/uploads/2018/01/edit-group.png)
+![S&#x1EED;a th&#xF4;ng tin nh&#xF3;m Agent](../../../.gitbook/assets/edit-group.png)
 
-Tại trang Sửa nhóm, thực hiện chỉnh sửa và click chọn **Lưu thay đổi**.![](http://docv4.subiz.com/wp-content/uploads/2018/01/Edit-group-page.png)
+Tại trang Sửa nhóm, thực hiện chỉnh sửa và click chọn **Lưu thay đổi**.
 
-Để thêm nhanh thành viên vào nhóm, click \(+\) tại phần **Thành viên.**![](http://docv4.subiz.com/wp-content/uploads/2018/01/add-member-button.png)
-
-Chọn thêm thành viên và **Lưu thay đổi.**
-
-![](http://docv4.subiz.com/wp-content/uploads/2018/01/add-member.png)
+![Th&#xEA;m v&#xE0; lo&#x1EA1;i b&#x1ECF; thanh vi&#xEA;n trong nh&#xF3;m](../../../.gitbook/assets/sua-thong-tin-nhom-agent.png)
 
