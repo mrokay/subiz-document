@@ -4,10 +4,6 @@
 
 Tại trang **Hoạt động**, bạn có thể đồng thời theo dõi danh sách các user, lịch sử hoạt động của từng user và tương tác trực tiếp với họ.
 
-[Danh sách user ](https://docv4.subiz.com/xem-thong-tin-user/#danhsachuser)  
-[List Activities ](https://docv4.subiz.com/xem-thong-tin-user/#listactivities)  
-[Thông tin user](https://docv4.subiz.com/xem-thong-tin-user/#thongtinuser)
-
 ### **1. Danh sách User** {#danhsachuser}
 
 **Danh sách user hiển thị là các user đã được chỉ định cho bạn.** Ngoài ra, bạn có thể sử dụng bộ lọc để tìm kiếm user theo phân khúc và kiểm tra danh sách các user chưa được phân phối.
