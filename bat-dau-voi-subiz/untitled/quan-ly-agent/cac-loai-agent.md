@@ -21,7 +21,7 @@ Bạn có thể lựa chọn phân quyền Agent là “**Không có quyền tru
 2. **Cài đặt tài khoản**: Quyền truy cập đầy đủ cho phép tùy chỉnh cài đặt tài khoản và quản lý agent \(thêm, sửa thông tin hoặc xóa agent\)
 3. **Hội thoại**: Quyền truy cập cho phép xuất dữ liệu user và xem conversation của các Agent khác.
 
-![Ph&#xE2;n quy&#x1EC1;n Agent](../../../.gitbook/assets/image%20%2811%29.png)
+![Ph&#xE2;n quy&#x1EC1;n Agent](../../../.gitbook/assets/phan-quen-agent.png)
 
 ### Thông tin cá nhân của Agent
 
