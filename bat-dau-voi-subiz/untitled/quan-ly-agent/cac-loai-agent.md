@@ -48,7 +48,7 @@ _Hướng dẫn tùy chỉnh thông tin_: **Thay đổi các trường thông ti
 * **Múi giờ:** Múi giờ nơi Agent làm việc. Chú ý cài đặt múi giờ tương ứng trên máy tính để dữ liệu cập nhật được chính xác.
 * **Ngôn ngữ:** Ngôn ngữ hiển thị trên ứng dụng App.subiz.com của Agent
 
-![](http://docv4.subiz.com/wp-content/uploads/2018/01/Agent-info.png)
+![Th&#xF4;ng tin c&#xE1; nh&#xE2;n c&#x1EE7;a Agent](../../../.gitbook/assets/agent-info.png)
 {% endtab %}
 
 {% tab title="2. Ảnh đại diện" %}
