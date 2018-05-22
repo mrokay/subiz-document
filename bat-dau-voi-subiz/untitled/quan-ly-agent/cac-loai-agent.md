@@ -29,7 +29,7 @@ Bạn có thể lựa chọn phân quyền Agent là “**Không có quyền tru
 
 _Hướng dẫn tùy chỉnh thông tin cá nhân_: Chọn **Ảnh đại diện góc phải màn hình** &gt; Chọn **Thông tin cá nhân**
 
-![T&#xF9;y ch&#x1EC9;nh th&#xF4;ng tin c&#xE1; nh&#xE2;n c&#x1EE7;a Agent](../../../.gitbook/assets/info-agent-1.jpg)
+![T&#xF9;y ch&#x1EC9;nh th&#xF4;ng tin c&#xE1; nh&#xE2;n c&#x1EE7;a Agent](../../../.gitbook/assets/khach.jpg)
 
 Tại đây, bạn có thể tùy chỉnh:
 
