@@ -26,8 +26,6 @@ Sau đó lựa chọn gói Nâng cao và tiến hành nâng cấp tài khoản:
 Sau khi nâng cấp tài khoản, hệ thống sẽ phát sinh hóa đơn trong tài khoản của bạn. Bạn có thể lựa chọn thanh toán qua Thẻ tín dụng hoặc Chuyển khoản theo [**Hướng dẫn thanh toán**](https://subiz.gitbook.io/subiz-document/untitled/thanh-toan/untitled)
 {% endhint %}
 
-
-
 #### Hạ cấp tài khoản
 
 Để hạ cấp tài khoản, bạn vào mục **Gói cước hiện tại** và tiến hành hạ cấp tài khoản
