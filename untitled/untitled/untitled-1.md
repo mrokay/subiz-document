@@ -30,7 +30,7 @@ Tại thời điểm bắt đầu chu kỳ kế tiếp, hệ thống sẽ tự �
 
 Để kiểm soát thông tin tốt nhất, Subiz sẽ gửi thông báo về việc gia hạn tài khoản qua các phương thức: Email tới người phụ trách tài khoản; Hiển thị thông báo trên trang quản lý Dashboard; Hiển thị thông báo tại phần Thông báo mới.
 
- Khi nhận được thông báo, bạn có thể kiểm tra hóa đơn trực tiếp tại [trang thanh toán](https://app.subiz.com/payment-home#) như hình minh họa:
+Khi nhận được thông báo, bạn có thể kiểm tra hóa đơn trực tiếp tại [trang thanh toán](https://app.subiz.com/payment-home#) như hình minh họa:
 
 ![H&#xF3;a &#x111;&#x1A1;n thanh to&#xE1;n](../../.gitbook/assets/hoa-don-thanh-toan%20%282%29.png)
 
@@ -55,7 +55,7 @@ Hóa đơn là chứng nhận cho việc cung cấp dịch vụ từ Subiz, bạ
 
 ![&#x110;&#x1ECD;c th&#xF4;ng tin tr&#xEA;n h&#xF3;a &#x111;&#x1A1;n](../../.gitbook/assets/overdue-invoice_final-1.png)
 
- **Balance Due** là số tiền chưa thanh toán \(công nợ\). Balance due &gt; 0 hệ thống sẽ hiển thị thông báo về hóa đơn quá hạn.
+**Balance Due** là số tiền chưa thanh toán \(công nợ\). Balance due &gt; 0 hệ thống sẽ hiển thị thông báo về hóa đơn quá hạn.
 
 
 
