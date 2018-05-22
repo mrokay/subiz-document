@@ -38,12 +38,17 @@ Sử dụng chuột kéo thả để sắp xếp mức độ ưu tiên của cá
 
 Tại trang cập nhật, bạn có thể thay đổi trạng thái Active/ Inactive cho rule đó.
 
+![C&#x1EAD;p nh&#x1EAD;t tr&#x1EA1;ng th&#xE1;i Active cho Rule](../../../.gitbook/assets/cap-nhat-trang-thai-rule.png)
+
 ### **Xóa rule**
 
 * Chọn biểu tượng xóa tương ứng trên rule
+
+![Ch&#x1ECD;n Rule c&#x1EA7;n x&#xF3;a](../../../.gitbook/assets/chon-bieu-tuong-xoa-rule.png)
+
 * Click Xóa để xác nhận
 
-![X&#xF3;a Rule](../../../.gitbook/assets/delete-rule.png)
+![X&#xE1;c nh&#x1EAD;n x&#xF3;a Rule](../../../.gitbook/assets/delete-rule.png)
 
 ​
 
