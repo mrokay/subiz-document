@@ -10,7 +10,7 @@ Khi đăng nhập sử dụng trang quản lý Dashboard, bạn có thể gặp 
 
 * **Cách khắc phục:** Với trường hợp này, bạn cần kiểm tra lại thông tin đăng nhập như: Email, mật khẩu xem đã chính xác chưa?
 
-Nếu không chắc chắn về mật khẩu, bạn có thể thực hiện reset lại mật khẩu theo[ hướng dẫn](https://docv4.subiz.com/quan-ly-mat-khau/)
+Nếu không chắc chắn về mật khẩu, bạn có thể thực hiện [reset lại mật khẩu](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/untitled/quan-ly-agent/cac-loai-agent#reset-mat-khau) theo hướng dẫn
 
 ### Agent này đang bị khóa
 
