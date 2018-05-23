@@ -81,7 +81,7 @@ Lưu ý: Bạn cần cài đặt Tag trước khi gắn thẻ Tag cuộc hội t
 Rule là các quy tắc do bạn thiết lập để tự động phân phối cuộc hội thoại tới một hoặc một nhóm Agent.   
 _Hướng dẫn tạo Rule phân phối hội thoại trên trang Fanpage cho 1 Agent_**: Cài đặt Tài khoản** &gt; **Rule** &gt; **Tạo mới Rule &gt; Điền thông tin như trong ảnh.** 
 
-![Rule ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i tr&#xEA;n k&#xEA;nh Messenger Fanpage](../../.gitbook/assets/rule-messenger-1.jpg)
+![C&#xE0;i &#x111;&#x1EB7;t Rule ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i tr&#xEA;n k&#xEA;nh Messenger Fanpage](../../.gitbook/assets/rule-messenger-1.jpg)
 
 ### 5. Thêm Agent vào cuộc hội thoại 
 
