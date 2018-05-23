@@ -33,9 +33,9 @@ Nếu bạn sử dụng tài khoản gmail, bạn cài đặt chuyển tiếp th
 
 * Chọn **Next &gt; Proceed**
 * Gmail sẽ gửi một thư xác nhận tới địa chỉ email mà Subiz đã cấp cho bạn. Bạn kiểm tra thư này ngay tại phần Activities trên trang app. subiz.com như một đoạn hội thoại mới. Click vào link xác nhận được gửi trong thư.
-* Trở lại trang Setting trong tài khoản Gmail và tải lại trang \(nhấn F5\)
-* Chọn Forward a copy of incoming mail to
-* Chọn Keep Gmail’s copy in the Inbox nếu bạn muốn giữ các email đến trong hộp thư \(khuyến nghị sử dụng\)
+* Trở lại trang **Setting** trong tài khoản Gmail và tải lại trang \(nhấn F5\)
+* Chọn **Forward a copy of incoming mail to**
+* Chọn **Keep Gmail’s copy in the Inbox** nếu bạn muốn giữ các email đến trong hộp thư \(khuyến nghị sử dụng\)
 
 Tham khảo hướng dẫn cài đặt chuyển tiếp với [Yahoo Mail](https://help.yahoo.com/kb/SLN22028.html), [Office 365](https://support.office.com/en-us/article/forward-email-from-office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e), [Outlook](https://support.office.com/en-us/article/turn-on-automatic-forwarding-in-outlook-on-the-web-7f2670a1-7fff-4475-8a3c-5822d63b0c8e) …
 
