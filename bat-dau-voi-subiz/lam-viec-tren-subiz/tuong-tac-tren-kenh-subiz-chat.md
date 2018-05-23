@@ -80,7 +80,7 @@ _**Lưu ý**_: Bạn có thể [thêm và chỉnh sửa Thư viện câu trả l
 
 Tại vùng nhập tin nhắn, bạn có thể lựa chọn gửi kèm biểu tượng cảm xúc hoặc file đính kèm.
 
-![Emoji c&#x1EA3;m x&#xFA;c v&#xE0; file &#x111;&#xED;nh k&#xE8;m](http://docv4.subiz.com/wp-content/uploads/2018/01/Icon.png)
+![S&#x1EED; d&#x1EE5;ng Emoji c&#x1EA3;m x&#xFA;c v&#xE0; file &#x111;&#xED;nh k&#xE8;m](../../.gitbook/assets/6.-emoji.jpg)
 
 ### Gắn Tag
 
