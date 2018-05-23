@@ -15,6 +15,8 @@ Có hai hình thức khởi tạo một cuộc tương tác với khách hàng:
 **Khách hàng chủ động khởi tạo cuộc tương tác**  
 Khi truy cập website của bạn, khách hàng sẽ gửi tin nhắn yêu cầu hỗ trợ ngay trên cửa sổ chat Subiz.
 
+![](../../.gitbook/assets/cua-so-chat-tren-website-3.jpg)
+
 ![Kh&#xE1;ch h&#xE0;ng nh&#x1EAF;n tin tr&#xEA;n c&#x1EED;a s&#x1ED5; chat Subiz](../../.gitbook/assets/cua-so-chat-tren-website.jpg)
 
 _Để xem được tin nhắn từ khách hàng, bạn thao tác như sau: Vào mục **HÀNH ĐỘNG &gt;** Chọn **Khách hàng**  &gt; Chọn tương tác chưa đọc trong **LIST ACTIVITIES**  &gt; **Cửa sổ chat** mở và trả lời tại đây._
