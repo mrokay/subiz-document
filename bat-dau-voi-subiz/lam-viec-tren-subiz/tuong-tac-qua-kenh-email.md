@@ -37,7 +37,7 @@ Cửa sổ Email mở, bạn soạn mail gửi khách hàng tại đây:
 
 Với mỗi **khách hàng**, bạn vào mục **List Activities** sẽ nhận biết được kênh tương tác qua **biểu tượng Mail và tiêu đề Email.** 
 
-![Nh&#x1EAD;n email t&#x1EEB; kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/xem-email.jpg)
+![Nh&#x1EAD;n Email t&#x1EEB; kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/tra-loi-mail-kh.jpg)
 
 Để trả lời mail khách hàng, bạn thao tác như sau:
 
@@ -45,7 +45,7 @@ Với mỗi **khách hàng**, bạn vào mục **List Activities** sẽ nhận b
 2. Chọn **nút Reply**
 3. **Viết nội dung mail và Gửi**
 
-![Tr&#x1EA3; l&#x1EDD;i email kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/nut-reply-1.jpg)
+![Tr&#x1EA3; l&#x1EDD;i Email kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/tra-loi-mail-kh-2.jpg)
 
 ### Một số chức năng hữu ích trên Email Subiz
 
