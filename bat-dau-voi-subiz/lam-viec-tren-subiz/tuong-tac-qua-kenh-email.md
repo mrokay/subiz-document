@@ -73,13 +73,13 @@ Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp 
 {% tab title="Gắn thẻ Tag" %}
 _**Hướng dẫn gắn thẻ Tag**:_ Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
 
-![](../../.gitbook/assets/7.-tag-ht%20%281%29.jpg)
+![](../../.gitbook/assets/7.-tag-ht%20%282%29.jpg)
 {% endtab %}
 
 {% tab title="Xóa thẻ Tag" %}
 **Hướng dẫn xóa thẻ Tag**: Chọn nút **Tag** &gt; chọn **X** xóa Tag​
 
-![](../../.gitbook/assets/8.-xoa-tag.jpg)
+![](../../.gitbook/assets/8.-xoa-tag%20%281%29.jpg)
 {% endtab %}
 {% endtabs %}
 

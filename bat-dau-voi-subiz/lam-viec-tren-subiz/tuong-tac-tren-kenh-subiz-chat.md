@@ -56,7 +56,7 @@ Nếu khách hàng không chủ động tương tác trước, thì bạn cần 
 
 _Hướng dẫn thêm Agent: Chọn nút  **"Add Agent"**  &gt; Chọn **Agent**  &gt; Chọn **Thêm**_
 
-![Th&#xEA;m Agent tham gia h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/4.-them-agent.jpg)
+![Th&#xEA;m Agent tham gia h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/4.-them-agent%20%281%29.jpg)
 
 {% hint style="info" %}
 _**Lưu ý**_: Chỉ Agent được phân phối cuộc hội thoại mới có quyền thêm Agent khác.
@@ -68,7 +68,7 @@ Thư viện câu trả lời là những tin nhắn mẫu được soạn sẵn,
 
 _**Hướng dẫn sử dụng**_: Tại cửa sổ chat, bạn bắt đầu bằng kí tự "**/**" + **shortcut** &gt; chọn **Câu trả lời mẫu** &gt; **Enter**
 
-![S&#x1EED; d&#x1EE5;ng th&#x1B0; vi&#xEA;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](../../.gitbook/assets/5.-ans-library-3.jpg)
+![S&#x1EED; d&#x1EE5;ng th&#x1B0; vi&#xEA;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](../../.gitbook/assets/5.-ans-library-3%20%281%29.jpg)
 
 {% hint style="info" %}
 _**Lưu ý**_: Bạn có thể [thêm và chỉnh sửa Thư viện câu trả lời](https://docv4.subiz.com/thu-vien-cau-tra-loi/) theo hướng dẫn
@@ -78,7 +78,7 @@ _**Lưu ý**_: Bạn có thể [thêm và chỉnh sửa Thư viện câu trả l
 
 Tại vùng nhập tin nhắn, bạn có thể lựa chọn gửi kèm biểu tượng cảm xúc hoặc file đính kèm.
 
-![S&#x1EED; d&#x1EE5;ng Emoji c&#x1EA3;m x&#xFA;c v&#xE0; file &#x111;&#xED;nh k&#xE8;m](../../.gitbook/assets/6.-emoji.jpg)
+![S&#x1EED; d&#x1EE5;ng Emoji c&#x1EA3;m x&#xFA;c v&#xE0; file &#x111;&#xED;nh k&#xE8;m](../../.gitbook/assets/6.-emoji%20%281%29.jpg)
 
 ### Gắn Tag
 
@@ -88,7 +88,7 @@ Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp 
 {% tab title="Gắn thẻ Tag" %}
 _Hướng dẫn gắn thẻ Tag_: Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
 
-![G&#x1EAF;n th&#x1EBB; Tag cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/7.-tag-ht%20%282%29.jpg)
+![G&#x1EAF;n th&#x1EBB; Tag cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/7.-tag-ht%20%283%29.jpg)
 
 {% hint style="info" %}
 Lưu ý: Bạn cần cài đặt Tag trước khi gắn thẻ Tag cuộc hội thoại \([Xem chi tiết](https://docv4.subiz.com/cai-dat-tag/)\)
@@ -98,7 +98,7 @@ Lưu ý: Bạn cần cài đặt Tag trước khi gắn thẻ Tag cuộc hội t
 {% tab title="Xóa thẻ Tag" %}
 _**Hướng dẫn xóa thẻ Tag**_: Chọn nút **Tag** &gt; chọn **X** xóa Tag
 
-![X&#xF3;a th&#x1EBB; Tag ](../../.gitbook/assets/8.-xoa-tag%20%281%29.jpg)
+![X&#xF3;a th&#x1EBB; Tag ](../../.gitbook/assets/8.-xoa-tag%20%282%29.jpg)
 {% endtab %}
 {% endtabs %}
 
