@@ -8,7 +8,7 @@ Bạn \(Agent\) cần[ tích hợp Email và thiết lập chuyển tiếp mail]
 
 Địa chỉ **Email khách hàng** phải được cập nhật trong mục **Thông tin khách hàng,** sau đó ****bạn sẽ tạo được hội thoại mới trên kênh Email.
 
-![L&#x1B0;u &#x111;&#x1ECB;a ch&#x1EC9; Email kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/cap-nhat-mail.jpg)
+![L&#x1B0;u &#x111;&#x1ECB;a ch&#x1EC9; Email kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/xem-email%20%281%29.jpg)
 
 Bạn có thể chủ động gửi Email tới khách hàng với 2 bước đơn giản sau:  
 **1. Tạo hội thoại mới trên kênh Email  
