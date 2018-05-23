@@ -51,15 +51,19 @@ Với mỗi **khách hàng**, bạn vào mục **List Activities** sẽ nhận b
 
 1. **Hỗ trợ soạn thảo Email dưới dạng HTML**
 
+![](../../.gitbook/assets/html.jpg)
+
 ![](../../.gitbook/assets/code.jpg)
 
   **2. Tùy chỉnh font chữ văn bản**
+
+![](../../.gitbook/assets/font-chu-1%20%281%29.jpg)
 
 ![](../../.gitbook/assets/font.jpg)
 
 **3. Chèn link trực tiếp vào chữ hoặc hình ảnh**
 
-![](../../.gitbook/assets/link.jpg)
+![](../../.gitbook/assets/link%20%281%29.jpg)
 
 **4. Đình kèm tệp tài liệu hay tệp hình ảnh**
 
