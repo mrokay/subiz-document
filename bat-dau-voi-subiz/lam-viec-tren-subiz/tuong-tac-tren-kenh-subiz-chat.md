@@ -27,7 +27,7 @@ _Để xem được tin nhắn từ khách hàng, bạn thao tác như sau: Vào
 
  Subiz sẽ thông báo âm thanh và thông báo màn hình khi có tin nhắn mới của khách hàng.
 
-![Subiz th&#xF4;ng b&#xE1;o m&#xE0;n h&#xEC;nh](https://docv4.subiz.com/wp-content/uploads/2018/02/thong-bao-tin-nhan-moi.png)
+![Subiz th&#xF4;ng b&#xE1;o m&#xE0;n h&#xEC;nh](../../.gitbook/assets/3.-noti-destop.png)
 
 {% hint style="info" %}
 _**Lưu ý**_: Khi không nhận được thông báo, hãy kiểm tra lại máy tính của bạn, thiết lập trình duyệt cho phép Subiz thông báo âm thanh và màn hình.
