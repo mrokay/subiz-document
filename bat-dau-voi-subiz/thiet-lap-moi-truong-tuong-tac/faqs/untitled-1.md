@@ -32,7 +32,7 @@ Nếu không chắc chắn về mật khẩu, bạn có thể thực hiện [res
 #### **Nếu agent không phải là owner**
 
 * **Nguyên nhân:** Tài khoản của bạn đã bị xóa do agent có quyền cài đặt tài khoản hoặc agent owner thực hiện
-* **Cách khắc phục:** Bạn có thể liên hệ agent có quyền cài đặt tài khoản đăng nhập Dashboard và [mời thêm agent mới ](https://docv4.subiz.com/moi-agent-moi/)trên trang quản lý.
+* **Cách khắc phục:** Bạn có thể liên hệ agent có quyền cài đặt tài khoản đăng nhập Dashboard và [mời thêm agent mới](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/untitled/quan-ly-agent/untitled#moi-agent-cung-su-dung-subiz) trên trang quản lý.
 
 ### Lỗi trình duyệt
 
