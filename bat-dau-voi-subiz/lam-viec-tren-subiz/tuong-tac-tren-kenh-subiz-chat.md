@@ -15,11 +15,11 @@ Có hai hình thức khởi tạo một cuộc tương tác với khách hàng:
 **Khách hàng chủ động khởi tạo cuộc tương tác**  
 Khi truy cập website của bạn, khách hàng sẽ gửi tin nhắn yêu cầu hỗ trợ ngay trên cửa sổ chat Subiz.
 
-![](../../.gitbook/assets/cua-so-chat-tren-website-3.jpg)
+![C&#x1EED;a s&#x1ED5; chat Subiz tr&#xEA;n website](../../.gitbook/assets/cua-so-chat-tren-website-3.jpg)
 
 _Để xem được tin nhắn từ khách hàng, bạn thao tác như sau: Vào mục **HÀNH ĐỘNG &gt;** Chọn **Khách hàng**  &gt; Chọn tương tác chưa đọc trong **LIST ACTIVITIES**  &gt; **Cửa sổ chat** mở và trả lời tại đây._
 
-![Xem n&#x1ED9;i dung tin nh&#x1EAF;n kh&#xE1;ch h&#xE0;ng g&#x1EED;i](../../.gitbook/assets/chat-1.jpg)
+![Xem n&#x1ED9;i dung tin nh&#x1EAF;n c&#x1EE7;a kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/chat-3.jpg)
 
 {% hint style="info" %}
  _**Lưu ý**_: Nếu bạn không nhận được tin nhắn từ khách hàng, hãy xem lại cài đặt [tính năng RULE](https://docv4.subiz.com/tao-rule-moi/) tự động phân phối cuộc hội thoại cho bạn \(Agent\) hay chưa?
