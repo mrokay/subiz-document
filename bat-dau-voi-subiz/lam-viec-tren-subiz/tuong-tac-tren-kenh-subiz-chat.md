@@ -58,7 +58,7 @@ Nếu khách hàng không chủ động tương tác trước, thì bạn cần 
 
 _Hướng dẫn thêm Agent: Chọn nút  **"Add Agent"**  &gt; Chọn **Agent**  &gt; Chọn **Thêm**_
 
-![Th&#xEA;m Agent tham gia h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/3.-them-agent.jpg)
+![Th&#xEA;m Agent tham gia h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/4.-them-agent.jpg)
 
 {% hint style="info" %}
 _**Lưu ý**_: Chỉ Agent được phân phối cuộc hội thoại mới có quyền thêm Agent khác.
