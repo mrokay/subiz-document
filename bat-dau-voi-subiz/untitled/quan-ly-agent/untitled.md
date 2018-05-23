@@ -52,11 +52,11 @@ Bạn có thể tùy chỉnh trạng thái của Agent:
 
 * **Trạng thái Active**
 
-![](https://lh4.googleusercontent.com/acdlcYtdEiS9KwqgRqzU-bE-y87ob5hCOdSmPZ6baOnJEtvMp2obuz1_Wu4v8ghzeGIdUZJXGIGy-AtL6ynP9gC8slsyKC5EXzR38TCb_XfXhl9AqqfUpoi-03gAykRPJm6SQhws)
+![Tr&#x1EA1;ng th&#xE1;i Active c&#x1EE7;a Agent](../../../.gitbook/assets/agent-on.png)
 
 * **Trạng thái Inactive**
 
-![](https://lh5.googleusercontent.com/_HJugw96DZ598mNZ9oKzsvcI2u2whyVCvjBA1W0nb0tzu0sGJex4u71oTppa26KmsEaLudwSjJmZW1y0iW3Yoso9d1uPLPURWB_IIiorLXCuIp75qNXFKRkCVzN-kmJfGXoU5sFn)
+![Tr&#x1EA1;ng th&#xE1;i Inactive c&#x1EE7;a Agent](../../../.gitbook/assets/agent-off.png)
 
 * **Trạng thái Deleted:** Agent đã bị xóa
 
