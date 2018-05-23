@@ -103,7 +103,7 @@ Phần **600**px bạn có thể điều chỉnh con số cho phù hợp với w
 {% tabs %}
 {% tab title="Màu sắc toàn bộ cửa sổ chat" %}
 {% hint style="danger" %}
-Khi bạn chọn cách tùy chỉnh màu sắc toàn bộ cửa sổ chat, bạn sẽ không thể tùy chỉnh màu sắc cho từng phần riêng biệt như header, khung tin nhắn hay nút tạo mới được nữa
+Khi bạn chọn cách tùy chỉnh màu sắc toàn bộ cửa sổ chat, bạn sẽ **không thể** tùy chỉnh màu sắc cho từng phần riêng biệt như header, khung tin nhắn hay nút tạo mới được nữa
 {% endhint %}
 
 Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp.
@@ -202,7 +202,7 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 
 ### Tùy chỉnh ngôn ngữ cửa sổ Subiz chat qua file .Po
 
-Hiện tại, Subiz hỗ trợ 2 ngôn ngữ là Tiếng Việt và Tiếng Anh. Trên cửa sổ Subiz, bạn có thể tùy chỉnh tiêu đề cửa sổ và lời giới thiệu theo từng ngôn ngữ.
+Hiện tại, Subiz hỗ trợ 2 ngôn ngữ là Tiếng Việt và Tiếng Anh. Trên cửa sổ Subiz, bạn có thể **tùy chỉnh tiêu đề cửa sổ và lời giới thiệu theo từng ngôn ngữ**.
 
 Ngoài ra, nếu bạn muốn sử dụng một ngôn ngữ khác ngoài các ngôn ngữ được hỗ trợ. Giả sử bạn muốn thay ngôn ngữ Tiếng Anh bằng Tiếng Đức. Hoặc bạn có nhu cầu chỉnh sửa nhiều hơn ở phần ngôn ngữ trên cửa sổ, bạn có thể tùy chỉnh theo file ngôn ngữ .po theo các bước dưới đây:
 
@@ -222,11 +222,11 @@ Chọn “Nhấn để tải xuống file tùy chỉnh ngôn ngữ cho widget”
 
 ![&#x110;&#x1B0;a file t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; l&#xEA;n](../../../.gitbook/assets/drop-a-file.png)
 
-* Tại Source text là phần ngôn ngữ gốc. Bạn có thể dịch ra các ngôn ngữ mà bạn muốn tại phần Translation. Ví dụ, dịch sang tiếng Đức: Email and Name = Email und Name.
+* Tại **Source text** là phần ngôn ngữ gốc. Bạn có thể dịch ra các ngôn ngữ mà bạn muốn tại phần Translation. Ví dụ, dịch sang tiếng Đức: Email and Name = Email und Name.
 
 ![D&#x1ECB;ch c&#xE1;c ng&#xF4;n ng&#x1EEF; b&#x1EA1;n mu&#x1ED1;n t&#xF9;y ch&#x1EC9;nh](../../../.gitbook/assets/edit-file.png)
 
-* Chọn Save để Lưu thay đổi sau khi hoàn tất.
+* Chọn **Save** để Lưu thay đổi sau khi hoàn tất.
 
 ![L&#x1B0;u file &#x111;&#xE3; d&#x1ECB;ch](../../../.gitbook/assets/save-button.png)
 
