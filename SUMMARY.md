@@ -17,7 +17,7 @@
       * [Tôi không nhận được email của Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/faqs/toi-khong-nhan-duoc-email-cua-subiz.md)
   * [Triển khai hoạt động](bat-dau-voi-subiz/untitled/README.md)
     * Quản lý Agent
-      * [Định nghĩa Agent](bat-dau-voi-subiz/untitled/quan-ly-agent/cac-loai-agent.md)
+      * [Tổng quan về Agent](bat-dau-voi-subiz/untitled/quan-ly-agent/cac-loai-agent.md)
       * [Tạo thêm và quản lý Agent](bat-dau-voi-subiz/untitled/quan-ly-agent/untitled.md)
       * [Quản lý nhóm Agent](bat-dau-voi-subiz/untitled/quan-ly-agent/untitled-1.md)
     * Phân phối cuộc hội thoại
