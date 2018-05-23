@@ -38,7 +38,7 @@ _**Lưu ý**_: Khi không nhận được thông báo, hãy kiểm tra lại má
 **Agent chủ động khởi tạo cuộc tương tác**  
 Nếu khách hàng không chủ động tương tác trước, thì bạn cần quan sát trên trang **KHÁCH** để biết khách hàng đang quan tâm điều gì và chủ động tương tác hỗ trợ khách hàng.
 
-![Quan s&#xE1;t kh&#xE1;ch truy c&#x1EAD;p website](../../.gitbook/assets/khach-truy-cap.jpg)
+![Quan s&#xE1;t kh&#xE1;ch truy c&#x1EAD;p website](../../.gitbook/assets/9.-khach-truy-cap.jpg)
 
  _Để tạo cuộc hội thoại với khách truy cập website, bạn vào thao tác như sau:_
 
@@ -46,9 +46,7 @@ Nếu khách hàng không chủ động tương tác trước, thì bạn cần 
 2. _Chọn **Tạo hội thoại mới**  &gt; Chọn **Subiz Chat**_
 3.  _**Cửa sổ chat mở** và bạn gửi tin nhắn tại đây._
 
-![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i v&#x1EDB;i kh&#xE1;ch truy c&#x1EAD;p](../../.gitbook/assets/chat-2.jpg)
-
-### 
+![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i v&#x1EDB;i kh&#xE1;ch truy c&#x1EAD;p](../../.gitbook/assets/10.-new-chat-subiz.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -90,7 +88,7 @@ Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp 
 {% tab title="Gắn thẻ Tag" %}
 _Hướng dẫn gắn thẻ Tag_: Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
 
-![G&#x1EAF;n th&#x1EBB; Tag](http://docv4.subiz.com/wp-content/uploads/2018/01/Tag.png)
+![G&#x1EAF;n th&#x1EBB; Tag cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/7.-tag-ht.jpg)
 
 {% hint style="info" %}
 Lưu ý: Bạn cần cài đặt Tag trước khi gắn thẻ Tag cuộc hội thoại \([Xem chi tiết](https://docv4.subiz.com/cai-dat-tag/)\)
@@ -100,7 +98,7 @@ Lưu ý: Bạn cần cài đặt Tag trước khi gắn thẻ Tag cuộc hội t
 {% tab title="Xóa thẻ Tag" %}
 _**Hướng dẫn xóa thẻ Tag**_: Chọn nút **Tag** &gt; chọn **X** xóa Tag
 
-![X&#xF3;a th&#x1EBB; Tag](https://docv4.subiz.com/wp-content/uploads/2018/02/Bieu-tuong-X.png)
+![X&#xF3;a th&#x1EBB; Tag ](../../.gitbook/assets/8.-xoa-tag.jpg)
 {% endtab %}
 {% endtabs %}
 
