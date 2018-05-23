@@ -14,7 +14,7 @@ Là Rule phân phối tất cả các cuộc tương tác của tất cả các 
 
 ![Ch&#x1EC9;nh s&#x1EED;a n&#x1ED9;i dung Rule m&#x1EB7;c &#x111;&#x1ECB;nh](../../../.gitbook/assets/rule-mac-dinh-2.jpg)
 
-Bạn có thể **chỉnh sửa các điều kiện, cách thức phân phối** trong rule mặc định này để tạo ra một rule mới, ví dụ thêm Agent được nhận cuộc chat…. Xem hướng dẫn chi tiết [tạo rule mới](https://docv4.subiz.com/tao-rule-moi/) và cách thức chỉnh sửa.
+Bạn có thể **chỉnh sửa các điều kiện, cách thức phân phối** trong rule mặc định này để tạo ra một rule mới, ví dụ thêm Agent được nhận cuộc chat…. Xem hướng dẫn chi tiết [tạo rule mới](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/untitled/untitled/untitled#buoc-1-dat-ten-va-mo-ta-rule) và cách thức chỉnh sửa.
 
 ### **Sử dụng Thư viện Rule có sẵn**
 
@@ -39,8 +39,8 @@ Thư viện Rule là danh sách các Rule mà Subiz đã tạo sẵn cho bạn, 
 Bạn nên dựa trên tình hình thực tế của doanh nghiệp, như số lượng website, fanpage, email đã tích hợp, số lượng Agent đang sử dụng và cách thức quản lý, điều hành của doanh nghiệp để sáng tạo ra các Rule mới, giúp cho việc phân phối và xử lý các cuộc hội thoại được hiệu quả.
 
 {% hint style="info" %}
-* Khi bạn có nhiều Agent, không tạo Rule để phân phối tương tác, các Agent khác sẽ không nhận được thông báo yêu cầu chat từ khách hàng, lúc này các yêu cầu chat đều chuyển tới cho Agent chủ tài khoản. Lúc đầu bạn có thể chọn các Rule trong[ Thư viện Rule](https://docv4.subiz.com/su-dung-thu-vien-rule/) mà Subiz đã tạo sẵn.
-* Bạn có thể tạo nhiều Rule,[ quản lý các Rule](https://docv4.subiz.com/quan-ly-danh-sach-rule/) và thay đổi Rule theo thời gian, cho phù hợp với số lượng Agent và cách quản lý của bạn.
+* Khi bạn có nhiều Agent, không tạo Rule để phân phối tương tác, các Agent khác sẽ không nhận được thông báo yêu cầu chat từ khách hàng, lúc này các yêu cầu chat đều chuyển tới cho Agent chủ tài khoản. Lúc đầu bạn có thể chọn các Rule trong Thư viện Rule mà Subiz đã tạo sẵn.
+* Bạn có thể tạo nhiều Rule, [quản lý các Rule](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/untitled/untitled/quan-ly-danh-sach-rule) và thay đổi Rule theo thời gian, cho phù hợp với số lượng Agent và cách quản lý của bạn.
 {% endhint %}
 
 
