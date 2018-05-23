@@ -132,11 +132,13 @@ _**Lưu ý**_: Khi cuộc hội thoại kết thúc sẽ có thông báo trên c
 
 ![Ch&#x1EB7;n kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/chan-khach-hang%20%281%29.jpg)
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Khi bạn chọn chức năng "**Chặn người này**", lưu ý:
 
-+ Khách hàng bị chặn có ảnh đại diện hình gạch chéo.
+* Khách hàng bị chặn có ảnh đại diện hình gạch chéo.
+{% endhint %}
 
+{% hint style="danger" %}
 + Với kênh Subiz Chat, khách hàng sẽ  không nhìn thấy cửa sổ chat Subiz trên website.
 
 +Với kênh Email, Email khách hàng gửi đến sẽ không hiển thị  cho Agent.
