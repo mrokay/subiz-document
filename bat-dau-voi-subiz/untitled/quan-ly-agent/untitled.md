@@ -1,4 +1,4 @@
-# Tạo thêm Agent sử dụng Subiz
+# Tạo thêm và quản lý Agent
 
 **Từ tài khoản chính đăng ký Subiz \(Agent owner\), bạn có thể tạo thêm nhiều tài khoản Agent thành viên cùng đăng nhập Subiz và tương tác với khách hàng.**
 
