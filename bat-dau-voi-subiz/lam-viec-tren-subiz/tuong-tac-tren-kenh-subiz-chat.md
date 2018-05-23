@@ -110,13 +110,13 @@ Subiz sẽ tính cuộc hội thoại được kết thúc bằng hành động 
 {% tab title="Agent kết thúc hội thoại" %}
 **Agent**: Kết thúc bằng cách chọn nút "**End Chat**" và xác nhận kết thúc cuộc hội thoại. Khách hàng sẽ nhận được thông báo là Agent đã kết thúc cuộc trò chuyện.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/02/end-cuoc-chat.png)
+![Agent k&#x1EBF;t th&#xFA;c cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/10-agent-end.jpg)
 {% endtab %}
 
 {% tab title="Khách hàng kết thúc hội thoại" %}
 **Khách truy cập** có thể kết thúc ngay trên cửa sổ chat bằng cách chọn dấu **"+" &gt;** chọn **Kết thúc hội thoại**. Agent cũng sẽ nhận được thông báo khi khách truy cập kết thúc hội thoại.
 
-![Kh&#xE1;ch h&#xE0;ng k&#x1EBF;t th&#xFA;c h&#x1ED9;i tho&#x1EA1;i](https://docv4.subiz.com/wp-content/uploads/2018/05/Kết-thúc-chat-user.jpg)
+![Kh&#xE1;ch h&#xE0;ng k&#x1EBF;t th&#xFA;c cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/12.-ket-thuc-chat-user.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -124,13 +124,13 @@ Subiz sẽ tính cuộc hội thoại được kết thúc bằng hành động 
 _**Lưu ý**_: Khi cuộc hội thoại kết thúc sẽ có thông báo trên cửa sổ chat, đồng thời phần nhập tin nhắn sẽ chuyển màu xám và không thể thao tác thêm. **Để tiếp tục trò chuyện, bạn cần Tạo hội thoại mới.**
 {% endhint %}
 
-![H&#x1ED9;i tho&#x1EA1;i &#x111;&#xE3; k&#x1EBF;t th&#xFA;c](https://docv4.subiz.com/wp-content/uploads/2018/02/ket-qua-end-cuoc-chat.png)
+![H&#x1ED9;i tho&#x1EA1;i &#x111;&#xE3; k&#x1EBF;t th&#xFA;c](../../.gitbook/assets/13.-end-chat.jpg)
 
 ### Chặn khách hàng
 
  Agent có thể chặn khách hàng đã có tương tác như sau: Trong cửa sổ hội thoại  chọn nút **Chặn** &gt; bật **ON** chức năng **Chặn người này**
 
-![Ch&#x1EB7;n kh&#xE1;ch h&#xE0;ng](https://docv4.subiz.com/wp-content/uploads/2018/05/chặn-user-2.jpg)
+![Ch&#x1EB7;n kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/chan-khach-hang.jpg)
 
 {% hint style="warning" %}
 Khi bạn chọn chức năng "**Chặn người này**", lưu ý:
