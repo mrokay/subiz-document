@@ -51,7 +51,7 @@ Với mỗi **khách hàng**, bạn vào mục **List Activities** sẽ nhận b
 
 1. **Hỗ trợ soạn thảo Email dưới dạng HTML**
 
-![](../../.gitbook/assets/html%20%282%29.jpg)
+![](../../.gitbook/assets/code%20%281%29.jpg)
 
   **2. Tùy chỉnh font chữ văn bản**
 
