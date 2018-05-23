@@ -29,7 +29,7 @@ Cửa sổ Email mở, bạn soạn mail gửi khách hàng tại đây:
 3. **Điền tiêu đề Mail**
 4. **Soạn nội dung mail** và chọn **Gửi**
 
-![So&#x1EA1;n mail g&#x1EED;i kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/image%20%288%29.png)
+![So&#x1EA1;n Email g&#x1EED;i kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/viet-email-khach-hang.png)
 {% endtab %}
 {% endtabs %}
 
