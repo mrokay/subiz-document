@@ -1,6 +1,6 @@
 # Sáng tạo cửa sổ chat Subiz ấn tượng
 
-### Sáng tạo cách giới thiệu trên cửa sổ chat
+### Sáng tạo lời giới thiệu trên cửa sổ chat
 
 Vào những dịp đặc biệt, hoặc khi có các chương trình khuyến mại, bạn nên thay đổi và sáng tạo lời giới thiệu về doanh nghiệp ngay trên cửa sổ chat để tăng sự thu hút và tạo sự ấn tượng với khách truy cập website.
 
@@ -14,7 +14,7 @@ Vào những dịp đặc biệt, hoặc khi có các chương trình khuyến m
 
 Những thành phần bạn có thể thay đổi trong đoạn mã trên:
 
-* **Normal text:** Là đoạn giới thiệu ban đầu bạn muốn trình bày
+* **Normal text:** Là đoạn giới thiệu bạn muốn trình bày
 * [**http://example.com**](http://example.com)**:** Là đường link trang đích bạn muốn khách hàng xem sau khi bấm vào Linked text
 * **Yellow:** Là màu bạn muốn chọn cho Linked text
 * **Linked text:** Là đoạn chữ chứa đường link trang đích
@@ -51,7 +51,7 @@ Bạn sẽ đăng nhập vào trang app.subiz.com, vào phần **Cài đặt &gt
 
 ![B&#x1EAF;t &#x111;&#x1EA7;u t&#xF9;y ch&#x1EC9;nh CSS](../../../.gitbook/assets/noi-tuy-chinh-css.png)
 
-Tiếp theo, **bạn Copy và paste đoạn css tương ứng để tùy chỉnh thành phần bạn muốn, sau đó quay lại màn hình cài đặt cửa sổ chat và Lưu thay đổi**
+Tiếp theo, **bạn Copy và paste đoạn css tương ứng** để tùy chỉnh thành phần bạn muốn, sau đó quay lại màn hình cài đặt cửa sổ chat và **Lưu thay đổi**
 
 Dưới đây là một số tùy chỉnh css một số thành phần trên cửa sổ chat bạn có thể tham khảo.
 
