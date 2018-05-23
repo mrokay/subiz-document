@@ -130,7 +130,7 @@ _**Lưu ý**_: Khi cuộc hội thoại kết thúc sẽ có thông báo trên c
 
  Agent có thể chặn khách hàng đã có tương tác như sau: Trong cửa sổ hội thoại  chọn nút **Chặn** &gt; bật **ON** chức năng **Chặn người này**
 
-![Ch&#x1EB7;n kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/chan-khach-hang.jpg)
+![Ch&#x1EB7;n kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/chan-khach-hang%20%281%29.jpg)
 
 {% hint style="warning" %}
 Khi bạn chọn chức năng "**Chặn người này**", lưu ý:
