@@ -18,6 +18,5 @@ Khách hàng thường tìm kiếm thông tin và có nhu cầu về thương hi
 * **Nâng cao tỉ lệ chuyển đổi khách hàng**: Nắm bắt nhu cầu khách truy cập website, chủ động tiếp cận khách hàng trên nhiều kênh, theo đuổi khách hàng một cách phù hợp và gia tăng cơ hội bán hàng.
 * **Quản lý dữ liệu khách hàng hiệu quả**: Tổng hợp lịch sử tương tác của khách hàng và giải quyết chính xác các vấn đề hỗ trợ khách hàng.
 
-Khi đó, Subiz là tất cả mọi thứ bạn cần để tương tác và quản lý khách hàng tại một nơi duy nhất, mà không cần phải phải sử dụng nhiều ứng dụng. Tất cả đều được thực hiện ngay trên Dashboard của Subiz.  
-
+Khi đó, Subiz là tất cả mọi thứ bạn cần để tương tác và quản lý khách hàng tại một nơi duy nhất, mà không cần phải phải sử dụng nhiều ứng dụng. Tất cả đều được thực hiện ngay trên Dashboard của Subiz.
 
