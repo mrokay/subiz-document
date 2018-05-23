@@ -70,7 +70,7 @@ Thư viện câu trả lời là những tin nhắn mẫu được soạn sẵn,
 
 _**Hướng dẫn sử dụng**_: Tại cửa sổ chat, bạn bắt đầu bằng kí tự "**/**" + **shortcut** &gt; chọn **Câu trả lời mẫu** &gt; **Enter**
 
-![S&#x1EED; d&#x1EE5;ng th&#x1B0; vi&#xEA;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](https://docv4.subiz.com/wp-content/uploads/2018/02/example.png)
+![S&#x1EED; d&#x1EE5;ng th&#x1B0; vi&#xEA;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](../../.gitbook/assets/5.-ans-library-3.jpg)
 
 {% hint style="info" %}
 _**Lưu ý**_: Bạn có thể [thêm và chỉnh sửa Thư viện câu trả lời](https://docv4.subiz.com/thu-vien-cau-tra-loi/) theo hướng dẫn
