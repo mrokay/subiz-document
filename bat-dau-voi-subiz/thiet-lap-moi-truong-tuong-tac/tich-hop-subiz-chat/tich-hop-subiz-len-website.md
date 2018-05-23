@@ -1,10 +1,12 @@
 # Tích hợp Subiz lên Website
 
-Subiz Live Chat là một kênh tương tác với khách hàng ghé thăm website của doanh nghiệp. Khi tích hợp cửa sổ tương tác Subiz trên Website, **sẽ giúp doanh nghiệp theo dõi, tiếp cận, tương tác và chuyển đổi khách hàng** ghé thăm website của bạn.
+### Subiz chat là gì?
 
-### Cách tích hợp Subiz lên website
+Subiz Chat là một kênh tương tác với khách hàng ghé thăm website của doanh nghiệp. Khi tích hợp cửa sổ tương tác Subiz trên Website, **sẽ giúp doanh nghiệp theo dõi, tiếp cận, tương tác và chuyển đổi khách hàng** ghé thăm website của bạn.
 
-Tích hợp Subiz vào website bằng việc copy đoạn mã nhúng Subiz \(không được thay đổi, copy toàn bộ mã\) và dán vào các trang mà bạn muốn đặt cửa sổ Subiz Chat. Bạn thực hiện theo 03 bước sau:
+### Cách tích hợp Subiz chat lên website
+
+Tích hợp Subiz vào website bằng việc **copy đoạn mã nhúng Subiz** \(không được thay đổi, copy toàn bộ mã\) và **dán vào các trang mà bạn muốn** đặt cửa sổ Subiz Chat. Bạn thực hiện theo 03 bước sau:
 
 #### Bước 1: Lấy mã nhúng của Subiz
 
@@ -22,7 +24,7 @@ Tích hợp Subiz vào website bằng việc copy đoạn mã nhúng Subiz \(kh�
 
 #### Bước 2: Đặt mã nhúng Subiz vào website
 
-Subiz tương thích với hầu hết các website xây dựng trên các nền tảng khác nhau. Việc đặt mã nhúng vào website khá đơn giản, chỉ cần Copy mã nhúng Subiz và dán vào mọi trang bạn muốn có cửa sổ Subiz Chat. Code mã nhúng Subiz phải được đặt ngay trước thẻ đóng &lt;/body&gt;.
+Subiz tương thích với hầu hết các website xây dựng trên các nền tảng khác nhau. Việc đặt mã nhúng vào website khá đơn giản, chỉ cần Copy mã nhúng Subiz và dán vào mọi trang bạn muốn có cửa sổ Subiz Chat. Code mã nhúng Subiz phải được **đặt ngay trước thẻ đóng &lt;/body&gt;.**
 
 ![C&#xE1;ch &#x111;&#x1EB7;t m&#xE3; nh&#xFA;ng Subiz](../../../.gitbook/assets/embedcode.gif)
 
@@ -78,14 +80,14 @@ Nếu bạn đang dùng nền tảng **không** có trong danh sách này, hãy 
 
 **Lựa chọn 1**
 
-1. Tìm Magento template tại app/design/frontend/{template}/page/html/head.phtml. Nếu tệp này không tồn tại, thì bạn cần phải kiểm tra xem tệp ứng dụng app/design/frontend/{template}/default/page/html/head.phtml có tồn tại hay không?
+1. Tìm Magento template tại **app/design/frontend/{template}/page/html/head.phtml**. Nếu tệp này không tồn tại, thì bạn cần phải kiểm tra xem tệp ứng dụng **app/design/frontend/{template}/default/page/html/head.phtml** có tồn tại hay không?
 2. Khi tìm thấy, nhúng mã code Subiz ngay trước thẻ &lt;/head&gt; của tệp.
 
 **Lựa chọn 2**
 
 Bạn chỉ cần thực hiện theo lựa chọn này nếu các tệp mẫu được mô tả trong Lựa chọn 1 không tồn tại. Có trường hợp này do một số mẫu Magento có thể không có tệp head.phtml và sử dụng tệp mẫu cơ sở.
 
-1. Sao chép tệp ứng dụng app/design/frontend/default/page/html/head.phtml từ mẫu cơ sở mặc địch vào thư mục tùy chỉnh tại app/design/frontend/{template}/page/html/head.phtml.
+1. Sao chép tệp ứng dụng **app/design/frontend/default/page/html/head.phtml** từ mẫu cơ sở mặc địch vào thư mục tùy chỉnh tại **app/design/frontend/{template}/page/html/head.phtml.**
 2. Mở tệp và dán mã nhũng Subiz trước thẻ &lt;/head&gt;
 {% endtab %}
 
