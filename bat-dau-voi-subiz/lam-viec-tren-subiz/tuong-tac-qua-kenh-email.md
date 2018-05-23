@@ -51,15 +51,11 @@ Với mỗi **khách hàng**, bạn vào mục **List Activities** sẽ nhận b
 
 1. **Hỗ trợ soạn thảo Email dưới dạng HTML**
 
-![](../../.gitbook/assets/html.jpg)
-
-![](../../.gitbook/assets/code.jpg)
+![](../../.gitbook/assets/html%20%282%29.jpg)
 
   **2. Tùy chỉnh font chữ văn bản**
 
-![](../../.gitbook/assets/font-chu-1%20%281%29.jpg)
-
-![](../../.gitbook/assets/font.jpg)
+![](../../.gitbook/assets/font%20%281%29.jpg)
 
 **3. Chèn link trực tiếp vào chữ hoặc hình ảnh**
 
@@ -67,9 +63,7 @@ Với mỗi **khách hàng**, bạn vào mục **List Activities** sẽ nhận b
 
 **4. Đình kèm tệp tài liệu hay tệp hình ảnh**
 
-
-
-![](../../.gitbook/assets/attach-file.jpg)
+![](../../.gitbook/assets/upload-file.jpg)
 
 **5. Gắn thẻ Tag hội thoại Email**
 
