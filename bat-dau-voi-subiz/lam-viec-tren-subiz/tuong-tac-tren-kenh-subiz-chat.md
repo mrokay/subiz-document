@@ -88,7 +88,7 @@ Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp 
 {% tab title="Gắn thẻ Tag" %}
 _Hướng dẫn gắn thẻ Tag_: Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
 
-![G&#x1EAF;n th&#x1EBB; Tag cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/7.-tag-ht.jpg)
+![G&#x1EAF;n th&#x1EBB; Tag cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/7.-tag-ht%20%282%29.jpg)
 
 {% hint style="info" %}
 Lưu ý: Bạn cần cài đặt Tag trước khi gắn thẻ Tag cuộc hội thoại \([Xem chi tiết](https://docv4.subiz.com/cai-dat-tag/)\)
@@ -98,7 +98,7 @@ Lưu ý: Bạn cần cài đặt Tag trước khi gắn thẻ Tag cuộc hội t
 {% tab title="Xóa thẻ Tag" %}
 _**Hướng dẫn xóa thẻ Tag**_: Chọn nút **Tag** &gt; chọn **X** xóa Tag
 
-![X&#xF3;a th&#x1EBB; Tag ](../../.gitbook/assets/8.-xoa-tag.jpg)
+![X&#xF3;a th&#x1EBB; Tag ](../../.gitbook/assets/8.-xoa-tag%20%281%29.jpg)
 {% endtab %}
 {% endtabs %}
 

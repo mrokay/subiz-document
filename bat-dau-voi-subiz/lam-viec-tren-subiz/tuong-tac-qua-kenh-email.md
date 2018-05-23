@@ -67,6 +67,8 @@ Với mỗi **khách hàng**, bạn vào mục **List Activities** sẽ nhận b
 
 **4. Đình kèm tệp tài liệu hay tệp hình ảnh**
 
+
+
 ![](../../.gitbook/assets/attach-file.jpg)
 
 **5. Gắn thẻ Tag hội thoại Email**
@@ -75,13 +77,15 @@ Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp 
 
 {% tabs %}
 {% tab title="Gắn thẻ Tag" %}
-_**Hướng dẫn gắn thẻ Tag**:_ Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**![](http://docv4.subiz.com/wp-content/uploads/2018/01/Tag.png)
+_**Hướng dẫn gắn thẻ Tag**:_ Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
+
+![](../../.gitbook/assets/7.-tag-ht%20%281%29.jpg)
 {% endtab %}
 
 {% tab title="Xóa thẻ Tag" %}
-**Hướng dẫn xóa thẻ Tag**: Chọn nút **Tag** &gt; chọn **X** xóa Tag
+**Hướng dẫn xóa thẻ Tag**: Chọn nút **Tag** &gt; chọn **X** xóa Tag​
 
-​![](https://docv4.subiz.com/wp-content/uploads/2018/02/Bieu-tuong-X.png)
+![](../../.gitbook/assets/8.-xoa-tag.jpg)
 {% endtab %}
 {% endtabs %}
 
