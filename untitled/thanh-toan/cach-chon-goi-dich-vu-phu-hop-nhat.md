@@ -2,7 +2,7 @@
 
 ### Subiz có những gói dịch vụ nào? {#cacgoidichvu}
 
-Subiz cung cấp 4 gói dịch vụ bao gồm: gói Trial, gói Miễn phí, gói Cơ bản và gói Nâng cao.
+Subiz cung cấp 4 gói dịch vụ bao gồm: gói **Trial**, gói **Miễn phí**, gói **Cơ bản** và gói **Nâng cao**.
 
 ### Lựa chọn gói dịch vụ phù hợp nhất?
 
@@ -38,7 +38,7 @@ Nằm trong kế hoạch triển khai, phần thống kê báo cáo của gói N
 
 Xem bảng so sánh chi tiết [tại đây](http://subiz.com/vi/pricing.html#morestandard).
 
-#### Tại sao tôi nên nâng cấp tài khoản lên gói trả phí?
+### Tại sao tôi nên nâng cấp tài khoản lên gói trả phí?
 
 * Subiz cung cấp gói Trả phí chỉ từ 262k/agent/tháng.
 * Là một trong những công cụ cơ bản, nhất-định-phải-có của các doanh nghiệp thương mại điện tử, bạn sử dụng Subiz live chat để thúc đẩy doanh số bán hàng, hoặc chăm sóc khách hàng, làm gia tăng mức độ hài lòng của khách hàng trong dài hạn.

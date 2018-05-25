@@ -17,15 +17,15 @@ Khi truy cập website của bạn, khách hàng sẽ gửi tin nhắn yêu cầ
 
 ![C&#x1EED;a s&#x1ED5; chat Subiz tr&#xEA;n website](../../.gitbook/assets/cua-so-chat-tren-website-3.jpg)
 
-_Để xem được tin nhắn từ khách hàng, bạn thao tác như sau: Vào mục **HÀNH ĐỘNG &gt;** Chọn **Khách hàng**  &gt; Chọn tương tác chưa đọc trong **LIST ACTIVITIES**  &gt; **Cửa sổ chat** mở và trả lời tại đây._
+Để xem được tin nhắn từ khách hàng, bạn thao tác như sau: Vào mục **HÀNH ĐỘNG &gt;** Chọn **Khách hàng**  &gt; Chọn tương tác chưa đọc trong **LIST ACTIVITIES**  &gt; **Cửa sổ chat** mở và trả lời tại đây.
 
 ![Xem n&#x1ED9;i dung tin nh&#x1EAF;n c&#x1EE7;a kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/chat-3.jpg)
 
 {% hint style="info" %}
- _**Lưu ý**_: Nếu bạn không nhận được tin nhắn từ khách hàng, hãy xem lại cài đặt [tính năng RULE](https://docv4.subiz.com/tao-rule-moi/) tự động phân phối cuộc hội thoại cho bạn \(Agent\) hay chưa?
+ _**Lưu ý**_: Nếu bạn không nhận được tin nhắn từ khách hàng, hãy xem lại [cài đặt tính năng RULE ](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/untitled/untitled/untitled)tự động phân phối cuộc hội thoại cho bạn \(Agent\) hay chưa?
 {% endhint %}
 
- Subiz sẽ thông báo âm thanh và thông báo màn hình khi có tin nhắn mới của khách hàng.
+Subiz sẽ thông báo âm thanh và thông báo màn hình khi có tin nhắn mới của khách hàng.
 
 ![Subiz th&#xF4;ng b&#xE1;o m&#xE0;n h&#xEC;nh](../../.gitbook/assets/3.-noti-destop.png)
 
@@ -35,16 +35,17 @@ _**Lưu ý**_: Khi không nhận được thông báo, hãy kiểm tra lại má
 {% endtab %}
 
 {% tab title=" Agent khởi tạo cuộc tương tác" %}
-**Agent chủ động khởi tạo cuộc tương tác**  
+**Agent chủ động khởi tạo cuộc tương tác**
+
 Nếu khách hàng không chủ động tương tác trước, thì bạn cần quan sát trên trang **KHÁCH** để biết khách hàng đang quan tâm điều gì và chủ động tương tác hỗ trợ khách hàng.
 
 ![Quan s&#xE1;t kh&#xE1;ch truy c&#x1EAD;p website](../../.gitbook/assets/9.-khach-truy-cap.jpg)
 
- _Để tạo cuộc hội thoại với khách truy cập website, bạn vào thao tác như sau:_
+Để tạo cuộc hội thoại với khách truy cập website, bạn vào thao tác như sau:
 
-1. _Vào mục **KHÁCH**  &gt; Chọn **Khách hàng**_ 
-2. _Chọn **Tạo hội thoại mới**  &gt; Chọn **Subiz Chat**_
-3.  _**Cửa sổ chat mở** và bạn gửi tin nhắn tại đây._
+1. Vào mục **KHÁCH**  &gt; Chọn **Khách hàng** 
+2. Chọn **Tạo hội thoại mới**  &gt; Chọn **Subiz Chat**
+3.  **Cửa sổ chat mở** và bạn gửi tin nhắn tại đây.
 
 ![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i v&#x1EDB;i kh&#xE1;ch truy c&#x1EAD;p](../../.gitbook/assets/10.-new-chat-subiz.jpg)
 {% endtab %}
@@ -52,9 +53,9 @@ Nếu khách hàng không chủ động tương tác trước, thì bạn cần 
 
 ### Thêm Agent vào cuộc hội thoại 
 
- Khi bạn đang trò chuyện cùng khách hàng, bạn có thể Mời thêm Agent tham gia cuộc hội thoại và cùng hỗ trợ khách hàng.
+Khi bạn đang trò chuyện cùng khách hàng, bạn có thể Mời thêm Agent tham gia cuộc hội thoại và cùng hỗ trợ khách hàng.
 
-_Hướng dẫn thêm Agent: Chọn nút  **"Add Agent"**  &gt; Chọn **Agent**  &gt; Chọn **Thêm**_
+Hướng dẫn thêm Agent: Chọn nút  **"Add Agent"**  &gt; Chọn **Agent**  &gt; Chọn **Thêm**
 
 ![Th&#xEA;m Agent tham gia h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/4.-them-agent%20%281%29.jpg)
 
@@ -66,13 +67,31 @@ _**Lưu ý**_: Chỉ Agent được phân phối cuộc hội thoại mới có 
 
 Thư viện câu trả lời là những tin nhắn mẫu được soạn sẵn, giúp bạn trò chuyện với khách hàng một cách nhanh chóng và hiệu quả.
 
-_**Hướng dẫn sử dụng**_: Tại cửa sổ chat, bạn bắt đầu bằng kí tự "**/**" + **shortcut** &gt; chọn **Câu trả lời mẫu** &gt; **Enter**
+Mỗi Agent có quyền được tạo và quản lý thư viên câu trả lời của riêng mình. Hướng dẫn cài đặt như sau:
 
-![S&#x1EED; d&#x1EE5;ng th&#x1B0; vi&#xEA;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](../../.gitbook/assets/5.-ans-library-3%20%281%29.jpg)
+{% tabs %}
+{% tab title="Tạo câu trả lời mẫu" %}
+Hướng dẫn tạo câu trả lời mẫu: 
+
+1. Đăng nhập **App.subiz.com** &gt; Chọn **Ảnh đại diện của Agent** &gt; Chọn **Thư viện câu trả lời** 
+
+![C&#xE0;i &#x111;&#x1EB7;t Th&#x1B0; vi&#x1EC7;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i](../../.gitbook/assets/thu-vien-ans.jpg)
+
+    2. Chọn **Tạo câu trả lời mẫu** &gt; **Nhập thông tin** &gt; **Tạo**
+
+![T&#x1EA1;o c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](../../.gitbook/assets/tao-thu-vien-ans.jpg)
 
 {% hint style="info" %}
-_**Lưu ý**_: Bạn có thể [thêm và chỉnh sửa Thư viện câu trả lời](https://docv4.subiz.com/thu-vien-cau-tra-loi/) theo hướng dẫn
+Lưu ý: Bạn có thể chọn **Chia sẻ câu trả lời mẫu với các Agent** **khác** để các Agent khác có thể sử dụng mẫu câu này.
 {% endhint %}
+{% endtab %}
+
+{% tab title="Sử dụng thư viện câu trả lời" %}
+_Hướng dẫn sử dụng thư viện câu trả lời_: Tại cửa sổ chat, bạn bắt đầu bằng kí tự "**/**" + **Phím tắt** &gt; chọn **Câu trả lời mẫu** &gt; **Enter**
+
+![S&#x1EED; d&#x1EE5;ng Th&#x1B0; vi&#x1EC7;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](../../.gitbook/assets/5.-ans-library-3%20%281%29.jpg)
+{% endtab %}
+{% endtabs %}
 
 ### Sử dụng Emoji cảm xúc và chia sẻ file
 
@@ -85,20 +104,32 @@ Tại vùng nhập tin nhắn, bạn có thể lựa chọn gửi kèm biểu t�
 Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp Agent dễ dàng phân loại và quản lý các tương tác của khách hàng.
 
 {% tabs %}
-{% tab title="Gắn thẻ Tag" %}
-_Hướng dẫn gắn thẻ Tag_: Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
+{% tab title="Tạo thẻ Tag" %}
+Hướng dẫn tạo thẻ Tag mới:
 
-![G&#x1EAF;n th&#x1EBB; Tag cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/7.-tag-ht%20%283%29.jpg)
+1. Đăng nhập **App.subiz.com** &gt; **Cài đặt** &gt; **Tài khoản** &gt; **Tag** &gt; **Tạo Tag mới**
+
+![C&#xE0;i &#x111;&#x1EB7;t Tag](../../.gitbook/assets/tao-tag.jpg)
+
+     2. Nhập **Tên Tag** &gt; **Tạo**
+
+![T&#x1EA1;o Tag m&#x1EDB;i](../../.gitbook/assets/tag-moi.jpg)
 
 {% hint style="info" %}
-Lưu ý: Bạn cần cài đặt Tag trước khi gắn thẻ Tag cuộc hội thoại \([Xem chi tiết](https://docv4.subiz.com/cai-dat-tag/)\)
+Lưu ý: Chỉ Agent được [phần quyền Cài đặt Tài khoản](https://subiz.gitbook.io/subiz-document/~/edit/primary/bat-dau-voi-subiz/untitled/quan-ly-agent/cac-loai-agent#phan-quyen-tai-khoan-agent) được phép Cài đặt Tag
 {% endhint %}
 {% endtab %}
 
-{% tab title="Xóa thẻ Tag" %}
-_**Hướng dẫn xóa thẻ Tag**_: Chọn nút **Tag** &gt; chọn **X** xóa Tag
+{% tab title="Gắn thẻ Tag" %}
+Hướng dẫn gắn thẻ Tag: Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
 
-![X&#xF3;a th&#x1EBB; Tag ](../../.gitbook/assets/8.-xoa-tag%20%282%29.jpg)
+![G&#x1EAF;n th&#x1EBB; Tag cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/7.-tag-ht%20%283%29.jpg)
+{% endtab %}
+
+{% tab title="Xóa thẻ Tag" %}
+Hướng dẫn xóa thẻ Tag: Chọn nút **Tag** &gt; chọn **X** xóa Tag
+
+![X&#xF3;a th&#x1EBB; Tag ](../../.gitbook/assets/8.-xoa-tag%20%283%29.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -136,14 +167,9 @@ _**Lưu ý**_: Khi cuộc hội thoại kết thúc sẽ có thông báo trên c
 Khi bạn chọn chức năng "**Chặn người này**", lưu ý:
 
 * Khách hàng bị chặn có ảnh đại diện hình gạch chéo.
-{% endhint %}
-
-{% hint style="danger" %}
-+ Với kênh Subiz Chat, khách hàng sẽ  không nhìn thấy cửa sổ chat Subiz trên website.
-
-+Với kênh Email, Email khách hàng gửi đến sẽ không hiển thị  cho Agent.
-
-+ Với kênh Messenger, tin nhắn không hiển thị cho Agent. Nhưng tin nhắn vẫn tồn tại và hiển thị nếu bạn đăng nhập Fanpage.
+*  Với kênh Subiz Chat, khách hàng sẽ  không nhìn thấy cửa sổ chat Subiz trên website.
+* Với kênh Email, Email khách hàng gửi đến sẽ không hiển thị cho Agent.
+* Với kênh Messenger, tin nhắn không hiển thị cho Agent. Nhưng tin nhắn vẫn tồn tại và hiển thị nếu bạn đăng nhập Fanpage.
 {% endhint %}
 
 ## 

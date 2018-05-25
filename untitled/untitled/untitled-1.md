@@ -14,7 +14,7 @@ Click vào “**thực hiện thanh toán**” trên dòng thông báo – hệ 
 
 ### Ngày thanh toán kế tiếp của tôi chưa tới, sao vẫn có hóa đơn chưa thanh toán?
 
-Khi tới ngày gia hạn, để dịch vụ của bạn không bị gián đoạn, hệ thống **tự động gia hạn** chu kỳ kế tiếp, đồng thời gửi thông báo tới bạn.
+Khi tới ngày gia hạn, để dịch vụ của bạn không bị gián đoạn, hệ thống tự động gia hạn chu kỳ kế tiếp, đồng thời gửi thông báo tới bạn.
 
 Do đó, ngày thanh toán kế tiếp sẽ hiển thị ngày kết thúc của chu kỳ mới. Bạn cần kiểm soát thông tin chi tiết trên hóa đơn để nắm rõ nội dung dịch vụ cung cấp cho thời gian nào.
 

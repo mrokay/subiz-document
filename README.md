@@ -1,27 +1,22 @@
----
-description: Không phải viết trang này.
----
+# Xin chào, làm thế nào để chúng tôi hỗ trợ bạn?
 
-# Trang Home
+​Subiz đem lại gía trị gì cho Doanh nghiệp của bạn? Nó hoạt đông ra sao và các thuật ngữ để bạn dễ dàng hiểu sâu về Subiz.
 
-## Getting Super Powers
+{% page-ref page="subiz-la-gi.md" %}
 
-Becoming a super hero is a fairly straight forward process:
+Bắt đầu áp dụng Subiz vào doanh nghiệp của bạn và có hiệu qủa cao nhất. Từ đó giúp doanh nghiệp của bạn nâng cao hiệu suất và tăng năng lực cạnh tranh. 
 
-```
-$ give me super-powers
-```
+{% page-ref page="bat-dau-voi-subiz/" %}
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+Những lời khuyên và kiến thức giúp Doanh nghiệp nâng cao hiệu qủa. 
 
-Once you're strong enough, save the world:
+{% page-ref page="su-dung-subiz-nang-cao/" %}
 
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+Đánh gía và ra quyết định sẽ ảnh hưởng tới tương lai của doanh nghiệp. Đừng bỏ qua Báo cáo để nắm rõ được hiện trạng của Doanh nghiệp. 
 
+{% page-ref page="bao-cao-and-thong-ke-1.md" %}
 
+Cơ chế thanh toán linh hoạt và tiện lợi. Chúng tôi không phải là nhà cũng ứng, mà đi cùng bạn trên một con thuyền.
+
+{% page-ref page="untitled/" %}
 

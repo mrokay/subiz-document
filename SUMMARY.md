@@ -1,9 +1,7 @@
 # Table of contents
 
-* [Trang Home](README.md)
-* Tổng quan Subiz
-  * [Subiz là gì?](page-2/subiz-la-gi.md)
-  * [Subiz hoạt động như thế nào?](page-2/untitled.md)
+* [Xin chào, làm thế nào để chúng tôi hỗ trợ bạn?](README.md)
+* [Giới thiệu về Subiz](subiz-la-gi.md)
 * Bắt đầu với Subiz
   * Thiết lập môi trường tương tác
     * Tích hợp Subiz chat
@@ -12,6 +10,9 @@
       * [Sáng tạo cửa sổ chat Subiz ấn tượng](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/tuy-chinh-cua-so-subiz-chat.md)
     * [Tích hợp sử dụng Email trên Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz.md)
     * [Tích hợp Fanpage Facebook vào Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-fanpage-facebook-vao-subiz.md)
+    * Tối ưu môi trường tương tác
+      * [Cài đặt thông tin doanh nghiêp](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/toi-uu-moi-truong-tuong-tac/cai-dat-thong-tin-doanh-nghiep.md)
+      * [Cài đặt thông báo tin nhắn mới](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/toi-uu-moi-truong-tuong-tac/cai-dat-thong-bao-tin-nhan-moi.md)
     * FAQs
       * [Những vấn đề gặp phải khi đăng nhập Dashboard](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/faqs/untitled-1.md)
       * [Tôi không nhận được email của Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/faqs/toi-khong-nhan-duoc-email-cua-subiz.md)

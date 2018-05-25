@@ -6,7 +6,7 @@ Xem thêm [Tại sao phải chào hỏi khách hàng ghé thăm website](https:/
 
 **Bạn có thể sử dụng nhiều Automation cùng lúc để gửi nhiều tin nhắn với các mục đích khác nhau.** Sau đây là một số gợi ý về điều kiện cài đặt Automation để bạn thuận tiện lựa chọn.
 
-### 1. Gửi tin nhắn tới khách vào 1 trang cụ thể trên website {#1-gui-tin-nhan-toi-khach-vao-1-trang-cu-the-tren-website}
+### Gửi tin nhắn tới khách vào 1 trang cụ thể trên website {#1-gui-tin-nhan-toi-khach-vao-1-trang-cu-the-tren-website}
 
 Bạn muốn gửi thông điệp quảng cáo tới các khách vào 1 trang sản phẩm cụ thể, hoặc muốn gửi chương trình khuyến mãi cho khách vào trang thanh toán? Bạn chỉ cần thiết lập Automation theo điều kiện URL của trang.
 
@@ -14,13 +14,13 @@ Ví dụ: URL của trang – chứa – http://abc.com.vn/
 
 ![G&#x1EED;i tin nh&#x1EAF;n d&#x1EF1;a tr&#xEA;n &#x111;i&#x1EC1;u ki&#x1EC7;n URL c&#x1EE7;a trang](../../.gitbook/assets/url.png)
 
-### 2. Gửi tin nhắn đến khách chưa có thông tin cá nhân {#2-gui-tin-nhan-den-khach-chua-co-thong-tin-ca-nhan}
+### Gửi tin nhắn đến khách chưa có thông tin cá nhân {#2-gui-tin-nhan-den-khach-chua-co-thong-tin-ca-nhan}
 
 Với các khách hàng chưa có thông tin cá nhân trên hệ thống, bạn có thể gửi chào kèm theo lời mời khách để lại thông tin cá nhân để bạn có thể liên hệ lại bất cứ lúc nào.
 
 ![&#x110;i&#x1EC1;u ki&#x1EC7;n g&#x1EED;i tin nh&#x1EAF;n cho kh&#xE1;ch ch&#x1B0;a c&#xF3; th&#xF4;ng tin](../../.gitbook/assets/user-info.png)
 
-### 3. Gửi tin nhắn cho khách hàng theo khu vực địa lý {#3-gui-tin-nhan-cho-khach-hang-theo-khu-vuc-dia-ly}
+### Gửi tin nhắn cho khách hàng theo khu vực địa lý {#3-gui-tin-nhan-cho-khach-hang-theo-khu-vuc-dia-ly}
 
 Subiz hỗ trợ bạn gửi tin nhắn riêng biệt tới từng đối tượng khách hàng chia theo khu vực địa lý theo Quốc gia. Bạn có thể sử dụng để gửi tin nhắn với ngôn ngữ phù hợp tới từng đối tượng khách hàng. Ví dụ, với khách hàng đến từ Việt Nam, bạn cài đặt tin nhắn bằng ngôn ngữ Tiếng Việt.
 
@@ -42,7 +42,7 @@ Quốc gia – Afghanistan. Mã quốc gia – AF
 
 ![C&#xE1;ch xem m&#xE3; code c&#xE1;c qu&#x1ED1;c gia](../../.gitbook/assets/countrycode.png)
 
-### 4. Loại trừ 1 địa chỉ IP cụ thể {#4-loai-tru-1-dia-chi-ip-cu-the}
+### Loại trừ 1 địa chỉ IP cụ thể {#4-loai-tru-1-dia-chi-ip-cu-the}
 
 Trong trường hợp bạn muốn gửi tin nhắn tự động tới khách hàng, nhưng không muốn làm ảnh hưởng tới các nhân viên công ty thường xuyên vào website để làm việc, bạn có thể loại trừ địa chỉ IP nội bộ khi gửi tin nhắn.
 

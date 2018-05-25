@@ -2,7 +2,7 @@
 
 Tương tác qua kênh Email là cuộc tương tác gửi và nhận email của khách hàng ngay trên ứng dụng Subiz.
 
-Bạn \(Agent\) cần[ tích hợp Email và thiết lập chuyển tiếp mail](https://docv4.subiz.com/thiet-lap-chuyen-tiep-email/) để có thể tạo mới hội thoại trên kênh Email.
+Bạn \(Agent\) cần[ tích hợp Email và thiết lập chuyển tiếp mail](https://subiz.gitbook.io/subiz-document/~/edit/primary/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz) để có thể tạo mới hội thoại trên kênh Email.
 
 ### Chủ động gửi Email tới khách hàng
 
@@ -10,13 +10,14 @@ Bạn \(Agent\) cần[ tích hợp Email và thiết lập chuyển tiếp mail]
 
 ![L&#x1B0;u &#x111;&#x1ECB;a ch&#x1EC9; Email kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/xem-email%20%281%29.jpg)
 
-Bạn có thể chủ động gửi Email tới khách hàng với 2 bước đơn giản sau:  
-**1. Tạo hội thoại mới trên kênh Email  
-2. Viết Email gửi khách hàng**
+Bạn có thể chủ động gửi Email tới khách hàng với 2 bước đơn giản sau:
+
+1. **Tạo hội thoại mới trên kênh Email**
+2. **Viết Email gửi khách hàng**
 
 {% tabs %}
 {% tab title="1. Tạo hội thoại mới trên kênh Email" %}
-_Hướng dẫn tạo hội thoại mới trên kênh Email như sau:_ Chọn K**hách hàng** muốn gửi mail &gt; Chọn **Tạo hội thoại mới &gt;** Chọn **Email** 
+Hướng dẫn tạo hội thoại mới trên kênh Email như sau: Chọn K**hách hàng** muốn gửi mail &gt; Chọn **Tạo hội thoại mới &gt;** Chọn **Email** 
 
 ![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i Email](../../.gitbook/assets/tao-hoi-thoai-email.jpg)
 {% endtab %}
@@ -70,24 +71,36 @@ Với mỗi **khách hàng**, bạn vào mục **List Activities** sẽ nhận b
 Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp Agent dễ dàng phân loại và quản lý các tương tác của khách hàng. 
 
 {% tabs %}
-{% tab title="Gắn thẻ Tag" %}
-_**Hướng dẫn gắn thẻ Tag**:_ Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
+{% tab title="Tạo thẻ Tag" %}
+Hướng dẫn tạo thẻ Tag mới:
 
-![](../../.gitbook/assets/7.-tag-ht%20%282%29.jpg)
+1. Đăng nhập **App.subiz.com** &gt; **Cài đặt** &gt; **Tài khoản** &gt; **Tag** &gt; **Tạo Tag mới**
+
+![C&#xE0;i &#x111;&#x1EB7;t Tag](../../.gitbook/assets/tao-tag%20%281%29.jpg)
+
+    2.  Nhập **Tên Tag** &gt; **Tạo**​
+
+![T&#x1EA1;o Tag m&#x1EDB;i](../../.gitbook/assets/tag-moi%20%282%29.jpg)
+
+{% hint style="info" %}
+Lưu ý: Chỉ Agent được [phân quyền Cài đặt tài khoản](https://subiz.gitbook.io/subiz-document/~/edit/primary/bat-dau-voi-subiz/untitled/quan-ly-agent/cac-loai-agent#phan-quyen-tai-khoan-agent) được phép Cài đặt Tag​
+{% endhint %}
+{% endtab %}
+
+{% tab title="Gắn thẻ Tag" %}
+_Hướng dẫn gắn thẻ Tag_: Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
+
+![G&#x1EAF;n th&#x1EBB; Tag](../../.gitbook/assets/7.-tag-ht%20%284%29.jpg)
 {% endtab %}
 
 {% tab title="Xóa thẻ Tag" %}
-**Hướng dẫn xóa thẻ Tag**: Chọn nút **Tag** &gt; chọn **X** xóa Tag​
+_Hướng dẫn xóa thẻ Tag_: Chọn nút **Tag** &gt; chọn **X** xóa Tag
 
-![](../../.gitbook/assets/8.-xoa-tag%20%281%29.jpg)
+![X&#xF3;a th&#x1EBB; Tag](../../.gitbook/assets/8.-xoa-tag%20%282%29.jpg)
 {% endtab %}
 {% endtabs %}
 
-{% hint style="info" %}
-Lưu ý: Bạn cần cài đặt Tag trước khi gắn thẻ Tag cuộc hội thoại \([Xem chi tiết](https://docv4.subiz.com/cai-dat-tag/)\)
-{% endhint %}
 
-## 
 
 
 

@@ -6,7 +6,7 @@ Tương tác qua kênh Messenger là cuộc hội thoại tương tác giữa kh
 
 Subiz hiển thị tên kênh Messenger và tên trang Fanpage, giúp bạn nhận biết được nguồn khách hàng của mình. 
 
-_Thao tác_: Chọn **Khách hàng** &gt; Xem trong **List Activities** &gt; Chọn **Messenger**
+Thao tác: Chọn **Khách hàng** &gt; Xem trong **List Activities** &gt; Chọn **Messenger**
 
 ![T&#xEA;n Fanpage hi&#x1EC3;n th&#x1ECB; trong List Activities](../../.gitbook/assets/1.-fanpage-messenger-1.jpg)
 
@@ -16,7 +16,7 @@ Với kênh Messenger, chỉ khi khách hàng trên Fanpage chủ động gửi 
 
 {% tabs %}
 {% tab title="Trả lời tin nhắn Messenger" %}
-Để trả lời tin nhắn của khách hàng, bạn thao tác:  Chọn **Khách hàng** &gt; Xem trong **List Activities** &gt; Chọn **Messenger** tin nhắn chưa đọc &gt; **Cửa sổ chat mở và nhắn tin tại đây**.
+Để trả lời tin nhắn của khách hàng, bạn thao tác: Chọn **Khách hàng** &gt; Xem trong **List Activities** &gt; Chọn **Messenger** tin nhắn chưa đọc &gt; **Cửa sổ chat mở và nhắn tin tại đây**.
 
 ![T&#x1B0;&#x1A1;ng t&#xE1;c tr&#xEA;n k&#xEA;nh Messenger](../../.gitbook/assets/2-messnger.jpg)
 {% endtab %}
@@ -28,7 +28,7 @@ Khi đã hỗ trợ khách hàng xong một vấn đề, hãy kết thúc cuộc
 {% endtab %}
 
 {% tab title="Tạo hội thoại mới Messenger" %}
-_Hướng dẫn tạo hội thoại mới trên kênh Messenger_: Chọn **khách hàng** &gt; Chọn **Tạo hội thoại mới** &gt; Chọn kênh **Messenger** &gt; Chọn **tên Fanpage** &gt; **Cửa sổ chat mở và nhắn tin tại đây**
+Hướng dẫn tạo hội thoại mới trên kênh Messenger: Chọn **khách hàng** &gt; Chọn **Tạo hội thoại mới** &gt; Chọn kênh **Messenger** &gt; Chọn **tên Fanpage** &gt; **Cửa sổ chat mở và nhắn tin tại đây**
 
 ![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i tr&#xEA;n k&#xEA;nh Messenger](../../.gitbook/assets/4.-messnger.jpg)
 {% endtab %}
@@ -36,58 +36,85 @@ _Hướng dẫn tạo hội thoại mới trên kênh Messenger_: Chọn **khác
 
 ### Một số tính năng hữu ích trên kênh Messenger
 
-### 1. **Quản trị nhiều Fanpage trong ứng dụng Subiz**
+#### 1. **Quản trị nhiều Fanpage trong ứng dụng Subiz**
 
 Khi bạn là quản trị viên của nhiều Fanpage, Subiz sẽ giúp bạn dễ dàng tương tác và quản lý hiệu quả khách hàng trên từng trang.
 
 ![K&#x1EBF;t n&#x1ED1;i nhi&#x1EC1;u Fanpage v&#xE0;o t&#xE0;i kho&#x1EA3;n Subiz](../../.gitbook/assets/5.-nhieu-fanpage-1.jpg)
 
-### **2. Sử dụng thư viện câu trả lời**
+#### **2. Sử dụng thư viện câu trả lời**
 
 Thư viện câu trả lời là những tin nhắn mẫu được soạn sẵn, giúp bạn trò chuyện với khách hàng một cách nhanh chóng và hiệu quả.
 
-_Hướng dẫn sử dụng_: Tại cửa sổ chat, bạn bắt đầu bằng kí tự "**/**" + **shortcut** &gt; chọn **Câu trả lời mẫu** &gt; **Enter**
+Mỗi Agent có quyền được tạo và quản lý thư viên câu trả lời của riêng mình. Hướng dẫn cài đặt như sau:
 
-![S&#x1EED; d&#x1EE5;ng th&#x1B0; vi&#x1EC7;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](../../.gitbook/assets/5.-ans-library-3.jpg)
+{% tabs %}
+{% tab title="Tạo câu trả lời mẫu" %}
+Hướng dẫn tạo câu trả lời mẫu: 
+
+1. Đăng nhập **App.subiz.com** &gt; Chọn **Ảnh đại diện của Agent** &gt; Chọn **Thư viện câu trả lời** 
+
+![C&#xE0;i &#x111;&#x1EB7;t th&#x1B0; vi&#x1EC7;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i](../../.gitbook/assets/thu-vien-ans.jpg)
+
+    2. Chọn **Tạo câu trả lời mẫu** &gt; **Nhập thông tin** &gt; **Tạo**
+
+![T&#x1EA1;o c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](../../.gitbook/assets/tao-thu-vien-ans.jpg)
 
 {% hint style="info" %}
-_**Lưu ý**_: Bạn có thể [thêm và chỉnh sửa Thư viện câu trả lời](https://docv4.subiz.com/thu-vien-cau-tra-loi/) theo hướng dẫn
+Lưu ý: Bạn có thể chọn **Chia sẻ câu trả lời mẫu với các Agent** **khác** để các Agent khác có thể sử dụng mẫu câu này.
 {% endhint %}
+{% endtab %}
 
-### 3. Gắn Tag cuộc hội thoại
+{% tab title="Sử dụng thư viện câu trả lời" %}
+Hướng dẫn sử dụng: Tại cửa sổ chat, bạn bắt đầu bằng kí tự "**/**" + **phím tắt** &gt; chọn **Câu trả lời mẫu** &gt; **Enter**
+
+![S&#x1EED; d&#x1EE5;ng th&#x1B0; vi&#x1EC7;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](../../.gitbook/assets/5.-ans-library-3.jpg)
+{% endtab %}
+{% endtabs %}
+
+#### 3. Gắn Tag cuộc hội thoại
 
 Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp Agent dễ dàng phân loại và quản lý các tương tác của khách hàng.
 
 {% tabs %}
+{% tab title="Tạo thẻ Tag" %}
+Hướng dẫn tạo thẻ Tag mới:
+
+1. Đăng nhập **App.subiz.com** &gt; **Cài đặt** &gt; **Tài khoản** &gt; **Tag** &gt; **Tạo Tag mới**
+
+![C&#xE0;i &#x111;&#x1EB7;t Tag](../../.gitbook/assets/tao-tag%20%282%29.jpg)
+
+    2. Nhập **Tên Tag** &gt; **Tạo**
+
+![T&#x1EA1;o Tag m&#x1EDB;i](../../.gitbook/assets/tag-moi%20%281%29.jpg)
+{% endtab %}
+
 {% tab title="Gắn thẻ Tag" %}
-_Hướng dẫn gắn thẻ Tag_: Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
+Hướng dẫn gắn thẻ Tag: Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
 
 ![G&#x1EAF;n th&#x1EBB; Tag ](../../.gitbook/assets/7.-tag-ht.jpg)
 {% endtab %}
 
 {% tab title="Xóa thẻ Tag" %}
-_Hướng dẫn xóa thẻ Tag_: Chọn nút **Tag** &gt; chọn **X** xóa Tag
+Hướng dẫn xóa thẻ Tag: Chọn nút **Tag** &gt; chọn **X** xóa Tag
 
 ![X&#xF3;a th&#x1EBB; Tag](../../.gitbook/assets/8.-xoa-tag.jpg)
 {% endtab %}
 {% endtabs %}
 
-{% hint style="info" %}
-Lưu ý: Bạn cần cài đặt Tag trước khi gắn thẻ Tag cuộc hội thoại \([Xem chi tiết](https://docv4.subiz.com/cai-dat-tag/)\)
-{% endhint %}
+#### 4. Rule tự động phân phối hội thoại 
 
-### 4. Rule tự động phân phối hội thoại 
+Rule là các quy tắc do bạn thiết lập để tự động phân phối cuộc hội thoại tới một hoặc một nhóm Agent.
 
-Rule là các quy tắc do bạn thiết lập để tự động phân phối cuộc hội thoại tới một hoặc một nhóm Agent.   
-_Hướng dẫn tạo Rule phân phối hội thoại trên trang Fanpage cho 1 Agent_**: Cài đặt Tài khoản** &gt; **Rule** &gt; **Tạo mới Rule &gt; Điền thông tin như trong ảnh.** 
+Hướng dẫn tạo Rule phân phối hội thoại trên trang Fanpage cho 1 Agent**: Cài đặt Tài khoản** &gt; **Rule** &gt; **Tạo mới Rule &gt; Điền thông tin như trong ảnh.** 
 
 ![C&#xE0;i &#x111;&#x1EB7;t Rule ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i tr&#xEA;n k&#xEA;nh Messenger Fanpage](../../.gitbook/assets/rule-messenger-1.jpg)
 
-### 5. Thêm Agent vào cuộc hội thoại 
+#### 5. Thêm Agent vào cuộc hội thoại 
 
  Khi bạn đang trò chuyện cùng khách hàng, bạn có thể Mời thêm Agent tham gia cuộc hội thoại và cùng hỗ trợ khách hàng.
 
-_Hướng dẫn thêm Agent: Chọn nút  **"Add Agent"**  &gt; Chọn **Agent**  &gt; Chọn **Thêm**_
+Hướng dẫn thêm Agent: Chọn nút  **"Add Agent"**  &gt; Chọn **Agent**  &gt; Chọn **Thêm**
 
 ![Th&#xEA;m Agent tham gia h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/4.-them-agent.jpg)
 
@@ -95,7 +122,7 @@ _Hướng dẫn thêm Agent: Chọn nút  **"Add Agent"**  &gt; Chọn **Agent**
 _**Lưu ý**_: Chỉ Agent được phân phối cuộc hội thoại mới có quyền thêm Agent khác.
 {% endhint %}
 
-### 6. Sử dụng Emojis cảm xúc và chia sẻ file
+#### 6. Sử dụng Emojis cảm xúc và chia sẻ file
 
 Tại vùng nhập tin nhắn, bạn có thể lựa chọn gửi kèm biểu tượng cảm xúc hoặc file đính kèm.
 

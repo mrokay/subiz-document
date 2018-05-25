@@ -38,7 +38,7 @@ Khi bạn chọn ngôn ngữ là tự động cho cửa sổ Subiz trên website
 
 * Tùy chỉnh ngôn ngữ
 
-Khi bạn muốn tùy chỉnh ngôn ngữ hỏi thông tin khách hàng, thì bạn cần thực hiện cùng lúc khi bạn tùy chỉnh ngôn ngữ cửa sổ chat, bạn có thể tùy chỉnh ngôn ngữ hỏi và nội dung hỏi [theo hướng dẫn](https://docv4.subiz.com/tuy-chinh-ngon-ngu-cua-so-subiz-qua-file-po/)​
+Khi bạn muốn tùy chỉnh ngôn ngữ hỏi thông tin khách hàng, thì bạn cần thực hiện cùng lúc khi bạn tùy chỉnh ngôn ngữ cửa sổ chat, bạn có thể tùy chỉnh ngôn ngữ hỏi và nội dung hỏi [theo hướng dẫn​](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/tuy-chinh-cua-so-subiz-chat#tuy-chinh-ngon-ngu-cua-so-subiz-chat-qua-file-po)
 
 ### Hỏi thông tin bởi agent nào?
 
