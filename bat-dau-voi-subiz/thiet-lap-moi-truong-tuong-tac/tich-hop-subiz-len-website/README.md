@@ -1,4 +1,4 @@
-# Tích hợp Subiz lên Website
+# Tích hợp Subiz Chat
 
 ### Subiz chat là gì?
 

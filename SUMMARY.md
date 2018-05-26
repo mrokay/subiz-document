@@ -4,7 +4,7 @@
 * [Giới thiệu về Subiz](subiz-la-gi.md)
 * Bắt đầu với Subiz
   * Thiết lập môi trường tương tác
-    * [Tích hợp Subiz lên Website](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/README.md)
+    * [Tích hợp Subiz Chat](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/README.md)
       * [Tùy chỉnh cửa sổ chat Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/untitled.md)
       * [Sáng tạo cửa sổ chat Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-cua-so-subiz-chat.md)
     * [Tích hợp sử dụng Email trên Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz.md)
