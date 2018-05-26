@@ -1,4 +1,4 @@
-# Sáng tạo cửa sổ chat Subiz ấn tượng
+# Sáng tạo cửa sổ chat Subiz
 
 ### Sáng tạo lời giới thiệu trên cửa sổ chat
 
