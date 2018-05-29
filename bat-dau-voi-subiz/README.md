@@ -8,8 +8,8 @@ Trong đó:
 
 {% page-ref page="thiet-lap-moi-truong-tuong-tac/" %}
 
-* [Thiết lập môi trường tương tác](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac): 
-* có các hướng dẫn giúp bạn dễ dàng tích hợp các kênh tương tác vào Subiz để có thể tương tác, theo đuổi khách hàng từ nhiều kênh ngay trên Subiz
+Các hướng dẫn giúp bạn dễ dàng tích hợp các kênh tương tác vào Subiz để có thể tương tác, theo đuổi khách hàng từ nhiều kênh ngay trên Subiz
+
 * [Triển khai hoạt động trên Subiz](https://help.subiz.com/bat-dau-voi-subiz/untitled): giúp bạn hiểu về các loại Agent, hướng dẫn tạo thêm các Agent và thiết lập quy tắc phân phối các cuộc hội thoại cho các Agent
 * [Làm việc trên Subiz](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz): là các hướng dẫn giúp bạn sử dụng Subiz hàng ngày, cụ thể là cách thức tương tác với khách hàng trên các kênh và sử dụng những tiện ích giúp bạn tương tác tốt hơn với khách hàng
 
