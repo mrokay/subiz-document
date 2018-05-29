@@ -45,7 +45,7 @@
     * [Cách chọn gói dịch vụ phù hợp nhất?](untitled/thanh-toan/cach-chon-goi-dich-vu-phu-hop-nhat.md)
     * [Phương thức thanh toán](untitled/thanh-toan/untitled.md)
     * [Lưu ý khi thanh toán \(FAQs\)](untitled/thanh-toan/luu-y-khi-thanh-toan-faqs.md)
-  * Quản lý gói dịch vụ
+  * [Quản lý gói dịch vụ](untitled/untitled/README.md)
     * [Xem thông tin tài khoản hiện tại](untitled/untitled/xem-thong-tin-tai-khoan-hien-tai.md)
     * [Thay đổi gói dịch vụ](untitled/untitled/untitled.md)
     * [FAQs](untitled/untitled/untitled-1.md)
