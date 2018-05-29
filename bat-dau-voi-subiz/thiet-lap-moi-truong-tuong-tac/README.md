@@ -4,8 +4,9 @@ Việc đầu tiên bạn cần thực hiện sau khi đăng ký tài khoản Su
 
 Subiz hỗ trợ doanh nghiệp tương tác với khách hàng đến từ nhiều website, fanpage, email, zalo… Trong mỗi kênh tương tác bạn có thể thực hiện những cài đặt và tùy chỉnh cho phù hợp với nhu cầu của doanh nghiệp.
 
-Các hướng dẫn cụ thể để bạn tích hợp và tối ưu môi trường tương tác:  
+Các hướng dẫn cụ thể để bạn tích hợp và tối ưu môi trường tương tác:
 
+{% page-ref page="tich-hop-subiz-len-website/" %}
 
 * [Tích hợp Subiz chat](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat)
 * [Tích hợp sử dụng Email trên Subiz](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz)
