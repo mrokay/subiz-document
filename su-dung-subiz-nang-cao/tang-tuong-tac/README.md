@@ -6,7 +6,9 @@ Tại mục hướng dẫn Tăng tương tác này, Subiz đã đưa ra các hư
 
 Các hướng dẫn cụ thể sẽ có tại các trang:
 
-* [Tạo Automation](https://help.subiz.com/su-dung-subiz-nang-cao/tang-tuong-tac/tao-automation)
-* [Các ví dụ tự động gửi tin nhắn](https://help.subiz.com/su-dung-subiz-nang-cao/tang-tuong-tac/tu-dong-gui-tin-nhan-toi-khach-truy-cap)
-* [Tự động hỏi địa chỉ email của khách hàng](https://help.subiz.com/su-dung-subiz-nang-cao/tang-tuong-tac/untitled)
+{% page-ref page="tao-automation.md" %}
+
+{% page-ref page="tu-dong-gui-tin-nhan-toi-khach-truy-cap.md" %}
+
+{% page-ref page="untitled.md" %}
 
