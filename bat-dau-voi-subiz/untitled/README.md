@@ -8,6 +8,7 @@ Sau đó bạn tạo các Rule phân phối cuộc hội thoại tự động t�
 
 Tất cả các hướng dẫn chi tiết về cách thiết lập Agent và Rule để triển khai hoạt động trên Subiz đều có tại:
 
-* [Quản lý Agent](https://help.subiz.com/bat-dau-voi-subiz/untitled/quan-ly-agent)
-* [Phân phối cuộc hội thoại](https://help.subiz.com/bat-dau-voi-subiz/untitled/untitled)
+{% page-ref page="quan-ly-agent/" %}
+
+{% page-ref page="untitled/" %}
 
