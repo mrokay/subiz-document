@@ -2,8 +2,8 @@
 
 * [Xin chào, làm thế nào để chúng tôi hỗ trợ bạn?](README.md)
 * [Giới thiệu về Subiz](subiz-la-gi.md)
-* Bắt đầu với Subiz
-  * Thiết lập môi trường tương tác
+* [Bắt đầu với Subiz](bat-dau-voi-subiz/README.md)
+  * [Thiết lập môi trường tương tác](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/README.md)
     * [Tích hợp Subiz Chat](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/README.md)
       * [Tùy chỉnh cửa sổ chat Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/untitled.md)
       * [Sáng tạo cửa sổ chat Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-cua-so-subiz-chat.md)
