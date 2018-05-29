@@ -40,7 +40,7 @@
     * [Làm thế nào để chặn một User](su-dung-subiz-nang-cao/untitled/lam-the-nao-de-chan-mot-user.md)
 * [Báo cáo & Thống kê](bao-cao-and-thong-ke-1.md)
 * [Thanh toán](untitled/README.md)
-  * Thanh toán
+  * [Thanh toán](untitled/thanh-toan/README.md)
     * [Subiz tính phí như thế nào](untitled/thanh-toan/subiz-tinh-phi-nhu-the-nao.md)
     * [Cách chọn gói dịch vụ phù hợp nhất?](untitled/thanh-toan/cach-chon-goi-dich-vu-phu-hop-nhat.md)
     * [Phương thức thanh toán](untitled/thanh-toan/untitled.md)
