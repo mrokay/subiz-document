@@ -39,7 +39,7 @@
     * [Quan sát khách truy cập](su-dung-subiz-nang-cao/untitled/quan-sat-khach-truy-cap.md)
     * [Làm thế nào để chặn một User](su-dung-subiz-nang-cao/untitled/lam-the-nao-de-chan-mot-user.md)
 * [Báo cáo & Thống kê](bao-cao-and-thong-ke-1.md)
-* Thanh toán
+* [Thanh toán](untitled/README.md)
   * Thanh toán
     * [Subiz tính phí như thế nào](untitled/thanh-toan/subiz-tinh-phi-nhu-the-nao.md)
     * [Cách chọn gói dịch vụ phù hợp nhất?](untitled/thanh-toan/cach-chon-goi-dich-vu-phu-hop-nhat.md)
