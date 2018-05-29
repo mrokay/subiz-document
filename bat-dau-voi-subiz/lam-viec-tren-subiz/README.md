@@ -7,11 +7,15 @@ description: >-
 
 # Làm việc trên Subiz
 
-Hướng dẫn làm việc trên Subiz như sau:
+Bây giờ, sau khi đã bạn đã thiết lập môi trường tương tác và cách thức triển khai hoạt động trên Subiz, bạn đã có thể bắt đầu tiến hành làm việc ngay trên Subiz.
 
-1. [Tương tác khách truy cập website trên kênh Subiz chat](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-tren-kenh-subiz-chat)
-2. [Tương tác khách hàng qua kênh Email](https://subiz.gitbook.io/subiz-document/~/edit/primary/bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-email)
-3. [Tương tác khách hàng trên Facebook qua kênh Messenger](https://subiz.gitbook.io/subiz-document/~/edit/primary/bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-messenger)
+Các phần hướng dẫn tại mục Làm việc trên Subiz sẽ gợi ý cho bạn cách tương tác với khách hàng đến từ nhiều kênh như Subiz Chat, Email, Facebook Messenger hiệu quả ngay trên bảng điều khiển Subiz.
+
+Hãy đăng nhập App.subiz.com và lưu ý các hướng dẫn sau để thực hiện hiệu quả các hoạt động tương tác với khách hàng của bạn:
+
+* ​[Tương tác khách truy cập website trên kênh Subiz chat](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-tren-kenh-subiz-chat)​
+* ​[Tương tác khách hàng qua kênh Email](https://subiz.gitbook.io/subiz-document/~/edit/primary/bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-email)​
+* ​[Tương tác khách hàng trên Facebook qua kênh Messenger](https://subiz.gitbook.io/subiz-document/~/edit/primary/bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-messenger)​
 
 
 

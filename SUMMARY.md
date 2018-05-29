@@ -20,7 +20,7 @@
       * [Tổng quan về Agent](bat-dau-voi-subiz/untitled/quan-ly-agent/cac-loai-agent.md)
       * [Tạo thêm và quản lý Agent](bat-dau-voi-subiz/untitled/quan-ly-agent/untitled.md)
       * [Quản lý nhóm Agent](bat-dau-voi-subiz/untitled/quan-ly-agent/untitled-1.md)
-    * Phân phối cuộc hội thoại
+    * [Phân phối cuộc hội thoại](bat-dau-voi-subiz/untitled/untitled/README.md)
       * [Cách thức phân phối cuộc hội thoại](bat-dau-voi-subiz/untitled/untitled/rule-phan-phoi-cuoc-hoi-thoai.md)
       * [Tạo Rule mới](bat-dau-voi-subiz/untitled/untitled/untitled.md)
       * [Quản lý danh sách Rule](bat-dau-voi-subiz/untitled/untitled/quan-ly-danh-sach-rule.md)
