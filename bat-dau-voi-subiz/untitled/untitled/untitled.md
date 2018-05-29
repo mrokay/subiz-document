@@ -1,6 +1,6 @@
 # Tạo Rule mới
 
-ạo Rule mới **là tạo quy tắc mới** để thiết lập tự động phân phối cuộc hội thoại tới một hoặc một nhóm Agent của bạn.
+Tạo Rule mới **là tạo quy tắc mới** để thiết lập tự động phân phối cuộc hội thoại tới một hoặc một nhóm Agent của bạn.
 
 Để tạo rule mới, bạn [đăng nhập tài khoản](https://app.subiz.com/login) và vào phần **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Rule &gt; Tạo Rule mới**
 

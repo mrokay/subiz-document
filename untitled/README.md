@@ -4,6 +4,9 @@ Các thông tin và hướng dẫn trong mục Thanh toán sẽ giúp bạn hi�
 
 Các phần hướng dẫn cụ thể sẽ có trong 2 mục:
 
-* [Thanh toán](https://help.subiz.com/untitled/thanh-toan)
-* [Quản lý gói dịch vụ](https://help.subiz.com/untitled/untitled)
+{% page-ref page="./" %}
+
+{% page-ref page="untitled/" %}
+
+
 
