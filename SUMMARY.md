@@ -28,7 +28,7 @@
     * [Tương tác trên kênh Subiz chat](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-tren-kenh-subiz-chat.md)
     * [Tương tác qua kênh Email](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-email.md)
     * [Tương tác qua kênh Messenger](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-messenger.md)
-* Sử dụng Subiz nâng cao
+* [Sử dụng Subiz nâng cao](su-dung-subiz-nang-cao/README.md)
   * [Tăng tương tác](su-dung-subiz-nang-cao/tang-tuong-tac/README.md)
     * [Tạo Automation](su-dung-subiz-nang-cao/tang-tuong-tac/tao-automation.md)
     * [Các ví dụ tự động gửi tin nhắn](su-dung-subiz-nang-cao/tang-tuong-tac/tu-dong-gui-tin-nhan-toi-khach-truy-cap.md)
