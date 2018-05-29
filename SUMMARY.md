@@ -12,7 +12,7 @@
     * [Tối ưu môi trường tương tác](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/toi-uu-moi-truong-tuong-tac/README.md)
       * [Cài đặt thông tin doanh nghiêp](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/toi-uu-moi-truong-tuong-tac/cai-dat-thong-tin-doanh-nghiep.md)
       * [Cài đặt thông báo tin nhắn mới](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/toi-uu-moi-truong-tuong-tac/cai-dat-thong-bao-tin-nhan-moi.md)
-    * [FAQs](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/faqs/README.md)
+    * FAQs
       * [Những vấn đề gặp phải khi đăng nhập Dashboard](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/faqs/untitled-1.md)
       * [Tôi không nhận được email của Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/faqs/toi-khong-nhan-duoc-email-cua-subiz.md)
   * [Triển khai hoạt động](bat-dau-voi-subiz/untitled/README.md)
