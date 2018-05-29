@@ -8,6 +8,7 @@ Phân loại, quan sát, đánh giá và quản lý dữ liệu khách hàng… 
 
 Các hướng dẫn cụ thể trong 2 mục sau, sẽ giúp bạn nâng cao hiệu quả sử dụng Subiz hơn nữa:
 
-* [Tăng tương tác](https://help.subiz.com/su-dung-subiz-nang-cao/tang-tuong-tac)
-* [Quản lý dữ liệu](https://help.subiz.com/su-dung-subiz-nang-cao/untitled)
+{% page-ref page="tang-tuong-tac/" %}
+
+{% page-ref page="untitled/" %}
 
