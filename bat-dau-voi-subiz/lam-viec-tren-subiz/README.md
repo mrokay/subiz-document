@@ -13,9 +13,11 @@ Các phần hướng dẫn tại mục Làm việc trên Subiz sẽ gợi ý cho
 
 Hãy đăng nhập App.subiz.com và lưu ý các hướng dẫn sau để thực hiện hiệu quả các hoạt động tương tác với khách hàng của bạn:
 
-* ​[Tương tác khách truy cập website trên kênh Subiz chat](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-tren-kenh-subiz-chat)​
-* ​[Tương tác khách hàng qua kênh Email](https://subiz.gitbook.io/subiz-document/~/edit/primary/bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-email)​
-* ​[Tương tác khách hàng trên Facebook qua kênh Messenger](https://subiz.gitbook.io/subiz-document/~/edit/primary/bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-messenger)​
+{% page-ref page="tuong-tac-tren-kenh-subiz-chat.md" %}
+
+{% page-ref page="tuong-tac-qua-kenh-email.md" %}
+
+{% page-ref page="tuong-tac-qua-kenh-messenger.md" %}
 
 
 
