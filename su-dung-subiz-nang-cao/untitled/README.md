@@ -4,8 +4,19 @@ Dữ liệu khách hàng luôn là tài sản quý với mọi doanh nghiệp. K
 
 Tại mục Quản lý dữ liệu, Subiz có các hướng dẫn sau:
 
-* [Phân khúc khách hàng](https://help.subiz.com/su-dung-subiz-nang-cao/untitled/phan-khuc-khach-hang): Phân nhóm khách hàng từ đó dễ dàng tiếp cận và gia tăng cơ hội chuyển đổi khách hàng.
-* [Cập nhật và chỉnh sửa thông tin user](https://help.subiz.com/su-dung-subiz-nang-cao/untitled/cap-nhat-va-chinh-sua-thong-tin-user): Cập nhật và tùy chỉnh các thông tin khách hàng của bạn.
-* [Quan sát khách truy cập](https://help.subiz.com/su-dung-subiz-nang-cao/untitled/quan-sat-khach-truy-cap): Quan sát và chủ động tương tác với khách truy cập dựa trên hành vi của họ trên Website
-* [Làm thế nào để chặn một User](https://help.subiz.com/su-dung-subiz-nang-cao/untitled/lam-the-nao-de-chan-mot-user): Chặn user có tương tác tiêu cực như gửi tin nhắn spam đến bạn.
+* Phân nhóm khách hàng từ đó dễ dàng tiếp cận và gia tăng cơ hội chuyển đổi khách hàng.
+
+{% page-ref page="phan-khuc-khach-hang.md" %}
+
+* Cập nhật và tùy chỉnh các thông tin khách hàng của bạn.
+
+{% page-ref page="cap-nhat-va-chinh-sua-thong-tin-user.md" %}
+
+* Quan sát và chủ động tương tác với khách truy cập dựa trên hành vi của họ trên Website
+
+{% page-ref page="quan-sat-khach-truy-cap.md" %}
+
+* Chặn user có tương tác tiêu cực như gửi tin nhắn spam đến bạn.
+
+{% page-ref page="lam-the-nao-de-chan-mot-user.md" %}
 
