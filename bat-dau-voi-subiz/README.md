@@ -6,7 +6,7 @@ Những hướng dẫn tại phần Bắt đầu cùng Subiz sẽ giúp bạn d�
 
 Trong đó:
 
-* Bạn sẽ dễ dàng tích hợp các kênh tương tác vào Subiz để có thể tương tác, theo đuổi khách hàng từ nhiều kênh ngay trên Subiz
+* Hướng dẫn tích hợp các kênh tương tác vào Subiz, giúp bạn tương tác và theo đuổi khách hàng từ nhiều kênh ngay trên Subiz
 
 {% page-ref page="thiet-lap-moi-truong-tuong-tac/" %}
 
@@ -14,7 +14,7 @@ Trong đó:
 
 {% page-ref page="trien-khai-hoat-dong/" %}
 
-* Bạn cũng có thể sử dụng Subiz hàng ngày, cụ thể là cách thức tương tác với khách hàng trên các kênh và sử dụng những tiện ích giúp bạn tương tác tốt hơn với khách hàng
+* Hướng dẫn bạn cách sử dụng Subiz hàng ngày, cụ thể là cách thức tương tác với khách hàng trên các kênh và sử dụng những tiện ích giúp bạn tương tác tốt hơn với khách hàng
 
 {% page-ref page="lam-viec-tren-subiz/" %}
 
