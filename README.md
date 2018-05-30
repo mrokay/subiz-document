@@ -18,5 +18,5 @@ Những lời khuyên và kiến thức giúp Doanh nghiệp nâng cao hiệu qu
 
 Cơ chế thanh toán linh hoạt và tiện lợi. Chúng tôi không phải là nhà cung ứng, mà đi cùng bạn trên một con thuyền.
 
-{% page-ref page="thanhtoan/" %}
+{% page-ref page="thanh-toan/" %}
 

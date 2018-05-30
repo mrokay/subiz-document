@@ -10,9 +10,9 @@ Trong đó, bạn sẽ được cung cấp các kiến thức về:
 
 * Mời thêm Agent và thay đổi trang thái của các Agent thành viên khi có sự thay đổi nhân sự trong doanh nghiệp của bạn
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="tao-them-va-quan-ly-agent.md" %}
 
 *  Tạo các nhóm Agent cùng hỗ trợ khách hàng tùy thuộc vào mô hình kinh doanh của bạn. Khi đó, bạn sẽ phát huy sức mạnh và hạn chế điểm yếu cá nhân của từng Agent.
 
-{% page-ref page="untitled-1.md" %}
+{% page-ref page="quan-ly-nhom-agent.md" %}
 

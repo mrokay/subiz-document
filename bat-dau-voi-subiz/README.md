@@ -12,7 +12,7 @@ Trong đó:
 
 * Bạn sẽ hiểu thêm về các loại Agent, hướng dẫn tạo thêm các Agent và thiết lập quy tắc phân phối các cuộc hội thoại cho các Agent
 
-{% page-ref page="untitled/" %}
+{% page-ref page="trien-khai-hoat-dong/" %}
 
 * Bạn cũng có thể sử dụng Subiz hàng ngày, cụ thể là cách thức tương tác với khách hàng trên các kênh và sử dụng những tiện ích giúp bạn tương tác tốt hơn với khách hàng
 

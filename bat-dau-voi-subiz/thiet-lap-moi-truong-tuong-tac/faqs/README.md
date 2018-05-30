@@ -6,7 +6,7 @@ Trong đó, bạn sẽ được:
 
 * Giải thích các trường hợp khi bạn không đăng nhập được và đưa ra những hướng dẫn giúp bạn Đăng nhập Dashboard Subiz thành công
 
-{% page-ref page="untitled-1.md" %}
+{% page-ref page="loi-dang-nhap-subiz.md" %}
 
 * Giải thích và hướng dẫn cho bạn cách nhận được email từ Subiz, giúp bạn có thể nhận được các thông báo, hướng dẫn và những chia sẻ từ Subiz.
 
