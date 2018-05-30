@@ -1,6 +1,6 @@
 # Xin chào, làm thế nào để chúng tôi hỗ trợ bạn?
 
-​Subiz đem lại gía trị gì cho Doanh nghiệp của bạn? Nó hoạt đông ra sao và các thuật ngữ để bạn dễ dàng hiểu sâu về Subiz.
+​Subiz đem lại giá trị gì cho Doanh nghiệp của bạn? Nó hoạt động ra sao và các thuật ngữ để bạn dễ dàng hiểu sâu về Subiz.
 
 {% page-ref page="subiz-la-gi.md" %}
 
