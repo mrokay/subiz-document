@@ -12,7 +12,7 @@ Khi đó:
 
 * Bạn sẽ hướng dẫn cụ thể cách tạo các Rule mới:
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="tao-rule-moi.md" %}
 
 * Ngoài ra, bạn cũng sẽ biết cách sử dụng và quản lý các Rule một cách hiệu quả:
 

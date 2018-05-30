@@ -10,5 +10,5 @@ Các hướng dẫn cụ thể sẽ có tại các trang:
 
 {% page-ref page="tu-dong-gui-tin-nhan-toi-khach-truy-cap.md" %}
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="tu-dong-hoi-dia-chi-email-cua-khach-hang.md" %}
 

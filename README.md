@@ -14,7 +14,7 @@ Những lời khuyên và kiến thức giúp Doanh nghiệp nâng cao hiệu qu
 
 Đánh giá và ra quyết định sẽ ảnh hưởng tới tương lai của doanh nghiệp. Đừng bỏ qua Báo cáo để nắm rõ được hiện trạng của Doanh nghiệp. 
 
-{% page-ref page="bao-cao-and-thong-ke-1.md" %}
+{% page-ref page="bao-cao-and-thong-ke.md" %}
 
 Cơ chế thanh toán linh hoạt và tiện lợi. Chúng tôi không phải là nhà cung ứng, mà đi cùng bạn trên một con thuyền.
 

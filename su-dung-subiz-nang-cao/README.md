@@ -10,5 +10,5 @@ Các hướng dẫn cụ thể trong 2 mục sau, sẽ giúp bạn nâng cao hi�
 
 {% page-ref page="tang-tuong-tac/" %}
 
-{% page-ref page="untitled/" %}
+{% page-ref page="quan-ly-du-lieu/" %}
 
