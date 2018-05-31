@@ -4,6 +4,8 @@ Trong quá trình làm việc, agent sẽ phải thao tác với rất nhiều �
 
 Cài đặt tính năng thông báo tin nhắn mới sẽ giúp bạn hiển thị cửa sổ pop-up nhỏ ở góc màn hình \(bao gồm thông báo âm thanh\) nhắc nhở khi có tin nhắn mới đến hoặc bất cứ thay đổi nào trên dashboard \(khách vào web, khách gửi yêu cầu chat…\) 
 
+![Th&#xF4;ng b&#xE1;o tin nh&#x1EAF;n m&#x1EDB;i tr&#xEA;n m&#xE0;n h&#xEC;nh](../../../.gitbook/assets/thong-bao-man-hinh.png)
+
 ### Các bước cài đặt thông báo tin nhắn mới 
 
 * Đăng nhập tài khoản &gt; nhấn vào ảnh đại diện góc trên bên phải màn hình &gt; chọn **Thông báo**
