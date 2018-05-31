@@ -8,7 +8,7 @@ Cài đặt tính năng thông báo tin nhắn mới sẽ giúp bạn hiển th�
 
 ### Các bước cài đặt thông báo tin nhắn mới 
 
-* Đăng nhập tài khoản &gt; nhấn vào ảnh đại diện góc trên bên phải màn hình &gt; chọn **Thông báo**
+* Vào phần [cài đặt thông báo tin nhắn mới](https://app.subiz.com/profile/setting-notification) \(hoặc Đăng nhập tài khoản &gt; nhấn vào ảnh đại diện góc trên bên phải màn hình &gt; chọn **Thông báo\)**
 
 ![Ch&#x1ECD;n c&#xE0;i &#x111;&#x1EB7;t th&#xF4;ng b&#xE1;o tin nh&#x1EAF;n m&#x1EDB;i](../../../.gitbook/assets/thong-bao.png)
 
