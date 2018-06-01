@@ -14,8 +14,6 @@ Subiz đã cung cấp thông tin và hướng dẫn chi tiết tại:
 
 {% page-ref page="phuong-thuc-thanh-toan.md" %}
 
-{% page-ref page="luu-y-khi-thanh-toan-faqs.md" %}
-
 {% page-ref page="faqs.md" %}
 
 

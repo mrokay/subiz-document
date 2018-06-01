@@ -42,9 +42,8 @@
 * [Thanh toán](thanh-toan/README.md)
   * [Subiz tính phí như thế nào](thanh-toan/subiz-tinh-phi-nhu-the-nao.md)
   * [Cách chọn gói dịch vụ phù hợp nhất?](thanh-toan/cach-chon-goi-dich-vu-phu-hop-nhat.md)
+  * [Phương thức thanh toán](thanh-toan/phuong-thuc-thanh-toan.md)
   * [Xem thông tin tài khoản hiện tại](thanh-toan/xem-thong-tin-tai-khoan-hien-tai.md)
   * [Thay đổi gói dịch vụ](thanh-toan/thay-doi-goi-dich-vu.md)
-  * [Phương thức thanh toán](thanh-toan/phuong-thuc-thanh-toan.md)
-  * [Lưu ý khi thanh toán \(FAQs\)](thanh-toan/luu-y-khi-thanh-toan-faqs.md)
   * [FAQs](thanh-toan/faqs.md)
 
