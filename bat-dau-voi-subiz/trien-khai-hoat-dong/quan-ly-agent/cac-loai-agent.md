@@ -79,11 +79,11 @@ Nếu quên mật khẩu đăng nhập, bạn có thể đặt lại mật khẩ
 
 * Nhập địa chỉ email và xác nhận captcha
 
-![Nh&#x1EAD;p email nh&#x1EAD;n x&#xE1;c nh&#x1EAD;n qu&#xEA;n m&#x1EAD;t kh&#x1EA9;u](../../../.gitbook/assets/quen-mat-khau-2.png)
+![Nh&#x1EAD;p email &#x111;&#xE3; &#x111;&#x103;ng k&#xFD; t&#xE0;i kho&#x1EA3;n Subiz](../../../.gitbook/assets/quen-mat-khau-2.png)
 
 *  Kiểm tra email khôi phục mật khẩu Subiz gửi về email của bạn. Click link **Reset Password**  trong email.
 
-![Ki&#x1EC3;m tra email v&#xE0; nh&#x1EA5;n n&#xFA;t reset m&#x1EAD;t kh&#x1EA9;u](../../../.gitbook/assets/reset-password.png)
+![Ki&#x1EC3;m tra email v&#xE0; ch&#x1ECD;n Reset Password](../../../.gitbook/assets/reset-password.png)
 
 * Nhập mật khẩu mới và click **Recover Password**.
 
