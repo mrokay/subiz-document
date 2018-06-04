@@ -37,7 +37,7 @@
     * [Phân khúc khách hàng](su-dung-subiz-nang-cao/quan-ly-du-lieu/phan-khuc-khach-hang.md)
     * [Cập nhật và chỉnh sửa thông tin user](su-dung-subiz-nang-cao/quan-ly-du-lieu/cap-nhat-va-chinh-sua-thong-tin-user.md)
     * [Quan sát khách truy cập](su-dung-subiz-nang-cao/quan-ly-du-lieu/quan-sat-khach-truy-cap.md)
-    * [Làm thế nào để chặn một User](su-dung-subiz-nang-cao/quan-ly-du-lieu/lam-the-nao-de-chan-mot-user.md)
+    * [Chặn một User](su-dung-subiz-nang-cao/quan-ly-du-lieu/lam-the-nao-de-chan-mot-user.md)
 * [Báo cáo & Thống kê](bao-cao-and-thong-ke.md)
 * [Thanh toán](thanh-toan/README.md)
   * [Subiz tính phí như thế nào](thanh-toan/subiz-tinh-phi-nhu-the-nao.md)

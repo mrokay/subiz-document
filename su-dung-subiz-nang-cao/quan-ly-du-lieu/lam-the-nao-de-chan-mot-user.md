@@ -1,8 +1,8 @@
-# Làm thế nào để chặn một User
+# Chặn một User
 
 Trong quá trình tương tác với khách hàng trên Subiz, bạn có thể gặp những users gây phiền toái cho cuộc trò chuyện như gửi tin nhắn spam, có những lời nói khiếm nhã hay có những hành vi làm ảnh hưởng đến doanh nghiệp...Vậy làm cách nào để ngăn những user này gửi email/ tin nhắn spam đến doanh nghiệp? Bài viết sau sẽ chia sẻ cho bạn những hướng dẫn cụ thể.
 
-### Chặn một User
+### Cách chặn một User
 
 Bạn có thể chặn một User theo 2 cách sau:
 
