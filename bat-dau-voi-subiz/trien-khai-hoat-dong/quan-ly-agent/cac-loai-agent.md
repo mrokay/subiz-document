@@ -68,7 +68,7 @@ Sau khi thay đổi mật khẩu thành công, bạn sẽ được đưa trở v
 {% endtab %}
 {% endtabs %}
 
-### Reset mật khẩu
+### Khôi phục mật khẩu bị quên
 
 Nếu quên mật khẩu đăng nhập, bạn có thể đặt lại mật khẩu theo các bước dưới đây:
 
