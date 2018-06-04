@@ -62,7 +62,7 @@ _Hướng dẫn thay đổi mật khẩu_: chọn **Đổi mật khẩu** &gt; *
 
 ![N&#xFA;t ch&#x1ECD;n thay &#x111;&#x1ED5;i m&#x1EAD;t kh&#x1EA9;u](../../../.gitbook/assets/thay-doi-mat-khau.jpg)
 
-![Nh&#x1EAD;p m&#x1EAD;t kh&#x1EA9;u hi&#x1EC7;n t&#x1EA1;i, m&#x1EAD;t kh&#x1EA9;u m&#x1EDB;i v&#xE0; g&#xF5; l&#x1EA1;i ch&#xED;nh x&#xE1;c m&#x1EAD;t kh&#x1EA9;u m&#x1EDB;i](../../../.gitbook/assets/change-password.png)
+![Thay &#x111;&#x1ED5;i m&#x1EAD;t kh&#x1EA9;u Agent](../../../.gitbook/assets/change-password.png)
 
 Sau khi thay đổi mật khẩu thành công, bạn sẽ được đưa trở về trang đăng nhập của Subiz và đăng nhập lại tài khoản bằng mật khẩu mới.
 {% endtab %}
@@ -72,16 +72,16 @@ Sau khi thay đổi mật khẩu thành công, bạn sẽ được đưa trở v
 
 Nếu quên mật khẩu đăng nhập, bạn có thể đặt lại mật khẩu theo các bước dưới đây:
 
-* Vào[ trang đăng nhập Subiz](https://app.subiz.com/)​
-* Click vào phần **Quên mật khẩu** ở dưới form đăng nhập
+* Vào trang đăng nhập **App.subiz.com**
+* Click vào phần **Bạn quên mật khẩu?**
 
 ![Khi b&#x1EA1;n qu&#xEA;n m&#x1EAD;t kh&#x1EA9;u](../../../.gitbook/assets/quen-mat-khau-1.png)
 
-* Nhập email và xác nhận captcha
+* Nhập địa chỉ email và xác nhận captcha
 
 ![Nh&#x1EAD;p email nh&#x1EAD;n x&#xE1;c nh&#x1EAD;n qu&#xEA;n m&#x1EAD;t kh&#x1EA9;u](../../../.gitbook/assets/quen-mat-khau-2.png)
 
-*  Kiểm tra email khôi phục mật khẩu Subiz gửi về email của bạn. Click nút **Reset Password**  trong email.
+*  Kiểm tra email khôi phục mật khẩu Subiz gửi về email của bạn. Click link **Reset Password**  trong email.
 
 ![Ki&#x1EC3;m tra email v&#xE0; nh&#x1EA5;n n&#xFA;t reset m&#x1EAD;t kh&#x1EA9;u](../../../.gitbook/assets/reset-password.png)
 
@@ -91,7 +91,7 @@ Nếu quên mật khẩu đăng nhập, bạn có thể đặt lại mật khẩ
 
 * Mật khẩu của bạn đã được thay đổi thành công. Click vào Login để đăng nhập lại
 
-![M&#x1EAD;t kh&#x1EA9;u c&#x1EE7;a b&#x1EA1;n &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c thay &#x111;&#x1ED5;i th&#xE0;nh c&#xF4;ng](../../../.gitbook/assets/change-password-success.png)
+![X&#xE1;c nh&#x1EAD;n kh&#xF4;i ph&#x1EE5;c m&#x1EAD;t kh&#x1EA9;u th&#xE0;nh c&#xF4;ng](../../../.gitbook/assets/change-password-success.png)
 
 
 
