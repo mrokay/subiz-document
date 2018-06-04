@@ -1,10 +1,3 @@
----
-description: >-
-  Subiz là Công cụ giúp bạn dễ dàng tiếp cận, tương tác và quản lý khách hàng
-  trên Website, Email, Messenger. Hãy đăng nhập App.subiz.com và bắt đầu ngày
-  làm việc hiệu quả.
----
-
 # Làm việc trên Subiz
 
 Bây giờ, sau khi đã bạn đã thiết lập môi trường tương tác và cách thức triển khai hoạt động trên Subiz, bạn đã có thể bắt đầu tiến hành làm việc ngay trên Subiz.
