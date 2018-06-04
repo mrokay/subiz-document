@@ -49,17 +49,13 @@ Khi bạn \(Agent\) được phân quyền **Truy cập đầy đủ** chức n�
 * Tài khoản Agent bị xóa sẽ không thể sử dụng để đăng ký lại tài khoản Subiz. 
 {% endhint %}
 
-Hướng dẫn thao tác: Đăng nhập **App.subiz.com** &gt; **Cài đặt** &gt; **Tài khoản** &gt; **Danh sách Agent** &gt; Chọn **Agent muốn tùy chỉnh/ xóa** &gt; Chọn nút **Chỉnh/ Xóa**
+Hướng dẫn thao tác: Đăng nhập **App.subiz.com** &gt; **Cài đặt** &gt; **Tài khoản** &gt; **Danh sách Agent** &gt; Chọn **Agent muốn tùy chỉnh/ xóa** &gt; Chọn nút **Tùy Chỉnh/ Xóa**
 
 ![T&#xF9;y ch&#x1EC9;nh th&#xF4;ng tin Agent](../../../.gitbook/assets/tuy-chinh-thong-tin-agent.jpg)
 
-_Hướng dẫn Khóa tài khoản Agent \(Inactive Agent\) như sau_: Chọn **nút Chỉnh/ Xóa** &gt; Tắt **OFF** trạng thái Agent ****&gt; Chọn **Lưu** 
+Hướng dẫn Khóa tài khoản Agent \(Inactive Agent\) như sau: Chọn **nút Chỉnh/ Xóa** &gt; Tắt **OFF** trạng thái Agent ****&gt; Chọn **Lưu** 
 
 ![Kh&#xF3;a t&#xE0;i kho&#x1EA3;n c&#x1EE7;a Agent](../../../.gitbook/assets/thay-doi-trang-thai-agent.jpg)
-
-{% hint style="info" %}
-
-{% endhint %}
 
 
 
