@@ -1,14 +1,14 @@
 # Xin chào, làm thế nào để chúng tôi hỗ trợ bạn?
 
-​Subiz đem lại giá trị gì cho Doanh nghiệp của bạn? Nó hoạt động ra sao và các thuật ngữ để bạn dễ dàng hiểu sâu về Subiz.
+​Giới thiệu tổng quan về Subiz, như Subiz đem lại giá trị gì cho Doanh nghiệp của bạn? Nó hoạt động ra sao và các thuật ngữ để bạn dễ dàng hiểu sâu về Subiz.
 
 {% page-ref page="subiz-la-gi.md" %}
 
-Bắt đầu áp dụng Subiz vào doanh nghiệp của bạn và có hiệu qủa cao nhất. Từ đó giúp doanh nghiệp của bạn nâng cao hiệu suất và tăng năng lực cạnh tranh. 
+Bắt đầu áp dụng Subiz vào doanh nghiệp của bạn và có hiệu quả cao nhất. Từ đó giúp doanh nghiệp của bạn nâng cao hiệu suất và tăng năng lực cạnh tranh. 
 
 {% page-ref page="bat-dau-voi-subiz/" %}
 
-Những lời khuyên và kiến thức giúp Doanh nghiệp nâng cao hiệu quả. 
+Những lời khuyên và kiến thức giúp Doanh nghiệp nâng cao hiệu quả sử dụng. 
 
 {% page-ref page="su-dung-subiz-nang-cao/" %}
 
