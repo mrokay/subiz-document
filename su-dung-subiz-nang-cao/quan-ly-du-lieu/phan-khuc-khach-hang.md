@@ -42,21 +42,23 @@ Phân khúc khách hàng chỉ có thể được tạo khi bạn đang sử d�
 
 ### Quản lý danh sách phân khúc
 
+#### Danh sách phân khúc
+
 Các Phân khúc đã được tạo sẽ hiển thị trong danh sách Phân khúc.
 
 ![Danh s&#xE1;ch c&#xE1;c ph&#xE2;n kh&#xFA;c &#x111;&#xE3; t&#x1EA1;o](../../.gitbook/assets/segment-list%20%281%29.png)
 
-**Được tạo:** Thời gian Phân khúc được khởi tạo
+* **Được tạo:** Thời gian Phân khúc được khởi tạo
 
 Thời gian này liên quan đến việc kiểm tra và lọc user để đưa vào Phân khúc \(trong trường hợp chế độ “**Lọc tất cả user**” ở trạng thái OFF\).
 
 Trường hợp có thay đổi điều kiện của phân khúc, ngày tạo sẽ được hiển thị là ngày thay đổi điều kiện gần nhất \(tương đương với tạo Phân khúc mới\).
 
-**Số lượng user:** Số user có trong Phân khúc
+* **Số lượng user:** Số user có trong Phân khúc
 
 Các phân khúc sau khi được tạo sẽ cần có một khoảng thời gian nhất định để xác định số user có trong phân khúc, bởi vậy, trong một số trường hợp,  số lượng user sẽ hiển thị ở dạng _“Đang ước tính”_ thay vì con số cụ thể.
 
-**Sửa/ Xóa Phân khúc**
+#### **Sửa/ Xóa Phân khúc**
 
 Khi cần sửa hoặc xóa 1 phân khúc, bạn click vào button tương ứng trong danh sách phân khúc.
 
