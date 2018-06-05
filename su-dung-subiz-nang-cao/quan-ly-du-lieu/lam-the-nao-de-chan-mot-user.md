@@ -6,13 +6,13 @@ Trong quá trình tương tác với khách hàng trên Subiz, bạn có thể g
 
 Bạn có thể chặn một User theo 2 cách sau:
 
-**1.Chặn trực tiếp User trong tab Activities \(Hoạt động\)**
+* **Chặn trực tiếp User trong tab Activities \(Hoạt động\)**
 
 Trong cuộc hội thoại, bạn có thể chặn user bằng cách click vào biểu tượng ba chấm ở góc phải màn hình và bật nút Block
 
 ![Ch&#x1EB7;n user tr&#x1EF1;c ti&#x1EBF;p](../../.gitbook/assets/chan-chat-truc-tiep.png)
 
-**2. Chặn User thông qua Blacklist \(Danh sách đen\)**
+* **Chặn User thông qua Blacklist \(Danh sách đen\)**
 
 Blacklist là danh sách những user mà bạn đã chặn. Để thêm vào danh sách này, bạn vào mục **Cài đặt/ Tài khoản/ Danh sách đen/ Chặn**. Tại đây bạn chỉ cần copy địa chỉ **IP, Email** hoặc **ID** của User muốn chặn.
 
@@ -74,8 +74,8 @@ Bao gồm danh sách các Users đã bị Chặn, Agent thao tác chặn và th�
 
 Để bỏ chặn một User, bạn có thể thao tác theo 2 cách sau:
 
-* **Bỏ chặn trực tiếp trên trang Activities:**  Từ Tab activities -&gt; Tìm User và tắt Chặn User.
-* **Bỏ chặn trong Blacklist:** Trong BlackList , click vào biểu tượng remove đối với User muốn bỏ chặn
+* **Bỏ chặn trực tiếp trên trang Activities:** Từ Tab activities &gt; Tìm User và tắt Chặn User.
+* **Bỏ chặn trong Blacklist:** Trong BlackList, click vào biểu tượng remove đối với User muốn bỏ chặn
 
 ![B&#x1ECF; ch&#x1EB7;n User](../../.gitbook/assets/bo-chan.png)
 
@@ -83,7 +83,7 @@ Bao gồm danh sách các Users đã bị Chặn, Agent thao tác chặn và th�
 
 * **Với Channel Subiz Chat:** User sẽ không nhìn thấy cửa sổ chat và không thể tạo cuộc hội thoại hay gửi tin nhắn.
 * **Với Channel Email:** User gửi email và bị chặn tại Subiz Core. Mail đó sẽ không được hiển thị cho Agent.
-* **Với Channel Messenger:** Tin nhắn được chặn ở Subiz Core và không hiển thị cho Agent. Lưu  ý: tin nhắn vẫn tồn tại và hiển thị nếu khách dùng Quản trị fanpage.
+* **Với Channel Messenger:** Tin nhắn được chặn ở Subiz Core và không hiển thị cho Agent \(Lưu ý: tin nhắn vẫn tồn tại và hiển thị nếu khách dùng Quản trị fanpage\)
 * Các agent bị chặn có Avatar gạch chéo  
 
 ![Avatetr User b&#x1ECB; block](../../.gitbook/assets/avatar-spam.png)
