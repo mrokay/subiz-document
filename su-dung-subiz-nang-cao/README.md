@@ -8,7 +8,7 @@ Phân loại, quan sát, đánh giá và quản lý dữ liệu khách hàng… 
 
 Các hướng dẫn cụ thể trong 2 mục sau, sẽ giúp bạn nâng cao hiệu quả sử dụng Subiz hơn nữa:
 
-{% page-ref page="tang-tuong-tac/" %}
+{% page-ref page="tuong-tac-tu-dong/" %}
 
 {% page-ref page="quan-ly-du-lieu/" %}
 
