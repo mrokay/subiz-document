@@ -39,16 +39,16 @@ Nếu tất cả các thông tin bạn điền là chính xác, bạn có thể 
 
 ### Hợp đồng và Hóa đơn \(đối với khách hàng doanh nghiệp\) 
 
+Để gửi yêu cầu thực hiện Hợp đồng và Hóa đơn, bạn vui lòng điền thông tin theo [mẫu](https://docs.subiz.com/wp-content/uploads/2017/12/Subiz_Th%C3%B4ng-tin-doanh-nghi%E1%BB%87p.doc) và gửi tới email [billing@subiz.com](mailto:billing@subiz.com).
+
+* Phương thức vận chuyển: Chuyển phát qua đơn vị Chuyển phát nhanh
+* Thời gian thực hiện: **07 – 10 ngày** làm việc
+
 {% hint style="info" %}
 * **Hợp đồng** được thực hiện với thuê bao có chu kỳ thanh toán từ **12 tháng** trở lên.
 * **Hóa đơn** được xuất theo yêu cầu của doanh nghiệp với chu kỳ thanh toán từ **03 tháng** trở lên.
 * Sản phẩm của Subiz thuộc đối tượng không chịu thuế. Phần VAT trong hóa đơn sẽ được gạch chéo.
 {% endhint %}
-
-Để gửi yêu cầu thực hiện Hợp đồng và Hóa đơn, bạn vui lòng điền thông tin theo [mẫu](https://docs.subiz.com/wp-content/uploads/2017/12/Subiz_Th%C3%B4ng-tin-doanh-nghi%E1%BB%87p.doc) và gửi tới email [billing@subiz.com](mailto:billing@subiz.com).
-
-* Phương thức vận chuyển: Chuyển phát qua đơn vị Chuyển phát nhanh
-* Thời gian thực hiện: **07 – 10 ngày** làm việc
 
 #### Xuất hóa đơn muộn?
 
