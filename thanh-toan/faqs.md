@@ -109,8 +109,10 @@ Khi nhận được thông báo, bạn có thể kiểm tra hóa đơn trực ti
 
 ![H&#xF3;a &#x111;&#x1A1;n thanh to&#xE1;n](../.gitbook/assets/hoa-don-thanh-toan%20%282%29.png)
 
-* Nếu tài khoản của bạn được thiết lập gọi thanh toán tự động qua thẻ tín dụng, hệ thống sẽ tự động gọi thanh toán trong vòng 24h tính từ thời điểm hóa đơn phát sinh.  
+{% hint style="info" %}
+* Nếu tài khoản của bạn được thiết lập gọi thanh toán tự động qua thẻ tín dụng, hệ thống sẽ tự động gọi thanh toán trong vòng 24h tính từ thời điểm hóa đơn phát sinh. 
 * Nếu tài khoản của bạn sử dụng hình thức thanh toán chuyển khoản, trong vòng 07 ngày hệ thống sẽ gửi thông báo nhắc qua email về việc đề nghị thanh toán gia hạn tài khoản.
+{% endhint %}
 
 ### Hóa đơn quá hạn được thông báo qua các kênh nào?
 
