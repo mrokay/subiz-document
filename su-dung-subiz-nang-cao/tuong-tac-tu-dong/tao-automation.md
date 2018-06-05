@@ -1,12 +1,10 @@
-# Tạo Automation
+# Tạo Automation mới
 
-Với tính năng Automation, giờ đây bạn có thể tự động hóa việc tương tác với khách hàng, thu hút sự chú ý của khách ngay khi họ vào website và theo đuổi khách hàng qua các kênh khác nhau. Bạn không còn cần phụ thuộc quá nhiều vào sự hiện diện của nhân viên trực nữa.
+Dựa trên các đối tượng khách hàng bạn có, cách thức bạn muốn chăm sóc và theo đuổi khách hàng, bạn  có thể thiết lập nhiều hành động Automation với các điều kiện nhất định để thực hiện các hành động tự động hóa tương tác với khách hàng vào những thời điểm khác nhau theo ý muốn của bạn.
 
-Cụ thể, bạn có thể cài đặt các Automation thực hiện các hành động khác nhau với từng đối tượng khách hàng với các điều kiện nhất định.
+Để tạo mới một Automation, bạn vào phần tạo [**Tạo Automation mới**](https://app.subiz.com/settings/automation-list) và thực hiện các bước sau:
 
-Tại trang **Tạo Automation**, bạn cài đặt lần lượt theo các bước sau:
-
-### **Nhập Tên và Mô tả cho Automation**
+**Nhập Tên và Mô tả cho Automation**
 
 Tên và Mô tả giúp bạn nhận diện và phân biệt các Automation đã cài đặt
 

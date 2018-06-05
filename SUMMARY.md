@@ -30,7 +30,7 @@
     * [Tương tác qua kênh Messenger](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-messenger.md)
 * [Sử dụng Subiz nâng cao](su-dung-subiz-nang-cao/README.md)
   * [Tương tác tự động](su-dung-subiz-nang-cao/tuong-tac-tu-dong/README.md)
-    * [Tạo Automation](su-dung-subiz-nang-cao/tuong-tac-tu-dong/tao-automation.md)
+    * [Tạo Automation mới](su-dung-subiz-nang-cao/tuong-tac-tu-dong/tao-automation.md)
     * [Các ví dụ tự động gửi tin nhắn](su-dung-subiz-nang-cao/tuong-tac-tu-dong/tu-dong-gui-tin-nhan-toi-khach-truy-cap.md)
     * [Tự động hỏi địa chỉ email của khách hàng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/tu-dong-hoi-dia-chi-email-cua-khach-hang.md)
   * [Quản lý dữ liệu](su-dung-subiz-nang-cao/quan-ly-du-lieu/README.md)
