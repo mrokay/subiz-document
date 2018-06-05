@@ -10,7 +10,7 @@ Nếu có bất kỳ câu hỏi nào liên quan đến hóa đơn phát sinh và
 
 ### Tại sao thanh toán thẻ không thành công? 
 
-#### Tại sao thẻ tín dụng của tôi bị từ chối?
+#### Thẻ tín dụng của bạn bị từ chối
 
 Trong quá trình thực hiện thanh toán qua thẻ tín dụng, thông báo lỗi “thẻ bị từ chối” xảy ra có thể do nhiều nguyên nhân.
 
