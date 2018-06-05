@@ -22,15 +22,11 @@ Với hành động hỏi địa chỉ email, **bạn có thể để điều ki
 
 * Ngôn ngữ tiếng Việt
 
-Khi bạn chọn ngôn ngữ là tiếng Việt cho cửa sổ Subiz trên website của bạn, thì câu hỏi thông tin sẽ là tiếng Việt
-
-**“Vui lòng nhập địa chỉ email để chúng tôi có thể liên lạc khi bạn cần nhiều sự trợ giúp hơn”**
+Khi bạn chọn ngôn ngữ là tiếng Việt cho cửa sổ Subiz trên website của bạn, thì câu hỏi thông tin sẽ là tiếng Việt: **“Vui lòng nhập địa chỉ email để chúng tôi có thể liên lạc khi bạn cần nhiều sự trợ giúp hơn”**
 
 * Ngôn ngữ tiếng Anh
 
-Khi bạn chọn ngôn ngữ là tiếng Anh cho cửa sổ Subiz trên website của bạn, thì câu hỏi thông tin sẽ là tiếng Anh
-
-**“Please provide us your email address, so we could reach out to you later when you need more help”**
+Khi bạn chọn ngôn ngữ là tiếng Anh cho cửa sổ Subiz trên website của bạn, thì câu hỏi thông tin sẽ là tiếng Anh: **“Please provide us your email address, so we could reach out to you later when you need more help”**
 
 * Ngôn ngữ tự động
 
