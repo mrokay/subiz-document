@@ -44,9 +44,6 @@ Bạn cần chọn một agent làm đại diện cho doanh nghiệp của bạn
 
 ### Lưu ý khi thiết lập Automation hỏi địa chỉ email 
 
-{% hint style="info" %}
-Hành động gửi tin nhắn hỏi địa chỉ email chỉ được thực hiện khi đã có cuộc hội thoại \(conversation\) được khởi tạo – Sau khi khách hàng nhập email, thông tin sẽ được đồng bộ vào dữ liệu của user.
-{% endhint %}
-
-
+* Hành động gửi tin nhắn hỏi địa chỉ email chỉ được thực hiện khi đã có cuộc hội thoại \(conversation\) được khởi tạo
+* Sau khi khách hàng nhập email, thông tin sẽ được đồng bộ vào dữ liệu của user.
 
