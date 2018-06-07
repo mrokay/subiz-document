@@ -17,23 +17,26 @@ Một Agent sẽ có **3 loại Quyền** khi sử dụng tài khoản Subiz.
 
 1. **Quản lý tài khoản**
 
-* Quyền này cho phép bạn có thể quản lý thông tin Agent bao gồm mời Agent, tùy chỉnh Agent hay xóa tài khoản Agent. Đồng thời bạn có thể truy cập mục Cài đặt Thanh toán để quản lý gói dịch vụ Subiz như nâng cấp tài khoản, mua thêm Agent, nâng gói Subiz, gia hạn tài khoản,...
+* Quyền này cho phép bạn có thể quản lý thông tin Agent bao gồm mời Agent, tùy chỉnh Agent hay xóa tài khoản Agent. Và, bạn có thể truy cập mục Cài đặt Thanh toán để quản lý gói dịch vụ Subiz như nâng cấp tài khoản, mua thêm Agent, nâng gói Subiz, gia hạn tài khoản,...
 * Bạn lựa chọn quyền **Truy cập đầy đủ** hoặc **Không có quyền truy cập**
 
   2. **Cài đặt tài khoản**
 
-* Quyền này cho phép Agent có thể quản lý Agent bao gồm mời Agent, tùy chỉnh Agent hay xóa tài khoản Agent. Và Agent có thể tùy chỉnh cài đặt tài khoản như Automation, Rule, Cửa sổ chat,...
+* Quyền này cho phép bạn có thể quản lý Agent bao gồm mời Agent, tùy chỉnh Agent hay xóa tài khoản Agent. Và, bạn có thể tùy chỉnh cài đặt tài khoản như Automation, Rule, Cửa sổ chat,...
 * Bạn lựa chọn quyền **Truy cập đầy đủ** hoặc **Không có quyền truy cập**
 
   3. **Hội thoại**
 
-* Quyền này cho phép Agent xuất dữ liệu User và xem hội thoại của Agent khác
-* Bạn có thể lựa chọn **Truy cập đầy đủ** hoặc **Truy cập hạn chế**
+* Quyền này cho phép bạn xuất dữ liệu User và xem nội dung cuộc hội thoại của Agent khác
+* Bạn có thể lựa chọn **Truy cập đầy đủ** hoặc **Truy cập hạn chế** một trong hai phân quyền trên.
 
 ![Ph&#xE2;n quy&#x1EC1;n Agent](../../../.gitbook/assets/phan-quen-agent.png)
 
 {% hint style="info" %}
-Agent owner - Chủ tài khoản sẽ có đầy đủ cả 3 quyền trên và không Agent nào có thể tùy chỉnh quyền của Agent này.
+Một số lưu ý về phân quyền Agent:
+
+* Chủ tài khoản - Agent owner sẽ có đầy đủ cả 3 quyền Quản lý tài khoản, Cài đặt tài khoản và Hội thoại. Không Agent nào có thể tùy chỉnh quyền của chủ tài khoản.
+* Bạn không thể tùy chỉnh phân quyền Agent của mình. Chỉ những Agent có quyền Quản lý tài khoản hoặc Cài đặt tài khoản được phép tùy chỉnh quyền của các Agent khác.
 {% endhint %}
 
 ### Thông tin cá nhân của Agent
