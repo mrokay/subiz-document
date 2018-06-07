@@ -20,7 +20,7 @@ Cài đặt tính năng thông báo tin nhắn mới sẽ giúp bạn hiển th�
 
 ![Cho ph&#xE9;p hi&#x1EC3;n th&#x1ECB; th&#xF4;ng b&#xE1;o m&#x1EDB;i](../../../.gitbook/assets/cho-phep-hien-thong-bao.png)
 
-### Nhưng lưu ý khi cài đặt thông báo tin nhắn mới trên các trình duyệt
+### Cài đặt thông báo tin nhắn mới trên các trình duyệt
 
 Trong quá trình cài đặt thông báo tin nhắn mới, có thể trình duyệt bạn đang sử dụng đã thiết lập mặc định chặn các thông báo, bạn cần cài đặt cho phép nhận thông báo từ app.subiz.com
 
