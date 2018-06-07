@@ -36,5 +36,5 @@ Chúng tôi khuyến cáo, nếu lượng cuộc chat của bạn nhiều \(hơn
 
 ### Liên hệ với Subiz để được hỗ trợ
 
- Sau khi thực hiện các bước trên, bạn vẫn không thấy email của Subiz gửi. Vậy có thể nó đã không được gửi tới hòm mail của bạn. Hãy liên lạc với Subiz qua email [support@subiz.com](mailto:support@subiz.com) hoặc cửa sổ chat tại [Subiz.com](https://subiz.com/vi/) để được hỗ trợ trực tiếp.
+Sau khi thực hiện các bước trên, bạn vẫn không thấy email của Subiz gửi. Vậy có thể nó đã không được gửi tới hòm mail của bạn. Hãy liên lạc với Subiz qua email [support@subiz.com](mailto:support@subiz.com) hoặc cửa sổ chat tại [Subiz.com](https://subiz.com/vi/) để được hỗ trợ trực tiếp.
 
