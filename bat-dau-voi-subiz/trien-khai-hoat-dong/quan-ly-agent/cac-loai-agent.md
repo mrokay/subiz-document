@@ -13,15 +13,28 @@ Mỗi tài khoản Subiz sẽ có 2 đối tượng Agent sau;
 
 ### Phân quyền tài khoản Agent
 
-Một Agent sẽ có **3 Quyền** khi sử dụng tài khoản Subiz. 
+Một Agent sẽ có **3 loại Quyền** khi sử dụng tài khoản Subiz. 
 
-Bạn có thể lựa chọn phân quyền Agent là “**Không có quyền truy cập**” hoặc “**Truy cập đầy đủ**”.
+1. **Quản lý tài khoản**
 
-1. **Quản lý tài khoản**: Quyền truy cập đầy đủ cho phép thêm, sửa thông tin hoặc xóa agent, đồng thời có thể thay đổi Gói cước và thanh toán.
-2. **Cài đặt tài khoản**: Quyền truy cập đầy đủ cho phép tùy chỉnh cài đặt tài khoản và quản lý agent \(thêm, sửa thông tin hoặc xóa agent\)
-3. **Hội thoại**: Quyền truy cập cho phép xuất dữ liệu user và xem conversation của các Agent khác.
+* Quyền này cho phép bạn có thể quản lý thông tin Agent bao gồm mời Agent, tùy chỉnh Agent hay xóa tài khoản Agent. Đồng thời bạn có thể truy cập mục Cài đặt Thanh toán để quản lý gói dịch vụ Subiz như nâng cấp tài khoản, mua thêm Agent, nâng gói Subiz, gia hạn tài khoản,...
+* Bạn lựa chọn quyền **Truy cập đầy đủ** hoặc **Không có quyền truy cập**
+
+  2. **Cài đặt tài khoản**
+
+* Quyền này cho phép Agent có thể quản lý Agent bao gồm mời Agent, tùy chỉnh Agent hay xóa tài khoản Agent. Và Agent có thể tùy chỉnh cài đặt tài khoản như Automation, Rule, Cửa sổ chat,...
+* Bạn lựa chọn quyền **Truy cập đầy đủ** hoặc **Không có quyền truy cập**
+
+  3. **Hội thoại**
+
+* Quyền này cho phép Agent xuất dữ liệu User và xem hội thoại của Agent khác
+* Bạn có thể lựa chọn **Truy cập đầy đủ** hoặc **Truy cập hạn chế**
 
 ![Ph&#xE2;n quy&#x1EC1;n Agent](../../../.gitbook/assets/phan-quen-agent.png)
+
+{% hint style="info" %}
+Agent owner - Chủ tài khoản sẽ có đầy đủ cả 3 quyền trên và không Agent nào có thể tùy chỉnh quyền của Agent này.
+{% endhint %}
 
 ### Thông tin cá nhân của Agent
 
