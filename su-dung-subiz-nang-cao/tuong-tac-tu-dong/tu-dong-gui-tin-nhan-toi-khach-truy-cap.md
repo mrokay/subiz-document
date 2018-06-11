@@ -8,31 +8,43 @@ Xem thêm [Tại sao phải chào hỏi khách hàng ghé thăm website](https:/
 
 ### Gửi tin nhắn tới khách vào 1 trang cụ thể trên website {#1-gui-tin-nhan-toi-khach-vao-1-trang-cu-the-tren-website}
 
-Bạn muốn gửi thông điệp quảng cáo tới các khách vào 1 trang sản phẩm cụ thể, hoặc muốn gửi chương trình khuyến mãi cho khách vào trang thanh toán? Bạn chỉ cần thiết lập Automation theo điều kiện URL của trang.
+Khi khách hàng mới ghé thăm website, bạn muốn gửi đến khách hàng một lời chào đến họ, để họ biết sự hiện diện của bạn và luôn sẵn sàng giúp họ bất cứ khi nào trong quá trình mua sắm.
 
 Ví dụ: URL của trang – chứa – http://abc.com.vn/
 
-![G&#x1EED;i tin nh&#x1EAF;n d&#x1EF1;a tr&#xEA;n &#x111;i&#x1EC1;u ki&#x1EC7;n URL c&#x1EE7;a trang](../../.gitbook/assets/url.png)
+![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng v&#xE0;o website ](../../.gitbook/assets/chao-khach-hang-vao-website.png)
 
 ### Gửi tin nhắn đến khách chưa có thông tin cá nhân {#2-gui-tin-nhan-den-khach-chua-co-thong-tin-ca-nhan}
 
 Với các khách hàng chưa có thông tin cá nhân trên hệ thống, bạn có thể gửi chào kèm theo lời mời khách để lại thông tin cá nhân để bạn có thể liên hệ lại bất cứ lúc nào.
 
-![&#x110;i&#x1EC1;u ki&#x1EC7;n g&#x1EED;i tin nh&#x1EAF;n cho kh&#xE1;ch ch&#x1B0;a c&#xF3; th&#xF4;ng tin](../../.gitbook/assets/user-info.png)
+![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng kh&#xF4;ng c&#xF3; th&#xF4;ng tin](../../.gitbook/assets/chao-khach-hang-khong-co-thong-tin.png)
 
-### Gửi tin nhắn cho khách hàng theo khu vực địa lý {#3-gui-tin-nhan-cho-khach-hang-theo-khu-vuc-dia-ly}
+### Gửi tin nhắn cho khách hàng khi xem một sản phẩm cụ thể {#3-gui-tin-nhan-cho-khach-hang-theo-khu-vuc-dia-ly}
+
+Bạn muốn gửi thông điệp quảng cáo tới các khách vào 1 trang sản phẩm cụ thể, hoặc muốn gửi chương trình khuyến mãi cho khách vào trang thanh toán? Bạn chỉ cần thiết lập Automation theo điều kiện URL của trang chứa link sản phẩm:
+
+![Ch&#xE0;o kh&#xE1;ch khi kh&#xE1;ch xem m&#x1ED9;t s&#x1EA3;n ph&#x1EA9;m c&#x1EE5; th&#x1EC3;](../../.gitbook/assets/chao-khach-khi-xem-mot-san-pham-cu-the.png)
+
+### Gửi tin nhắn cho khách hàng đến từ một thành phố cụ thể
+
+Nếu bạn có những khách hàng đến từ những thành phố khác nhau và bạn muốn có thể dễ dàng nhận diện được những khách hàng này và gửi lời chào đến họ, bạn hãy cài đặt automation theo hướng dẫn sau:
+
+![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng &#x111;&#x1EBF;n t&#x1EEB; m&#x1ED9;t th&#xE0;nh ph&#x1ED1; c&#x1EE5; th&#x1EC3;](../../.gitbook/assets/chao-khach-den-tu-mot-thanh-pho-cu-the.png)
+
+### Gửi tin nhắn cho khách hàng theo khu vực địa lý
 
 Subiz hỗ trợ bạn gửi tin nhắn riêng biệt tới từng đối tượng khách hàng chia theo khu vực địa lý theo Quốc gia. Bạn có thể sử dụng để gửi tin nhắn với ngôn ngữ phù hợp tới từng đối tượng khách hàng. Ví dụ, với khách hàng đến từ Việt Nam, bạn cài đặt tin nhắn bằng ngôn ngữ Tiếng Việt.
 
 Điều kiện: Mã quốc gia – bằng – VN
 
-![&#x110;i&#x1EC1;u ki&#x1EC7;n g&#x1EED;i tin nh&#x1EAF;n cho kh&#xE1;ch Vi&#x1EC7;t Nam](../../.gitbook/assets/vn.png)
+![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng &#x111;&#x1EBF;n t&#x1EEB; Vi&#x1EC7;t Nam](../../.gitbook/assets/chao-khach-hang-den-tu-viet-nam.png)
 
 Với khách hàng nước ngoài, bạn cài đặt tin nhắn bằng ngôn ngữ Tiếng Anh.
 
 Điều kiện: Mã quốc gia – không phải là – VN
 
-![&#x110;i&#x1EC1;u ki&#x1EC7;n g&#x1EED;i tin nh&#x1EAF;n b&#x1EB1;ng ti&#x1EBF;ng Anh](../../.gitbook/assets/en.png)
+![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng &#x111;&#x1EBF;n t&#x1EEB; n&#x1B0;&#x1EDB;c ngo&#xE0;i](../../.gitbook/assets/chao-khach-hang-nuoc-ngoai.png)
 
 Về điều kiện Quốc gia và Mã quốc gia, bạn đối chiếu theo chuẩn tại [https://countrycode.org/](https://countrycode.org/). Trong đó: Tên Quốc gia xem tại cột COUNTRY và Mã quốc gia xem tại cột ISO CODES, phần mã 2 kí tự.
 
