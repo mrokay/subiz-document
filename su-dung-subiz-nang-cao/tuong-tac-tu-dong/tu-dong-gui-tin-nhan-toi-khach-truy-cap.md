@@ -62,18 +62,20 @@ Quốc gia – Afghanistan. Mã quốc gia – AF
 
 ### Lưu ý khi tạo Automation gửi tin nhắn tự động {#luu-y-khi-tao-automation-gui-tin-nhan-tu-dong}
 
-{% hint style="info" %}
-* Nhấn Enter để xuống dòng khi tạo tin nhắn
-* Khi viết URL hệ thống sẽ hiển thị dạng link để khách hàng click trực tiếp
-* Một automation chỉ chạy 1 lần với 1 khách truy cập. Bạn có thể tạo nhiều Automation để gửi nhiều tin nhắn tùy theo chiến lược của công ty.
-* Khi khách vừa truy cập website, cửa sổ Subiz chat sẽ tự bật với lời chào bạn đã thiết lập.
-{% endhint %}
+* Soạn thảo tin nhắn Automtion theo [chuẩn Markdown](https://vi.wikipedia.org/wiki/Markdown) sẽ làm tin nhắn ấn tượng và hấp dẫn hơn: Hình ảnh, gắn link, chữ đậm, chữ nghiêng,....  
 
-Nếu khách truy cập “không thực hiện ẩn” cửa sổ chat này, các tin nhắn tự động tiếp theo sẽ được thông báo bằng số lượng, nằm ở trên cùng bên trái của cửa số chat. Khi khách truy cập nhấn vào thông báo đó, thì tất cả các tin nhắn sẽ hiển thị ra.
 
-![Tin nh&#x1EAF;n hi&#x1EC7;n tr&#xEA;n c&#x1EED;a s&#x1ED5; chat kh&#xF4;ng b&#x1ECB; &#x1EA9;n](../../.gitbook/assets/cua-so-ko-bi-an.png)
+  ![Tin nh&#x1EAF;n Automation c&#x1EE7;a Subiz](https://lh6.googleusercontent.com/ydjwVcQoMbvN83uoK_6FvWB6N0JaBDylvpSHJ79CHYkJEVxxx07UBIOtS8Zv6m4-vwoQYRXYhnq2fi4SWVHT23VQiqvpQhAjblXTZuQlEM5ISQRC81Nazn-vpvY1xzEXLciy73DMumU)
 
-Nếu khách truy cập “thực hiện ẩn” cửa sổ chat và đọc những trang tiếp theo mà bạn có thiết lập trang thiết lập tin nhắn tự động của trang đó, thì tin nhắn sẽ hiển thị dưới dạng preview.
+* Một kịch bản automation chỉ chạy 1 lần với 1 khách truy cập. Bạn có thể tạo nhiều Automation để gửi nhiều tin nhắn tùy theo chiến lược của công ty.
+* Khi bạn đã thiết lập Automation gửi tin nhắn, Subiz sẽ tự động nhận diện khách truy cập website và mở rộng cửa sổ chat gửi tin nhắn tới khách hàng.
+* Khi cửa sổ chat mở rộng, các tin nhắn tự động tiếp theo sẽ được thông báo bằng số lượng, nằm ở trên cùng bên trái của cửa số chat. Khi khách truy cập nhấn vào thông báo đó, thì tất cả các tin nhắn sẽ hiển thị ra.
 
-![Tin nh&#x1EAF;n hi&#x1EC7;n khi kh&#xE1;ch h&#xE0;ng &#x1EA9;n c&#x1EED;a s&#x1ED5; chat](../../.gitbook/assets/loi-chao-automation-300x250.jpg)
+![Tin nh&#x1EAF;n hi&#x1EC3;n th&#x1ECB; tr&#xEA;n c&#x1EED;a s&#x1ED5; chat m&#x1EDF; r&#x1ED9;ng](../../.gitbook/assets/cua-so-ko-bi-an.png)
+
+* Khi cửa sổ chat thu gọn, những tin nhắn tự động sẽ sẽ hiển thị dưới dạng preview.
+
+![Preview tin nh&#x1EAF;n khi c&#x1EED;a s&#x1ED5; chat thu g&#x1ECD;n](../../.gitbook/assets/loi-chao-automation-300x250.jpg)
+
+
 
