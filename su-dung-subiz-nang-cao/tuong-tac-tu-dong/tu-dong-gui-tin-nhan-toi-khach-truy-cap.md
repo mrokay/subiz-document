@@ -54,14 +54,6 @@ Quốc gia – Afghanistan. Mã quốc gia – AF
 
 ![C&#xE1;ch xem m&#xE3; code c&#xE1;c qu&#x1ED1;c gia](../../.gitbook/assets/countrycode.png)
 
-### Loại trừ 1 địa chỉ IP cụ thể {#4-loai-tru-1-dia-chi-ip-cu-the}
-
-Trong trường hợp bạn muốn gửi tin nhắn tự động tới khách hàng, nhưng không muốn làm ảnh hưởng tới các nhân viên công ty thường xuyên vào website để làm việc, bạn có thể loại trừ địa chỉ IP nội bộ khi gửi tin nhắn.
-
-Điều kiện: Địa chỉ IP của user – không phải là –
-
-![&#x110;i&#x1EC1;u ki&#x1EC7;n lo&#x1EA1;i tr&#x1EEB; m&#x1ED9;t &#x111;&#x1ECB;a ch&#x1EC9; IP](../../.gitbook/assets/ip.png)
-
 ### Lưu ý khi tạo Automation gửi tin nhắn tự động {#luu-y-khi-tao-automation-gui-tin-nhan-tu-dong}
 
 {% hint style="info" %}
