@@ -58,6 +58,8 @@ Quốc gia – Afghanistan. Mã quốc gia – AF
 
 Với các khách hàng chưa có thông tin cá nhân trên hệ thống, bạn có thể gửi chào kèm theo lời mời khách để lại thông tin cá nhân để bạn có thể liên hệ lại bất cứ lúc nào.
 
+![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng ch&#x1B0;a c&#xF3; th&#xF4;ng tin](../../.gitbook/assets/chao-khach-hang-chua-co-thong-tin.png)
+
 ### Lưu ý khi tạo Automation gửi tin nhắn tự động {#luu-y-khi-tao-automation-gui-tin-nhan-tu-dong}
 
 * Soạn thảo tin nhắn Automtion theo [chuẩn Markdown](https://vi.wikipedia.org/wiki/Markdown) sẽ làm tin nhắn ấn tượng và hấp dẫn hơn: Hình ảnh, gắn link, chữ đậm, chữ nghiêng,....  
