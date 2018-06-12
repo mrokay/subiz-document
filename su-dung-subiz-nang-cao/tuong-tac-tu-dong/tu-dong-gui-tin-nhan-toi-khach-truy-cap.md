@@ -18,7 +18,7 @@ Khi khách hàng mới ghé thăm website, bạn muốn gửi đến khách hàn
 
 Ví dụ: URL của trang – chứa – http://abc.com.vn/
 
-![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng v&#xE0;o website ](../../.gitbook/assets/chao-khach-hang-vao-website.png)
+![Automation g&#x1EED;i tin nh&#x1EAF;n ch&#xE0;o m&#x1EEB;ng kh&#xE1;ch truy c&#x1EAD;p website](../../.gitbook/assets/image%20%2817%29.png)
 
 ### Gửi tin nhắn đến khách chưa có thông tin cá nhân {#2-gui-tin-nhan-den-khach-chua-co-thong-tin-ca-nhan}
 
