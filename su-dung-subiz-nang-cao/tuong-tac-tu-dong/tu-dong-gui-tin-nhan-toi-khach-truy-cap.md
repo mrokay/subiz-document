@@ -32,7 +32,7 @@ Nếu bạn có những khách hàng đến từ những thành phố khác nhau
 
 ![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng theo t&#x1EEB;ng khu v&#x1EF1;c](../../.gitbook/assets/chao-khach-hang-den-tu-ha-noi.png)
 
-### Gửi tin nhắn cho khách hàng theo khu vực địa lý
+### Gửi tin nhắn cho khách hàng theo từng quốc gia
 
 Subiz hỗ trợ bạn gửi tin nhắn riêng biệt tới từng đối tượng khách hàng chia theo khu vực địa lý theo Quốc gia. Bạn có thể sử dụng để gửi tin nhắn với ngôn ngữ phù hợp tới từng đối tượng khách hàng. Ví dụ, với khách hàng đến từ Việt Nam, bạn cài đặt tin nhắn bằng ngôn ngữ Tiếng Việt.
 
