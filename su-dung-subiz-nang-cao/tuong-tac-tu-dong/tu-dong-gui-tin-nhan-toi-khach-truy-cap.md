@@ -10,7 +10,7 @@ Xem thêm [Tại sao phải chào hỏi khách hàng ghé thăm website](https:/
 Lưu ý: Bạn có thể cài đặt nhiều kịch bản Automation cùng lúc để gửi nhiều tin nhắn với các mục đích khác nhau cho khách hàng.
 {% endhint %}
 
-Sau đây là một số kịch bản Automation để bạn thảm khảo cài đặt:
+Sau đây là một số kịch bản Automation để bạn tham khảo cài đặt:
 
 ### Gửi tin nhắn tới khách vào 1 trang cụ thể trên website {#1-gui-tin-nhan-toi-khach-vao-1-trang-cu-the-tren-website}
 
