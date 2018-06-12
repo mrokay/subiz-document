@@ -2,7 +2,7 @@
 
 Automation gửi tin nhắn tới user trên kênh Subiz chat là hành động tự động gửi tin nhắn tới khách truy cập website. Hành động này sẽ khởi tạo cuộc hội thoại với khách truy cập website thỏa mãn điều kiện đặt trước và gửi kèm 1 tin nhắn. **Tin nhắn này có chức năng như lời mời chat tự động, giúp bạn gửi lời chào riêng biệt tới từng đối tượng khách hàng.**
 
-Xem thêm [Tại sao phải chào hỏi khách hàng ghé thăm website](https://subiz.com/blog/tai-sao-phai-chao-hoi-khach-hang-ghe-tham-website.html)​, 
+Xem thêm [Tại sao phải chào hỏi khách hàng ghé thăm website](https://subiz.com/blog/tai-sao-phai-chao-hoi-khach-hang-ghe-tham-website.html)​
 
 Để thiết lập Automation gửi tin nhắn đến User,  bạn thao tác như sau: **Cài đặt &gt;  Tài khoản &gt;  Automation &gt; Tạo mới automation**
 
@@ -67,7 +67,7 @@ Quốc gia – Afghanistan. Mã quốc gia – AF
 
   ![Tin nh&#x1EAF;n Automation c&#x1EE7;a Subiz](https://lh6.googleusercontent.com/ydjwVcQoMbvN83uoK_6FvWB6N0JaBDylvpSHJ79CHYkJEVxxx07UBIOtS8Zv6m4-vwoQYRXYhnq2fi4SWVHT23VQiqvpQhAjblXTZuQlEM5ISQRC81Nazn-vpvY1xzEXLciy73DMumU)
 
-* Một kịch bản automation chỉ chạy 1 lần với 1 khách truy cập. Bạn có thể tạo nhiều Automation để gửi nhiều tin nhắn tùy theo chiến lược của công ty.
+* Một kịch bản automation chỉ chạy 1 lần với 1 khách truy cập. Bạn có thể cài đặt nhiều kịch bản Automation cùng lúc để gửi nhiều tin nhắn với các mục đích khác nhau cho khách hàng.
 * Khi bạn đã thiết lập Automation gửi tin nhắn, Subiz sẽ tự động nhận diện khách truy cập website và mở rộng cửa sổ chat gửi tin nhắn tới khách hàng.
 * Khi cửa sổ chat mở rộng, các tin nhắn tự động tiếp theo sẽ được thông báo bằng số lượng, nằm ở trên cùng bên trái của cửa số chat. Khi khách truy cập nhấn vào thông báo đó, thì tất cả các tin nhắn sẽ hiển thị ra.
 
