@@ -1,7 +1,5 @@
 # Bắt đầu với Subiz
 
-[https://youtu.be/GMDTivvlyUI](https://youtu.be/GMDTivvlyUI)
-
 Khi bạn mới đăng ký tài khoản Subiz, bạn cần thực hiện những cài đặt ban đầu trước khi bắt đầu sử dụng.
 
 Những hướng dẫn tại phần Bắt đầu cùng Subiz sẽ giúp bạn dễ dàng tiếp cận, thực hiện các tích hợp, cài đặt và bắt đầu triển khai các hoạt động tương tác với khách hàng ngay trên Subiz.
