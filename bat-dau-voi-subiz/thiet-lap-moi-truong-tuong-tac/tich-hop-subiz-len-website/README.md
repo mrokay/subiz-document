@@ -100,5 +100,5 @@ Bạn chỉ cần thực hiện theo lựa chọn này nếu các tệp mẫu đ
 {% endtab %}
 {% endtabs %}
 
-
+> Bạn còn băn khoăn? Hãy chat trực tuyến với hỗ trợ viên ngay trên website [Subiz.com](https://subiz.com/vi/feature.html) nhé!
 

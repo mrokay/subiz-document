@@ -172,5 +172,5 @@ Khi bạn chọn chức năng "**Chặn người này**", lưu ý:
 * Với kênh Messenger, tin nhắn không hiển thị cho Agent. Nhưng tin nhắn vẫn tồn tại và hiển thị nếu bạn đăng nhập Fanpage.
 {% endhint %}
 
-## 
+> Bạn còn băn khoăn? Hãy chat trực tuyến với hỗ trợ viên ngay trên website [Subiz.com](https://subiz.com/vi/feature.html) nhé!
 
