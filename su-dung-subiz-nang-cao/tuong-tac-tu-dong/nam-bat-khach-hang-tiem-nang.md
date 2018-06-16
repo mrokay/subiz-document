@@ -8,18 +8,18 @@ Khách hàng tiềm năng là người đang có nhu cầu về sản phẩm và
 
  Đăng nhập **App.subiz.com** &gt; **Cài đặt** &gt; **Tài khoản** &gt; **Automation** &gt; **Tạo Automation mới** 
 
-* Trạng thái: Bật ON
-* Tên Automation và Mô tả: điền thông tin giúp bạn xác định và hiểu mục đích của kịch bản Automation cài đặt
-* Điều kiện: là những điều kiện hay tiêu chí để thực hiện hành động hỏi thông tin khách hàng tiềm năng
-* Chọn kênh: Subiz chat 
-* Hành động: chọn Nắm bắt khách hàng tiềm năng
-* Từ: Chọn tên Agent hiển thị hỏi thông tin khách hàng
-* Chọn Yêu cầu user hoàn thành bảng hỏi trước khi gửi tin nhắn
-* Chọn thêm điều kiện hỏi thông tin khách hàng
-
 Ví dụ kịch bản cài đặt Automation - Nắm bắt khách hàng tiềm năng thu thập TÊN, SỐ ĐIỆN THOẠI, EMAIL của khách hàng như sau:
 
 ![K&#x1ECB;ch b&#x1EA3;n Automation h&#x1ECF;i s&#x1ED1; &#x111;i&#x1EC7;n tho&#x1EA1;i, Email kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/capture-lead.jpg)
+
+* **Trạng thái:** Bật ON
+* **Tên Automation và Mô tả**: điền thông tin giúp bạn xác định và hiểu mục đích của kịch bản Automation cài đặt
+* **Điều kiện**: là những điều kiện hay tiêu chí để thực hiện hành động hỏi thông tin khách hàng tiềm năng
+* **Chọn kênh**: Subiz chat 
+* **Hành động**: chọn Nắm bắt khách hàng tiềm năng
+* **Từ**: Chọn tên Agent hiển thị hỏi thông tin khách hàng
+* **Chọn Yêu cầu user hoàn thành bảng hỏi trước khi gửi tin nhắn**
+* **Chọn thêm điều kiện hỏi thông tin khách hàng**
 
 ### Thêm trường dữ liệu hỏi thông tin khách hàng
 
@@ -55,7 +55,7 @@ Lưu ý: Loại dữ liệu viết chữ thường không dấu, có cách chân
 
 ![C&#x1EED;a s&#x1ED5; Subiz chat tr&#xEA;n website](../../.gitbook/assets/widget-capture%20%281%29.jpg)
 
-  3. Thông tin khách hàng sẽ được tự động cập nhật và lưu trữ trong mục Thông tin khách hàng
+  3. Thông tin trả lời của khách hàng sẽ được tự động cập nhật và lưu trữ trong mục Thông tin khách hàng
 
 ![Trang qu&#x1EA3;n tr&#x1ECB; Subiz](../../.gitbook/assets/update-user.jpg)
 
