@@ -2,7 +2,7 @@
 
 Khách hàng tiềm năng là người đang có nhu cầu về sản phẩm và dịch vụ bạn cung cấp. Subiz sẽ giúp bạn xác định, thu thập và lưu trữ thông tin khách hàng tiềm năng với tính năng mạnh mẽ Automation - Nắm bắt khách hàng tiềm năng.
 
-Đặc biệt, Subiz cho phép bạn tạo thêm trường dữ liệu khách hàng để khai thác và thu thập thông tin khách hàng tiềm năng riêng biệt của Doanh Nghiệp. Từ đó, bạn sẽ vẽ được bức tranh tổng quan khách hàng mục tiêu rõ nét và hiệu quả.
+Đặc biệt, Subiz cho phép bạn tạo thêm trường dữ liệu khách hàng để khai thác và thu thập tập thông tin khách hàng tiềm năng riêng biệt của Doanh Nghiệp. Từ đó, bạn sẽ vẽ được bức tranh tổng quan khách hàng mục tiêu rõ nét và hiệu quả.
 
 ### Cài đặt Automation Nắm bắt khách hàng tiềm năng
 
@@ -23,7 +23,7 @@ Ví dụ kịch bản cài đặt Automation - Nắm bắt khách hàng tiềm n
 
 ### Thêm trường dữ liệu hỏi thông tin khách hàng
 
-Subiz cho phép bạn tạo thêm trường dữ liệu khách hàng để khai thác và thu thập thông tin khách hàng tiềm năng riêng của Doanh Nghiệp. Từ đó, bạn sẽ vẽ được bức tranh tổng quan khách hàng mục tiêu hiệu quả. 
+Subiz cho phép bạn tạo thêm trường dữ liệu khách hàng để khai thác và thu thập thông tin khách hàng tiềm năng riêng biệt của Doanh Nghiệp. Từ đó, bạn sẽ vẽ được bức tranh tổng quan khách hàng mục tiêu rõ nét và hiệu quả. 
 
 Hướng dẫn chi tiết như sau:
 
@@ -35,7 +35,7 @@ Hướng dẫn chi tiết như sau:
 Lưu ý: Loại dữ liệu viết chữ thường không dấu, có cách chân giữa mỗi chữ
 {% endhint %}
 
-![T&#x1EA1;o th&#xEA;m tr&#x1B0;&#x1EDD;ng d&#x1EEF; li&#x1EC7;u kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/user-attri-1.jpg)
+![V&#xED; d&#x1EE5; T&#x1EA1;o th&#xEA;m tr&#x1B0;&#x1EDD;ng d&#x1EEF; li&#x1EC7;u kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/user-attri-1.jpg)
 
 **Bước 2**: Trường dữ liệu đã được tự động cập nhật thêm vào trong Điều kiện của Automation và Thông tin khách hàng
 
@@ -43,7 +43,7 @@ Lưu ý: Loại dữ liệu viết chữ thường không dấu, có cách chân
 
 **Bước 3**: Cài đặt Automation - Nắm bắt khách hàng tiềm năng hỏi trường dữ liệu đã tạo thêm
 
-![V&#xED; d&#x1EE5; Automation h&#x1ECF;i nhu c&#x1EA7;u g&#xF3;i d&#x1ECB;ch v&#x1EE5; Subiz](../../.gitbook/assets/user-attri-4.jpg)
+![V&#xED; d&#x1EE5; Automation h&#x1ECF;i nhu c&#x1EA7;u g&#xF3;i d&#x1ECB;ch v&#x1EE5; Subiz](../../.gitbook/assets/user-attri-4%20%281%29.jpg)
 
 ### Một số lưu ý khi cài đặt
 
@@ -51,7 +51,7 @@ Lưu ý: Loại dữ liệu viết chữ thường không dấu, có cách chân
 
 ![Kh&#xF4;ng gi&#x1EDB;i h&#x1EA1;n s&#x1ED1; l&#x1B0;&#x1EE3;ng k&#x1ECB;ch b&#x1EA3;n Automation](../../.gitbook/assets/40.-auto-unlimited.jpg)
 
-  2. Hành động hỏi thông tin sẽ chạy sau tin nhắn đầu tiên của khách hàng
+  2. Hành động hỏi thông tin sẽ chạy ngay sau tin nhắn đầu tiên của khách hàng
 
 ![C&#x1EED;a s&#x1ED5; Subiz chat tr&#xEA;n website](../../.gitbook/assets/widget-capture%20%281%29.jpg)
 
@@ -59,7 +59,7 @@ Lưu ý: Loại dữ liệu viết chữ thường không dấu, có cách chân
 
 ![Trang qu&#x1EA3;n tr&#x1ECB; Subiz](../../.gitbook/assets/update-user.jpg)
 
- 
+> Bạn còn băn khoăn? Hãy chat trực tuyến với hỗ trợ viên ngay trên website [Subiz.com](https://subiz.com/vi/feature.html) nhé!
 
 
 
