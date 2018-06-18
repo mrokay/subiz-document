@@ -8,13 +8,13 @@ Từ những thông tin của khách hàng được cập nhật và lưu trữ 
 
 Để tùy chỉnh thông tin khách hàng, bạn vào mục **Cài đặt &gt; Tài khoản &gt; Thông tin khách hàng**.
 
-Thông thường, tài khoản của bạn sẽ có 4 trường thông tin mặc định: Địa chỉ, Tên, Email và Số điện thoại
+Một tài khoản Subiz sẽ có 4 trường thông tin mặc định: Địa chỉ, Tên, Email và Số điện thoại
 
-![](../../.gitbook/assets/thong-tin-khach-hang%20%281%29.png)
+![Tr&#x1B0;&#x1EDD;ng th&#xF4;ng tin m&#x1EB7;c &#x111;&#x1ECB;nh](../../.gitbook/assets/thong-tin-khach-hang%20%281%29.png)
 
 Những trường thông tin này sẽ được hiển thị trong phần thông tin của User trong mục Hoạt động như sau:
 
-![](../../.gitbook/assets/hien-thi-thong-tin-khach-hang.png)
+![Hi&#x1EC3;n th&#x1ECB; tr&#x1B0;&#x1EDD;ng th&#xF4;ng tin m&#x1EB7;c &#x111;&#x1ECB;nh](../../.gitbook/assets/hien-thi-thong-tin-khach-hang.png)
 
 ### Tùy chỉnh thông tin khách hàng
 
@@ -22,7 +22,7 @@ Subiz cho phép bạn thêm trường dữ liệu khách hàng, phục vụ cho 
 
 Để tùy chỉnh thông tin khách hàng, bạn vào mục **Cài đặt &gt; Tài khoản &gt; Thông tin khách hàng &gt; Tạo trường dữ liệu mới**
 
-![](../../.gitbook/assets/tao-truong-du-lieu-moi.png)
+![T&#x1EA1;o tr&#x1B0;&#x1EDD;ng d&#x1EEF; li&#x1EC7;u m&#x1EDB;i](../../.gitbook/assets/loai-du-lieu.png)
 
 **Trường dữ liệu**: Tên của trường dữ liệu bạn muốn hiển thị trong phần thông tin của khách hàng
 
@@ -31,7 +31,7 @@ Subiz cho phép bạn thêm trường dữ liệu khách hàng, phục vụ cho 
 **Từ khóa:** Hệ thống sẽ tự động tạo ra từ khóa dựa trên tên trường dữ liệu bạn đặt. 
 
 {% hint style="info" %}
-**Lưu ý**: Bạn có thể chỉnh sửa phần từ khóa, các ký tự viết chữ thường không dấu, có cách chân giữa mỗi chữ.
+**Lưu ý**: Bạn cần chỉnh sửa phần từ khóa, các ký tự viết chữ thường không dấu, có cách chân giữa mỗi chữ, không chứa ký tự đặc biệt.
 {% endhint %}
 
 **Loại dữ liệu**: Là cách hiển thị dữ liệu trong mục thông tin của khách hàng. Bao gồm:
@@ -40,51 +40,51 @@ Subiz cho phép bạn thêm trường dữ liệu khách hàng, phục vụ cho 
 {% tab title="Text" %}
 * Dạng hiển thị: Ký tự
 
-![](../../.gitbook/assets/loai-du-lieu_text.png)
+![Lo&#x1EA1;i d&#x1EEF; li&#x1EC7;u text](../../.gitbook/assets/thong-tin-khach-hang_text.png)
 
 * Trường dữ liệu này sẽ được hiển thị trong thông tin khách hàng  như sau:
 
-![](../../.gitbook/assets/thong-tin-khach-hang_text-1.png)
+![Hi&#x1EC3;n th&#x1ECB; lo&#x1EA1;i d&#x1EEF; li&#x1EC7;u text](../../.gitbook/assets/thong-tin-khach-hang_text-1.png)
 {% endtab %}
 
 {% tab title="Number" %}
 * Dạng hiển thị: Dạng số \(số nguyên, số âm, số thập phân\)
 
-![](../../.gitbook/assets/thong-tin-khach-hang_-number_1.png)
+![Lo&#x1EA1;i d&#x1EEF; li&#x1EC7;u Number](../../.gitbook/assets/thong-tin-khach-hang_-number_1%20%281%29.png)
 
 * Trường dữ liệu này sẽ được hiển thị trong thông tin khách hàng  như sau:
 
-![](../../.gitbook/assets/thong-tin-khach-hang_-number.png)
+![Hi&#x1EC3;n th&#x1ECB; lo&#x1EA1;i d&#x1EEF; li&#x1EC7;u Number](../../.gitbook/assets/thong-tin-khach-hang_-number%20%281%29.png)
 {% endtab %}
 
 {% tab title="Boolean" %}
 * Dạng hiển thị: Là câu hỏi lựa chọn đúng sai
 
-![](../../.gitbook/assets/thong-tin-khach-hang_boolean.png)
+![Lo&#x1EA1;i d&#x1EEF; li&#x1EC7;u Boolean](../../.gitbook/assets/thong-tin-khach-hang_boolean.png)
 
 * Trường dữ liệu này sẽ được hiển thị trong thông tin khách hàng  như sau:
 
-![](../../.gitbook/assets/thong-tin-khach-hang_boolean-1.png)
+![Hi&#x1EC3;n th&#x1ECB; lo&#x1EA1;i d&#x1EEF; li&#x1EC7;u Boolean](../../.gitbook/assets/thong-tin-khach-hang_boolean-1.png)
 {% endtab %}
 
 {% tab title="List" %}
 * Dạng hiển thị: Danh sách lựa chọn
 
-![](../../.gitbook/assets/thong-tin-khach-hang_-list.png)
+![Lo&#x1EA1;i d&#x1EEF; li&#x1EC7;u List](../../.gitbook/assets/thong-tin-khach-hang_-list.png)
 
 * Trường dữ liệu này sẽ được hiển thị trong thông tin khách hàng  như sau
 
-![](../../.gitbook/assets/thong-tin-khach-hang_-list-1.png)
+![Hi&#x1EC3;n th&#x1ECB; lo&#x1EA1;i d&#x1EEF; li&#x1EC7;u List](../../.gitbook/assets/thong-tin-khach-hang_-list-1%20%281%29.png)
 {% endtab %}
 
 {% tab title="Date time" %}
 * Dạng hiển thị:  Lựa chọn thời gian
 
-![](../../.gitbook/assets/thong-tin-khach-hang_-date-time.png)
+![Lo&#x1EA1;i d&#x1EEF; li&#x1EC7;u Datetime](../../.gitbook/assets/thong-tin-khach-hang_datetime.png)
 
 * Trường dữ liệu này sẽ được hiển thị trong thông tin khách hàng  như sau
 
-![](../../.gitbook/assets/thong-tin-khach-hang_date-time-1.png)
+![Hi&#x1EC3;n th&#x1ECB; lo&#x1EA1;i d&#x1EEF; li&#x1EC7;u Date time](../../.gitbook/assets/datet-time.png)
 {% endtab %}
 {% endtabs %}
 
