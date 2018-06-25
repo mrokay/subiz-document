@@ -1,14 +1,14 @@
-# Nắm bắt khách hàng tiềm năng
+# Hỏi thông tin khách hàng
 
-Khách hàng tiềm năng là người đang có nhu cầu về sản phẩm và dịch vụ bạn cung cấp. Subiz sẽ giúp bạn xác định, thu thập và lưu trữ thông tin khách hàng tiềm năng với tính năng mạnh mẽ Automation - Nắm bắt khách hàng tiềm năng.
+Khách hàng tiềm năng là người đang có nhu cầu về sản phẩm và dịch vụ bạn cung cấp. Subiz sẽ giúp bạn xác định, thu thập và lưu trữ thông tin khách hàng tiềm năng với tính năng mạnh mẽ Automation - Hỏi thông tin khách hàng
 
 Đặc biệt, Subiz cho phép bạn tạo thêm trường dữ liệu khách hàng để khai thác và thu thập tập thông tin khách hàng tiềm năng riêng biệt của Doanh Nghiệp. Từ đó, bạn sẽ vẽ được bức tranh tổng quan khách hàng mục tiêu rõ nét và hiệu quả.
 
-### Cài đặt Automation Nắm bắt khách hàng tiềm năng
+### Cài đặt Automation hỏi thông tin khách hàng
 
- Đăng nhập **App.subiz.com** &gt; **Cài đặt** &gt; **Tài khoản** &gt; **Automation** &gt; **Tạo Automation mới** 
+ Đăng nhập [**App.subiz.com** &gt; **Cài đặt** &gt; **Tài khoản** &gt; **Automation** &gt; **Tạo Automation mới** ](https://app.subiz.com/settings/automation-add)
 
-Ví dụ kịch bản cài đặt Automation - Nắm bắt khách hàng tiềm năng thu thập TÊN, SỐ ĐIỆN THOẠI, EMAIL của khách hàng như sau:
+Ví dụ kịch bản cài đặt Automation - Hỏi thông tin khách hàng thu thập TÊN, SỐ ĐIỆN THOẠI, EMAIL của khách hàng như sau:
 
 ![K&#x1ECB;ch b&#x1EA3;n Automation h&#x1ECF;i s&#x1ED1; &#x111;i&#x1EC7;n tho&#x1EA1;i, Email kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/capture-lead.jpg)
 
