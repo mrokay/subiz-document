@@ -29,7 +29,7 @@ Hướng dẫn chi tiết như sau:
 
 **Bước 1**: Thêm trường dữ liệu khách hàng
 
-**Cài đặt** &gt; **Tài khoản** &gt; **Thông tin khách hàng** &gt; **Tạo trường dữ liệu mới** &gt; **Điền thông tin theo mẫu** &gt; **Tạo**  
+[**Cài đặt** &gt; **Tài khoản** &gt; **Thông tin khách hàng** &gt; **Tạo trường dữ liệu mới** &gt; **Điền thông tin theo mẫu** &gt; **Tạo**  ](https://app.subiz.com/settings/user-attributes#)
 
 {% hint style="info" %}
 Lưu ý: Loại dữ liệu viết chữ thường không dấu, có cách chân giữa mỗi chữ
