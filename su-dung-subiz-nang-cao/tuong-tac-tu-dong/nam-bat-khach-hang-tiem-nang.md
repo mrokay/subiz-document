@@ -39,11 +39,11 @@ Lưu ý: Loại dữ liệu viết chữ thường không dấu, có cách chân
 
 **Bước 2**: Trường dữ liệu đã được tự động cập nhật thêm vào trong Điều kiện của Automation và Thông tin khách hàng
 
-![Tr&#x1B0;&#x1EDD;ng d&#x1EEF; li&#x1EC7;u &#x111;&#x1B0;&#x1EE3;c th&#xEA;m v&#xE0;o &#x111;i&#x1EC1;u ki&#x1EC7;n Automation](../../.gitbook/assets/user-attri-2.jpg)
+![Tr&#x1B0;&#x1EDD;ng d&#x1EEF; li&#x1EC7;u m&#x1EDB;i &#x111;&#x1B0;&#x1EE3;c th&#xEA;m v&#xE0;o &#x111;i&#x1EC1;u ki&#x1EC7;n Automation](../../.gitbook/assets/auto-2.jpg)
 
 **Bước 3**: Cài đặt Automation - Nắm bắt khách hàng tiềm năng hỏi trường dữ liệu đã tạo thêm
 
-![V&#xED; d&#x1EE5; Automation h&#x1ECF;i nhu c&#x1EA7;u g&#xF3;i d&#x1ECB;ch v&#x1EE5; Subiz](../../.gitbook/assets/user-attri-4%20%281%29.jpg)
+![V&#xED; d&#x1EE5; Automation h&#x1ECF;i nhu c&#x1EA7;u g&#xF3;i d&#x1ECB;ch v&#x1EE5; Subiz](../../.gitbook/assets/auto-3.jpg)
 
 ### Một số lưu ý khi cài đặt
 
