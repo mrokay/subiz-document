@@ -60,31 +60,46 @@ Dưới đây là một số tùy chỉnh css một số thành phần trên c�
 Bạn có thể thay đổi chiều cao và chiều rộng theo ý muốn:
 
 {% tabs %}
-{% tab title="Thay đổi chiều cao" %}
-Đoạn mã tùy chỉnh chiều cao cửa sổ chat Subiz
+{% tab title="Loại cửa sổ Mở rộng" %}
+* Đoạn mã tùy chỉnh chiều cao cửa sổ chat Subiz
 
 ```text
-.widget_mini .widget_body {
- height: 800px !important;
- max-height: 900px !important;
-}
+.widget_full .widget_body
+{height: 750px !important;
+max-height: 800px !important;}
 ```
 
-Phần **800**px bạn có thể điều chỉnh con số cho phù hợp với website.
+* Đoạn mã tùy chỉnh chiều rộng cửa sổ chat Subiz
 
-![CSS ch&#x1EC9;nh s&#x1EED;a chi&#x1EC1;u cao c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/css-chieu-cao%20%281%29.png)
+```text
+.widget_full .widget_body
+{width:600px;}
+```
+
+Phần 750px, 600px bạn có thể điều chỉnh con số cho phù hợp với website.
+
+![T&#xF9;y ch&#x1EC9;nh k&#xED;ch th&#x1B0;&#x1EDB;c c&#x1EED;a s&#x1ED5; chat M&#x1EDF; r&#x1ED9;ng](../../../.gitbook/assets/mo-rong-1.png)
 {% endtab %}
 
-{% tab title="Thay đổi chiều rộng" %}
-Đoạn mã tùy chỉnh chiều rộng cửa sổ chat Subiz
+{% tab title="Loại cửa sổ Thu gon" %}
+* Đoạn mã tùy chỉnh chiều cao cửa sổ chat Subiz
 
 ```text
-.widget_mini .widget_body{ width:600px;}
+.widget_mini .widget_body
+{height: 750px !important;
+max-height: 800px !important;}
 ```
 
-Phần **600**px bạn có thể điều chỉnh con số cho phù hợp với website.
+* Đoạn mã tùy chỉnh chiều rộng cửa sổ chat Subiz
 
-![T&#xF9;y ch&#x1EC9;nh chi&#x1EC1;u r&#x1ED9;ng c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/css-chieu-rong.png)
+```text
+.widget_mini .widget_body
+{width:600px;}
+```
+
+Phần 750px, 600px bạn có thể điều chỉnh con số cho phù hợp với website.
+
+![T&#xF9;y ch&#x1EC9;nh c&#x1EED;a s&#x1ED5; chat Thu g&#x1ECD;n](../../../.gitbook/assets/thu-gon-1.png)
 {% endtab %}
 {% endtabs %}
 
