@@ -65,7 +65,7 @@ Hãy chỉnh sửa lời chào, lời giới thiệu theo đúng bản sắc vă
 {% endhint %}
 
 {% hint style="danger" %}
-**Nếu bạn muốn sử dụng một ngôn ngữ chưa được hỗ trợ**, hoặc muốn tùy chỉnh thêm các phần ngôn ngữ khác, bạn có thể tùy chỉnh ngôn ngữ bằng cách tải lên file ngôn ngữ dạng po \([hướng dẫn chi tiết tùy chỉnh ngôn ngữ qua file .Po](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-chat/tuy-chinh-cua-so-subiz-chat#tuy-chinh-ngon-ngu-cua-so-subiz-chat-qua-file-po)\)
+**Nếu bạn muốn sử dụng một ngôn ngữ chưa được hỗ trợ**, hoặc muốn tùy chỉnh thêm các phần ngôn ngữ khác, bạn có thể tùy chỉnh ngôn ngữ bằng cách tải lên file ngôn ngữ dạng po \([hướng dẫn chi tiết tùy chỉnh ngôn ngữ qua file .Po](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-cua-so-subiz-chat#tuy-chinh-ngon-ngu-cua-so-subiz-chat-qua-file-po)\)
 {% endhint %}
 
 ### **Cài đặt Whitelist domain**
