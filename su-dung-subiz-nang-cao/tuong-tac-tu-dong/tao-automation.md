@@ -45,7 +45,7 @@ Click **Thêm điều kiện** khi bạn muốn thêm điều kiện khác. Ch�
 
 Tiếp theo bạn chọn kênh áp dụng Automation. Mỗi kênh sẽ có các hành động tương ứng phù hợp.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/Ch%E1%BB%8Dn-k%C3%AAnh.png)
+![Ch&#x1ECD;n k&#xEA;nh th&#x1EF1;c hi&#x1EC7;n Automation](../../.gitbook/assets/chon-kenh-automation.png)
 
 ### **Thiết lập hành động cho Automation**
 
@@ -58,13 +58,18 @@ Mỗi Automation sẽ thực hiện 1 hành động duy nhất.
 #### Với kênh Subiz Chat, bạn có thể thực hiện 1 trong 2 hành động:
 
 * **Gửi tin nhắn cho User**: bạn có thể gửi tin nhắn ngay khi khách hàng vào website như một lời chào tự động, hoặc gửi tin nhắn với thông điệp riêng cho một đối tượng khách hàng cụ thể.
-* **Gửi form hỏi thông tin tới User**: thường dùng trong trường hợp bạn không online hoặc không thể trả lời ngay lập tức. Khách hàng sẽ nhập thông tin để bạn có thể liên hệ lại sau.
 
-![Ch&#x1ECD;n h&#xE0;nh &#x111;&#x1ED9;ng g&#x1EED;i tin nh&#x1EAF;n t&#x1EDB;i kh&#xE1;ch h&#xE0;ng](https://docv4.subiz.com/wp-content/uploads/2018/03/H%C3%A0nh-%C4%91%E1%BB%99ng.png)
+![Ch&#x1ECD;n h&#xE0;nh &#x111;&#x1ED9;ng g&#x1EED;i tin nh&#x1EAF;n t&#x1EDB;i kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/chon-kenh-hanh-dong-automation.png)
 
 Khách hàng sẽ nhìn thấy tin nhắn tự động giống như một tin nhắn thông thường được gửi từ Agent.
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/Content.png)
+
+![G&#x1EED;i tin nh&#x1EAF;n cho kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/chon-kenh-automation1.png)
+
+* **Gửi form hỏi thông tin tới User**: thường dùng trong trường hợp bạn không online hoặc không thể trả lời ngay lập tức. Khách hàng sẽ nhập thông tin để bạn có thể liên hệ lại sau.
+
+![Automation h&#x1ECF;i email kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/automation-email%20%281%29.png)
 {% endtab %}
 
 {% tab title="Hành động trên Subiz Email" %}
@@ -76,22 +81,22 @@ Hành động này chỉ có thể thực hiện với các user đã có địa
 
 Chọn hành động **Gửi email tới user** trên kênh Email
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/G%E1%BB%ADi-email.png)
+![Ch&#x1ECD;n h&#xE0;nh &#x111;&#x1ED9;ng g&#x1EED;i email &#x111;&#x1EBF;n kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/automation-hd-email.png)
 
 Chọn Agent gửi email, tiêu đề email và nhập nội dung email:
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/Nh%E1%BA%ADp-email-1.png)
+![Nh&#x1EAD;p ti&#xEA;u &#x111;&#x1EC1;, n&#x1ED9;i d&#x1EE5;ng cho email](../../.gitbook/assets/gui-email-den-khach-hang.png)
 
 Xem trước nội dung email:
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/Xem-tr%C6%B0%E1%BB%9Bc-email.png)
+![Xem tr&#x1B0;&#x1EDB;c n&#x1ED9;i dung Email](../../.gitbook/assets/preview-email.png)
 {% endtab %}
 {% endtabs %}
 
 {% hint style="info" %}
 * Bạn có thể cài đặt Agent đại diện để gửi tin nhắn và email đi.
 
-![L&#x1EF1;a ch&#x1ECD;n Agent &#x111;&#x1EA1;i di&#x1EC7;n g&#x1EED;i tin nh&#x1EAF;n v&#xE0; email &#x111;i](https://docv4.subiz.com/wp-content/uploads/2018/03/Agent.png)
+                                         ![](../../.gitbook/assets/image%20%2816%29.png)
 
 * Bạn có thể tùy chỉnh tin nhắn cho sinh động hơn \(đậm/ nghiêng/ chèn link/ gửi ảnh…\) thông qua công cụ tùy chỉnh văn bản.
 {% endhint %}
