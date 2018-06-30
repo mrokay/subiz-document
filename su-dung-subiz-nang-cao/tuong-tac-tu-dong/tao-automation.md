@@ -63,8 +63,6 @@ Mỗi Automation sẽ thực hiện 1 hành động duy nhất.
 
 Khách hàng sẽ nhìn thấy tin nhắn tự động giống như một tin nhắn thông thường được gửi từ Agent.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/Content.png)
-
 ![G&#x1EED;i tin nh&#x1EAF;n cho kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/chon-kenh-automation1.png)
 
 * **Gửi form hỏi thông tin tới User**: thường dùng trong trường hợp bạn không online hoặc không thể trả lời ngay lập tức. Khách hàng sẽ nhập thông tin để bạn có thể liên hệ lại sau.
