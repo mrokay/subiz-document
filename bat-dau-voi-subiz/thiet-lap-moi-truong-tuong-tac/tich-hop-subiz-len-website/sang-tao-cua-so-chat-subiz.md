@@ -249,13 +249,13 @@ Chọn “Nhấn để tải xuống file tùy chỉnh ngôn ngữ cho widget”
 
 ![T&#x1EA3;i file &#x111;&#xE3; d&#x1ECB;ch v&#x1EC1; m&#xE1;y t&#xED;nh](../../../.gitbook/assets/save-file.png)
 
-#### Bước 3: Tải lên file .po đã chỉnh sửa và lưu thay đổi {#buoc-3-tai-len-file-po-da-chinh-sua-va-luu-thay-doi}
+#### Bước 3: Tải lên file .po đã chỉnh sửa  {#buoc-3-tai-len-file-po-da-chinh-sua-va-luu-thay-doi}
 
 Tại phần cài đặt Ngôn ngữ, bạn chọn 1 ngôn ngữ và chọn Tùy chỉnh ngôn ngữ. Sau khi tải file mới lên, ngôn ngữ mới sẽ được ghi đè lên ngôn ngữ bạn vừa chọn.
 
 ![T&#x1EA3;i file &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; l&#xEA;n Subiz](../../../.gitbook/assets/upload-file.png)
 
-Sau khi có thông báo file tải lên thành công, bạn thoát ra ngoài và Lưu thay đổi.
+Sau khi có thông báo file tải lên thành công, bạn thoát ra ngoài và không cần lưu lại
 
 ![Th&#xF4;ng b&#xE1;o t&#x1EA3;i file &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; th&#xE0;nh c&#xF4;ng](../../../.gitbook/assets/upload-success.png)
 
