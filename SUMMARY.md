@@ -24,6 +24,7 @@
       * [Cách thức phân phối cuộc hội thoại](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/rule-phan-phoi-cuoc-hoi-thoai.md)
       * [Tạo Rule mới](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/tao-rule-moi.md)
       * [Quản lý danh sách Rule](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/quan-ly-danh-sach-rule.md)
+    * [Gắn Tag cuộc hội thoại](bat-dau-voi-subiz/trien-khai-hoat-dong/gan-tag-cuoc-hoi-thoai.md)
   * [Làm việc trên Subiz](bat-dau-voi-subiz/lam-viec-tren-subiz/README.md)
     * [Tương tác trên kênh Subiz chat](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-tren-kenh-subiz-chat.md)
     * [Tương tác qua kênh Email](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-email.md)
