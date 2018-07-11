@@ -4,7 +4,7 @@ Automation gửi tin nhắn tới user trên kênh Subiz chat là hành động 
 
 Xem thêm [Tại sao phải chào hỏi khách hàng ghé thăm website](https://subiz.com/blog/tai-sao-phai-chao-hoi-khach-hang-ghe-tham-website.html)​
 
-Để thiết lập Automation gửi tin nhắn đến User,  bạn thao tác như sau: **Cài đặt &gt;  Tài khoản &gt;  Automation &gt; Tạo mới automation**
+Để thiết lập Automation gửi tin nhắn đến User,  bạn thao tác như sau: ****[**Cài đặt &gt;  Tài khoản &gt;  Automation &gt; Tạo mới automation**](https://app.subiz.com/settings/automation-add)
 
 {% hint style="info" %}
 Lưu ý: Bạn có thể cài đặt nhiều kịch bản Automation cùng lúc để gửi nhiều tin nhắn với các mục đích khác nhau cho khách hàng.

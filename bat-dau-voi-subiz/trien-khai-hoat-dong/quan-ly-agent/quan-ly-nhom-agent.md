@@ -13,7 +13,7 @@ Bạn hãy dựa vào số lượng Agent mình đang có và **đặc biệt l�
 
 ### **1. Tạo Nhóm Agent**
 
-Để tạo group Agent, bạn vào **Cài đặt &gt; Tài khoản &gt; Agent &gt; Nhóm Agent, click vào Tạo nhóm.**
+Để tạo group Agent, bạn vào [**Cài đặt &gt; Tài khoản &gt; Agent &gt; Nhóm Agent**](https://app.subiz.com/settings/agents-group)**, click vào Tạo nhóm.**
 
 * Nhập tên và chọn biểu tượng cho nhóm
 
@@ -27,7 +27,7 @@ Bạn hãy dựa vào số lượng Agent mình đang có và **đặc biệt l�
 
 ### **2. Sửa thông tin nhóm** Agent
 
-Để sửa đổi thông tin về 1 nhóm, bạn vào **Cài đặt &gt; Tài khoản &gt; Nhóm Agent** &gt; chọn nhóm muốn sửa &gt; chọn biểu tượng chỉnh sửa.
+Để sửa đổi thông tin về 1 nhóm, bạn vào [**Cài đặt &gt; Tài khoản &gt; Nhóm Agent**](https://app.subiz.com/settings/agents-group) &gt; chọn nhóm muốn sửa &gt; chọn biểu tượng chỉnh sửa.
 
 ![S&#x1EED;a th&#xF4;ng tin nh&#xF3;m Agent](../../../.gitbook/assets/edit-group.png)
 

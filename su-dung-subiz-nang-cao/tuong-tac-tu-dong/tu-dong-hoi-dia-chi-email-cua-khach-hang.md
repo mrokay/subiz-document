@@ -2,7 +2,7 @@
 
 Hỏi địa chỉ email là hành động Automation thuộc kênh Subiz Chat. **Thông tin email giúp bạn có thể liên hệ lại khách hàng, nhận diện và phân loại khách hàng, thực hiện các chiến dịch email marketing.**
 
-Để cài đặt Form hỏi thông tin khách hàng, bạn vào phần **Cài đặt &gt; Tài khoản &gt; Automation.** Sau khi đặt tên và mô tả theo cách quản lý của bạn, bạn cần lưu ý các phần sau:
+Để cài đặt Form hỏi thông tin khách hàng, bạn vào phần [**Cài đặt &gt; Tài khoản &gt; Automation**](https://app.subiz.com/settings/automation-list)**.** Sau khi đặt tên và mô tả theo cách quản lý của bạn, bạn cần lưu ý các phần sau:
 
 ### Điều kiện hỏi địa chỉ Email
 

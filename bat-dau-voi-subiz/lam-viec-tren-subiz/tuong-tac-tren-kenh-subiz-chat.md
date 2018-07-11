@@ -43,7 +43,7 @@ Nếu khách hàng không chủ động tương tác trước, thì bạn cần 
 
 Để tạo cuộc hội thoại với khách truy cập website, bạn vào thao tác như sau:
 
-1. Vào mục **KHÁCH**  &gt; Chọn **Khách hàng** 
+1. [Vào mục **KHÁCH**  &gt; Chọn **Khách hàng** ](https://app.subiz.com/visitors)
 2. Chọn **Tạo hội thoại mới**  &gt; Chọn **Subiz Chat**
 3.  **Cửa sổ chat mở** và bạn gửi tin nhắn tại đây.
 
@@ -73,7 +73,7 @@ Mỗi Agent có quyền được tạo và quản lý thư viên câu trả lờ
 {% tab title="Tạo câu trả lời mẫu" %}
 Hướng dẫn tạo câu trả lời mẫu: 
 
-1. Đăng nhập **App.subiz.com** &gt; Chọn **Ảnh đại diện của Agent** &gt; Chọn **Thư viện câu trả lời** 
+1. [Đăng nhập **App.subiz.com** &gt; Chọn **Ảnh đại diện của Agent** &gt; Chọn **Thư viện câu trả lời** ](https://app.subiz.com/profile/canned-response)
 
 ![C&#xE0;i &#x111;&#x1EB7;t Th&#x1B0; vi&#x1EC7;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i](../../.gitbook/assets/thu-vien-ans.jpg)
 
@@ -107,7 +107,7 @@ Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp 
 {% tab title="Tạo thẻ Tag" %}
 Hướng dẫn tạo thẻ Tag mới:
 
-1. Đăng nhập **App.subiz.com** &gt; **Cài đặt** &gt; **Tài khoản** &gt; **Tag** &gt; **Tạo Tag mới**
+1. [Đăng nhập **App.subiz.com** &gt; **Cài đặt** &gt; **Tài khoản** &gt; **Tag** &gt; **Tạo Tag mới**](https://app.subiz.com/settings/tags)
 
 ![C&#xE0;i &#x111;&#x1EB7;t Tag](../../.gitbook/assets/tao-tag.jpg)
 
