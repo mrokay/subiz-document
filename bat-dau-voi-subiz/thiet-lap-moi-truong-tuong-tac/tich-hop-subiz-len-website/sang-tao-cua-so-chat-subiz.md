@@ -47,7 +47,7 @@ CSS là viết tắt của cụm từ “Cascading Style Sheet”, nó là một
 
 #### Tùy chỉnh CSS ở đâu? {#tuy-chinh-css-o-dau}
 
-Bạn sẽ đăng nhập vào trang app.subiz.com, vào phần **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Cửa sổ hội thoại &gt; Tùy chỉnh CSS** để thực hiện những thay đổi về CSS này.
+Bạn sẽ đăng nhập vào trang app.subiz.com, vào phần [**Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Cửa sổ hội thoại &gt; Tùy chỉnh CSS**](https://app.subiz.com/settings/widget-setting) để thực hiện những thay đổi về CSS này.
 
 ![B&#x1EAF;t &#x111;&#x1EA7;u t&#xF9;y ch&#x1EC9;nh CSS](../../../.gitbook/assets/noi-tuy-chinh-css.png)
 
