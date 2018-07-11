@@ -1,4 +1,4 @@
-# App Subiz trên máy tính
+# Trải nghiệm Subiz như một App trên máy tính
 
 Mỗi ngày các Agent cần phải đăng nhập tài khoản Subiz để quản lý các tương tác và hỗ trợ khách hàng trực tuyến. Thay vì việc phải nhớ và đăng nhập tài khoản trên [app.subiz.com](https://app.subiz.com/) , các Agent hoàn toàn có thể tạo App Subiz trên màn hình máy tính để dễ dàng đăng nhập tại khoản nhanh chóng khi bắt đầu ngày làm việc mới.
 
