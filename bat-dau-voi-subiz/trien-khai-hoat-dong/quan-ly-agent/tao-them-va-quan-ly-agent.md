@@ -14,7 +14,7 @@ Tạo thêm tài khoản Agent có hai bước như sau:
 
 {% tabs %}
 {% tab title="1. Gửi lời Mời Agent" %}
-_Hướng dẫn Mời Agent_: Đăng nhập **App.subiz.com** &gt; Chọn **Cài đặt** &gt; **Tài Khoản** &gt; **Danh sách Agent** &gt; Mời **Agent**
+_Hướng dẫn Mời Agent_: [Đăng nhập **App.subiz.com** &gt;  **Cài đặt** &gt; **Tài Khoản** &gt; **Danh sách Agent** &gt; Mời **Agent**](https://app.subiz.com/settings/agents-invite)
 
 ![N&#xFA;t m&#x1EDD;i Agent m&#x1EDB;i](../../../.gitbook/assets/tao-moi-agent.jpg)
 
@@ -49,7 +49,7 @@ Khi bạn \(Agent\) được phân quyền **Truy cập đầy đủ** chức n�
 * Tài khoản Agent bị xóa sẽ không thể sử dụng để đăng ký lại tài khoản Subiz. 
 {% endhint %}
 
-Hướng dẫn thao tác: Đăng nhập **App.subiz.com** &gt; **Cài đặt** &gt; **Tài khoản** &gt; **Danh sách Agent** &gt; Chọn **Agent muốn tùy chỉnh/ xóa** &gt; Chọn nút **Tùy Chỉnh/ Xóa**
+Hướng dẫn thao tác: [Đăng nhập **App.subiz.com** &gt; **Cài đặt** &gt; **Tài khoản** &gt; **Danh sách Agent** ](https://app.subiz.com/settings/agents-list)&gt; Chọn **Agent muốn tùy chỉnh/ xóa** &gt; Chọn nút **Tùy Chỉnh/ Xóa**
 
 ![T&#xF9;y ch&#x1EC9;nh th&#xF4;ng tin Agent](../../../.gitbook/assets/tuy-chinh-thong-tin-agent.jpg)
 
