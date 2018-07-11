@@ -10,7 +10,7 @@ Với các email bạn đang sử dụng để tương tác với khách hàng, 
 
 Để thêm 1 địa chỉ email vào danh sách Income Email, bạn làm theo các bước:
 
-* Đăng nhập tài khoản và vào phần **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Email**
+* Đăng nhập tài khoản và vào phần [**Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Email**](https://app.subiz.com/settings/email)
 * Chọn **Thêm Income Email**
 * Nhập địa chỉ email muốn chuyển tiếp vào phần **Nhập địa chỉ email**
 * Chọn **Thêm**
@@ -47,7 +47,7 @@ Sau khi hoàn thành 2 bước trên, thư gửi tới địa chỉ mail trong d
 
 Để việc gửi email trên Subiz đạt hiệu quả cao nhất, bạn nên thiết lập DKIM và SPF trên domain của mình.
 
-* ​[Đăng nhập tài khoản Subiz](http://app.subiz.com/), vào phần **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Email**
+* ​[Đăng nhập tài khoản Subiz](http://app.subiz.com/), vào phần [**Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Email**](https://app.subiz.com/settings/email)
 * Chọn **Configure DKIM**
 * Nhập tên miền hòm thư của bạn \(dạng company.com\)
 * Liên hệ người quản lý domain công ty để thiết lập DKIM và SPF cho domain

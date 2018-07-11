@@ -2,7 +2,7 @@
 
 **Thông tin doanh nghiệp là các thông tin cơ bản, giúp Subiz dễ dàng liên hệ và hỗ trợ bạn tốt nhất.**
 
-Để cung cấp và chỉnh sửa các thông tin cơ bản của doanh nghiệp, bạn [Đăng nhập tài khoản Subiz](http://app.subiz.com), vào phần **Cài đặt &gt; Tài khoản &gt; Cài đặt chung**
+Để cung cấp và chỉnh sửa các thông tin cơ bản của doanh nghiệp, bạn [Đăng nhập tài khoản Subiz](http://app.subiz.com), vào phần [**Cài đặt &gt; Tài khoản &gt; Cài đặt chung**](https://app.subiz.com/settings/)
 
 ![C&#x1EAD;p nh&#x1EAD;t th&#xF4;ng tin doanh nghi&#x1EC7;p](../../../.gitbook/assets/thong-tin-doanh-nghiep-1.png)
 
