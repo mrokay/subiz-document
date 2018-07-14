@@ -20,9 +20,9 @@ Bạn có thể tùy chọn ngôn ngữ phù hợp với đối tượng khách 
 
 Trong đó :
 
-* **Tự động**: Cửa sổ Subiz tự động hiển thị ngôn ngữ tiếng Anh hoặc tiếng Việt theo địa chỉ IP của khách hàng
-* **Tiếng Việt**: chọn khi doanh nghiệp chỉ phục vụ khách hàng Việt Nam và website hỗ trợ chỉ ngôn ngữ Việt Nam
-* **English**: chọn khi doanh nghiệp phục vụ khách quốc tế và website chỉ hỗ trợ ngôn ngữ tiếng Anh
+* **Tự động**: Cửa sổ Subiz chat tự động nhận diện và hiển thị ngôn ngữ tiếng Anh hoặc tiếng Việt theo địa chỉ IP của khách hàng.
+* **Tiếng Việt**: chọn khi doanh nghiệp chỉ phục vụ khách hàng Việt Nam và website hỗ trợ chỉ ngôn ngữ Việt Nam.
+* **English**: chọn khi doanh nghiệp phục vụ khách quốc tế và website chỉ hỗ trợ ngôn ngữ tiếng Anh.
 
 ### **2. Sử dụng API tùy biến ngôn ngữ cửa sổ Subiz chat theo ngôn ngữ website**
 
@@ -48,5 +48,5 @@ subiz('setLanguage', 'vi');
 </script>
 ```
 
-
+> Bạn đang cần hỗ trợ ngôn ngữ khác, vui lòng chat trực tiếp với Subiz trên website [Subiz.com](https://subiz.com/vi/feature.html) nhé!
 
