@@ -64,7 +64,7 @@ Hóa đơn được yêu cầu thực hiện trong vòng **30 ngày** kể từ 
 
 #### Thời gian dùng thử
 
-Sau khi đăng ký tài khoản mới, bạn sẽ được sử dụng toàn bộ tính năng của Subiz gói trả phí Cơ bản trong vòng 30 ngày để có thể trải nghiệm trước khi quyết định nâng cấp tài khoản. Bạn sẽ không mất bất kỳ chi phí nào trong thời gian dùng thử này.
+Sau khi đăng ký tài khoản mới, bạn sẽ được sử dụng toàn bộ[ tính năng](https://subiz.com/vi/feature.html) của [Subiz ](https://subiz.com/vi/)gói trả phí Cơ bản trong vòng 30 ngày để có thể trải nghiệm trước khi quyết định nâng cấp tài khoản. Bạn sẽ không mất bất kỳ chi phí nào trong thời gian dùng thử này.
 
 #### Tài khoản trả phí
 
@@ -72,8 +72,8 @@ Khi bạn quyết định nâng cấp tài khoản, bạn cần xác định s�
 
 ### Subiz có những chính sách ưu đãi nào?
 
-* Subiz hỗ trợ ưu đãi ưu đãi tới 30% khi thanh toán chu kỳ dài, xem chi tiết tại bảng tính giá.
-* Subiz hỗ trợ giảm 40% chi phí cho các đơn vị giáo dục công lập, tổ chức phi lợi nhuận.
+* [Subiz](https://subiz.com/vi/) hỗ trợ ưu đãi ưu đãi tới 30% khi thanh toán chu kỳ dài, xem chi tiết tại bảng tính giá.
+* [Subiz ](https://subiz.com/vi/)hỗ trợ giảm 40% chi phí cho các đơn vị giáo dục công lập, tổ chức phi lợi nhuận.
 
 ### Tôi có thể thay đổi gói dịch vụ Subiz bất cứ lúc nào?
 
@@ -96,14 +96,14 @@ Do đó, ngày thanh toán kế tiếp sẽ hiển thị ngày kết thúc của
 ![Ng&#xE0;y thanh to&#xE1;n h&#xF3;a &#x111;&#x1A1;n](../.gitbook/assets/thanh-toan.png)
 
 {% hint style="info" %}
-**Lưu ý**: Trường hợp hóa đơn phát sinh do thao tác không mong muốn, bạn cần gửi xác nhận tới Subiz, chúng tôi sẽ giúp bạn hủy hóa đơn.
+**Lưu ý**: Trường hợp hóa đơn phát sinh do thao tác không mong muốn, bạn cần gửi xác nhận tới [Subiz](https://subiz.com/vi/), chúng tôi sẽ giúp bạn hủy hóa đơn.
 {% endhint %}
 
 ### Hóa đơn gia hạn
 
 Tại thời điểm bắt đầu chu kỳ kế tiếp, hệ thống sẽ tự động gia hạn dịch vụ đồng thời hóa đơn gia hạn sẽ phát sinh tương ứng.
 
-Để kiểm soát thông tin tốt nhất, Subiz sẽ gửi thông báo về việc gia hạn tài khoản qua các phương thức: Email tới người phụ trách tài khoản; Hiển thị thông báo trên trang quản lý Dashboard; Hiển thị thông báo tại phần Thông báo mới.
+Để kiểm soát thông tin tốt nhất, [Subiz ](https://subiz.com/vi/)sẽ gửi thông báo về việc gia hạn tài khoản qua các phương thức: Email tới người phụ trách tài khoản; Hiển thị thông báo trên trang quản lý Dashboard; Hiển thị thông báo tại phần Thông báo mới.
 
 Khi nhận được thông báo, bạn có thể kiểm tra hóa đơn trực tiếp tại [trang thanh toán](https://app.subiz.com/payment-home#) như hình minh họa:
 
@@ -123,7 +123,7 @@ Hóa đơn quá hạn sẽ được thông báo qua các kênh sau:
 * Gửi Email thông báo tới email đăng ký chính \(mặc định\), hoặc email được xác nhận phụ trách.
 
 {% hint style="info" %}
-**Lưu ý**: Để đảm bảo bạn nhận được đầy đủ thông tin từ Subiz, trong trường hợp thay đổi người phụ trách tài khoản hoặc thay đổi email liên hệ, bạn cần gửi xác nhận tới Subiz để chúng tôi cập nhật thông tin
+**Lưu ý**: Để đảm bảo bạn nhận được đầy đủ thông tin từ [Subiz](https://subiz.com/vi/), trong trường hợp thay đổi người phụ trách tài khoản hoặc thay đổi email liên hệ, bạn cần gửi xác nhận tới[ Subiz](https://subiz.com/vi/) để chúng tôi cập nhật thông tin
 {% endhint %}
 
 ### Hướng dẫn đọc thông tin trên hóa đơn?
