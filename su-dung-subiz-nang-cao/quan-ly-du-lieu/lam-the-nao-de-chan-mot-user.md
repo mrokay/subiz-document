@@ -6,7 +6,7 @@ Trong quá trình tương tác với khách hàng trên [Subiz](https://subiz.co
 
 Bạn có thể chặn một User theo 2 cách sau:
 
-* **Chặn trực tiếp User trong tab Activities \(Hoạt động\)**
+* **Chặn trực tiếp User trong HOẠT ĐỘNG**
 
 Trong cuộc hội thoại, bạn có thể chặn user bằng cách click vào biểu tượng ba chấm ở góc phải màn hình và bật nút Block
 
@@ -14,7 +14,7 @@ Trong cuộc hội thoại, bạn có thể chặn user bằng cách click vào 
 
 * **Chặn User thông qua Blacklist \(Danh sách đen\)**
 
-Blacklist là danh sách những user mà bạn đã chặn. Để thêm vào danh sách này, bạn vào mục **Cài đặt/ Tài khoản/ Danh sách đen/ Chặn**. Tại đây bạn chỉ cần copy địa chỉ **IP, Email** hoặc **ID** của User muốn chặn.
+Blacklist là danh sách những user mà bạn đã chặn. Để thêm vào danh sách này, bạn vào mục [**Cài đặt/ Tài khoản/ Danh sách đen/ Chặn**](https://app.subiz.com/settings/blacklist-ips). Tại đây bạn chỉ cần copy địa chỉ **IP, Email** hoặc **ID** của User muốn chặn.
 
 {% tabs %}
 {% tab title="Chặn bằng IP" %}
@@ -30,12 +30,12 @@ Tuy nhiên, trong trường hợp có nhiều users sử dụng chung 1 IP, các
 {% endtab %}
 
 {% tab title="Chặn bằng Email" %}
-Sau khi nhập email của user bạn muốn chặn, tất cả mail được gửi từ địa chỉ này đều bị chặn.
+Sau khi nhập [email ](https://subiz.com/vi/email.html)của user bạn muốn chặn, tất cả [mail](https://subiz.com/vi/email.html) được gửi từ địa chỉ này đều bị chặn.
 
 ![Ch&#x1EB7;n theo &#x111;&#x1ECB;a ch&#x1EC9; email](../../.gitbook/assets/chan-theo-email.png)
 
 {% hint style="info" %}
-**Lưu ý:** Việc chặn địa chỉ mail được sử dụng khi bạn muốn chặn tương tác trên kênh email.
+**Lưu ý:** Việc chặn địa chỉ[ mail](https://subiz.com/vi/email.html) được sử dụng khi bạn muốn chặn tương tác trên kênh [email](https://subiz.com/vi/email.html).
 {% endhint %}
 {% endtab %}
 
@@ -58,7 +58,7 @@ Mỗi User kết nối được tới Subiz đều được cấp một mã số
 
 {% tabs %}
 {% tab title="Spam List" %}
-Đây là  danh sách những địa chỉ IP, Email hoặc ID đã bị chặn.
+Đây là  danh sách những địa chỉ IP, [Email ](https://subiz.com/vi/email.html)hoặc ID đã bị chặn.
 
 ![Spam List](../../.gitbook/assets/spam-list.png)
 {% endtab %}
@@ -81,9 +81,9 @@ Bao gồm danh sách các Users đã bị Chặn, Agent thao tác chặn và th�
 
 ### Điều gì xảy ra khi bạn chặn một User
 
-* **Với Channel Subiz Chat:** User sẽ không nhìn thấy cửa sổ chat và không thể tạo cuộc hội thoại hay gửi tin nhắn.
-* **Với Channel Email:** User gửi email và bị chặn tại Subiz Core. Mail đó sẽ không được hiển thị cho Agent.
-* **Với Channel Messenger:** Tin nhắn được chặn ở Subiz Core và không hiển thị cho Agent \(Lưu ý: tin nhắn vẫn tồn tại và hiển thị nếu khách dùng Quản trị fanpage\)
+* **Với Channel** [**Subiz Chat**](https://subiz.com/vi/live-chat.html)**:** User sẽ không nhìn thấy cửa sổ chat và không thể tạo cuộc hội thoại hay gửi tin nhắn.
+* **Với Channel** [**Email**](https://subiz.com/vi/email.html)**:** User gửi email và bị chặn tại Subiz Core. Mail đó sẽ không được hiển thị cho Agent.
+* **Với Channel** [**Messenger**](https://subiz.com/vi/facebook-messenger.html)**:** Tin nhắn được chặn ở Subiz Core và không hiển thị cho Agent \(Lưu ý: tin nhắn vẫn tồn tại và hiển thị nếu khách dùng Quản trị fanpage\)
 * Các agent bị chặn có Avatar gạch chéo  
 
 ![Avatetr User b&#x1ECB; block](../../.gitbook/assets/avatar-spam.png)

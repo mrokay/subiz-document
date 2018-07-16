@@ -2,11 +2,11 @@
 
 Quản lý hệ thống thông tin khách hàng là phương pháp giúp doanh nghiệp được tiếp cận, giao tiếp với khách hàng một cách có hệ thống và hiệu quả dựa trên việc quản lý các thông tin của khách hàng như: liên lạc, nhu cầu, tài khoản… nhằm phục vụ khách hàng tốt hơn.
 
-Từ những thông tin của khách hàng được cập nhật và lưu trữ trong hệ thống quản lý Subiz, doanh nghiệp có thể phân tích, hình thành danh sách khách hàng tiềm năng, từ đó ra chiến lược chăm sóc hợp lý nhằm duy trì mối quan hệ tốt với khách hàng và đạt lợi nhuận tối đa trong kinh doanh.
+Từ những thông tin của khách hàng được cập nhật và lưu trữ trong hệ thống quản lý [Subiz](https://subiz.com/vi/), doanh nghiệp có thể phân tích, hình thành danh sách khách hàng tiềm năng, từ đó ra chiến lược chăm sóc hợp lý nhằm duy trì mối quan hệ tốt với khách hàng và đạt lợi nhuận tối đa trong kinh doanh.
 
 ### Thông tin khách hàng
 
-Để tùy chỉnh thông tin khách hàng, bạn vào mục **Cài đặt &gt; Tài khoản &gt; Thông tin khách hàng**.
+Để tùy chỉnh thông tin khách hàng, bạn vào mục ****[**Cài đặt &gt; Tài khoản &gt; Thông tin khách hàng**.](https://app.subiz.com/settings/user-attributes)
 
 Một tài khoản Subiz sẽ có 4 trường thông tin mặc định: Địa chỉ, Tên, Email và Số điện thoại
 
@@ -18,9 +18,9 @@ Những trường thông tin này sẽ được hiển thị trong phần thông
 
 ### Tùy chỉnh thông tin khách hàng
 
-Subiz cho phép bạn thêm trường dữ liệu khách hàng, phục vụ cho việc khai thác và quản lý thông tin khách hàng theo đặc thù riêng biệt của từng doanh nghiệp:
+[Subiz](https://subiz.com/vi/) cho phép bạn thêm trường dữ liệu khách hàng, phục vụ cho việc khai thác và quản lý thông tin khách hàng theo đặc thù riêng biệt của từng doanh nghiệp:
 
-Để tùy chỉnh thông tin khách hàng, bạn vào mục **Cài đặt &gt; Tài khoản &gt; Thông tin khách hàng &gt; Tạo trường dữ liệu mới**
+Để tùy chỉnh thông tin khách hàng, bạn vào mục[ **Cài đặt &gt; Tài khoản &gt; Thông tin khách hàng &gt; Tạo trường dữ liệu mới**](https://app.subiz.com/settings/user-attributes#)\*\*\*\*
 
 ![T&#x1EA1;o tr&#x1B0;&#x1EDD;ng d&#x1EEF; li&#x1EC7;u m&#x1EDB;i](../../.gitbook/assets/loai-du-lieu.png)
 

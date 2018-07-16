@@ -35,7 +35,7 @@ Bạn có thể theo dõi thông tin cụ thể của từng user bao gồm:
 * Địa chỉ Email
 * Địa chỉ liên hệ
 
-**Để nhập thông tin cho user**, bạn click vào mũi tên phía dưới ảnh đại diện của Agent phía trên list activities, nhập thông tin và chọn Lưu thay đổi.
+**Để nhập thông tin cho user**, bạn click vào mũi tên phía dưới ảnh đại diện của Agent phía trên Danh sách hoạt động, nhập thông tin và chọn Lưu thay đổi.
 
 ![C&#x1EAD;p nh&#x1EAD;t th&#xF4;ng tin user](../../.gitbook/assets/cap-nhat-thong-tin-user.png)
 
