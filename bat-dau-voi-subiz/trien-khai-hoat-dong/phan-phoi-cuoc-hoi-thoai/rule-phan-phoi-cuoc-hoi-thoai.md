@@ -1,12 +1,12 @@
 # Cách thức phân phối cuộc hội thoại
 
-**Với Subiz, các cuộc hội thoại sẽ được phân phối một cách tự động tới một hay một nhóm Agent, bằng cách bạn thiết lập và sử dụng các Rule**
+**Với** [**Subiz**](https://subiz.com/vi/)**, các cuộc hội thoại sẽ được phân phối một cách tự động tới một hay một nhóm Agent, bằng cách bạn thiết lập và sử dụng các Rule**
 
 Bạn có thể sử dụng Rule mặc định ban đầu, sử dụng thư viện Rule có sẵn hoặc tạo “Rule Mới” để thực hiện phân phối tự động các cuộc hội thoại sao cho phù hợp với nhu cầu thực tế của doanh nghiệp
 
 ### **Sử dụng Rule mặc định ban đầu**
 
-Là Rule phân phối tất cả các cuộc tương tác của tất cả các User \(khách hàng\) cho Agent chủ tài khoản \(Agent owner\) ngay sau khi tích hợp một hay nhiều kênh tương tác cho tài khoản Subiz của bạn. **Đây là rule mặc định, Subiz đã thiết lập ban đầu cho mọi tài khoản.**
+Là Rule phân phối tất cả các cuộc tương tác của tất cả các User \(khách hàng\) cho Agent chủ tài khoản \(Agent owner\) ngay sau khi tích hợp một hay nhiều kênh tương tác cho tài khoản [Subiz ](https://subiz.com/vi/)của bạn. **Đây là rule mặc định,** [**Subiz** ](https://subiz.com/vi/)**đã thiết lập ban đầu cho mọi tài khoản.**
 
 ![Rule m&#x1EB7;c &#x111;&#x1ECB;nh ban &#x111;&#x1EA7;u](../../../.gitbook/assets/rule-mac-dinh-1.jpg)
 
@@ -18,7 +18,7 @@ Bạn có thể **chỉnh sửa các điều kiện, cách thức phân phối**
 
 ### **Sử dụng Thư viện Rule có sẵn**
 
-Thư viện Rule là danh sách các Rule mà Subiz đã tạo sẵn cho bạn, bạn có thể chọn Rule phù hợp với cách thức hoạt động của doanh nghiệp, hoặc chỉnh sửa thêm để nhanh chóng tạo ra các Rule thích hợp nhất với doanh nghiệp của mình.
+Thư viện Rule là danh sách các Rule mà [Subiz](https://subiz.com/vi/) đã tạo sẵn cho bạn, bạn có thể chọn Rule phù hợp với cách thức hoạt động của doanh nghiệp, hoặc chỉnh sửa thêm để nhanh chóng tạo ra các Rule thích hợp nhất với doanh nghiệp của mình.
 
 Để sử dụng rule có sẵn, bạn làm theo các bước sau:
 
@@ -36,10 +36,10 @@ Thư viện Rule là danh sách các Rule mà Subiz đã tạo sẵn cho bạn, 
 
 ### **Tạo Rule mới**
 
-Bạn nên dựa trên tình hình thực tế của doanh nghiệp, như số lượng website, fanpage, email đã tích hợp, số lượng Agent đang sử dụng và cách thức quản lý, điều hành của doanh nghiệp để sáng tạo ra các Rule mới, giúp cho việc phân phối và xử lý các cuộc hội thoại được hiệu quả.
+Bạn nên dựa trên tình hình thực tế của doanh nghiệp, như số lượng website, [fanpage,](https://help.subiz.com/~/edit/drafts/-LHLYo_IHXRyhsUW_hMD/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-fanpage-facebook-vao-subiz) [email ](https://help.subiz.com/~/edit/drafts/-LHLYo_IHXRyhsUW_hMD/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz)đã tích hợp, số lượng Agent đang sử dụng và cách thức quản lý, điều hành của doanh nghiệp để sáng tạo ra các Rule mới, giúp cho việc phân phối và xử lý các cuộc hội thoại được hiệu quả.
 
 {% hint style="info" %}
-* Khi bạn có nhiều Agent, không tạo Rule để phân phối tương tác, các Agent khác sẽ không nhận được thông báo yêu cầu chat từ khách hàng, lúc này các yêu cầu chat đều chuyển tới cho Agent chủ tài khoản. Lúc đầu bạn có thể chọn các Rule trong Thư viện Rule mà Subiz đã tạo sẵn.
+* Khi bạn có nhiều Agent, không tạo Rule để phân phối tương tác, các Agent khác sẽ không nhận được thông báo yêu cầu chat từ khách hàng, lúc này các yêu cầu chat đều chuyển tới cho Agent chủ tài khoản. Lúc đầu bạn có thể chọn các Rule trong Thư viện Rule mà [Subiz](https://subiz.com/vi/) đã tạo sẵn.
 * Bạn có thể tạo nhiều Rule, [quản lý các Rule](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/untitled/untitled/quan-ly-danh-sach-rule) và thay đổi Rule theo thời gian, cho phù hợp với số lượng Agent và cách quản lý của bạn.
 {% endhint %}
 

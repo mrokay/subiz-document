@@ -2,22 +2,22 @@
 
 ### Tổng quan báo cáo thống kê
 
-Trong Subiz, mọi dữ liệu tương tác của bạn với khách hàng đều được lưu lại. Những báo cáo thống kê này sẽ giúp bạn kiểm tra được tình hình hoạt động kinh doanh trực tuyến, nắm bắt chất lượng dịch vụ chăm sóc khách hàng và quản lý đội ngũ nhân viên hiệu quả.
+Trong [Subiz](https://subiz.com/vi/), mọi dữ liệu tương tác của bạn với khách hàng đều được lưu lại. Những báo cáo thống kê này sẽ giúp bạn kiểm tra được tình hình hoạt động kinh doanh trực tuyến, nắm bắt chất lượng dịch vụ chăm sóc khách hàng và quản lý đội ngũ nhân viên hiệu quả.
 
-Để theo dõi thống kê tương tác trên Subiz bạn chỉ cần đăng nhập tài khoản Subiz và click vào mục **Thống kê.** 
+Để theo dõi thống kê tương tác trên [Subiz](https://subiz.com/vi/) bạn chỉ cần đăng nhập tài khoản[ Subiz ](https://subiz.com/vi/)và click vào mục **Thống kê.** 
 
 Tại đây bạn có thể thống kê tương tác online theo các danh mục sau:
 
 * **Thống kê cuộc hôi thoại**: Bạn có thể thống kê cuộc hội thoại theo từng khung thời gian chi tiết và theo từng Agent/ Nhóm Agent cụ thể. Taị đây, bạn sẽ có được số liệu chi tiết về những cuộc tương tác, thời điểm có nhiều khách hàng tương tác, những agent nào có nhiều/ ít cuộc tương tác nhất và kênh nào hoạt động hiệu quả nhất.
 * **Thống kê Tag**: Thống kê tag sẽ giúp bạn phân loại và quản lý các cuộc tương tác một cách hiệu quả. Nếu như bạn không chỉ muốn bán hàng trên các kênh online mà còn cung cấp các dịch vụ chăm sóc khách hàng, hỗ trợ kỹ thuật...chức năng thống kê này sẽ giúp bạn nắm được tình hình hoạt động trực tuyến của doanh nghiệp và xác định kênh hỗ trợ khách hàng hiệu quả.
 
-Như vậy, với thống kê báo cáo Subiz, bạn không chỉ đơn thuần thấy được những con số thống kê mà còn xây dựng những cơ sở dữ liệu để quản lý tình hình hoạt động kinh doanh, chăm sóc khách hàng và triển khai những kế hoạch kinh doanh hiệu quả.
+Như vậy, với thống kê báo cáo [Subiz](https://subiz.com/vi/), bạn không chỉ đơn thuần thấy được những con số thống kê mà còn xây dựng những cơ sở dữ liệu để quản lý tình hình hoạt động kinh doanh, chăm sóc khách hàng và triển khai những kế hoạch kinh doanh hiệu quả.
 
 ### Thống kê cuộc hội thoại
 
-Thống kê cuộc hội thoại giúp bạn có đánh giá tổng quan về tương tác của khách hàng trên Subiz. Subiz hỗ trợ bạn thống kê theo từng tiêu chí.
+Thống kê cuộc hội thoại giúp bạn có đánh giá tổng quan về tương tác của khách hàng trên [Subiz](https://subiz.com/vi/). [Subiz](https://subiz.com/vi/) hỗ trợ bạn thống kê theo từng tiêu chí.
 
-Đây là cơ sở dữ liệu giúp bạn đưa ra những chiến lược marketing, kinh doanh online trên các kênh và  đánh giá hiệu quả của các chiến dịch quảng cáo, promotion... Ví dụ như trong bạn đang triển khai chạy quảng cáo trên Fanpage trong 30 ngày. Kết thúc chiến dịch, bạn có thể kiểm tra lượng tương tác qua kênh Messenger trong 30 ngày vừa qua. Từ số liệu tương tác cụ thể trong suốt 30 ngày, bạn có thể đưa ra những đánh giá về hiệu quả của chương trình này và có những chỉnh sửa cần thiết.
+Đây là cơ sở dữ liệu giúp bạn đưa ra những chiến lược marketing, kinh doanh online trên các kênh và  đánh giá hiệu quả của các chiến dịch quảng cáo, promotion... Ví dụ như trong bạn đang triển khai chạy quảng cáo trên [Fanpage](https://help.subiz.com/~/edit/drafts/-LHLYo_IHXRyhsUW_hMD/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-fanpage-facebook-vao-subiz) trong 30 ngày. Kết thúc chiến dịch, bạn có thể kiểm tra lượng tương tác qua kênh [Messenger](https://help.subiz.com/~/edit/drafts/-LHLYo_IHXRyhsUW_hMD/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-fanpage-facebook-vao-subiz) trong 30 ngày vừa qua. Từ số liệu tương tác cụ thể trong suốt 30 ngày, bạn có thể đưa ra những đánh giá về hiệu quả của chương trình này và có những chỉnh sửa cần thiết.
 
 #### Các tiêu chí thống kê
 
@@ -25,7 +25,7 @@ Tại mục Thống kê, bạn có thể thống kê số lượng cuộc hội 
 
 {% tabs %}
 {% tab title="Kênh" %}
-Lọc cuộc hội thoại theo kênh giúp bạn biết được lượng tương tác qua từng kênh Subiz Chat/ Email/ Messenger 
+Lọc cuộc hội thoại theo kênh giúp bạn biết được lượng tương tác qua từng kênh Subiz Chat/ [Email](https://help.subiz.com/~/edit/drafts/-LHLYo_IHXRyhsUW_hMD/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz)/ [Messenger ](https://help.subiz.com/~/edit/drafts/-LHLYo_IHXRyhsUW_hMD/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-fanpage-facebook-vao-subiz)
 
 ![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c theo c&#xE1;c k&#xEA;nh](.gitbook/assets/thong-ke-tag-theo-kenh%20%281%29.png)
 {% endtab %}
@@ -58,7 +58,7 @@ Ví dụ: Thống kê số cuộc hội thoại trên kênh Subiz Chat của nh�
 
 ### Thống kê tag
 
-Subiz tag là tính năng cho phép người dùng gắn tag cho các tương tác trên tất cả các kênh tích hợp Subiz. Mục đích của tính năng này để hỗ trợ viên dễ dàng quản lý và phân loại các tương tác với khách hàng ví dụ như: Hỗ trợ, Bán hàng, Góp ý…
+Subiz tag là tính năng cho phép người dùng gắn tag cho các tương tác trên tất cả các kênh tích hợp [Subiz](https://subiz.com/vi/). Mục đích của tính năng này để hỗ trợ viên dễ dàng quản lý và phân loại các tương tác với khách hàng ví dụ như: Hỗ trợ, Bán hàng, Góp ý…
 
 Nhờ chức năng này bạn cũng có thể thống kê chi tiết nội dung những cuộc tương tác và đánh giá hiệu quả của các chương trình khuyến mãi. Ví dụ, website bạn đang chạy chương trình khuyến mãi _Tuần lễ vàng mua sắm_. Sau 7 ngày, bạn có thể thống kê cụ thể có bao nhiêu cuộc tương tác được gắn tag " báo giá", "quan tâm chương trình", "chốt đơn"... Những thống kê này sẽ giúp bạn đánh giá được mức độ hiệu quả của chương trình khuyến mãi.
 
@@ -68,7 +68,7 @@ Tại trang thống kê Tag, bạn có thể thống kê số lượng tag đã 
 
 {% tabs %}
 {% tab title="Kênh" %}
-Chọn kênh mà bạn muốn thông kê Tag: Subiz Chat/ Email/ Messenger
+Chọn kênh mà bạn muốn thông kê Tag: Subiz Chat/ [Email](https://help.subiz.com/~/edit/drafts/-LHLYo_IHXRyhsUW_hMD/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz)/ [Messenger](https://help.subiz.com/~/edit/drafts/-LHLYo_IHXRyhsUW_hMD/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-fanpage-facebook-vao-subiz)
 
 ![Th&#x1ED1;ng k&#xEA; tag theo k&#xEA;nh](.gitbook/assets/thong-ke-tag-theo-kenh%20%282%29.png)
 {% endtab %}

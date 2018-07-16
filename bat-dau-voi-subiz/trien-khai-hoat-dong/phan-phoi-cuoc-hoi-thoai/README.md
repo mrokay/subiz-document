@@ -1,6 +1,6 @@
 # Phân phối cuộc hội thoại
 
-Tại mục này, Subiz có những hướng dẫn giúp bạn tạo và sử dụng các rule để phân phối các cuộc hội thoại một cách tự động tới các Agent, hoặc các nhóm Agent.
+Tại mục này, [Subiz](https://subiz.com/vi/) có những hướng dẫn giúp bạn tạo và sử dụng các rule để phân phối các cuộc hội thoại một cách tự động tới các Agent, hoặc các nhóm Agent.
 
 Khi đã thiết lập các Rule phân phối hội thoại, khách hàng có thể tương tác với đúng tư vấn viên, hỗ trợ giải đáp được các thắc mắc của mình. Từ đó nâng cao chất lượng tương tác của doanh nghiệp, đem lại sự hài lòng cho khách hàng.  
 

@@ -1,8 +1,8 @@
 # Thanh toán
 
-Các thông tin và hướng dẫn trong mục Thanh toán sẽ giúp bạn hiểu rõ về các gói dịch vụ, cách thức tính phí, các hình thức thanh toán của Subiz. Đồng thời giúp bạn nắm rõ thông tin tài khoản và dịch vụ mình đang sử dụng và hướng dẫn bạn quản lý tài khoản của mình, như mua thêm Agent, nâng cấp gói dịch vụ...
+Các thông tin và hướng dẫn trong mục Thanh toán sẽ giúp bạn hiểu rõ về các gói dịch vụ, cách thức tính phí, các hình thức thanh toán của [Subiz](https://subiz.com/vi/). Đồng thời giúp bạn nắm rõ thông tin tài khoản và dịch vụ mình đang sử dụng và hướng dẫn bạn quản lý tài khoản của mình, như mua thêm Agent, nâng cấp gói dịch vụ...
 
-Subiz đã cung cấp thông tin và hướng dẫn chi tiết tại:
+[Subiz ](https://subiz.com/vi/)đã cung cấp thông tin và hướng dẫn chi tiết tại:
 
 {% page-ref page="subiz-tinh-phi-nhu-the-nao.md" %}
 

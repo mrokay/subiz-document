@@ -1,6 +1,6 @@
 # Phương thức thanh toán
 
-Hiện tại, Subiz hỗ trợ 02 hình thức thanh toán: **Thanh toán qua Thẻ tín dụng** \( Credit và Debit card\) và **Thanh toán qua Chuyển khoản ngân hàng**. Việc nâng cấp tài khoản lên gói dịch vụ trả phí sau khi bạn đã trải nghiệm thời gian dùng thử vô cùng đơn giản. Chỉ vài phút thao tác, tài khoản của bạn sẽ được nâng cấp ngay lập tức.
+Hiện tại, [Subiz](https://subiz.com/vi/) hỗ trợ 02 hình thức thanh toán: **Thanh toán qua Thẻ tín dụng** \( Credit và Debit card\) và **Thanh toán qua Chuyển khoản ngân hàng**. Việc nâng cấp tài khoản lên gói dịch vụ trả phí sau khi bạn đã trải nghiệm thời gian dùng thử vô cùng đơn giản. Chỉ vài phút thao tác, tài khoản của bạn sẽ được nâng cấp ngay lập tức.
 
 ### Thanh toán qua Thẻ tín dụng \(Credit và Debit card\)
 
@@ -11,10 +11,10 @@ Bước 1: Truy nhập vào Tài khoản[ Subiz](https://app.subiz.com/login?red
 
 Bước 2:  Lựa chọn thông tin của gói dịch vụ
 
-Subiz tính phí theo 3 yếu tố:
+[Subiz](https://subiz.com/vi/) tính phí theo 3 yếu tố:
 
 * **Loại gói:** Cơ bản/Nâng cao \( Standard/Advanced\).
-* **Số agent:** số người đăng nhập Subiz
+* **Số agent:** số người đăng nhập [Subiz](https://subiz.com/vi/)
 * **Chu kì thanh toán:** 01, 03, 06,12, 24 tháng
 
 Bạn chỉ cần lựa chọn gói dịch vụ phù hợp, điền thông tin và Click vào Đăng ký ngay.
@@ -40,7 +40,7 @@ Sau khi nâng cấp tài khoản thành công, bất kỳ lúc nào bạn đều
 Việc Thanh toán qua Chuyển khoản ngân hàng được thực hiện qua 2 bước đơn giản như sau:
 
 * Bước 1: Truy nhập vào Tài khoản [Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F) . **Cài đặt &gt; Thanh toán**
-* Bước 2:  Lựa chọn thông tin của gói dịch vụ phù hợp và Click vào mục **Chuyển khoản** , hệ thống sẽ hiển thị số tiền cần chuyển và thông tin tài khoản của Subiz.
+* Bước 2:  Lựa chọn thông tin của gói dịch vụ phù hợp và Click vào mục **Chuyển khoản** , hệ thống sẽ hiển thị số tiền cần chuyển và thông tin tài khoản của [Subiz](https://subiz.com/vi/).
 
 ![Thanh to&#xE1;n chuy&#x1EC3;n kho&#x1EA3;n](https://lh5.googleusercontent.com/x8S2IQkM7gxVr1wCYPz86ZOCMD8NMcNOyq75s9GWabjI7cuqPx5zz-ajkCWeL36Q4lPcmX_5djBLPGdslQZ16BBo5Gf8leXliM2NEjc7_nSNlQiVUImCCnMODAYf258Y7VG7fETd)
 

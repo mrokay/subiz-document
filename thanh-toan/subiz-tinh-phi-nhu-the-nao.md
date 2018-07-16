@@ -1,8 +1,8 @@
 # Subiz tính phí như thế nào
 
-Subiz vận hành theo mô hình SAAS \(software as a service\), tạm dịch là cung cấp phần mềm như một dịch vụ, cho phép người mua trả một khoản phí theo các chu kỳ thanh toán theo số tháng hoặc các năm, chi phí đã bao gồm giấy phép sử dụng phần mềm, phí hỗ trợ và hầu hết các chi phí khác.
+[Subiz ](https://subiz.com/vi/)vận hành theo mô hình SAAS \(software as a service\), tạm dịch là cung cấp phần mềm như một dịch vụ, cho phép người mua trả một khoản phí theo các chu kỳ thanh toán theo số tháng hoặc các năm, chi phí đã bao gồm giấy phép sử dụng phần mềm, phí hỗ trợ và hầu hết các chi phí khác.
 
-### **Subiz là dịch vụ thuê bao, sẽ tính phí theo 3 yếu tố**
+### \*\*\*\*[**Subiz**](https://subiz.com/vi/) **là dịch vụ thuê bao, sẽ tính phí theo 3 yếu tố**
 
 * **Loại gói:** Cơ bản/Nâng cao
 * **Số agent:** số người đăng nhập Subiz
