@@ -4,7 +4,7 @@ Các hướng dẫn của mục Quản lý Agent, sẽ giúp bạn hiểu rõ Ag
 
 Trong đó, bạn sẽ được cung cấp các kiến thức về:
 
-* Các loại Agent và các quyền hạn của từng loại Agent có trong Subiz
+* Các loại Agent và các quyền hạn của từng loại Agent có trong[ Subiz](https://subiz.com/vi/)
 
 {% page-ref page="cac-loai-agent.md" %}
 

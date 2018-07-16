@@ -2,22 +2,22 @@
 
 ### Agent là gì?
 
-**Agent là thuật ngữ chỉ người sử dụng Subiz để làm việc và tương tác với khách hàng**. Agent có thể là người quản lý, tư vấn viên, hoặc bất kỳ nhân viên nào trong doanh nghiệp. Mỗi Agent sẽ có một tài khoản đăng nhập riêng.
+**Agent là thuật ngữ chỉ người sử dụng**[ **Subiz** ](https://subiz.com/vi/)**để làm việc và tương tác với khách hàng**. Agent có thể là người quản lý, tư vấn viên, hoặc bất kỳ nhân viên nào trong doanh nghiệp. Mỗi Agent sẽ có một tài khoản đăng nhập riêng.
 
 ### **Các loại Agent**
 
-Mỗi tài khoản Subiz sẽ có 2 đối tượng Agent sau;
+Mỗi tài khoản [Subiz](https://subiz.com/vi/) sẽ có 2 đối tượng Agent sau;
 
-* **Agent chủ tài khoản \(Agent owner\)**: Là tài khoản chính đăng ký Subiz cho doanh nghiệp
-* **Agent thành viên**: Là tài khoản được Agent owner mời thêm cùng tham gia sử dụng Subiz
+* **Agent chủ tài khoản \(Agent owner\)**: Là tài khoản chính đăng ký [Subiz](https://subiz.com/vi/) cho doanh nghiệp
+* **Agent thành viên**: Là tài khoản được Agent owner mời thêm cùng tham gia sử dụng [Subiz](https://subiz.com/vi/)
 
 ### Phân quyền tài khoản Agent
 
-Một Agent sẽ có **3 loại Quyền** khi sử dụng tài khoản Subiz. 
+Một Agent sẽ có **3 loại Quyền** khi sử dụng tài khoản [Subiz](https://subiz.com/vi/). 
 
 1. **Quản lý tài khoản**
 
-* Quyền này cho phép bạn có thể quản lý thông tin Agent bao gồm mời Agent, tùy chỉnh Agent hay xóa tài khoản Agent. Và, bạn có thể truy cập mục Cài đặt Thanh toán để quản lý gói dịch vụ Subiz như nâng cấp tài khoản, mua thêm Agent, nâng gói Subiz, gia hạn tài khoản,...
+* Quyền này cho phép bạn có thể quản lý thông tin Agent bao gồm mời Agent, tùy chỉnh Agent hay xóa tài khoản Agent. Và, bạn có thể truy cập mục Cài đặt Thanh toán để quản lý gói dịch vụ [Subiz](https://subiz.com/vi/) như nâng cấp tài khoản, mua thêm Agent, nâng gói [Subiz](https://subiz.com/vi/), gia hạn tài khoản,...
 * Bạn lựa chọn quyền **Truy cập đầy đủ** hoặc **Không có quyền truy cập**
 
   2. **Cài đặt tài khoản**
@@ -51,13 +51,13 @@ Tại đây, bạn có thể tùy chỉnh:
 
 1. Thông tin cá nhân
 2. Ảnh đại diện
-3. Mật khẩu đăng nhập Subiz
+3. Mật khẩu đăng nhập [Subiz](https://subiz.com/vi/)
 
 {% tabs %}
 {% tab title="1. Thông tin cá nhân " %}
 _Hướng dẫn tùy chỉnh thông tin_: **Thay đổi các trường thông tin cần thiết** &gt; chọn **Lưu**
 
-* **Tên** **đầy đủ:** Tên hiển thị của Agent trên cửa sổ chat Subiz
+* **Tên** **đầy đủ:** Tên hiển thị của Agent trên cửa sổ chat[ Subiz](https://subiz.com/vi/)
 * **Địa chỉ email:** Email đăng nhập Subiz của Agent, **không thể thay đổi**
 * **Vị trí công việc:** Công việc mà Agent đảm nhiệm
 * **Số điện thoại:** Số điện thoại liên hệ của Agent
@@ -97,7 +97,7 @@ Nếu quên mật khẩu đăng nhập, bạn có thể đặt lại mật khẩ
 
 ![Nh&#x1EAD;p email &#x111;&#xE3; &#x111;&#x103;ng k&#xFD; t&#xE0;i kho&#x1EA3;n Subiz](../../../.gitbook/assets/quen-mat-khau-2.png)
 
-*  Kiểm tra email khôi phục mật khẩu Subiz gửi về email của bạn. Click link **Reset Password**  trong email.
+*  Kiểm tra email khôi phục mật khẩu [Subiz](https://subiz.com/vi/) gửi về email của bạn. Click link **Reset Password**  trong email.
 
 ![Ki&#x1EC3;m tra email v&#xE0; ch&#x1ECD;n Reset Password](../../../.gitbook/assets/reset-password.png)
 
