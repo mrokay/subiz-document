@@ -6,7 +6,7 @@
 
 Tại trang **Cài đặt Phân khúc**, bạn có thể tạo phân khúc mới, theo dõi và chỉnh sửa danh sách phân khúc.
 
-Để tạo Phân khúc mới, bạn vào **Cài đặt &gt; Tài khoản &gt; Phân khúc, chọn Tạo phân khúc**.
+Để tạo Phân khúc mới, bạn vào [**Cài đặt &gt; Tài khoản &gt; Phân khúc, chọn Tạo phân khúc**](https://app.subiz.com/settings/segment-list).
 
 ![N&#xFA;t t&#x1EA1;o ph&#xE2;n kh&#xFA;c kh&#xE1;ch h&#xE0;ng m&#x1EDB;i](../../.gitbook/assets/tao-moi-phan-khuc%20%281%29.png)
 
@@ -31,7 +31,7 @@ Ví dụ về tạo Phân khúc lọc các khách hàng Việt Nam có nhiều h
 
 Chế độ **Lọc tất cả user \(**chỉ có ở gói Nâng cao\):
 
-* **Trạng thái ON:** hệ thống Subiz sẽ kiểm tra và lọc toàn bộ dữ liệu về user đã, đang và sẽ có trên Subiz để đưa vào phân khúc.
+* **Trạng thái ON:** hệ thống [Subiz](https://subiz.com/vi/) sẽ kiểm tra và lọc toàn bộ dữ liệu về user đã, đang và sẽ có trên [Subiz](https://subiz.com/vi/) để đưa vào phân khúc.
 * **Trạng thái OFF:** chỉ kiểm tra và lọc các khách truy cập từ thời điểm tạo Phân khúc
 
 {% hint style="info" %}

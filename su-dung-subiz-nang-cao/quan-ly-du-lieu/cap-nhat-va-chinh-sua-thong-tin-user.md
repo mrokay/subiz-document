@@ -1,6 +1,6 @@
 # Cập nhật và chỉnh sửa thông tin user
 
-**User là các khách hàng đã có tương tác với bạn qua Subiz,** bao gồm các khách hàng tương tác với bạn trên website, từ Fanpage và Email. Danh sách user được hiển thị ở khung đầu tiên bên trái trên trang **Hoạt động.**
+**User là các khách hàng đã có tương tác với bạn qua** [**Subiz**](https://subiz.com/vi/)**,** bao gồm các khách hàng tương tác với bạn trên website, từ [Fanpage](https://subiz.com/vi/facebook-messenger.html) và [Email](https://subiz.com/vi/email.html). Danh sách user được hiển thị ở khung đầu tiên bên trái trên trang **Hoạt động.**
 
 Tại trang **Hoạt động**, bạn có thể đồng thời theo dõi danh sách các user, lịch sử hoạt động của từng user và tương tác trực tiếp với họ.
 
@@ -18,7 +18,7 @@ Khi click vào từng user, bạn có thể kiểm tra lịch sử hoạt độn
 
 ### **List Activities** {#listactivities}
 
-**Khi chọn một user cụ thể, bạn sẽ thấy hiển thị lịch sử hoạt động và tương tác của user với doanh nghiệp,** ví dụ xem 1 trang trên website và tương tác của user đó với bạn qua Subiz Chat hoặc Email\).
+**Khi chọn một user cụ thể, bạn sẽ thấy hiển thị lịch sử hoạt động và tương tác của user với doanh nghiệp,** ví dụ xem 1 trang trên website và tương tác của user đó với bạn qua [Subiz Chat ](https://subiz.com/vi/live-chat.html)hoặc [Email](https://subiz.com/vi/email.html)\).
 
 ![C&#xE1;c ho&#x1EA1;t &#x111;&#x1ED9;ng c&#x1EE7;a user](../../.gitbook/assets/list-acivities.png)
 

@@ -1,6 +1,6 @@
 # Chặn một User
 
-Trong quá trình tương tác với khách hàng trên Subiz, bạn có thể gặp những users gây phiền toái cho cuộc trò chuyện như gửi tin nhắn spam, có những lời nói khiếm nhã hay có những hành vi làm ảnh hưởng đến doanh nghiệp...Vậy làm cách nào để ngăn những user này gửi email/ tin nhắn spam đến doanh nghiệp? Bài viết sau sẽ chia sẻ cho bạn những hướng dẫn cụ thể.
+Trong quá trình tương tác với khách hàng trên [Subiz](https://subiz.com/vi/), bạn có thể gặp những users gây phiền toái cho cuộc trò chuyện như gửi tin nhắn spam, có những lời nói khiếm nhã hay có những hành vi làm ảnh hưởng đến doanh nghiệp...Vậy làm cách nào để ngăn những user này gửi email/ tin nhắn spam đến doanh nghiệp? Bài viết sau sẽ chia sẻ cho bạn những hướng dẫn cụ thể.
 
 ### Cách chặn một User
 
@@ -44,7 +44,7 @@ Mỗi User kết nối được tới Subiz đều được cấp một mã số
 
 ![Ch&#x1EB7;n theo User ID](../../.gitbook/assets/chan-theo-id%20%281%29.png)
 
-Đây là cách chặn chính xác và tổng quan nhất trên tất cả các kênh mà User này kết nối như Email,  Subiz Chat, Messenger.
+Đây là cách chặn chính xác và tổng quan nhất trên tất cả các kênh mà User này kết nối như [Email](https://subiz.com/vi/email.html),  [Subiz Chat](https://subiz.com/vi/live-chat.html), [Messenger](https://subiz.com/vi/facebook-messenger.html).
 
 **Cách lấy User ID**: Click vào 1 User trong tab Activities và lấy URL, copy đoạn đánh dấu đỏ như sau:
 
@@ -74,7 +74,7 @@ Bao gồm danh sách các Users đã bị Chặn, Agent thao tác chặn và th�
 
 Để bỏ chặn một User, bạn có thể thao tác theo 2 cách sau:
 
-* **Bỏ chặn trực tiếp trên trang Activities:** Từ Tab activities &gt; Tìm User và tắt Chặn User.
+* **Bỏ chặn trực tiếp trên trang Activities:** Từ trang HOẠT ĐỘNG &gt; Tìm User và tắt Chặn User.
 * **Bỏ chặn trong Blacklist:** Trong BlackList, click vào biểu tượng remove đối với User muốn bỏ chặn
 
 ![B&#x1ECF; ch&#x1EB7;n User](../../.gitbook/assets/bo-chan.png)

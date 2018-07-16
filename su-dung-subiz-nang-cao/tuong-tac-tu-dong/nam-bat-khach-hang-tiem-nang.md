@@ -1,6 +1,6 @@
 # Hỏi thông tin khách hàng
 
-Khách hàng tiềm năng là người đang có nhu cầu về sản phẩm và dịch vụ bạn cung cấp. Subiz sẽ giúp bạn xác định, thu thập và lưu trữ thông tin khách hàng tiềm năng với tính năng mạnh mẽ Automation - Hỏi thông tin khách hàng
+Khách hàng tiềm năng là người đang có nhu cầu về sản phẩm và dịch vụ bạn cung cấp. [Subiz ](https://subiz.com/vi/)sẽ giúp bạn xác định, thu thập và lưu trữ thông tin khách hàng tiềm năng với tính năng mạnh mẽ Automation - Hỏi thông tin khách hàng
 
 Đặc biệt, Subiz cho phép bạn tạo thêm trường dữ liệu khách hàng để khai thác và thu thập tập thông tin khách hàng tiềm năng riêng biệt của Doanh Nghiệp. Từ đó, bạn sẽ vẽ được bức tranh tổng quan khách hàng mục tiêu rõ nét và hiệu quả.
 
@@ -23,7 +23,7 @@ Ví dụ kịch bản cài đặt Automation - Hỏi thông tin khách hàng thu
 
 ### Thêm trường dữ liệu hỏi thông tin khách hàng
 
-Subiz cho phép bạn tạo thêm trường dữ liệu khách hàng để khai thác và thu thập thông tin khách hàng tiềm năng riêng biệt của Doanh Nghiệp. Từ đó, bạn sẽ vẽ được bức tranh tổng quan khách hàng mục tiêu rõ nét và hiệu quả. 
+[Subiz](https://subiz.com/vi/) cho phép bạn tạo thêm trường dữ liệu khách hàng để khai thác và thu thập thông tin khách hàng tiềm năng riêng biệt của Doanh Nghiệp. Từ đó, bạn sẽ vẽ được bức tranh tổng quan khách hàng mục tiêu rõ nét và hiệu quả. 
 
 Hướng dẫn chi tiết như sau:
 
