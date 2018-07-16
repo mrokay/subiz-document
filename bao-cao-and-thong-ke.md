@@ -58,7 +58,7 @@ Ví dụ: Thống kê số cuộc hội thoại trên kênh Subiz Chat của nh�
 
 ### Thống kê tag
 
-Subiz tag là tính năng cho phép người dùng gắn tag cho các tương tác trên tất cả các kênh tích hợp [Subiz](https://subiz.com/vi/). Mục đích của tính năng này để hỗ trợ viên dễ dàng quản lý và phân loại các tương tác với khách hàng ví dụ như: Hỗ trợ, Bán hàng, Góp ý…
+Subiz tag là [tính năng](https://subiz.com/vi/feature.html) cho phép người dùng gắn tag cho các tương tác trên tất cả các kênh tích hợp [Subiz](https://subiz.com/vi/). Mục đích của tính năng này để hỗ trợ viên dễ dàng quản lý và phân loại các tương tác với khách hàng ví dụ như: Hỗ trợ, Bán hàng, Góp ý…
 
 Nhờ chức năng này bạn cũng có thể thống kê chi tiết nội dung những cuộc tương tác và đánh giá hiệu quả của các chương trình khuyến mãi. Ví dụ, website bạn đang chạy chương trình khuyến mãi _Tuần lễ vàng mua sắm_. Sau 7 ngày, bạn có thể thống kê cụ thể có bao nhiêu cuộc tương tác được gắn tag " báo giá", "quan tâm chương trình", "chốt đơn"... Những thống kê này sẽ giúp bạn đánh giá được mức độ hiệu quả của chương trình khuyến mãi.
 
