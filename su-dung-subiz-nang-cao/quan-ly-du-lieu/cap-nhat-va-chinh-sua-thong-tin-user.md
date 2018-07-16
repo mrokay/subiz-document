@@ -14,7 +14,7 @@ Tại trang **Hoạt động**, bạn có thể đồng thời theo dõi danh s�
 
 ![Danh s&#xE1;ch user](../../.gitbook/assets/user-list.png)
 
-Khi click vào từng user, bạn có thể kiểm tra lịch sử hoạt động của user đó \(trong phần List Activities\) và bắt đầu các cuộc hội thoại với user.
+Khi click vào từng user, bạn có thể kiểm tra lịch sử hoạt động của user đó \(trong phần Danh sách hoạt động\) và bắt đầu các cuộc hội thoại với user.
 
 ### **List Activities** {#listactivities}
 
