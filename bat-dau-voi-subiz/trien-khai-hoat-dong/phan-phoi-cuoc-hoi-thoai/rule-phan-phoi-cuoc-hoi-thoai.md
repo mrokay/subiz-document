@@ -24,7 +24,7 @@ Thư viện Rule là danh sách các Rule mà [Subiz](https://subiz.com/vi/) đ�
 
 ​[1. Đăng nhập tài khoản](http://widgetv4.subiz.com/)​
 
-2. Vào **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Rule**
+2. Vào [**Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Rule**](https://app.subiz.com/settings/rule-setting)\*\*\*\*
 
 3. Chọn **Thư viện Rule**
 
@@ -36,7 +36,7 @@ Thư viện Rule là danh sách các Rule mà [Subiz](https://subiz.com/vi/) đ�
 
 ### **Tạo Rule mới**
 
-Bạn nên dựa trên tình hình thực tế của doanh nghiệp, như số lượng website, [fanpage,](https://help.subiz.com/~/edit/drafts/-LHLYo_IHXRyhsUW_hMD/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-fanpage-facebook-vao-subiz) [email ](https://help.subiz.com/~/edit/drafts/-LHLYo_IHXRyhsUW_hMD/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz)đã tích hợp, số lượng Agent đang sử dụng và cách thức quản lý, điều hành của doanh nghiệp để sáng tạo ra các Rule mới, giúp cho việc phân phối và xử lý các cuộc hội thoại được hiệu quả.
+Bạn nên dựa trên tình hình thực tế của doanh nghiệp, như số lượng website,[ fanpage](https://subiz.com/vi/facebook-messenger.html%20), [email](https://subiz.com/vi/email.html%20) đã tích hợp, số lượng Agent đang sử dụng và cách thức quản lý, điều hành của doanh nghiệp để sáng tạo ra các Rule mới, giúp cho việc phân phối và xử lý các cuộc hội thoại được hiệu quả.
 
 {% hint style="info" %}
 * Khi bạn có nhiều Agent, không tạo Rule để phân phối tương tác, các Agent khác sẽ không nhận được thông báo yêu cầu chat từ khách hàng, lúc này các yêu cầu chat đều chuyển tới cho Agent chủ tài khoản. Lúc đầu bạn có thể chọn các Rule trong Thư viện Rule mà [Subiz](https://subiz.com/vi/) đã tạo sẵn.
