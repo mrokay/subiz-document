@@ -1,6 +1,6 @@
 # Gắn Tag cuộc hội thoại
 
-Subiz Tag là chức năng cho phép gắn thẻ cuộc hội thoại, giúp Agent có thể dễ dàng quản lý, theo dõi, phân loại cuộc tương tác với khách hàng.
+[Subiz](https://subiz.com/vi/) Tag là chức năng cho phép gắn thẻ cuộc hội thoại, giúp Agent có thể dễ dàng quản lý, theo dõi, phân loại cuộc tương tác với khách hàng.
 
 Hướng dẫn dưới đây sẽ giúp Agent tìm hiểu thêm về cách tạo và sử dụng tính năng gắn Tag cuộc hội thoại
 

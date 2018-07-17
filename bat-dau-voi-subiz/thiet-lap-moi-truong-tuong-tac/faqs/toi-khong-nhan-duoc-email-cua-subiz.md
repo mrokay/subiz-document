@@ -1,10 +1,10 @@
 # Tôi không nhận được email của Subiz
 
-Subiz sử dụng dịch vụ gửi email của những hệ thống lớn \([AWS SES](https://aws.amazon.com/ses/); [Sendgrid](https://sendgrid.com/); [Mailgun](https://www.mailgun.com/)\) đảm bảo tính ổn định và gửi với số lượng lớn email trong ngày. Vì một lý do nào đó bạn không nhận được email của Subiz, bạn cần giải quyết như sau:
+[Subiz](https://subiz.com/vi/) sử dụng dịch vụ gửi email của những hệ thống lớn \([AWS SES](https://aws.amazon.com/ses/); [Sendgrid](https://sendgrid.com/); [Mailgun](https://www.mailgun.com/)\) đảm bảo tính ổn định và gửi với số lượng lớn email trong ngày. Vì một lý do nào đó bạn không nhận được email của [Subiz](https://subiz.com/vi/), bạn cần giải quyết như sau:
 
 ### Kiểm tra lại hòm email của bạn.
 
-Nội dung email Subiz có thể chứa các đoạn chat giao dịch. Có nhiều từ ngữ có thể liên quan đến giá, báo giá… làm các hệ thống mail tưởng là thư quảng cáo, hoặc thư rác. Vậy hãy kiểm tra trong thư mục rác \(spam\) hoặc phần thư quảng cáo \(Promotion nếu là email Google\).
+Nội dung email [Subiz](https://subiz.com/vi/) có thể chứa các đoạn chat giao dịch. Có nhiều từ ngữ có thể liên quan đến giá, báo giá… làm các hệ thống mail tưởng là thư quảng cáo, hoặc thư rác. Vậy hãy kiểm tra trong thư mục rác \(spam\) hoặc phần thư quảng cáo \(Promotion nếu là email Google\).
 
 Nếu phát hiện, bạn sẽ xác nhận nó không phải là Spam để đảm bảo cho những lần sau.
 
@@ -14,9 +14,9 @@ Nếu là thư quảng cáo, bạn hãy di chuyển nó về thư mục chính \
 
 ![Chuy&#x1EC3;n email v&#xE0;o m&#x1EE5;c Primary](../../../.gitbook/assets/chuyen-email-ve-thu-muc-chinh%20%281%29.png)
 
-Bạn cũng cần chú ý những bộ lọc email mà bạn tạo. Có thể nó được chuyển vào một thư mục riêng. Lúc này bạn cần tìm kiếm từ khóa Subiz trong hòm mail để xác định được vị trí của nó.
+Bạn cũng cần chú ý những bộ lọc email mà bạn tạo. Có thể nó được chuyển vào một thư mục riêng. Lúc này bạn cần tìm kiếm từ khóa [Subiz](https://subiz.com/vi/) trong hòm mail để xác định được vị trí của nó.
 
- Sau đây Subiz chia sẻ một số nguyên nhân thường gặp:
+ Sau đây [Subiz](https://subiz.com/vi/) chia sẻ một số nguyên nhân thường gặp:
 
 * **Domain của bạn bị coi là Spam**
 

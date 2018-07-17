@@ -1,6 +1,6 @@
 # Trải nghiệm Subiz như một App trên máy tính
 
-Mỗi ngày các Agent cần phải đăng nhập tài khoản [Subiz](https://subiz.com/vi/) để quản lý các tương tác và hỗ trợ khách hàng trực tuyến. Thay vì việc phải nhớ và đăng nhập tài khoản trên [app.subiz.com](https://app.subiz.com/) , các Agent hoàn toàn có thể tạo App Subiz trên màn hình máy tính để dễ dàng đăng nhập tại khoản nhanh chóng khi bắt đầu ngày làm việc mới.
+Mỗi ngày các Agent cần phải đăng nhập tài khoản [Subiz](https://subiz.com/vi/) để quản lý các tương tác và hỗ trợ khách hàng trực tuyến. Thay vì việc phải nhớ và đăng nhập tài khoản trên [app.subiz.com](https://app.subiz.com/) , các Agent hoàn toàn có thể tạo [App Subiz](https://app.subiz.com/) trên màn hình máy tính để dễ dàng đăng nhập tại khoản nhanh chóng khi bắt đầu ngày làm việc mới.
 
 Trước hết bạn cần đăng nhập tài khoản Subiz trên trình duyệt tại trang đăng nhập [app.subiz.com](https://app.subiz.com/) , sau đó tạo app theo hướng dẫn sau:
 
@@ -32,7 +32,7 @@ Khi đó trên màn hình máy tính của bạn sẽ hiển thị app Subiz nh�
 
 ![App Subiz tr&#xEA;n m&#xE1;y t&#xED;n](../../../.gitbook/assets/app-subiz.png)
 
-Để thuận tiện trong quá trình làm việc, bạn hoàn toàn có thể gắn app Subiz vào thanh Taskbar phía dưới màn hình máy tính bằng việc Nhấp chuột phải vào app Subiz và kéo xuống thanh Taskbar:
+Để thuận tiện trong quá trình làm việc, bạn hoàn toàn có thể gắn [app Subiz](https://app.subiz.com/) vào thanh Taskbar phía dưới màn hình máy tính bằng việc Nhấp chuột phải vào [app Subiz](https://app.subiz.com/) và kéo xuống thanh Taskbar:
 
 ![Pin to Taskbar ](../../../.gitbook/assets/pin-to-task-bar.png)
 
