@@ -40,7 +40,7 @@ Xem bảng so sánh chi tiết [tại đây](http://subiz.com/vi/pricing.html#mo
 
 ### Tại sao tôi nên nâng cấp tài khoản lên gói trả phí?
 
-* [Subiz](https://subiz.com/vi/) cung cấp gói Trả phí chỉ từ 262k/agent/tháng.
+* [Subiz](https://subiz.com/vi/) cung cấp gói Trả phí chỉ từ 262.000 VNĐ/agent/tháng.
 * Là một trong những công cụ cơ bản, nhất-định-phải-có của các doanh nghiệp thương mại điện tử, bạn sử dụng [Subiz ](https://subiz.com/vi/)live chat để thúc đẩy doanh số bán hàng, hoặc chăm sóc khách hàng, làm gia tăng mức độ hài lòng của khách hàng trong dài hạn.
 * Nâng cấp tài khoản lên gói trả phí bạn sẽ sử dụng đầy đủ nhất, tốt nhất các[ tính năng](https://subiz.com/vi/feature.html) mà [Subiz ](https://subiz.com/vi/)cung cấp.
 
