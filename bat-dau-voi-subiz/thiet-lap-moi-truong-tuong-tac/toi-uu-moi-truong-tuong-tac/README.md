@@ -1,6 +1,6 @@
 # Tối ưu môi trường tương tác
 
-Những hướng dẫn sau sẽ giúp bạn tối ưu môi trường tương tác với khách hàng của doanh nghiệp khi sử dụng Subiz:
+Những hướng dẫn sau sẽ giúp bạn tối ưu môi trường tương tác với khách hàng của doanh nghiệp khi sử dụng [Subiz](https://subiz.com/vi/):
 
 * **Cài đặt thông tin doanh nghiệp:** Cung cấp những thông tin cơ bản về doanh nghiệp bạn, giúp chúng tôi dễ dàng liên hệ và hỗ trợ bạn tốt nhất.
 

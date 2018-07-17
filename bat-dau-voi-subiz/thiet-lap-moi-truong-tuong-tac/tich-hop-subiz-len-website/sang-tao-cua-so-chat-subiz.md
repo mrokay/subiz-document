@@ -41,7 +41,7 @@ Ví dụ: &lt;p&gt; Kỷ niệm sinh nhật lần thứ 5. Chúng tôi giảm g
 
 ### Tùy chỉnh CSS cho cửa sổ chat Subiz
 
-Bên cạnh việc sử dụng những cài đặt cửa sổ chat trên website mà Subiz đã cung cấp. Bạn có thể dễ dàng tùy chỉnh những thành phần khác trên cửa sổ chat bằng cách sử dụng mã CSS.
+Bên cạnh việc sử dụng những [cài đặt cửa sổ chat trên website](https://app.subiz.com/settings/widget-setting) mà Subiz đã cung cấp. Bạn có thể dễ dàng tùy chỉnh những thành phần khác trên cửa sổ chat bằng cách sử dụng mã CSS.
 
 CSS là viết tắt của cụm từ “Cascading Style Sheet”, nó là một ngôn ngữ quy định cách trình bày của các thẻ html trên trang web. Với việc sử dụng CSS bạn có thể tùy chỉnh một số thành phần của cửa sổ Subiz chat theo ý muốn một cách dễ dàng và đơn giản.
 
@@ -61,7 +61,7 @@ Bạn có thể thay đổi chiều cao và chiều rộng theo ý muốn:
 
 {% tabs %}
 {% tab title="Loại cửa sổ Mở rộng" %}
-* Đoạn mã tùy chỉnh chiều cao cửa sổ chat Subiz
+* Đoạn mã tùy chỉnh chiều cao cửa sổ chat [Subiz](https://subiz.com/vi/)
 
 ```text
 .widget_full .widget_body
@@ -69,7 +69,7 @@ Bạn có thể thay đổi chiều cao và chiều rộng theo ý muốn:
 max-height: 800px !important;}
 ```
 
-* Đoạn mã tùy chỉnh chiều rộng cửa sổ chat Subiz
+* Đoạn mã tùy chỉnh chiều rộng cửa sổ chat [Subiz](https://subiz.com/vi/)
 
 ```text
 .widget_full .widget_body
@@ -105,7 +105,7 @@ Phần 750px, 600px bạn có thể điều chỉnh con số cho phù hợp vớ
 
 #### Tùy chỉnh cỡ chữ {#tuy-chinh-co-chu}
 
-Đoạn mã tùy chỉnh cỡ chữ trên cửa sổ chat Subiz
+Đoạn mã tùy chỉnh cỡ chữ trên cửa sổ chat [Subiz](https://subiz.com/vi/)
 
 ```text
 .message-content{ font-size:20px;}
@@ -217,7 +217,7 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 
 ### Tùy chỉnh ngôn ngữ cửa sổ Subiz chat qua file .Po
 
-Hiện tại, Subiz hỗ trợ 2 ngôn ngữ là Tiếng Việt và Tiếng Anh. Trên cửa sổ Subiz, bạn có thể **tùy chỉnh tiêu đề cửa sổ và lời giới thiệu theo từng ngôn ngữ**.
+Hiện tại, [Subiz](https://subiz.com/vi/) hỗ trợ 2 ngôn ngữ là Tiếng Việt và Tiếng Anh. Trên cửa sổ [Subiz](https://subiz.com/vi/), bạn có thể **tùy chỉnh tiêu đề cửa sổ và lời giới thiệu theo từng ngôn ngữ**.
 
 Ngoài ra, nếu bạn muốn sử dụng một ngôn ngữ khác ngoài các ngôn ngữ được hỗ trợ. Giả sử bạn muốn thay ngôn ngữ Tiếng Anh bằng Tiếng Đức. Hoặc bạn có nhu cầu chỉnh sửa nhiều hơn ở phần ngôn ngữ trên cửa sổ, bạn có thể tùy chỉnh theo file ngôn ngữ .po theo các bước dưới đây:
 

@@ -22,7 +22,7 @@ Cài đặt tính năng thông báo tin nhắn mới sẽ giúp bạn hiển th�
 
 ### Cài đặt thông báo tin nhắn mới trên các trình duyệt
 
-Trong quá trình cài đặt thông báo tin nhắn mới, có thể trình duyệt bạn đang sử dụng đã thiết lập mặc định chặn các thông báo, bạn cần cài đặt cho phép nhận thông báo từ app.subiz.com
+Trong quá trình cài đặt thông báo tin nhắn mới, có thể trình duyệt bạn đang sử dụng đã thiết lập mặc định chặn các thông báo, bạn cần cài đặt cho phép nhận thông báo từ [app.subiz.com](https://app.subiz.com/)
 
 {% tabs %}
 {% tab title="Chrome & Cốc Cốc" %}
@@ -33,7 +33,7 @@ Nhấn vào nút **Bảo mật** \(1\) và chọn **cho phép** \(2\) hoặc ch�
 ![Cho ph&#xE9;p hi&#x1EC7;n th&#xF4;ng b&#xE1;o v&#xE0; &#xE2;m thanh tr&#xEA;n ph&#x1EA7;n C&#xE0;i &#x111;&#x1EB7;t trang web](../../../.gitbook/assets/cho-phep-tren-chrome%20%281%29.png)
 
 {% hint style="info" %}
-Với các phiên bản mới của Chrome và Cốc Cốc, có thể xảy ra hiện tượng **âm báo tin nhắn mới** không có, do 2 trình duyệt này đã tắt việc tự động mở Audio và Video. Bạn chỉ cần **Đăng xuất** và **Đăng nhập** lại app.subiz.com là được.
+Với các phiên bản mới của Chrome và Cốc Cốc, có thể xảy ra hiện tượng **âm báo tin nhắn mới** không có, do 2 trình duyệt này đã tắt việc tự động mở Audio và Video. Bạn chỉ cần **Đăng xuất** và **Đăng nhập** lại [app.subiz.com](https://app.subiz.com/) là được.
 {% endhint %}
 {% endtab %}
 
@@ -42,7 +42,7 @@ Bước 1: Vào Safari &gt; Preferences
 
 ![](../../../.gitbook/assets/safari-1.png)
 
-Bước 2: Cho phép hiện thông báo từ app.subiz.com
+Bước 2: Cho phép hiện thông báo từ [app.subiz.com](https://app.subiz.com/)
 
 ![Cho ph&#xE9;p hi&#x1EC7;n th&#xF4;ng b&#xE1;o t&#x1EEB; app.subiz.com](../../../.gitbook/assets/safari-2.png)
 {% endtab %}
@@ -52,7 +52,7 @@ Bước 1: Bỏ Blocked
 
 ![B&#x1ECF; Blocked](../../../.gitbook/assets/firefox.png)
 
-Bước 2: Cho phép nhận thông báo từ app.subiz.com
+Bước 2: Cho phép nhận thông báo từ [app.subiz.com](https://app.subiz.com/)
 
 ![Cho ph&#xE9;p nh&#x1EAD;n th&#xF4;ng b&#xE1;o sau khi nh&#x1EA5;n L&#x1B0;u](../../../.gitbook/assets/firefox-2.png)
 {% endtab %}

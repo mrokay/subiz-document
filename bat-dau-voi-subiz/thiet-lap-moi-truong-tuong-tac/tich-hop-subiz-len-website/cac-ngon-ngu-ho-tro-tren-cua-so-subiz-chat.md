@@ -1,6 +1,6 @@
 # Các ngôn ngữ hỗ trợ trên cửa sổ Subiz chat
 
-Cửa sổ Subiz chat là nơi đầu tiên khách truy cập website tiếp cận và tương tác với doanh nghiệp. Thiết lập ngôn ngữ hiển thị trên cửa sổ Subiz chat giúp khách hàng dễ dàng liên hệ và yêu cầu hỗ trợ khi cần thiết.
+Cửa sổ [Subiz chat](https://subiz.com/vi/live-chat.html) là nơi đầu tiên khách truy cập website tiếp cận và tương tác với doanh nghiệp. Thiết lập ngôn ngữ hiển thị trên cửa sổ [Subiz chat](https://subiz.com/vi/live-chat.html) giúp khách hàng dễ dàng liên hệ và yêu cầu hỗ trợ khi cần thiết.
 
 Hiện tại cửa sổ Subiz chat hỗ trợ hai ngôn ngữ mặc định: Tiếng Việt và Tiếng Anh. Dưới đây là bảng tên ngôn ngữ và mã ký hiệu dùng cho API:
 
@@ -20,7 +20,7 @@ Bạn có thể tùy chọn ngôn ngữ phù hợp với đối tượng khách 
 
 Trong đó :
 
-* **Tự động**: Cửa sổ Subiz chat tự động nhận diện và hiển thị ngôn ngữ tiếng Anh hoặc tiếng Việt theo địa chỉ IP của khách hàng.
+* **Tự động**: Cửa sổ [Subiz chat](https://subiz.com/vi/live-chat.html) tự động nhận diện và hiển thị ngôn ngữ tiếng Anh hoặc tiếng Việt theo địa chỉ IP của khách hàng.
 * **Tiếng Việt**: chọn khi doanh nghiệp chỉ phục vụ khách hàng Việt Nam và website hỗ trợ chỉ ngôn ngữ Việt Nam.
 * **English**: chọn khi doanh nghiệp phục vụ khách quốc tế và website chỉ hỗ trợ ngôn ngữ tiếng Anh.
 
@@ -28,7 +28,7 @@ Trong đó :
 
 Website của bạn đang hỗ trợ hai ngôn ngữ English và tiếng Việt.
 
-Cửa sổ Subiz chat sẽ tùy biến hiển thị ngôn ngữ tiếng Anh hoặc tiếng Việt theo ngôn ngữ trên website.
+Cửa sổ [Subiz chat](https://subiz.com/vi/live-chat.html) sẽ tùy biến hiển thị ngôn ngữ tiếng Anh hoặc tiếng Việt theo ngôn ngữ trên website.
 
 Rất đơn giản, bạn chỉ cần đặt mã API này ngay sau mã nhúng Subiz trong code website.
 

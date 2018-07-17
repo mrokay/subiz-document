@@ -1,16 +1,16 @@
 # Tùy chỉnh cửa sổ chat Subiz
 
-**Cửa sổ tương tác Subiz trên website của doanh nghiệp là nơi khách truy cập trò chuyện với tư vấn viên của doanh nghiệp.** Không đơn giản là nơi bạn tương tác hỗ trợ khách hàng, mà còn là nơi bạn khẳng định thương hiệu, chất lượng dịch vụ và tiếng nói của doanh nghiệp.
+**Cửa sổ tương tác** [**Subiz**](https://subiz.com/vi/) **trên website của doanh nghiệp là nơi khách truy cập trò chuyện với tư vấn viên của doanh nghiệp.** Không đơn giản là nơi bạn tương tác hỗ trợ khách hàng, mà còn là nơi bạn khẳng định thương hiệu, chất lượng dịch vụ và tiếng nói của doanh nghiệp.
 
 Để tùy chỉnh cửa sổ chat, bạn đăng nhập tài khoản [**Subiz &gt; Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Cửa sổ hội thoại**](https://app.subiz.com/settings/widget-setting)
 
 ![Ch&#x1EC9;nh s&#x1EED;a c&#x1EED;a s&#x1ED5; chat Subiz](../../../.gitbook/assets/chinh-sua-cua-so-chat.png)
 
-Tại trang **Cửa sổ hội thoại**, bạn có thể thực hiện các tùy chỉnh các thành phần của cửa sổ cho phù hợp với nhu cầu của bạn:
+Tại trang [**Cửa sổ hội thoại**](https://app.subiz.com/settings/widget-setting), bạn có thể thực hiện các tùy chỉnh các thành phần của cửa sổ cho phù hợp với nhu cầu của bạn:
 
 ### Chọn l**oại cửa sổ**
 
-Subiz đã tạo sẵn 2 dạng kích thước **thu gọn** hoặc **mở rộng** cho cửa sổ chat trên website của bạn. Bạn hãy chọn cho website của mình kiểu dáng bạn thích:
+[Subiz](https://subiz.com/vi/) đã tạo sẵn 2 dạng kích thước **thu gọn** hoặc **mở rộng** cho cửa sổ chat trên website của bạn. Bạn hãy chọn cho website của mình kiểu dáng bạn thích:
 
 * **Thu gọn:** Kích thước tiêu chuẩn
 * **Mở rộng:** Chiều dài cửa sổ toàn màn hình, giúp khách hàng dễ theo dõi cuộc chat với bạn
@@ -24,12 +24,12 @@ Bạn có thể chọn vị trí cửa sổ chat xuất hiện trên website t�
 ![V&#x1ECB; tr&#xED; c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/vi-tri-cua-so-chat.png)
 
 {% hint style="info" %}
-**Vị trị đặt cửa sổ Subiz cần phù hợp với thiết kế của website, sao cho dễ nhận biết, không đè lên các thiết kế hay ứng dụng khác của website.** Hiện tại, một tỷ lệ lớn các doanh nghiệp đặt cửa sổ Subiz tại góc bên phải.
+**Vị trị đặt** [**cửa sổ Subiz**](https://app.subiz.com/settings/widget-setting) **cần phù hợp với thiết kế của website, sao cho dễ nhận biết, không đè lên các thiết kế hay ứng dụng khác của website.** Hiện tại, một tỷ lệ lớn các doanh nghiệp đặt cửa sổ Subiz tại góc bên phải.
 {% endhint %}
 
 ### Chỉnh sửa **màu sắc**
 
-Bạn có thể tùy chỉnh màu sắc cho cửa sổ Subiz bằng cách chọn 1 trong các màu được gợi ý, hoặc tùy chỉnh màu riêng biệt của doanh nghiệp.
+Bạn có thể tùy chỉnh màu sắc cho [cửa sổ Subiz](https://app.subiz.com/settings/widget-setting) bằng cách chọn 1 trong các màu được gợi ý, hoặc tùy chỉnh màu riêng biệt của doanh nghiệp.
 
 ![Ch&#x1ECD;n m&#xE0;u n&#x1EC1;n c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/mau-nen-cua-so-chat.png)
 
@@ -72,7 +72,7 @@ Hãy chỉnh sửa lời chào, lời giới thiệu theo đúng bản sắc vă
 
 **Whitelist domain** là danh sách các tên miền mà bạn cho phép hiển thị cửa sổ Subiz trên trang đó. Các trang ngoài danh sách whitelist sẽ không thể hiển thị cửa sổ Subiz sau khi đặt mã nhúng.
 
-Ví dụ: Bạn nhập _domain1.com_ và _domain2.com_ tại whitelist thì chỉ có thể đặt mã nhúng cài đặt cửa sổ Subiz trên 2 trang này. Nếu bạn đặt mã nhúng tại trang _domain3.com_ thì cửa sổ sẽ không hiển thị tại trang đó.
+Ví dụ: Bạn nhập _domain1.com_ và _domain2.com_ tại whitelist thì chỉ có thể đặt mã nhúng [cài đặt cửa sổ Subiz](https://app.subiz.com/settings/widget-setting) trên 2 trang này. Nếu bạn đặt mã nhúng tại trang _domain3.com_ thì cửa sổ sẽ không hiển thị tại trang đó.
 
 {% hint style="info" %}
 Khi danh sách whitelist domain trống, mặc định cửa sổ sẽ hiển thị trên tất cả các trang được đặt mã nhúng.
