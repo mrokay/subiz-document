@@ -4,7 +4,7 @@ Hiện tại, [Subiz](https://subiz.com/vi/) hỗ trợ 02 hình thức thanh to
 
 ### Thanh toán qua Thẻ tín dụng \(Credit và Debit card\)
 
-Bước 1: Truy nhập vào Tài khoản[ Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F) . Cài đặt &gt; Thanh toán  
+Bước 1: Truy nhập vào [App.subiz.com](https://app.subiz.com) chọn[ Cài đặt &gt; Thanh toán](https://app.subiz.com/payment-home)  
 
 
 ![&#x110;&#x103;ng nh&#x1EAD;p Trang thanh to&#xE1;n](https://lh6.googleusercontent.com/bZ6Z6NWYW-oMT5Ddv961tr5bAZsPOXZbKG18lyQpVvR-FVKTOa55WxklcA8VqO5GlLEEt6FN4SUxz8GjMe7dFMviKGbiX0M3eGdKEQo89R7YEqiAt7T-cbkw47cnYiFd_uJKkMC-)
@@ -39,7 +39,7 @@ Sau khi nâng cấp tài khoản thành công, bất kỳ lúc nào bạn đều
 
 Việc Thanh toán qua Chuyển khoản ngân hàng được thực hiện qua 2 bước đơn giản như sau:
 
-* Bước 1: Truy nhập vào Tài khoản [Subiz](https://app.subiz.com/login?redirect=%2Factivities%2F) . **Cài đặt &gt; Thanh toán**
+* Bước 1: Truy nhập vào [App.subiz.com](https://app.subiz.com) và chọn[ **Cài đặt &gt; Thanh toán**](https://app.subiz.com/payment-home)\*\*\*\*
 * Bước 2:  Lựa chọn thông tin của gói dịch vụ phù hợp và Click vào mục **Chuyển khoản** , hệ thống sẽ hiển thị số tiền cần chuyển và thông tin tài khoản của [Subiz](https://subiz.com/vi/).
 
 ![Thanh to&#xE1;n chuy&#x1EC3;n kho&#x1EA3;n](https://lh5.googleusercontent.com/x8S2IQkM7gxVr1wCYPz86ZOCMD8NMcNOyq75s9GWabjI7cuqPx5zz-ajkCWeL36Q4lPcmX_5djBLPGdslQZ16BBo5Gf8leXliM2NEjc7_nSNlQiVUImCCnMODAYf258Y7VG7fETd)
