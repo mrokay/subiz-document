@@ -30,7 +30,7 @@ Khi truy cập website của bạn, khách hàng sẽ gửi tin nhắn yêu cầ
 ![Subiz th&#xF4;ng b&#xE1;o m&#xE0;n h&#xEC;nh](../../.gitbook/assets/3.-noti-destop.png)
 
 {% hint style="info" %}
-_**Lưu ý**_: Khi không nhận được thông báo, hãy kiểm tra lại máy tính của bạn, thiết lập trình duyệt cho phép Subiz thông báo âm thanh và màn hình.
+_**Lưu ý**_: Khi không nhận được thông báo, hãy kiểm tra lại máy tính của bạn, thiết lập trình duyệt cho phép [Subiz](https://subiz.com/vi/) thông báo âm thanh và màn hình.
 {% endhint %}
 {% endtab %}
 
