@@ -1,6 +1,6 @@
 # Tương tác trên kênh Subiz chat
 
-**Tương tác trên kênh Subiz chat là khởi tạo cuộc hội thoại để bắt đầu trò chuyện tư vấn khách truy cập website**. Đây là những khách hàng đang có nhu cầu tìm hiểu về sản phẩm, dịch vụ và thông tin của doanh nghiệp.
+**Tương tác trên kênh**[ **Subiz chat**](https://subiz.com/vi/live-chat.html) **là khởi tạo cuộc hội thoại để bắt đầu trò chuyện tư vấn khách truy cập website**. Đây là những khách hàng đang có nhu cầu tìm hiểu về sản phẩm, dịch vụ và thông tin của doanh nghiệp.
 
 Bạn \(Agent\) cần đăng nhập [App.subiz.com](https://app.subiz.com) để bắt đầu online và sẵn sàng  tư vấn khách hàng.
 
@@ -13,7 +13,7 @@ Có hai hình thức khởi tạo một cuộc tương tác với khách hàng:
 {% tabs %}
 {% tab title="Khách hàng khởi tạo cuộc tương tác" %}
 **Khách hàng chủ động khởi tạo cuộc tương tác**  
-Khi truy cập website của bạn, khách hàng sẽ gửi tin nhắn yêu cầu hỗ trợ ngay trên cửa sổ chat Subiz.
+Khi truy cập website của bạn, khách hàng sẽ gửi tin nhắn yêu cầu hỗ trợ ngay trên[ cửa sổ chat Subiz.](https://subiz.com/vi/live-chat.html)
 
 ![C&#x1EED;a s&#x1ED5; chat Subiz tr&#xEA;n website](../../.gitbook/assets/cua-so-chat-tren-website-3.jpg)
 
@@ -25,7 +25,7 @@ Khi truy cập website của bạn, khách hàng sẽ gửi tin nhắn yêu cầ
  _**Lưu ý**_: Nếu bạn không nhận được tin nhắn từ khách hàng, hãy xem lại [cài đặt tính năng RULE ](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/untitled/untitled/untitled)tự động phân phối cuộc hội thoại cho bạn \(Agent\) hay chưa?
 {% endhint %}
 
-Subiz sẽ thông báo âm thanh và thông báo màn hình khi có tin nhắn mới của khách hàng.
+[Subiz](https://subiz.com/vi/live-chat.html) sẽ thông báo âm thanh và thông báo màn hình khi có tin nhắn mới của khách hàng.
 
 ![Subiz th&#xF4;ng b&#xE1;o m&#xE0;n h&#xEC;nh](../../.gitbook/assets/3.-noti-destop.png)
 
@@ -44,7 +44,7 @@ Nếu khách hàng không chủ động tương tác trước, thì bạn cần 
 Để tạo cuộc hội thoại với khách truy cập website, bạn vào thao tác như sau:
 
 1. [Vào mục **KHÁCH**  &gt; Chọn **Khách hàng** ](https://app.subiz.com/visitors)
-2. Chọn **Tạo hội thoại mới**  &gt; Chọn **Subiz Chat**
+2. Chọn **Tạo hội thoại mới**  &gt; Chọn[ **Subiz Chat**](https://subiz.com/vi/live-chat.html)\*\*\*\*
 3.  **Cửa sổ chat mở** và bạn gửi tin nhắn tại đây.
 
 ![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i v&#x1EDB;i kh&#xE1;ch truy c&#x1EAD;p](../../.gitbook/assets/10.-new-chat-subiz.jpg)
@@ -135,7 +135,7 @@ Hướng dẫn xóa thẻ Tag: Chọn nút **Tag** &gt; chọn **X** xóa Tag
 
 ### Kết thúc hội thoại
 
-Subiz sẽ tính cuộc hội thoại được kết thúc bằng hành động **Kết thúc**. Hành động này được thực hiện bởi Agent hoặc khách truy cập.
+[Subiz](https://subiz.com/vi/) sẽ tính cuộc hội thoại được kết thúc bằng hành động **Kết thúc**. Hành động này được thực hiện bởi Agent hoặc khách truy cập.
 
 {% tabs %}
 {% tab title="Agent kết thúc hội thoại" %}
@@ -167,9 +167,9 @@ _**Lưu ý**_: Khi cuộc hội thoại kết thúc sẽ có thông báo trên c
 Khi bạn chọn chức năng "**Chặn người này**", lưu ý:
 
 * Khách hàng bị chặn có ảnh đại diện hình gạch chéo.
-*  Với kênh Subiz Chat, khách hàng sẽ  không nhìn thấy cửa sổ chat Subiz trên website.
-* Với kênh Email, Email khách hàng gửi đến sẽ không hiển thị cho Agent.
-* Với kênh Messenger, tin nhắn không hiển thị cho Agent. Nhưng tin nhắn vẫn tồn tại và hiển thị nếu bạn đăng nhập Fanpage.
+*  Với kênh [Subiz Chat](https://subiz.com/vi/live-chat.html), khách hàng sẽ  không nhìn thấy [cửa sổ chat Subiz ](https://subiz.com/vi/live-chat.html)trên website.
+* Với kênh [Email](https://subiz.com/vi/email.html), [Email](https://subiz.com/vi/email.html) khách hàng gửi đến sẽ không hiển thị cho Agent.
+* Với kênh [Messenger](https://subiz.com/vi/facebook-messenger.html), tin nhắn không hiển thị cho Agent. Nhưng tin nhắn vẫn tồn tại và hiển thị nếu bạn đăng nhập [Fanpage](https://subiz.com/vi/facebook-messenger.html).
 {% endhint %}
 
 > Bạn còn băn khoăn? Hãy chat trực tuyến với hỗ trợ viên ngay trên website [Subiz.com](https://subiz.com/vi/feature.html) nhé!

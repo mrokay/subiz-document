@@ -8,7 +8,7 @@ Từ những thông tin của khách hàng được cập nhật và lưu trữ 
 
 Để tùy chỉnh thông tin khách hàng, bạn vào mục ****[**Cài đặt &gt; Tài khoản &gt; Thông tin khách hàng**.](https://app.subiz.com/settings/user-attributes)
 
-Một tài khoản Subiz sẽ có 4 trường thông tin mặc định: Địa chỉ, Tên, Email và Số điện thoại
+Một tài khoản[ Subiz ](https://subiz.com/vi/)sẽ có 4 trường thông tin mặc định: Địa chỉ, Tên, Email và Số điện thoại
 
 ![Tr&#x1B0;&#x1EDD;ng th&#xF4;ng tin m&#x1EB7;c &#x111;&#x1ECB;nh](../../.gitbook/assets/thong-tin-khach-hang%20%281%29.png)
 

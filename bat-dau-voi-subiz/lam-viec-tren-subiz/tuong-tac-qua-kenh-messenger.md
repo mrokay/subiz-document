@@ -1,22 +1,22 @@
 # Tương tác qua kênh Messenger
 
-Tương tác qua kênh Messenger là cuộc hội thoại tương tác giữa khách hàng trên Fanpage và Agent Subiz. Sau khi [tích hợp Fanpage vào tài khoản Subiz](https://subiz.gitbook.io/subiz-document/~/edit/primary/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-fanpage-facebook-vao-subiz), bạn sẽ dễ dàng quản lý tất cả tin nhắn nhận và gửi đi cho khách hàng ngay trên ứng dụng App.subiz.com
+Tương tác qua kênh [Messenger ](https://subiz.com/vi/facebook-messenger.html)là cuộc hội thoại tương tác giữa khách hàng trên[ Fanpage](https://subiz.com/vi/facebook-messenger.html) và Agent [Subiz](https://subiz.com/vi/). Sau khi [tích hợp Fanpage vào tài khoản Subiz](https://subiz.gitbook.io/subiz-document/~/edit/primary/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-fanpage-facebook-vao-subiz), bạn sẽ dễ dàng quản lý tất cả tin nhắn nhận và gửi đi cho khách hàng ngay trên ứng dụng [App.subiz.com](https://app.subiz.com/)
 
-### Tương tác trên kênh Messenger
+### Tương tác trên kênh[ Messenger](https://subiz.com/vi/facebook-messenger.html)
 
-Subiz hiển thị tên kênh Messenger và tên trang Fanpage, giúp bạn nhận biết được nguồn khách hàng của mình. 
+[Subiz](https://subiz.com/vi/) hiển thị tên kênh [Messenger](https://subiz.com/vi/facebook-messenger.html) và tên trang [Fanpage](https://subiz.com/vi/facebook-messenger.html), giúp bạn nhận biết được nguồn khách hàng của mình. 
 
-Thao tác: Chọn **Khách hàng** &gt; Xem trong **List Activities** &gt; Chọn **Messenger**
+Thao tác: Chọn **Khách hàng** &gt; Xem trong **List Activities** &gt; Chọn ****[**Messenger**](https://subiz.com/vi/facebook-messenger.html)\*\*\*\*
 
 ![T&#xEA;n Fanpage hi&#x1EC3;n th&#x1ECB; trong List Activities](../../.gitbook/assets/1.-fanpage-messenger-1.jpg)
 
-Với kênh Messenger, chỉ khi khách hàng trên Fanpage chủ động gửi tin nhắn trước, bạn \(Agent Subiz\) có thể bắt đầu tương tác và tạo hội thoại mới được.
+Với kênh [Messenger](https://subiz.com/vi/facebook-messenger.html), chỉ khi khách hàng trên [Fanpage ](https://subiz.com/vi/facebook-messenger.html)chủ động gửi tin nhắn trước, bạn \(Agent [Subiz](https://subiz.com/vi/)\) có thể bắt đầu tương tác và tạo hội thoại mới được.
 
 **Hướng dẫn chi tiết như sau:**
 
 {% tabs %}
 {% tab title="Trả lời tin nhắn Messenger" %}
-Để trả lời tin nhắn của khách hàng, bạn thao tác: Chọn **Khách hàng** &gt; Xem trong **List Activities** &gt; Chọn **Messenger** tin nhắn chưa đọc &gt; **Cửa sổ chat mở và nhắn tin tại đây**.
+Để trả lời tin nhắn của khách hàng, bạn thao tác: Chọn **Khách hàng** &gt; Xem trong **List Activities** &gt; Chọn ****[**Messenger** ](https://subiz.com/vi/facebook-messenger.html)tin nhắn chưa đọc &gt; **Cửa sổ chat mở và nhắn tin tại đây**.
 
 ![T&#x1B0;&#x1A1;ng t&#xE1;c tr&#xEA;n k&#xEA;nh Messenger](../../.gitbook/assets/2-messnger.jpg)
 {% endtab %}
@@ -28,17 +28,17 @@ Khi đã hỗ trợ khách hàng xong một vấn đề, hãy kết thúc cuộc
 {% endtab %}
 
 {% tab title="Tạo hội thoại mới Messenger" %}
-Hướng dẫn tạo hội thoại mới trên kênh Messenger: Chọn **khách hàng** &gt; Chọn **Tạo hội thoại mới** &gt; Chọn kênh **Messenger** &gt; Chọn **tên Fanpage** &gt; **Cửa sổ chat mở và nhắn tin tại đây**
+Hướng dẫn tạo hội thoại mới trên kênh [Messenger](https://subiz.com/vi/facebook-messenger.html): Chọn **khách hàng** &gt; Chọn **Tạo hội thoại mới** &gt; Chọn kênh **Messenger** &gt; Chọn **tên Fanpage** &gt; **Cửa sổ chat mở và nhắn tin tại đây**
 
 ![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i tr&#xEA;n k&#xEA;nh Messenger](../../.gitbook/assets/4.-messnger.jpg)
 {% endtab %}
 {% endtabs %}
 
-### Một số tính năng hữu ích trên kênh Messenger
+### Một số tính năng hữu ích trên kênh [Messenger](https://subiz.com/vi/facebook-messenger.html)
 
-#### 1. **Quản trị nhiều Fanpage trong ứng dụng Subiz**
+#### 1. **Quản trị nhiều** [**Fanpage** ](https://subiz.com/vi/facebook-messenger.html)**trong ứng dụng Subiz**
 
-Khi bạn là quản trị viên của nhiều Fanpage, Subiz sẽ giúp bạn dễ dàng tương tác và quản lý hiệu quả khách hàng trên từng trang.
+Khi bạn là quản trị viên của nhiều [Fanpage](https://subiz.com/vi/facebook-messenger.html), Subiz sẽ giúp bạn dễ dàng tương tác và quản lý hiệu quả khách hàng trên từng trang.
 
 ![K&#x1EBF;t n&#x1ED1;i nhi&#x1EC1;u Fanpage v&#xE0;o t&#xE0;i kho&#x1EA3;n Subiz](../../.gitbook/assets/5.-nhieu-fanpage-1.jpg)
 
@@ -52,7 +52,7 @@ Mỗi Agent có quyền được tạo và quản lý thư viên câu trả lờ
 {% tab title="Tạo câu trả lời mẫu" %}
 Hướng dẫn tạo câu trả lời mẫu: 
 
-1. Đăng nhập **App.subiz.com** &gt; Chọn **Ảnh đại diện của Agent** &gt; Chọn **Thư viện câu trả lời** 
+1. [Đăng nhập **App.subiz.com** &gt; Chọn **Ảnh đại diện của Agent** &gt; Chọn **Thư viện câu trả lời** ](https://app.subiz.com/profile/canned-response)\*\*\*\*
 
 ![C&#xE0;i &#x111;&#x1EB7;t th&#x1B0; vi&#x1EC7;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i](../../.gitbook/assets/thu-vien-ans.jpg)
 
@@ -74,13 +74,13 @@ Hướng dẫn sử dụng: Tại cửa sổ chat, bạn bắt đầu bằng kí
 
 #### 3. Gắn Tag cuộc hội thoại
 
-Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp Agent dễ dàng phân loại và quản lý các tương tác của khách hàng.
+[Subiz ](https://subiz.com/vi/)Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp Agent dễ dàng phân loại và quản lý các tương tác của khách hàng.
 
 {% tabs %}
 {% tab title="Tạo thẻ Tag" %}
 Hướng dẫn tạo thẻ Tag mới:
 
-1. Đăng nhập **App.subiz.com** &gt; **Cài đặt** &gt; **Tài khoản** &gt; **Tag** &gt; **Tạo Tag mới**
+1. [Đăng nhập **App.subiz.com** &gt; **Cài đặt** &gt; **Tài khoản** &gt; **Tag** &gt; **Tạo Tag mới**](https://app.subiz.com/settings/tags)\*\*\*\*
 
 ![C&#xE0;i &#x111;&#x1EB7;t Tag](../../.gitbook/assets/tao-tag%20%282%29.jpg)
 
@@ -106,7 +106,7 @@ Hướng dẫn xóa thẻ Tag: Chọn nút **Tag** &gt; chọn **X** xóa Tag
 
 Rule là các quy tắc do bạn thiết lập để tự động phân phối cuộc hội thoại tới một hoặc một nhóm Agent.
 
-Hướng dẫn tạo Rule phân phối hội thoại trên trang Fanpage cho 1 Agent**: Cài đặt Tài khoản** &gt; **Rule** &gt; **Tạo mới Rule &gt; Điền thông tin như trong ảnh.** 
+Hướng dẫn tạo Rule phân phối hội thoại trên trang Fanpage cho 1 Agent**:** [**Cài đặt Tài khoản** &gt; **Rule** &gt; **Tạo mới Rule**](https://app.subiz.com/settings/add-rule) **&gt; Điền thông tin như trong ảnh.** 
 
 ![C&#xE0;i &#x111;&#x1EB7;t Rule ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i tr&#xEA;n k&#xEA;nh Messenger Fanpage](../../.gitbook/assets/rule-messenger-1.jpg)
 
