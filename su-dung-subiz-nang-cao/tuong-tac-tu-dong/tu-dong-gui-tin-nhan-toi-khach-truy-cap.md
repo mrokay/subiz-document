@@ -16,7 +16,7 @@ Sau đây là một số kịch bản Automation để bạn tham khảo cài đ
 
 Khi khách hàng mới ghé thăm website, bạn muốn gửi đến khách hàng một lời chào, để họ biết sự hiện diện của bạn và luôn sẵn sàng giúp họ bất cứ khi nào trong quá trình mua sắm.
 
-Ví dụ: URL của trang – chứa – http://abc.com.vn/
+Ví dụ: **URL của trang – chứa –  abc.com.vn**
 
 ![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng v&#xE0;o website](../../.gitbook/assets/image-3.png)
 
