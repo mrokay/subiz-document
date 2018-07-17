@@ -1,6 +1,6 @@
 # Xem thông tin tài khoản hiện tại
 
-Trong quá trình làm việc với Subiz, để quản lý thông tin gói dịch vụ: gói cước, chu kỳ thanh toán, số lượng Agent...bạn có thể kiểm tra và thực hiện các chỉnh sửa, thay đổi tại [trang thanh toán](https://app.subiz.com/payment-home).
+Trong quá trình làm việc với [Subiz](https://subiz.com/vi/), để quản lý thông tin gói dịch vụ: gói cước, chu kỳ thanh toán, số lượng Agent...bạn có thể kiểm tra và thực hiện các chỉnh sửa, thay đổi tại [trang thanh toán](https://app.subiz.com/payment-home).
 
 ![Qu&#x1EA3;n l&#xFD; th&#xF4;ng tin d&#x1ECB;ch v&#x1EE5;](../.gitbook/assets/quan-ly-thong-tin-dich-vu.png)
 
