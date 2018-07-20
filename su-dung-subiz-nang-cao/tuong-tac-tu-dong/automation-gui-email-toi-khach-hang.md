@@ -22,9 +22,27 @@ Và thực hiện 2 bước sau:
 
 ![&#x110;i&#x1EC1;n th&#xF4;ng tin c&#xE0;i &#x111;&#x1EB7;t Automation Email](../../.gitbook/assets/copy-2.jpg)
 
+{% hint style="info" %}
+Lưu ý:
+
+* **Trạng thái:** Bật ON
+* **Tên Automation và Mô tả**: điền thông tin giúp bạn xác định và hiểu mục đích của Automation cài đặt
+* **Điều kiện**: là những điều kiện hay tiêu chí để thực hiện hành động gửi email tới khách hàng
+* **Chọn kênh**: chọn Email
+* **Hành động**: chọn Gửi email tới khách hàng
+{% endhint %}
+
 * **Bước 2: Soạn nội dung email gửi tới khách hàng**
 
 ![Nh&#x1EAD;p n&#x1ED9;i dung email g&#x1EED;i kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/copy-3.jpg)
+
+{% hint style="info" %}
+Lưu ý:
+
+* Người gửi: Chọn tên agent và địa chỉ email gửi ra
+* Tiêu đề email: Điền đầy đủ tiêu đề email gửi cho khách hàng
+* Nội dung Email: Subiz có hỗ trợ mã HTML để chỉnh sửa nội dung mail, hỗ trợ đính kèm file
+{% endhint %}
 
 ### **3. Một số Automation Email thông dụng**
 
