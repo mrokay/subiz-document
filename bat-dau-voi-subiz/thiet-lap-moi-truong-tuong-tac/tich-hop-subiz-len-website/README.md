@@ -98,6 +98,24 @@ Bạn chỉ cần thực hiện theo lựa chọn này nếu các tệp mẫu đ
 
 ![C&#xE0;i m&#xE3; nh&#xFA;ng Subiz tr&#xEA;n Joomla](../../../.gitbook/assets/joomla2.gif)
 {% endtab %}
+
+{% tab title="Sapo WEB" %}
+Bước 1: [Đăng nhập Subiz và sao chép mã nhúng](https://app.subiz.com/settings/install)
+
+Bước 2: [Đăng nhập trang quản trị website của Sapo](https://www.sapo.vn/dang-nhap-kenh-ban-hang.html)
+
+ 1. Chọn **Website**
+
+![](../../../.gitbook/assets/1-sapo-copy.jpg)
+
+2. Chọn **Giao diện &gt; Thao tác &gt; Chỉnh sửa HTML/CSS**
+
+![](../../../.gitbook/assets/2.-sapo-copy.jpg)
+
+3. Chọn **Them.bwt** &gt; Tìm thẻ **&lt;/body&gt;**  &gt; **Đặt mã nhúng Subiz trước thẻ body** &gt; **Lưu** 
+
+![](../../../.gitbook/assets/3.-sapo-copy.jpg)
+{% endtab %}
 {% endtabs %}
 
 > Bạn còn băn khoăn? Hãy chat trực tuyến với hỗ trợ viên ngay trên website [Subiz.com](https://subiz.com/vi/feature.html) nhé!
