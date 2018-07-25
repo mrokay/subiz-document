@@ -17,13 +17,11 @@ Với mỗi khách truy cập, bạn sẽ biết được những thông tin sau
 
 Khi click vào từng khách truy cập trên trang **KHÁCH**, bạn sẽ bắt đầu để tương tác trực tiếp với khách hàng đó trên mục **HOẠT ĐỘNG**
 
-![](../../.gitbook/assets/assets2f-lcrbjdxgv2cwmzzedgk2f-lccwktkrblkqygrim-l2f-lccwuvt7zd7uvvi3suq2fagent-chu-dong-tao-tuong-t.png)
+![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i v&#xE0; chat v&#x1EDB;i kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/assets2f-lcrbjdxgv2cwmzzedgk2f-lccwktkrblkqygrim-l2f-lccwuvt7zd7uvvi3suq2fagent-chu-dong-tao-tuong-t.png)
 
 ### [Subiz](https://subiz.com/vi/) xác định thông tin vị trí khách truy cập dựa vào đâu?
 
-![X&#xE1;c &#x111;&#x1ECB;nh v&#x1ECB; tr&#xED; kh&#xE1;ch truy c&#x1EAD;p d&#x1EF1;a tr&#xEA;n &#x111;&#x1ECB;a ch&#x1EC9; IP](../../.gitbook/assets/assets2f-lcrbjdxgv2cwmzzedgk2f-lcfnbeua9alvfvpn-6j2f-lcfosmb7mvcu3afmx_w2fscreenshot_52.png)
-
-
+![Hi&#x1EC3;n th&#x1ECB; v&#x1ECB; tr&#xED; &#x111;&#x1ECB;a l&#xFD; c&#x1EE7;a kh&#xE1;ch h&#xE0;ng ](../../.gitbook/assets/ip-khach.jpg)
 
 Địa chỉ IP được cung cấp bởi ISP \(Internet Service Provider\) và thường xuyên thay đổi. Do đó, địa chỉ IP sẽ có sự sai lệch với địa điểm thực của khách hàng.
 
