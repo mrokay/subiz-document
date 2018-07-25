@@ -25,7 +25,7 @@ Khi click vào từng khách truy cập trên trang **KHÁCH**, bạn sẽ bắt
 
 
 
-Địa chỉ IP được xác định bởi ISP \(Internet Service Provider\) và thường xuyên thay đổi. Do đó, địa chỉ IP sẽ có sự sai lệch với địa điểm thực của khách hàng.
+Địa chỉ IP được cung cấp bởi ISP \(Internet Service Provider\) và thường xuyên thay đổi. Do đó, địa chỉ IP sẽ có sự sai lệch với địa điểm thực của khách hàng.
 
 Subiz định kỳ 6 tháng 1 lần cập nhật dữ liệu địa chỉ IP của khách truy cập để nâng cao độ chính xác và cam kết chính xác 95% với dữ liệu Quốc Gia, 75% với dữ liệu Thành phố/tỉnh.
 
