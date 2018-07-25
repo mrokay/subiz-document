@@ -10,7 +10,7 @@ Giúp doanh nghiệp vận hành tự động, thiết lập nhiều workflow ho
 
 ### Các hướng dẫn thiết lập Tương tác tự động
 
-Tại mục hướng dẫn Tương tác tự động này, [Subiz](https://subiz.com/vi/) đã đưa ra các hướng dẫn chi tiết liên quan đến thiết lập Automation, như tự động gửi tin nhắn tương tác với khách hàng, cách thức hỏi thông tin khách hàng, cách thức tạo sự thu hút và tạo thiện cảm cho khách, cũng như cách theo đuổi, chăm sóc khách hàng từ nhiều kênh ngay trên [Subiz](https://subiz.com/vi/).
+Tại mục hướng dẫn Tương tác tự động này, [Subiz](https://subiz.com/vi/) sẽ hướng dẫn chi tiết liên quan đến cài đặt Automation, như tự động gửi tin nhắn  tới khách hàng, tự động hỏi thông tin khách hàng, tự động gửi email tới khách hàng.
 
 **Các hướng dẫn cụ thể sẽ có tại các trang:**
 
@@ -18,11 +18,17 @@ Tại mục hướng dẫn Tương tác tự động này, [Subiz](https://subiz
 
 {% page-ref page="tao-automation.md" %}
 
-* Hướng dẫn thiết lập các điều kiện trong Automation, giúp bạn sáng tạo các hành động Automation
+* Một số ví dụ phổ biến thường cài đặt Automation gửi tin nhắn tới khách hàng
 
 {% page-ref page="tu-dong-gui-tin-nhan-toi-khach-truy-cap.md" %}
 
-* Hướng dẫn thiết lập gửi tin nhắn tự động hỏi địa chỉ email khi khách hàng chat trên website
+* Hướng dẫn cài đặt Automation tự động hỏi thông tin khách hàng như hỏi họ tên, số điện thoại, email,...
 
-{% page-ref page="tu-dong-hoi-dia-chi-email-cua-khach-hang.md" %}
+{% page-ref page="nam-bat-khach-hang-tiem-nang.md" %}
+
+* Hướng dẫn cài đặt Automation tự động gửi email tới khách hàng
+
+{% page-ref page="automation-gui-email-toi-khach-hang.md" %}
+
+
 
