@@ -10,12 +10,12 @@ Doanh nghiệp có thể quan sát khách truy cập website của mình, nắm 
 
 Với mỗi khách truy cập, bạn sẽ biết được những thông tin sau:
 
-* **Ảnh đại diện:** Hiển thị chữ cái đầu tiên trong tên của visitor
-* **Họ tên, Email**: Các thông tin này được lưu từ lần truy cập trước hoặc chuyển từ website của bạn vào hệ thống Subiz qua API Javascript
-* **Vị trí địa lý**: vị trí của khách truy cập được xác định thông qua địa chỉ IP
+* **Ảnh đại diện:** Hiển thị hình ảnh mặc định của Subiz
+* **Họ tên, Email**: Hiển thị thành phố/ tỉnh hoặc họ tên và địa chỉ email của khách hàng đã được lưu thông trước đây.
+* **Vị trí địa lý**:  Hiển thị thành phố/ tình được xác định thông qua địa chỉ IP
 * **Trang đang xem**: Địa chỉ trang mà khách đang xem trên website của bạn
 
-Khi click vào từng khách truy cập trên trang **Khách**, bạn sẽ bắt đầu để tương tác trực tiếp với khách hàng đó trên mục **Hoạt động**
+Khi click vào từng khách truy cập trên trang **KHÁCH**, bạn sẽ bắt đầu để tương tác trực tiếp với khách hàng đó trên mục **HOẠT ĐỘNG**
 
 ![](../../.gitbook/assets/assets2f-lcrbjdxgv2cwmzzedgk2f-lccwktkrblkqygrim-l2f-lccwuvt7zd7uvvi3suq2fagent-chu-dong-tao-tuong-t.png)
 
@@ -23,11 +23,13 @@ Khi click vào từng khách truy cập trên trang **Khách**, bạn sẽ bắt
 
 ![X&#xE1;c &#x111;&#x1ECB;nh v&#x1ECB; tr&#xED; kh&#xE1;ch truy c&#x1EAD;p d&#x1EF1;a tr&#xEA;n &#x111;&#x1ECB;a ch&#x1EC9; IP](../../.gitbook/assets/assets2f-lcrbjdxgv2cwmzzedgk2f-lcfnbeua9alvfvpn-6j2f-lcfosmb7mvcu3afmx_w2fscreenshot_52.png)
 
-Để xác định vị trí địa lý khách hàng, [Subiz ](https://subiz.com/vi/)sử dụng dịch vụ của bên thứ 3 là **Maxmind**. Nó được xác định dựa trên địa chỉ IP. Các địa chỉ IP này đôi khi được liên kết với một ISP \(Internet Service Provider\) hoặc VPN \(Virtual Private Network\) nên sự khác biệt với địa điểm thực của khách hàng hoàn toàn có thể xảy ra.
 
-Một trong những lý do khác khiến những thông tin này không chính xác 100% là do các cơ sở dữ liệu của bên thứ 3 cập nhật không chính xác hoặc bị cũ do chưa cập nhật kịp thời sự thay đổi.
 
-Để điều chỉnh sự không chính xác này, bạn có thể gửi yêu cầu trực tiếp tới Maxmind để yêu cầu cập nhật chính xác: [https://support.maxmind.com/geoip-data-correction-request/](https://support.maxmind.com/geoip-data-correction-request/)
+Địa chỉ IP được xác định bởi ISP \(Internet Service Provider\) và thường xuyên thay đổi. Do đó, địa chỉ IP sẽ có sự sai lệch với địa điểm thực của khách hàng.
 
-Với tình trạng sai khác thông tin vị trí khi thực hiện truy cập giữa các máy trong cùng một công ty, bạn có thể kiểm tra thông tin địa chỉ IP của các máy tính này.
+Subiz định kỳ 6 tháng 1 lần cập nhật dữ liệu địa chỉ IP của khách truy cập để nâng cao độ chính xác và cam kết chính xác 95% với dữ liệu Quốc Gia, 75% với dữ liệu Thành phố/tỉnh.
+
+Subiz xác định địa chỉ IP của khách hàng dựa trên dữ liệu của Maxmind. Đây là dữ liệu chính xác nhất thế giới về IP to Location và NASA cũng dùng dữ liệu này.
+
+Nếu phát hiện sự sai khác địa chỉ IP của khách hàng, bạn có thể gửi yêu cầu trực tiếp tới Maxmind để yêu cầu cập nhật chính xác: [https://support.maxmind.com/geoip-data-correction-request/](https://support.maxmind.com/geoip-data-correction-request/)
 
