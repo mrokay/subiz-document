@@ -1,6 +1,6 @@
 # Tùy chỉnh hình ảnh Button Subiz
 
-Button Subiz là hình ảnh logo của Subiz, được hiển thị mặc định góc bên phải hoặc bên trái trên website sau khi tích hợp. Khách hàng click vào Button sẽ mở ra cửa sổ Subiz chat.
+Button [Subiz](https://subiz.com/vi/) là hình ảnh logo của [Subiz](https://subiz.com/vi/), được hiển thị mặc định góc bên phải hoặc bên trái trên website sau khi tích hợp. Khách hàng click vào Button sẽ mở ra cửa sổ [Subiz chat](https://subiz.com/vi/live-chat.html).
 
 Bạn hoàn toàn có thể sáng tạo hình ảnh Button Subiz và linh hoạt đặt Button này ở bất cứ vị trí nào trên website, với bất cứ hình dáng nào phù hợp với giao diện trang web.
 
@@ -14,9 +14,9 @@ Bạn sẽ sử dụng mã CSS trong app.subiz.com để ẩn hình ảnh Button
 
 Cửa sổ hội thoại có hai kiểu: Thu gọn và Mở rộng. 
 
-![Ch&#x1ECD;n ki&#x1EC3;u hi&#x1EC3;n th&#x1ECB; c&#x1EED;a s&#x1ED5; h&#x1ED9;i tho&#x1EA1;i Subiz](../../../.gitbook/assets/kieu-1.jpg)
+![C&#xE1;ch x&#xE1;c &#x111;&#x1ECB;nh ki&#x1EC3;u c&#x1EED;a s&#x1ED5; h&#x1ED9;i tho&#x1EA1;i Subiz tr&#xEA;n website](../../../.gitbook/assets/kieu-1.jpg)
 
-Dưới đây là 2 mã CSS ẩn button Subiz tương ứng với từng kiểu cửa sổ hội thoại. Bạn sao chép và đặt mã CSS này trong bảng Tùy chỉnh CSS rồi Lưu thay đổi.
+Dưới đây là 2 mã CSS ẩn button [Subiz ](https://subiz.com/vi/)tương ứng với từng kiểu cửa sổ hội thoại. Bạn sao chép và đặt mã CSS này trong bảng Tùy chỉnh CSS rồi Lưu thay đổi.
 
 |                     **Kiểu: Thu gọn** |                 **Kiểu: Mở rộng** |
 | --- | --- |
@@ -26,17 +26,17 @@ Dưới đây là 2 mã CSS ẩn button Subiz tương ứng với từng kiểu 
 
 ###  **2. Gắn link cửa sổ Subiz chat vào bất kỳ vị trí trên website**
 
-Khi cài đặt ẩn button Subiz, khách hàng sẽ không nhìn thấy hình ảnh button và cửa sổ Subiz chat.
+Khi cài đặt ẩn button[ Subiz](https://subiz.com/vi/), khách hàng sẽ không nhìn thấy hình ảnh button và cửa sổ [Subiz chat.](https://subiz.com/vi/live-chat.html)
 
 Sử dụng API trong code website sẽ giúp bạn gắn link cửa sổ chat Subiz vào hình ảnh hoặc đoạn text bất kỳ trên website và tự động mở cửa sổ chat.
 
-* API gắn link cửa sổ Subiz chat vào hình ảnh
+* API gắn link cửa sổ [Subiz chat](https://subiz.com/vi/live-chat.html) vào hình ảnh
 
 ```text
 <a href="#nogo" onclick="subiz('shrinkWidget')"><img src="đường dẫn ảnh của bạn"></a>
 ```
 
-* API gắn link cửa sổ Subiz chat vào đoạn text
+* API gắn link cửa sổ [Subiz chat ](https://subiz.com/vi/live-chat.html)vào đoạn text
 
 ```text
 <a href="#nogo" onclick="subiz('expandWidget')">đoạn text của bạn</a>
@@ -46,7 +46,7 @@ Sử dụng API trong code website sẽ giúp bạn gắn link cửa sổ chat S
 Lưu ý: Bạn cần đặt API này vào trong code website. Người lập trình web hiểu rõ cấu trúc trang web nhất và sẽ dễ dàng cài đặt.
 {% endhint %}
 
-> Bạn gặp khó khăn khi cài đặt, vui lòng chat trực tiếp với tư vấn viên trên website Subiz.com hoặc gửi email Support@Subiz.com.
+> Bạn gặp khó khăn khi cài đặt, vui lòng chat trực tiếp với tư vấn viên trên website [Subiz.com](https://subiz.com/vi/) hoặc gửi email Support@Subiz.com.
 
 
 
