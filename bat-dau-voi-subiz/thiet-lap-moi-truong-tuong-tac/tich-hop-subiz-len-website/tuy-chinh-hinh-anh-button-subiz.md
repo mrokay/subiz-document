@@ -1,4 +1,4 @@
-# Tùy chỉnh hình ảnh Button Subiz trên website
+# Tùy chỉnh hình ảnh Button Subiz
 
 Button Subiz là hình ảnh logo của Subiz, được hiển thị mặc định góc bên phải hoặc bên trái trên website sau khi tích hợp. Khách hàng click vào Button sẽ mở ra cửa sổ Subiz chat.
 
