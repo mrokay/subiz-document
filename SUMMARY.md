@@ -54,4 +54,5 @@
   * [Xem thông tin tài khoản hiện tại](thanh-toan/xem-thong-tin-tai-khoan-hien-tai.md)
   * [Thay đổi gói dịch vụ](thanh-toan/thay-doi-goi-dich-vu.md)
   * [FAQs](thanh-toan/faqs.md)
+  * [Quản lý tài khoản chính](thanh-toan/quan-ly-tai-khoan-owner.md)
 
