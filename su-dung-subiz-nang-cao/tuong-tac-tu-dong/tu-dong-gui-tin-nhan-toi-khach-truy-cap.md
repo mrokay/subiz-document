@@ -18,13 +18,13 @@ Khi khách hàng mới ghé thăm website, bạn muốn gửi đến khách hàn
 
 Ví dụ: **URL của trang – chứa –  abc.com.vn**
 
-![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng v&#xE0;o website](../../.gitbook/assets/image-3.png)
+![G&#x1EED;i tin nh&#x1EAF;n cho kh&#xE1;ch v&#xE0;o 1 site c&#x1EE5; th&#x1EC3;](../../.gitbook/assets/screenshot_1.png)
 
 ### Gửi tin nhắn cho khách hàng khi xem một sản phẩm cụ thể {#3-gui-tin-nhan-cho-khach-hang-theo-khu-vuc-dia-ly}
 
 Bạn muốn gửi thông điệp quảng cáo tới các khách vào 1 trang sản phẩm cụ thể, hoặc muốn gửi chương trình khuyến mãi cho khách vào trang thanh toán? Bạn chỉ cần thiết lập Automation theo điều kiện URL của trang chứa link sản phẩm, hoặc theo tiêu đề trang sản phẩm:
 
-![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng xem m&#x1ED9;t s&#x1EA3;n ph&#x1EA9;m c&#x1EE5; th&#x1EC3;](../../.gitbook/assets/chao-khach-hang-xem-mot-san-pham-cu-the.png)
+![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng xem m&#x1ED9;t s&#x1EA3;n ph&#x1EA9;m c&#x1EE5; th&#x1EC3;](../../.gitbook/assets/screenshot_2.png)
 
 ### Gửi tin nhắn cho khách hàng đến từ một thành phố cụ thể
 
