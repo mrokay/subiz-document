@@ -28,7 +28,7 @@ Dưới đây là 2 mã CSS ẩn button Subiz tương ứng với từng kiểu 
 
 Khi cài đặt ẩn button Subiz, khách hàng sẽ không nhìn thấy hình ảnh button và cửa sổ Subiz chat.
 
-Sử dụng API sẽ giúp bạn gắn link cửa sổ chat Subiz vào hình ảnh hoặc đoạn text bất kỳ trên website và tự động mở cửa sổ chat.
+Sử dụng API trong code website sẽ giúp bạn gắn link cửa sổ chat Subiz vào hình ảnh hoặc đoạn text bất kỳ trên website và tự động mở cửa sổ chat.
 
 * API gắn link cửa sổ Subiz chat vào hình ảnh
 
