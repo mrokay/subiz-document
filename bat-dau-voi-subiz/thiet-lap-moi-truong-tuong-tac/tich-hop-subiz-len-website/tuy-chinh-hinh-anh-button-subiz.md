@@ -8,7 +8,9 @@ Bạn cần thực hiện hai bước sau:
 
 ### 1. Ẩn hình ảnh Button Subiz mặc định
 
-Bạn cần [đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ hội thoại &gt; Tùy chỉnh CSS](https://app.subiz.com/settings/widget-setting)
+Bạn sẽ sử dụng mã CSS trong app.subiz.com để ẩn hình ảnh Button mặc định
+
+[Đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ hội thoại &gt; Tùy chỉnh CSS](https://app.subiz.com/settings/widget-setting)
 
 Cửa sổ hội thoại có hai kiểu: Thu gọn và Mở rộng. 
 
