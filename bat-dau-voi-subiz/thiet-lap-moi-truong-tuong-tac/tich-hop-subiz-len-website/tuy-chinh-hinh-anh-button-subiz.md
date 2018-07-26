@@ -6,7 +6,7 @@ Bạn hoàn toàn có thể sáng tạo hình ảnh Button Subiz và linh hoạt
 
 Bạn cần thực hiện hai bước sau:
 
-1. **Ẩn Button Subiz với mã CSS**
+### 1. Ẩn hình ảnh Button Subiz mặc định
 
 Bạn cần [đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ hội thoại &gt; Tùy chỉnh CSS](https://app.subiz.com/settings/widget-setting)
 
@@ -22,7 +22,7 @@ Dưới đây là 2 mã CSS ẩn button Subiz tương ứng với từng kiểu 
 
 ![D&#xE1;n m&#xE3; CSS &#x1EA9;n button Subiz](../../../.gitbook/assets/kieu-2.jpg)
 
- **2. Sử dụng API gắn link cửa sổ Subiz chat**
+###  **2. Gắn link cửa sổ Subiz chat vào bất kỳ vị trí trên website**
 
 Khi cài đặt ẩn button Subiz, khách hàng sẽ không nhìn thấy hình ảnh button và cửa sổ Subiz chat.
 
@@ -44,5 +44,7 @@ Sử dụng API sẽ giúp bạn gắn link cửa sổ chat Subiz vào hình ả
 Lưu ý: Bạn cần đặt API này vào trong code website. Người lập trình web hiểu rõ cấu trúc trang web nhất và sẽ dễ dàng cài đặt.
 {% endhint %}
 
-> Bạn gặp khó khăn trong khi thiết lập, vui lòng chat trực tiếp với tư vấn viên trên website Subiz.com hoặc gửi email Support@Subiz.com.
+> Bạn gặp khó khăn khi cài đặt, vui lòng chat trực tiếp với tư vấn viên trên website Subiz.com hoặc gửi email Support@Subiz.com.
+
+
 
