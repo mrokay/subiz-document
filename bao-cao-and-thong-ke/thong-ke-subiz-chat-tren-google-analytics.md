@@ -22,7 +22,15 @@ Trên GA, một sự kiện Subiz gửi sang được được thống kê với
 
 ### Hướng dẫn xem thống kê Subiz trên GA
 
-Bước 1: Đăng nhập tài khoản Google Analytics của website cần kiểm tra và vào mục Behaviour \(Hành vi\)
+Bước 1: Đăng nhập tài khoản Google Analytics của website cần kiểm tra 
 
-Bước 2: 
+Bước 2: Trong mục Báo cáo &gt; chọn HÀNH VI &gt; Sự kiện 
+
+![](../.gitbook/assets/buoc-2.jpg)
+
+Bước 3: Chọn Tổng quan để xem các danh mục sự kiện
+
+![Xem th&#x1ED1;ng k&#xEA; s&#x1EF1; ki&#x1EC7;n Subiz chat](../.gitbook/assets/buoc-1.jpg)
+
+
 
