@@ -4,6 +4,8 @@ Button [Subiz](https://subiz.com/vi/) là hình ảnh logo của [Subiz](https:/
 
 Bạn hoàn toàn có thể sáng tạo hình ảnh Button Subiz và linh hoạt đặt Button này ở bất cứ vị trí nào trên website, với bất cứ hình dáng nào phù hợp với giao diện trang web.
 
+![S&#xE1;ng t&#x1EA1;o Button Subiz tr&#xEA;n website](../../../.gitbook/assets/tuy-chinh-button.gif)
+
 Bạn cần thực hiện hai bước sau:
 
 ### 1. Ẩn hình ảnh Button Subiz mặc định

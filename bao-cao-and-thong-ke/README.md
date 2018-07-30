@@ -27,19 +27,19 @@ Tại mục Thống kê, bạn có thể thống kê số lượng cuộc hội 
 {% tab title="Kênh" %}
 Lọc cuộc hội thoại theo kênh giúp bạn biết được lượng tương tác qua từng kênh Subiz Chat/ [Email](https://subiz.com/vi/email.html%20)/ [Messenger ](https://subiz.com/vi/facebook-messenger.html%20)
 
-![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c theo c&#xE1;c k&#xEA;nh](.gitbook/assets/thong-ke-tag-theo-kenh%20%281%29.png)
+![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c theo c&#xE1;c k&#xEA;nh](../.gitbook/assets/thong-ke-tag-theo-kenh%20%281%29.png)
 {% endtab %}
 
 {% tab title="Agent" %}
 Lọc hội thoại theo Agent/ nhóm Agent giúp bạn đánh giá công việc của mỗi Agent, cũng như có đánh giá về tình hình kinh doanh chung:
 
-![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c theo Agent](.gitbook/assets/thong-ke-tuong-tac-theo-agents.png)
+![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c theo Agent](../.gitbook/assets/thong-ke-tuong-tac-theo-agents.png)
 {% endtab %}
 
 {% tab title="Thời gian" %}
 Bạn có thể lọc theo các khoảng thời gian cụ thể và thực hiện so sánh để thấy sự biến động.
 
-![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c theo th&#x1EDD;i gian](.gitbook/assets/thong-ke-tuong-tac-theo-thoi-gian%20%281%29.png)
+![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c theo th&#x1EDD;i gian](../.gitbook/assets/thong-ke-tuong-tac-theo-thoi-gian%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -54,7 +54,7 @@ Khi đặt con trỏ chuột vào các điểm giao, bạn sẽ thấy hiện th
 
 Ví dụ: Thống kê số cuộc hội thoại trên kênh Subiz Chat của nhóm Support trong 30 ngày gần đây.
 
-![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c tr&#xEA;n k&#xEA;nh Subiz chat c&#x1EE7;a nh&#xF3;m Supporters 30 ng&#xE0;y v&#x1EEB;a qua](.gitbook/assets/thong-ke-chat-cua-nhom-support-subiz-30-ngay-vua-qua%20%281%29.png)
+![Th&#x1ED1;ng k&#xEA; t&#x1B0;&#x1A1;ng t&#xE1;c tr&#xEA;n k&#xEA;nh Subiz chat c&#x1EE7;a nh&#xF3;m Supporters 30 ng&#xE0;y v&#x1EEB;a qua](../.gitbook/assets/thong-ke-chat-cua-nhom-support-subiz-30-ngay-vua-qua%20%281%29.png)
 
 ### Thống kê tag
 
@@ -70,7 +70,7 @@ Tại trang thống kê Tag, bạn có thể thống kê số lượng tag đã 
 {% tab title="Kênh" %}
 Chọn kênh mà bạn muốn thông kê Tag: Subiz Chat/ [Email](https://subiz.com/vi/email.html%20)/[ Messenger](https://subiz.com/vi/facebook-messenger.html%20)
 
-![Th&#x1ED1;ng k&#xEA; tag theo k&#xEA;nh](.gitbook/assets/thong-ke-tag-theo-kenh%20%282%29.png)
+![Th&#x1ED1;ng k&#xEA; tag theo k&#xEA;nh](../.gitbook/assets/thong-ke-tag-theo-kenh%20%282%29.png)
 {% endtab %}
 
 {% tab title="Loại Tag" %}
@@ -78,17 +78,17 @@ Bạn có thể thống kê theo từng loại tag hoặc theo các tag được
 
 * Các tag được sử dụng nhiều nhất: Thống kê 5 loại tag được gắn nhiều nhất
 
-![Th&#xF4;ng k&#xEA; 5 tag &#x111;&#x1B0;&#x1EE3;c s&#x1EED; d&#x1EE5;ng nhi&#x1EC1;u nh&#x1EA5;t](.gitbook/assets/thong-ke-cac-tag-duoc-su-dung-nhieu-nhat.png)
+![Th&#xF4;ng k&#xEA; 5 tag &#x111;&#x1B0;&#x1EE3;c s&#x1EED; d&#x1EE5;ng nhi&#x1EC1;u nh&#x1EA5;t](../.gitbook/assets/thong-ke-cac-tag-duoc-su-dung-nhieu-nhat.png)
 
 * Thống kê theo từng loại tag
 
-![Th&#x1ED1;ng k&#xEA; theo t&#x1EEB;ng lo&#x1EA1;i tag](.gitbook/assets/thong-ke-theo-tung-tag.png)
+![Th&#x1ED1;ng k&#xEA; theo t&#x1EEB;ng lo&#x1EA1;i tag](../.gitbook/assets/thong-ke-theo-tung-tag.png)
 {% endtab %}
 
 {% tab title="Thời gian" %}
 Lựa chọn khoảng thời gian cụ thể để thống kê và thực hiện so sánh để thấy được sự biến động \(đơn vị thời gian là ngày/giờ tùy thuộc theo khoảng thời gian mà bạn lựa chọn\)
 
-![Th&#x1ED1;ng k&#xEA; tag theo th&#x1EDD;i gian](.gitbook/assets/thong-ke-tag-theo-thoi-gian.png)
+![Th&#x1ED1;ng k&#xEA; tag theo th&#x1EDD;i gian](../.gitbook/assets/thong-ke-tag-theo-thoi-gian.png)
 {% endtab %}
 {% endtabs %}
 
@@ -103,7 +103,7 @@ Bạn có thể quan sát được số lượng tin nhắn được gắn theo 
 
 Ví dụ: Thống kê 5 tag được gắn nhiều nhất ngày 19/04
 
-![Th&#x1ED1;ng k&#xEA; tag &#x111;&#x1B0;&#x1EE3;c s&#x1EED; d&#x1EE5;ng nhi&#x1EC1;u nh&#x1EA5;t](.gitbook/assets/thong-ke-5-tag-duoc-su-dung-nhieu-nhat%20%281%29.png)
+![Th&#x1ED1;ng k&#xEA; tag &#x111;&#x1B0;&#x1EE3;c s&#x1EED; d&#x1EE5;ng nhi&#x1EC1;u nh&#x1EA5;t](../.gitbook/assets/thong-ke-5-tag-duoc-su-dung-nhieu-nhat%20%281%29.png)
 
 
 

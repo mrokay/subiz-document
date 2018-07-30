@@ -20,7 +20,7 @@ Trang hướng dẫn sử dụng [Subiz](https://subiz.com/vi/) chia thành 5 ph
 
 * **Báo cáo & Thống kê:** các báo cáo giúp bạn đánh giá và ra quyết định
 
-{% page-ref page="bao-cao-and-thong-ke.md" %}
+{% page-ref page="bao-cao-and-thong-ke/" %}
 
 * **Thanh toán:** [Subiz](https://subiz.com/vi/) có cơ chế thanh toán linh hoạt và tiện lợi. Chúng tôi không phải là nhà cung ứng, mà đi cùng bạn trên một con thuyền.
 
