@@ -68,14 +68,14 @@ Bạn có thể tìm kiếm hình ảnh trên Google, và lấy link hình ảnh
 Khi khách hàng click vào hình ảnh, bạn hoàn toàn có thể dẫn khách hàng tới trang mà bạn mong muốn bằng cách gắn link vào hình ảnh này:
 
 ```text
-[![Link muốn gắn vào hình ảnh](link hình ảnh)](link muốn gắn vào hình ảnh)
+[![alttext](link hình ảnh)](link muốn gắn vào hình ảnh)
 ```
 
-![G&#x1EAF;n link v&#xE0;o h&#xEC;nh &#x1EA3;nh](../../.gitbook/assets/gan-link-vao-hinh-anh.png)
+![G&#x1EAF;n link v&#xE0;o h&#xEC;nh &#x1EA3;nh](../../.gitbook/assets/screenshot_5.png)
 
 Hãy kết hợp các mã markdown để tạo một lời chào thu hút, hấp dẫn trên website của bạn!
 
-![T&#x1EA1;o l&#x1EDD;i ch&#xE0;o &#x1EA5;n t&#x1B0;&#x1EE3;ng tr&#xEA;n website](../../.gitbook/assets/screenshot_4%20%281%29.png)
+![](../../.gitbook/assets/screenshot_6.png)
 
   
 
