@@ -73,6 +73,8 @@ Khi khách hàng click vào hình ảnh, bạn hoàn toàn có thể dẫn khác
 
 ![G&#x1EAF;n link v&#xE0;o h&#xEC;nh &#x1EA3;nh](../../.gitbook/assets/screenshot_5.png)
 
+### Kết hợp các mã markdown trong một tin nhắn
+
 Hãy kết hợp các mã markdown để tạo một lời chào thu hút, hấp dẫn trên website của bạn!
 
 ![](../../.gitbook/assets/screenshot_6.png)
