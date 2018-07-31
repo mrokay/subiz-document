@@ -24,7 +24,7 @@ Ví dụ: **URL của trang – chứa –  abc.com.vn**
 
 Bạn muốn gửi thông điệp quảng cáo tới các khách vào 1 trang sản phẩm cụ thể, hoặc muốn gửi chương trình khuyến mãi cho khách vào trang thanh toán? Bạn chỉ cần thiết lập Automation theo điều kiện URL của trang chứa link sản phẩm, hoặc theo tiêu đề trang sản phẩm:
 
-![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng xem m&#x1ED9;t s&#x1EA3;n ph&#x1EA9;m c&#x1EE5; th&#x1EC3;](../../.gitbook/assets/screenshot_2.png)
+![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng xem m&#x1ED9;t s&#x1EA3;n ph&#x1EA9;m c&#x1EE5; th&#x1EC3;](../../.gitbook/assets/screenshot_2%20%281%29.png)
 
 ### Gửi tin nhắn cho khách hàng đến từ một thành phố cụ thể
 
@@ -62,11 +62,7 @@ Với các khách hàng chưa có thông tin cá nhân trên hệ thống, bạn
 
 ### Lưu ý khi tạo Automation gửi tin nhắn tự động {#luu-y-khi-tao-automation-gui-tin-nhan-tu-dong}
 
-* Soạn thảo tin nhắn Automtion theo [chuẩn Markdown](https://vi.wikipedia.org/wiki/Markdown) sẽ làm tin nhắn ấn tượng và hấp dẫn hơn: Hình ảnh, gắn link, chữ đậm, chữ nghiêng,....  
-
-
-  ![Tin nh&#x1EAF;n Automation c&#x1EE7;a Subiz](https://lh6.googleusercontent.com/ydjwVcQoMbvN83uoK_6FvWB6N0JaBDylvpSHJ79CHYkJEVxxx07UBIOtS8Zv6m4-vwoQYRXYhnq2fi4SWVHT23VQiqvpQhAjblXTZuQlEM5ISQRC81Nazn-vpvY1xzEXLciy73DMumU)
-
+* Bạn hoàn toàn có thể [Sáng tạo tin nhắn Automation với mã Markdown](https://help.subiz.com/su-dung-subiz-nang-cao/tuong-tac-tu-dong/sang-tao-tin-nhan-automation-voi-ma-markdown) để tạo ra những lời chào thú vị, thu hút khách hàng vào website.
 * Một kịch bản automation chỉ chạy 1 lần với 1 khách truy cập. Bạn có thể cài đặt nhiều kịch bản Automation cùng lúc để gửi nhiều tin nhắn với các mục đích khác nhau cho khách hàng.
 * Khi bạn đã thiết lập Automation gửi tin nhắn, Subiz sẽ tự động nhận diện khách truy cập website và mở rộng cửa sổ chat gửi tin nhắn tới khách hàng.
 * Khi cửa sổ chat mở rộng, các tin nhắn tự động tiếp theo sẽ được thông báo bằng số lượng, nằm ở trên cùng bên trái của cửa số chat. Khi khách truy cập nhấn vào thông báo đó, thì tất cả các tin nhắn sẽ hiển thị ra.

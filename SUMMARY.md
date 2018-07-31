@@ -40,6 +40,7 @@
     * [Tự động hỏi địa chỉ email của khách hàng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/tu-dong-hoi-dia-chi-email-cua-khach-hang.md)
     * [Hỏi thông tin khách hàng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/nam-bat-khach-hang-tiem-nang.md)
     * [Automation gửi email tới khách hàng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/automation-gui-email-toi-khach-hang.md)
+    * [Sáng tạo tin nhắn Automation với mã Markdown](su-dung-subiz-nang-cao/tuong-tac-tu-dong/sang-tao-tin-nhan-automation-voi-ma-markdown.md)
   * [Quản lý dữ liệu](su-dung-subiz-nang-cao/quan-ly-du-lieu/README.md)
     * [Phân khúc khách hàng](su-dung-subiz-nang-cao/quan-ly-du-lieu/phan-khuc-khach-hang.md)
     * [Cập nhật và chỉnh sửa thông tin user](su-dung-subiz-nang-cao/quan-ly-du-lieu/cap-nhat-va-chinh-sua-thong-tin-user.md)
