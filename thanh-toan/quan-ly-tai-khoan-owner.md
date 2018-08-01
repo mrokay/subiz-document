@@ -6,7 +6,7 @@ Tài khoản Subiz là tài sản của doanh nghiệp, vì vậy khi đăng ký
 
 **Email Owner**
 
-Khi bạn đăng ký tài khoản Subiz, email đăng ký sẽ được gọi là email owner hay tài khoản chính. Bạn sẽ toàn quyền quản lý tài khoản thông qua email này, bào gồm:
+Khi bạn đăng ký tài khoản Subiz, email đăng ký sẽ được gọi là tài khoản chính hay email owner. Tài khoản chính có quyền cao nhất và quản lý tài khoản thông qua email owner. Bao gồm các quyền:
 
 * Đăng nhập vào trang quản trị Subiz
 * Quản lý thông tin gói dịch vụ của tài khoản: nâng cấp mới, mua thêm agent, gia hạn dịch vụ, phương thức thanh toán
@@ -27,7 +27,13 @@ Khi bạn đăng ký tài khoản Subiz, email đăng ký sẽ được gọi l�
 * Mật khẩu là thông tin bảo mật của doanh nghiệp. Mật khẩu sẽ được mã hóa bảo mật và thuộc quyền quản lý của doanh nghiệp
 * Trong trường hợp quên mật khẩu bạn có thể khôi phục bằng cách click vào phần quên mật khẩu ngay trên trang đăng nhập của Subiz. Hệ thống sẽ gửi tới email đăng ký của bạn  đường link đổi mật khẩu.
 
-### **Thay đổi Email Owner**
+### Các trường hợp cần thay đổi Email owner
+
+* Người phụ trách email owner không còn làm việc tại công ty
+* Tài khoản email không sử dụng được nữa
+* Có nghi ngờ về bảo mật tài khoản
+
+### **Hướng dẫn thay đổi Email Owner**
 
 **Trong quá trình làm việc, nếu bạn muốn thay đổi email owner bạn có thể thao tác như sau:**
 
@@ -41,7 +47,7 @@ Khi bạn đăng ký tài khoản Subiz, email đăng ký sẽ được gọi l�
 
 * Trường hợp email không hoạt động, không sử dụng được
 
-+  Nếu doanh nghiệp đã ký hợp đồng với Subiz: Bạn gửi hợp đồng cùng với đề nghị thay đổi email owner có đóng dấu của doanh nghiệp
++  Nếu doanh nghiệp đã ký hợp đồng với Subiz: Bạn gửi hợp đồng cùng với Phụ lục hơp đồng đề nghị thay đổi email owner có đóng dấu của doanh nghiệp.
 
 +  Trong trường hợp không có hợp đồng: Doanh nghiệp cần đăng ký tài khoản mới và tích hợp lại lên website.
 
