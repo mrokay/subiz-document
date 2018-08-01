@@ -1,4 +1,4 @@
-# Quản lý tài khoản owner
+# Quản lý tài khoản chính
 
 Tài khoản Subiz là tài sản của doanh nghiệp, vì vậy khi đăng ký Subiz, doanh nghiệp cần quản lý tài khoản của mình bao gồm email đăng ký, mật khẩu để đảm bảo quyền lợi sử dụng dịch vụ Subiz và bảo mật dữ liệu của doanh nghiệp. Tham khảo bài viết sau để hiểu rõ hơn về việc quản lý tài khoản Subiz.
 
@@ -6,7 +6,7 @@ Tài khoản Subiz là tài sản của doanh nghiệp, vì vậy khi đăng ký
 
 **Email Owner**
 
-Khi bạn đăng ký tài khoản Subiz, email đăng ký sẽ được gọi là email owner hay email chủ quản. Bạn sẽ toàn quyền quản lý tài khoản thông qua email này, bào gồm:
+Khi bạn đăng ký tài khoản Subiz, email đăng ký sẽ được gọi là email owner hay tài khoản chính. Bạn sẽ toàn quyền quản lý tài khoản thông qua email này, bào gồm:
 
 * Đăng nhập vào trang quản trị Subiz
 * Quản lý thông tin gói dịch vụ của tài khoản: nâng cấp mới, mua thêm agent, gia hạn dịch vụ, phương thức thanh toán
