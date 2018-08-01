@@ -45,7 +45,7 @@ Sử dụng API trong code website sẽ giúp bạn gắn link cửa sổ chat S
 ```
 
 {% hint style="info" %}
-Lưu ý: Bạn cần đặt API này vào trong code website. Người lập trình web hiểu rõ cấu trúc trang web nhất và sẽ dễ dàng cài đặt.
+Lưu ý: Bạn cần đặt API này vào trong trang code website. Nếu bạn không hiểu rõ code, bạn có thể gửi hướng dẫn này cho người thiết kế website để họ cài đặt nhanh chóng nhất.
 {% endhint %}
 
 > Bạn gặp khó khăn khi cài đặt, vui lòng chat trực tiếp với tư vấn viên trên website [Subiz.com](https://subiz.com/vi/) hoặc gửi email Support@Subiz.com.
