@@ -28,7 +28,7 @@ Bạn có thể sử dụng Subiz API Javascript để cập nhật dữ liệu 
 Để chuyển đúng dữ liệu qua API, bạn cần xác định được  2 thông số:
 
 * Key là: Attribute key 
-* Loại dữ liệu: Trong Subiz có 5 loại dữ liệu gồm Text, Number, Boolean, List, Date Time . \(Xem chú thích chi tiết\) 
+* Loại dữ liệu: Subiz có 5 loại dữ liệu gồm Text, Number, Boolean, List, Date Time . \(Xem chú thích chi tiết\) 
 
 **2.1 API cập nhật một trường dữ liệu mặc định** 
 
@@ -116,7 +116,7 @@ subiz('getUserAttributes', (attributes) => {console.log('user attributes', attri
 {% endtab %}
 {% endtabs %}
 
-> Đọc thêm API tùy biến ngỗ ngữ cửa sổ Subiz theo ngôn ngữ website tại đây.
+> Đọc thêm API tùy biến ngôn ngữ cửa sổ Subiz theo ngôn ngữ website tại đây.
 
 
 
