@@ -40,7 +40,7 @@ Thuật ngữ trong [Subiz](https://subiz.com/vi/) là các từ hoặc cụm t�
 Sau đây là một số khái niệm bạn cần nắm được để sử dụng chính xác và tối ưu hiệu quả sử dụng [Subiz](https://subiz.com/vi/):
 
 | Agent | Người [đăng nhập tài khoản](https://app.subiz.com/) [Subiz](https://subiz.com/vi/) để thực hiện các tương tác với khách hàng. Agent có thể là người quản lý, tư vấn viên, hoặc bất kì nhân viên nào trong doanh nghiệp. |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | Visitor | Khách truy cập website của bạn |
 | User | Khách hàng có tương tác với bạn qua [Subiz](https://subiz.com/vi/) |
 | Cuộc hội thoại | Cuộc hội thoại giữa Agent và User trên các kênh khác nhau |

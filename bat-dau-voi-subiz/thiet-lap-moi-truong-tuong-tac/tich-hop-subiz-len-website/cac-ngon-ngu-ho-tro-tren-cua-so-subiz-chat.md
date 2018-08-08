@@ -5,7 +5,7 @@ Cửa sổ [Subiz chat](https://subiz.com/vi/live-chat.html) là nơi đầu ti�
 Hiện tại cửa sổ Subiz chat hỗ trợ hai ngôn ngữ mặc định: Tiếng Việt và Tiếng Anh. Dưới đây là bảng tên ngôn ngữ và mã ký hiệu dùng cho API:
 
 | **TÊN NGÔN NGỮ** | **MÃ** |
-| --- | --- | --- |
+| :--- | :--- |
 | English | en |
 | Tiếng Việt | vi |
 

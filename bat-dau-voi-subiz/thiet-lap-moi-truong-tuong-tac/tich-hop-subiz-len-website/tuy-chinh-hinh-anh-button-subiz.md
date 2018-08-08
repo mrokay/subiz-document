@@ -21,7 +21,7 @@ Cửa sổ hội thoại có hai kiểu: Thu gọn và Mở rộng.
 Dưới đây là 2 mã CSS ẩn button [Subiz ](https://subiz.com/vi/)tương ứng với từng kiểu cửa sổ hội thoại. Bạn sao chép và đặt mã CSS này trong bảng Tùy chỉnh CSS rồi Lưu thay đổi.
 
 |                     **Kiểu: Thu gọn** |                 **Kiểu: Mở rộng** |
-| --- | --- |
+| :--- | :--- |
 | .widget-button {display:none;} .widget\_mini .widget\_body {bottom:0;} | .widget-button {display:none;} |
 
 ![D&#xE1;n m&#xE3; CSS &#x1EA9;n button Subiz](../../../.gitbook/assets/kieu-2.jpg)

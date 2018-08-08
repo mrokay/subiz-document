@@ -31,7 +31,7 @@ Lưu ý: Một rule chỉ được thực thi khi thông tin của cuộc hội 
 **Bạn có thể chọn một hay nhiều điều kiện trong danh sách các điều kiện trong Rule dưới đây:​**
 
 | **CÁC ĐIỀU KIỆN** | **CÁCH SỬ DỤNG** | **VÍ DỤ** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | Any condition | Khi lựa chọn điều kiện này, các cuộc hội thoại sẽ luôn được phân phối cho các agent được thiết lập trong rule. |  |
 | **Date Time** |  |  |
 | Giờ trong ngày | Dùng khi bạn muốn phân chia cuộc thoại cho các Agent theo các khung giờ trong ngày. Giờ trong ngày từ 0 - 23. | Ca sáng cho Agent A - Ca chiều cho Agent B - Ca tối cho Agent C. |

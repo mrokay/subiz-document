@@ -29,7 +29,7 @@ Click **Thêm điều kiện** khi bạn muốn thêm điều kiện khác. Ch�
 **Bạn nên tham khảo danh sách các điều kiện**, với những hướng dẫn về cách sử dụng và có những ví dụ cụ thể sau đây:
 
 | **CÁC ĐIỀU KIỆN** | **CÁCH SỬ DỤNG** | **VÍ DỤ** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | **User** |  |  |
 | Tên | Thực hiện automation với các user có tên cụ thể | Gửi lời chào đặc biệt hoặc email thông báo chương trình khuyến mãi tới các user có tên là SơnĐiều kiện: Tên – bằng – Sơn |
 | Địa chỉ Email | Thực hiện automation với các user có địa chỉ email cụ thể | Gửi lời chào đặc biệt hoặc email tới tất cả các user có địa chỉ email chứa subiz.comĐiều kiện: Địa chỉ email – chứa – [Subiz.com](https://subiz.com/vi/) |
