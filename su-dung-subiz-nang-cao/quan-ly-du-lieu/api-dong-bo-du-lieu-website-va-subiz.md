@@ -5,7 +5,7 @@ API là giao thức chuyển dữ liệu giữa các ứng dụng. Subiz cung c�
 {% hint style="info" %}
  **Lưu ý khi sử dụng API:**
 
-1. Các đoạn mã API cần được đặt sau mã nhúng Subiz trong trang code website. Không cần đặt sát sau, chỉ cần đảm bảo mã nhúng Subiz được đặt trên mã API.
+1. Các đoạn mã API cần được đặt sau mã nhúng Subiz trong trang code website. Không cần đặt sát sau, chỉ cần đảm bảo mã nhúng Subiz được đặt trên mã API. 
 2. Để sử dụng API, chỉ lập trình viên có thể cài đặt theo hướng dẫn. Nếu doanh nghiệp không có lập trình viên riêng , hãy tìm thuê lập trình viên làm việc thời vụ để họ giúp bạn.
 {% endhint %}
 
