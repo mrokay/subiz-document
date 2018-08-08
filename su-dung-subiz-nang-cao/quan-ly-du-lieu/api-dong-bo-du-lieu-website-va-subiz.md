@@ -3,12 +3,15 @@
 API là giao thức chuyển dữ liệu giữa các ứng dụng. Subiz cung cấp Javascript API cho phép đồng bộ dữ liệu khách hàng giữa ứng dụng Subiz và website. Bạn có thể cập nhật dữ liệu khách hàng, lấy thông tin khách hàng và gửi các dữ liệu hành động của khách hàng từ website lên Subiz.
 
 {% hint style="info" %}
- Lưu ý: Để sử dụng Subiz API, chỉ lập trình viên có thể cài đặt theo hướng dẫn. Nếu doanh nghiệp không có lập trình viên riêng , hãy tìm thuê lập trình viên làm việc thời vụ để họ giúp bạn.
+ **Lưu ý khi sử dụng API:**
+
+1. Các đoạn mã API cần được đặt sau mã nhúng Subiz trong trang code website. Không cần đặt sát sau, chỉ cần đảm bảo mã nhúng Subiz được đặt trên mã API.
+2. Để sử dụng API, chỉ lập trình viên có thể cài đặt theo hướng dẫn. Nếu doanh nghiệp không có lập trình viên riêng , hãy tìm thuê lập trình viên làm việc thời vụ để họ giúp bạn.
 {% endhint %}
 
 ### 1. Dữ liệu khách hàng
 
-Subiz lưu trữ thông tin khách hàng với 4 trường dữ liệu mặc định: Họ tên, Địa chỉ email , Số điện thoại, Địa chỉ. 
+Subiz lưu trữ thông tin khách hàng với 4 trường dữ liệu khách hàng mặc định: Họ tên, Địa chỉ email , Số điện thoại, Địa chỉ. 
 
 ![D&#x1EEF; li&#x1EC7;u kh&#xE1;ch h&#xE0;ng m&#x1EB7;c &#x111;&#x1ECB;nh tr&#xEA;n Subiz](../../.gitbook/assets/1.-user-info.jpg)
 
