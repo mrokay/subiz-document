@@ -18,7 +18,7 @@ Khi khách hàng mới ghé thăm website, bạn muốn gửi đến khách hàn
 
 Ví dụ: **URL của trang – chứa –  abc.com.vn**
 
-![G&#x1EED;i tin nh&#x1EAF;n cho kh&#xE1;ch v&#xE0;o 1 site c&#x1EE5; th&#x1EC3;](../../.gitbook/assets/screenshot_1.png)
+![G&#x1EED;i tin nh&#x1EAF;n cho kh&#xE1;ch v&#xE0;o 1 site c&#x1EE5; th&#x1EC3;](../../.gitbook/assets/screenshot_1%20%282%29.png)
 
 ### Gửi tin nhắn cho khách hàng khi xem một sản phẩm cụ thể {#3-gui-tin-nhan-cho-khach-hang-theo-khu-vuc-dia-ly}
 
