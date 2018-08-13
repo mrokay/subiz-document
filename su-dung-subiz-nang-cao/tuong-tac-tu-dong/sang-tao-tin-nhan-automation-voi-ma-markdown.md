@@ -61,7 +61,7 @@ Sử dụng hình ảnh sẽ làm nội dung tin nhắn của bạn thêm phần
 
 Bạn có thể tìm kiếm hình ảnh trên Google, và lấy link hình ảnh theo hướng dẫn:
 
-![](../../.gitbook/assets/screenshot_2.png)
+![](../../.gitbook/assets/screenshot_2%20%281%29.png)
 
 ###  **Gắn link vào hình ảnh**
 

@@ -23,7 +23,7 @@ Danh sách này sẽ giúp bạn nắm được tình hình chăm sóc khách h�
 Bạn sẽ quan sát được danh sách các user đã tương tác với bạn và các agent khác. Tuy nhiên tùy vào phân quyền, bạn có thể hoặc không thể xem được chi tiết cuộc hội thoại với User của Agent khác.  
 Ví dụ: Bạn bị hạn chế quyền xem tin nhắn của Agent khác:
 
-![Kh&#xF4;ng xem &#x111;&#x1B0;&#x1EE3;c h&#x1ED9;i tho&#x1EA1;i c&#x1EE7;a Agent kh&#xE1;c](../../../.gitbook/assets/screenshot_1%20%281%29.png)
+![Kh&#xF4;ng xem &#x111;&#x1B0;&#x1EE3;c h&#x1ED9;i tho&#x1EA1;i c&#x1EE7;a Agent kh&#xE1;c](../../../.gitbook/assets/screenshot_1%20%282%29.png)
 
 Bạn sẽ chỉ xem được danh sách tất cả User, lịch sử tương tác  và hoạt động của họ, nhưng không quan sát được nội dung tin nhắn với Agent khác.
 
