@@ -20,15 +20,15 @@ Trong đó:
 
 {% page-ref page="lam-viec-tren-subiz/" %}
 
-* **Sử dụng Subiz nâng cao**: Cách thu hút nhiều khách chat trực tuyến, nắm bắt khách hàng tiềm năng và quản lý dữ liệu khách hàng hiệu quả với Subiz.
+* **Sử dụng Subiz nâng cao**: Cách thu hút nhiều khách chat trực tuyến, nắm bắt khách hàng tiềm năng và quản lý dữ liệu khách hàng hiệu quả với Subiz
 
 {% page-ref page="../su-dung-subiz-nang-cao/" %}
 
-* **Báo cáo và thống kê**: Kết quả tương tác khách hàng và những thống kê chi tiết đo lường hiệu quả sử dụng Subiz.
+* **Báo cáo và thống kê**: Kết quả tương tác khách hàng và những thống kê chi tiết về cuộc hội thoại, số lượng user để đo lường hiệu quả làm việc trên Subiz
 
 {% page-ref page="../bao-cao-and-thong-ke/" %}
 
-* **Thanh toán dịch vụ Subiz**: Chi tiết thông tin về cách tính phí, phương thức thanh toán và cách thay đổi gói dịch vụ của Subiz.
+* **Thanh toán dịch vụ Subiz**: Chi tiết thông tin về cách tính phí, phương thức thanh toán và cách thay đổi gói dịch vụ của Subiz
 
 {% page-ref page="../thanh-toan/" %}
 
