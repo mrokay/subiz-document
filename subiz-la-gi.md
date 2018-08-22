@@ -25,7 +25,7 @@ Khi đó, [Subiz](https://subiz.com/vi/) là tất cả mọi thứ bạn cần 
 
 ![Dashboard- B&#x1EA3;ng &#x111;i&#x1EC1;u khi&#x1EC3;n Subiz](.gitbook/assets/dashboard_subiz.png)
 
-Tại đây, bạn có thể theo dõi khách hàng đang truy cập, nắm rõ thông tin và hành vi khách hàng, chủ động tương tác và theo đuổi khách hàng từ nhiều kênh bán hàng của doanh nghiệp như Website, Facebook, Email, Zalo,...
+Tại đây, bạn có thể theo dõi khách hàng đang truy cập, nắm rõ thông tin và hành vi khách hàng, chủ động tương tác và theo đuổi khách hàng từ nhiều kênh bán hàng của doanh nghiệp như Website, Facebook, Email,...
 
 Doanh nghiệp có thể nâng cao tỉ lệ chuyển đổi khách hàng và gia tăng doanh số bán hàng bằng cách:
 
@@ -39,15 +39,16 @@ Thuật ngữ trong [Subiz](https://subiz.com/vi/) là các từ hoặc cụm t�
 
 Sau đây là một số khái niệm bạn cần nắm được để sử dụng chính xác và tối ưu hiệu quả sử dụng [Subiz](https://subiz.com/vi/):
 
-| Agent | Người [đăng nhập tài khoản](https://app.subiz.com/) [Subiz](https://subiz.com/vi/) để thực hiện các tương tác với khách hàng. Agent có thể là người quản lý, tư vấn viên, hoặc bất kì nhân viên nào trong doanh nghiệp. |
-| :--- | :--- |
-| Visitor | Khách truy cập website của bạn |
-| User | Khách hàng có tương tác với bạn qua [Subiz](https://subiz.com/vi/) |
-| Cuộc hội thoại | Cuộc hội thoại giữa Agent và User trên các kênh khác nhau |
-| Kênh | Các kênh tương tác của bạn với khách hàng qua [Subiz](https://subiz.com/vi/), bao gồm: [Subiz Chat](https://subiz.com/vi/live-chat.html%20), [Email](https://subiz.com/vi/email.html%20), [Facebook Messenger](https://subiz.com/vi/facebook-messenger.html%20)… |
-| Rule | Các quy tắc để phân chia cuộc hội thoại về cho từng Agent hoặc nhóm Agent |
-| Phân khúc | Các nhóm user được phân chia theo tiêu chí cụ thể |
-| Automation | Thiết lập tin nhắn tự động gửi tới khách hàng với các điều kiện đặt trước |
+| Thuật ngữ  |  Khái niệm chung |  |
+| :--- | :--- | :--- |
+| Agent | Người sử dụng Subiz. Mỗi agent có một tài khoản đăng nhập Subiz riêng để thực hiện các công việc của mình. Agent có thể là người quản lý, tư vấn viên, hoặc bất kì nhân viên nào trong doanh nghiệp. |  |
+| Visitor | Khách truy cập website của bạn |  |
+| User | Khách hàng có tương tác, nhắn tin trò chuyện với bạn qua [Subiz](https://subiz.com/vi/) |  |
+| Cuộc hội thoại | Cuộc hội thoại trò chuyện giữa Agent và User trên các kênh khác nhau của Subiz |  |
+| Kênh | Các kênh tương tác của bạn với khách hàng qua [Subiz](https://subiz.com/vi/), bao gồm: [Subiz Chat](https://subiz.com/vi/live-chat.html%20), [Email](https://subiz.com/vi/email.html%20), [Facebook Messenger](https://subiz.com/vi/facebook-messenger.html%20)… |  |
+| Rule | Tính năng tự động phân chia cuộc hội thoại của khách hàng cho agent theo các điều kiện cài đặt. |  |
+| Phân khúc | Tính năng tự động lọc và phân nhóm user theo điều kiện cài đặt |  |
+| Automation | Tính năng tương tác tự động thực hiện các hành động như gửi tin nhắn, hỏi thông tin, gửi email tới khách hàng... theo điều kiện cài đặt. |  |
 
 ​
 
