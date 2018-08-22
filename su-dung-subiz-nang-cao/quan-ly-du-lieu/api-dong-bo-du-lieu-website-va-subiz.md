@@ -116,7 +116,7 @@ subiz('getUserAttributes', (attributes) => {console.log('user attributes', attri
 {% endtab %}
 {% endtabs %}
 
-> Đọc thêm API tùy biến ngôn ngữ cửa sổ Subiz theo ngôn ngữ website tại đây.
+> Đọc thêm [API tùy biến ngôn ngữ cửa sổ Subiz theo ngôn ngữ website tại đây.](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/cac-ngon-ngu-ho-tro-tren-cua-so-subiz-chat)
 
 
 
