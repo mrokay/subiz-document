@@ -8,11 +8,11 @@ Những hướng dẫn tại phần Bắt đầu cùng [Subiz](https://subiz.com
 
 Trong đó:
 
-* **Thiết lập môi trường tương tác:** Hướng dẫn tích hợp các kênh tương tác vào [Subiz](https://subiz.com/vi/), giúp bạn tương tác và theo đuổi khách hàng từ nhiều kênh ngay trên [Subiz](https://subiz.com/vi/)
+* **Thiết lập môi trường tương tác:** Hướng dẫn tích hợp các kênh tương tác gồm Website, Messenger, Email,... vào [Subiz](https://subiz.com/vi/), giúp bạn tiếp cận và theo đuổi khách hàng từ nhiều kênh ngay trên [Subiz](https://subiz.com/vi/)
 
 {% page-ref page="thiet-lap-moi-truong-tuong-tac/" %}
 
-* **Triển khai hoạt động:** Bạn sẽ hiểu thêm về các loại Agent, hướng dẫn tạo thêm các Agent và thiết lập quy tắc phân phối các cuộc hội thoại cho các Agent
+* **Triển khai hoạt động:** Bạn sẽ hiểu thêm về các loại Agent, hướng dẫn tạo thêm các Agent và thiết lập Rule phân phối các cuộc hội thoại của khách hàng cho các Agent
 
 {% page-ref page="trien-khai-hoat-dong/" %}
 
@@ -20,5 +20,15 @@ Trong đó:
 
 {% page-ref page="lam-viec-tren-subiz/" %}
 
+* **Sử dụng Subiz nâng cao**: Cách thu hút nhiều khách chat trực tuyến, nắm bắt khách hàng tiềm năng và quản lý dữ liệu khách hàng hiệu quả với Subiz.
 
+{% page-ref page="../su-dung-subiz-nang-cao/" %}
+
+* **Báo cáo và thống kê**: Kết quả tương tác khách hàng và những thống kê chi tiết đo lường hiệu quả sử dụng Subiz.
+
+{% page-ref page="../bao-cao-and-thong-ke/" %}
+
+* **Thanh toán dịch vụ Subiz**: Chi tiết thông tin về cách tính phí, phương thức thanh toán và cách thay đổi gói dịch vụ của Subiz.
+
+{% page-ref page="../thanh-toan/" %}
 
