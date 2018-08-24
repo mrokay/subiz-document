@@ -1,6 +1,6 @@
 # Tạo Rule mới
 
-Tạo Rule mới **là tạo quy tắc mới** để thiết lập tự động phân phối cuộc hội thoại tới một hoặc một nhóm Agent của bạn.
+Rule là tính năng tự động phân phối cuộc hội thoại của khách hàng cho các agent theo các điều kiện cài đặt. Bạn nên dựa trên tình hình thực tế, cách thức quản lý, điều hành của doanh nghiệp, cách thức phân chia công việc của tư vấn viên để sáng tạo ra các Rule mới, giúp cho việc phân phối và xử lý các cuộc hội thoại được hiệu quả.
 
 Để tạo rule mới, bạn [đăng nhập tài khoản](https://app.subiz.com/login) và vào phần[ **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Rule &gt; Tạo Rule mới**](https://app.subiz.com/settings/add-rule)\*\*\*\*
 
@@ -15,18 +15,21 @@ Tạo Rule mới **là tạo quy tắc mới** để thiết lập tự động 
 
 ### Bước 2: Đặt các điều kiện cho Rule
 
-Điều kiện trong Rule là các tiêu chuẩn để một Rule được thực thi, giúp thiết lập các kịch bản phân phối cuộc hội thoại tới Agent một cách thông minh và hoạt động đúng lúc. Một rule chỉ được thực thi khi các điều kiện trong rule được đáp ứng.
+Điều kiện trong Rule là các tiêu chuẩn để một Rule được thực thi, giúp thiết lập các kịch bản phân phối cuộc hội thoại tới Agent một cách thông minh và hoạt động đúng lúc. 
 
 {% hint style="info" %}
-Lưu ý: Một rule chỉ được thực thi khi thông tin của cuộc hội thoại và user khởi tạo cuộc hội thoại đáp ứng các điều kiện đã được cài đặt \(một cuộc hội thoại chỉ được phân phối theo một rule\)
+**Lưu ý:** Một Rule **chỉ áp dụng cho một quy tắc phân phối hội thoại**. Tuy nhiên, bạn có thể kết hợp nhiều điều kiện để phân phối tới một hay nhóm agent tương ứng với điều kiện đó. 
 {% endhint %}
 
-**Cách thiết lập các điều kiện trong Rule:**
+  
+Cách thiết lập các điều kiện trong Rule: 
 
-* Click **Thêm điều kiện** để kết hợp nhiều điều kiện trong một rule.
-* Chọn **Và/ Hoặc** để xác định mối quan hệ giữa các điều kiện.
+* Click Thêm điều kiện để kết hợp nhiều điều kiện trong một rule.
+* Chọn Và/ Hoặc để xác định mối quan hệ giữa các điều kiện.
 
-![Thi&#x1EBF;t l&#x1EAD;p c&#xE1;c &#x111;i&#x1EC1;u ki&#x1EC7;n trong Rule](../../../.gitbook/assets/dieu-kien-trong-rule-1.png)
+  **Ví dụ:** Khách hỏi nội dung có ký tự “giá” hội thoại sẽ chuyển đến agent Linh Chi.
+
+![Kh&#xE1;ch h&#x1ECF;i n&#x1ED9;i dung c&#xF3; k&#xFD; t&#x1EF1; &#x201C;gi&#xE1;&#x201D; h&#x1ED9;i tho&#x1EA1;i s&#x1EBD; chuy&#x1EC3;n &#x111;&#x1EBF;n agent Linh Chi.](../../../.gitbook/assets/khach-hoi-bao-gia.png)
 
 **Bạn có thể chọn một hay nhiều điều kiện trong danh sách các điều kiện trong Rule dưới đây:​**
 
@@ -48,30 +51,16 @@ Lưu ý: Một rule chỉ được thực thi khi thông tin của cuộc hội 
 
 ### Bước 3: Chọn cách thức phân phối các cuộc tương tác cho Agent
 
-Bây giờ, bạn chọn cách thức phân phối cuộc các cuộc thội thoại thỏa mãn các điều kiện đã đặt ở trên.
+Bây giờ, bạn chọn cách thức phân phối cuộc các cuộc hội thoại thỏa mãn các điều kiện đã đặt ở trên.
 
-![Ch&#x1ECD;n c&#xE1;ch th&#x1EE9;c ph&#xE2;n ph&#x1ED1;i c&#xE1;c cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../../.gitbook/assets/rule-assign.png)
+![Kh&#xE1;ch h&#x1ECF;i n&#x1ED9;i dung c&#xF3; k&#xFD; t&#x1EF1; &#x201C;gi&#xE1;&#x201D; h&#x1ED9;i tho&#x1EA1;i s&#x1EBD; chuy&#x1EC3;n &#x111;&#x1EBF;n agent Linh Chi.](../../../.gitbook/assets/khach-hoi-bao-gia-chuyen-cho-lc.png)
 
-#### **1. Phân phối tới các Agent hoặc nhóm Agent**
+{% hint style="info" %}
+* Rule là **điều kiện bắt buộc** để agent nhận được cuộc chat. Khi bạn xóa Rule mặc định nhưng không tạo Rule mới, tất cả các agent sẽ không nhận tương tác của khách hàng. Lúc này, tất cả hội thoại sẽ nằm trong mục **hội thoại chưa phân phối** trong phần **Hoạt động**.
+* Bạn có thể tạo nhiều Rule, quản lý các Rule và thay đổi Rule theo thời gian, cho phù hợp với số lượng Agent và cách quản lý của bạn.
+{% endhint %}
 
-Khi chọn cách phân phối tới các Agent hoặc nhóm Agent thì bất cứ Agent nào trong nhóm được phân phối đều có thể tham gia cùng lúc vào cuộc hội thoại.
 
-Bạn cần chọn một trong những kiểu phân phối sau:
 
-* _**Phân phối tới tất cả các available Agent:**_ phân phối cuộc hội thoại cho tất cả Agent đang được kích hoạt
-* _**Phân phối tới các agents:**_ Phân phối cuộc hội thoại cho một hoặc một số Agent cụ thể. Click để chọn Agent trong list các Agent, sau khi chọn bạn không muốn chọn phân phối cho Agent đó nữa thì nhấn vào nút loại bỏ bên tay phải. Ví dụ sau, đã chọn 02 Agent
 
-![Ch&#x1ECD;n Agent &#x111;&#x1B0;&#x1EE3;c ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../../.gitbook/assets/phan-phoi-toi-cac-agent.png)
-
-* _**Phân phối tới các nhóm:**_ Phân phối cuộc hội thoại cho nhóm Agent. Ví dụ dưới đây thì cuộc hội thoại đươc chọn phân phối cho nhóm bán hàng \(Sales\)
-
-![Ch&#x1ECD;n nh&#xF3;m Agent &#x111;&#x1B0;&#x1EE3;c ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../../.gitbook/assets/phan-phoi-toi-cac-nhom.png)
-
-* _**Phân phối tới agent có tương tác cuối cùng với user:**_ Phân phối cuộc hội thoại cho Agent có tương tác gần nhất với user \(khách hàng\)
-
-#### **2. Phân phối cuộc chat đồng đều theo vòng** {#2-phan-phoi-cuoc-chat-dong-deu-theo-vong}
-
-Các cuộc hội thoại sẽ được chia đều lần lượt theo vòng cho các Agent được chọn. Ví dụ, bạn chọn 3 agent trong danh sách agent, khi có 6 cuộc hội thoại, thì sẽ phân phối theo thứ tự 1,2,3 sau đó quay vòng 4,5,6
-
-![Ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c chat &#x111;&#x1ED3;ng &#x111;&#x1EC1;u theo v&#xF2;ng cho c&#xE1;c Agent &#x111;&#x1B0;&#x1EE3;c ch&#x1ECD;n](../../../.gitbook/assets/phan-phoi-dong-deu-theo-vong.png)
 

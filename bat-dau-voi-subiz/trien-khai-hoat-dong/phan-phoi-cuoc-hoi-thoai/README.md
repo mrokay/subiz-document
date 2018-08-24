@@ -14,6 +14,10 @@ Khi đó:
 
 {% page-ref page="tao-rule-moi.md" %}
 
+* Bạn có thể tham khảo một vài ví dụ cài đặt Rule như sau:
+
+{% page-ref page="untitled.md" %}
+
 * Ngoài ra, bạn cũng sẽ biết cách sử dụng và quản lý các Rule một cách hiệu quả:
 
 {% page-ref page="quan-ly-danh-sach-rule.md" %}

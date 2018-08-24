@@ -8,9 +8,13 @@ Bạn cần quan tâm và thực hiện 3 vấn đề sau:
 
 ### **Sắp xếp thứ tự của rule**
 
-Các rule sẽ hoạt động **theo thứ tự ưu tiên từ trên xuống dưới**.
+Mỗi Rule sẽ đáp ứng cho một quy tắc hội thoại. Bạn có thể cài đặt nhiều Rule theo nhu cầu phân phối của từng doanh nghiệp. Các rule được cài đặt sẽ **hoạt động theo thứ tự ưu tiên từ trên xuống dưới**.   
+**Ví dụ:** bạn cài đặt 2 Rule:
 
-Ví dụ, khi có một cuộc hội thoại mới, nếu thỏa mãn điều kiện của rule 1, cuộc hội thoại sẽ được phân phối cho Agent/ nhóm Agent của rule 1. Nếu chưa thỏa mãn, hệ thống tiếp tục lần lượt kiểm tra điều kiện của rule 2, 3 …
+* **Rule 1:** Phân phối tới agent có tương tác cuối cùng với user.
+* **Rule 2:** Phân phối hội thoại theo vòng.
+
+Khi có hội thoại mới, Rule sẽ ưu tiên phân phối tới agent đã có tương tác trước đó, nếu không có agent tương ứng, hội thoại sẽ chuyển tới các agent theo vòng. Để Rule hoạt động theo đúng quy tắc bạn mong muốn, bạn click vào **Sắp xếp lại**.
 
 {% hint style="info" %}
 _Lưu ý: Chỉ rule trong trạng thái Active mới có thể hoạt động_
@@ -18,7 +22,7 @@ _Lưu ý: Chỉ rule trong trạng thái Active mới có thể hoạt động_
 
 Để sắp xếp lại thứ tự các rule, bạn click vào **Sắp xếp lại**.
 
-![Ch&#x1ECD;n s&#x1EAF;p x&#x1EBF;p l&#x1EA1;i Rule](../../../.gitbook/assets/sap-xep-lai-rule%20%281%29.png)
+![Ch&#x1ECD;n s&#x1EAF;p x&#x1EBF;p l&#x1EA1;i Rule](../../../.gitbook/assets/sap-xep-lai-rule%20%283%29.png)
 
 Sử dụng chuột kéo thả để sắp xếp mức độ ưu tiên của các rule theo mong muốn, sau đó chọn **Lưu thay đổi**.
 
@@ -28,7 +32,7 @@ Sử dụng chuột kéo thả để sắp xếp mức độ ưu tiên của cá
 
 * Chọn biểu tượng sửa tương ứng của rule muốn chỉnh sửa
 
-![Ch&#x1ECD;n v&#xE0; ch&#x1EC9;nh s&#x1EED;a Rule](../../../.gitbook/assets/chinh-sua-rule-1024x243.png)
+![Ch&#x1ECD;n v&#xE0; ch&#x1EC9;nh s&#x1EED;a Rule](../../../.gitbook/assets/chinh-sua-rule.png)
 
 * Thay đổi lại thông tin trên trang cập nhật
 
