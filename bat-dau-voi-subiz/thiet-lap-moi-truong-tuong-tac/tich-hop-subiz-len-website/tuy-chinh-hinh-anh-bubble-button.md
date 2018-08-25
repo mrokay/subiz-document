@@ -10,7 +10,7 @@ Mỗi doanh nghiệp có thể chủ động thiết kế hình ảnh bubble but
 
 Hướng dẫn cài đặt bubble button: Đăng nhập Subiz qua link [App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ hội thoại &gt; Tùy chỉnh bubble button](https://app.subiz.com/settings/widget-setting)\*\*\*\*
 
-Bạn có thể lựa chọn sử dụng bubble button từ thư viện button của Subiz, hoặc tùy chọn hình ảnh button bất kỳ khác và tải lên Subiz.
+Bạn có thể lựa chọn sử dụng bubble button từ thư viện button của Subiz, hoặc sử dụng hình ảnh button tùy chỉnh của bạn và tải lên Subiz.
 
 ![T&#xF9;y ch&#x1EC9;nh bubble button](../../../.gitbook/assets/1.-edit-button.png)
 
@@ -20,13 +20,13 @@ Bạn chọn hình ảnh trong Thư viện button và Lưu thay đổi là sử 
 
 ![Th&#x1B0; vi&#x1EC7;n button c&#x1EE7;a Subiz](../../../.gitbook/assets/2.-library.png)
 
-### **2.2 Sử dụng button bất kỳ**
+### **2.2 Sử dụng button tùy chỉnh bất kỳ**
 
-Để sử dụng button bất kỳ, bạn cần có một hình ảnh button theo mong muốn của bạn giúp tạo ấn tượng riêng dành cho khách hàng. Kích thước chuẩn của hình ảnh button là 240 x 120 px.
+Để sử dụng button tùy chỉnh của bạn, bạn cần có một hình ảnh button theo mong muốn của bạn giúp tạo ấn tượng riêng dành cho khách hàng. Kích thước chuẩn của hình ảnh button là 240 x 120 px.
 
 Hướng dẫn 3 bước để sử dụng button bất kỳ của bạn như sau:
 
-**Bước 1**: Để tải lên hình ảnh button bất kỳ của bạn:  
+**Bước 1**: Để tải lên hình ảnh button tùy chỉnh của bạn:  
               &gt; Chọn[ Tùy chỉnh bubble button ](https://app.subiz.com/settings/widget-setting)  
               &gt; Tải lên button tùy chỉnh   
               &gt; Chọn tệp hoặc Kéo tệp để tải lên &gt; Nhấp "**X**" để thoát
@@ -53,7 +53,7 @@ Xem thêm một số mẫu hình ảnh button: [button 1](https://filev4.subiz.c
 Lưu ý: 
 
 * Bạn cần xác định đúng **CỬA SỔ HỘI THOẠI** đang sử dụng **KIỂU**: **Thu gọn** hay **Mở rộng**, để chọn đúng mã CSS.
-* Mã CSS chỉ cần đặt 1 lần. Sau này, bạn có thể thay đổi hình ảnh button bất kỳ khác và không cần cài đặt CSS này nữa.
+* Mã CSS chỉ cần đặt 1 lần. Sau này, bạn có thể thay đổi hình ảnh button khác và không cần cài đặt CSS này nữa.
 {% endhint %}
 
 **Bước 3**: Lưu thay đổi để hoàn thành
