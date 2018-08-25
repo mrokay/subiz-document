@@ -2,7 +2,7 @@
 
 ### 1. Bubble button là gì?
 
-Bubble button là hình ảnh kêu gọi và thu hút khách hàng chat trực tuyến trên cửa sổ Subiz chat. Khi khách hàng click vào bubble button sẽ mở ra của sổ Subiz chat.
+Bubble button là hình ảnh kêu gọi và thu hút khách hàng chat trực tuyến trên cửa sổ Subiz chat. Khi khách hàng click vào bubble button sẽ mở ra cửa sổ chat.
 
 Mỗi doanh nghiệp có thể chủ động thiết kế hình ảnh bubble button để truyền tải thông điệp riêng và mang đến cho khách hàng những trải nghiệm thú vị khi truy cập website.
 
@@ -33,7 +33,7 @@ Hướng dẫn 3 bước để sử dụng button bất kỳ của bạn như sa
 
 ![T&#x1EA3;i l&#xEA;n button t&#xF9;y ch&#x1EC9;nh](../../../.gitbook/assets/3.-upload-button.png)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Xem thêm một số mẫu hình ảnh button: [button 1](https://filev4.subiz.com/fiqcggngypeovdudlqyu-button_chat_01.png) -  [button 2](https://filev4.subiz.com/fiqcgvyibtxjcxnbjysc-button1_vn.png) - [button 3](https://filev4.subiz.com/fiqcggnolwzgyzltheem-button_chat_05.png) - [button 4](https://filev4.subiz.com/fiqcgvyssbundnpuqkqs-button4_vn.png) -   
 [button 5](https://filev4.subiz.com/fiqcgvyuaqjoaukkjndw-bubble_06.png) - [button 6 ](https://filev4.subiz.com/fiqcgvyuoczmzfwpltrq-bubble_03.png)- [ button 7](https://filev4.subiz.com/fiqcgvziewizoqbymuqz-bubble.gif) - [button 8](https://filev4.subiz.com/fiqcggnpqqrmggiofklb-button_chat_07.png) - [button 9](https://filev4.subiz.com/fiqcgvyqfhiokhwiqmnz-button3_en.png) - [button 10](https://filev4.subiz.com/fiqcgvysbxbykjcrorum-button4_en.png).
 {% endhint %}
