@@ -45,7 +45,7 @@ Xem thêm một số mẫu hình ảnh button: [button 1](https://filev4.subiz.c
 
 |  | Kiểu cửa sổ hội thoại Thu gọn  | Kiểu cửa sổ hội thoại Mở rộng |
 | :--- | :--- | :--- |
-| **Mã CSS**   | `.widget_mini .close-widget-icon {display: none;}.button-chat .avatar-preview img {display: none;}.button-chat {box-shadow: none;background-color: transparent !important;}.widget-button { bottom: 1px;  }.widget_mini .widget_body { bottom: 1px;  }` | `.widget_full .close-widget-icon {display: none;}.button-chat .avatar-preview img {display: none;}.button-chat {box-shadow: none;background-color: transparent !important;}.widget-button { bottom: 1px;  }.widget_mini .widget_body { bottom: 1px;  }` |
+| **Mã CSS**   | `.widget_mini .close-widget-icon { display: none; }.button-chat .avatar-preview img { display: none; }.button-chat { box-shadow: none; background-color: transparent !important; }.widget-button { bottom: 0; }.widget_mini .widget_body { bottom: 0; }` | `.widget_full .close-widget-icon {display: none;}.button-chat .avatar-preview img {display: none;}.button-chat {box-shadow: none;background-color: transparent !important;}.widget-button { bottom: 0px;  }.widget_mini .widget_body { bottom: 0px;  }` |
 |  |  |  |
 
 ![C&#xE0;i &#x111;&#x1EB7;t CSS t&#x1ED1;i &#x1B0;u h&#xEC;nh &#x1EA3;nh button](../../../.gitbook/assets/custom-button.gif)
