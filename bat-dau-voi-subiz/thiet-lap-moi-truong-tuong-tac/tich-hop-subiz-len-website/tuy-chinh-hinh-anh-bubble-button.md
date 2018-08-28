@@ -54,6 +54,7 @@ Lưu ý:
 
 * Bạn cần xác định đúng **CỬA SỔ HỘI THOẠI** đang sử dụng **KIỂU**: **Thu gọn** hay **Mở rộng**, để chọn đúng mã CSS.
 * Mã CSS chỉ cần đặt 1 lần. Sau này, bạn có thể thay đổi hình ảnh button khác và không cần cài đặt CSS này nữa.
+* Khi đã cài đặt mã CSS, nếu bạn muốn sử dụng lại thư viện button của Subiz thì bạn cần xóa đoạn mã này trong mục Tùy chỉnh CSS.
 {% endhint %}
 
 **Bước 3**: Lưu thay đổi để hoàn thành
