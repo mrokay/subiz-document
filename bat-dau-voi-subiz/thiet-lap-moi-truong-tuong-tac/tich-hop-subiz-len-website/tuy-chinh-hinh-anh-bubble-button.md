@@ -35,7 +35,8 @@ Hướng dẫn 3 bước để sử dụng button bất kỳ của bạn như sa
 
 {% hint style="success" %}
 Xem thêm một số mẫu hình ảnh button: [button 1](https://filev4.subiz.com/fiqcggngypeovdudlqyu-button_chat_01.png) -  [button 2](https://filev4.subiz.com/fiqcgvyibtxjcxnbjysc-button1_vn.png) - [button 3](https://filev4.subiz.com/fiqcggnolwzgyzltheem-button_chat_05.png) - [button 4](https://filev4.subiz.com/fiqcgvyssbundnpuqkqs-button4_vn.png) -   
-[button 5](https://filev4.subiz.com/fiqcgvyuaqjoaukkjndw-bubble_06.png) - [button 6 ](https://filev4.subiz.com/fiqcgvyuoczmzfwpltrq-bubble_03.png)- [ button 7](https://filev4.subiz.com/fiqcgvziewizoqbymuqz-bubble.gif) - [button 8](https://filev4.subiz.com/fiqcggnpqqrmggiofklb-button_chat_07.png) - [button 9](https://filev4.subiz.com/fiqcgvyqfhiokhwiqmnz-button3_en.png) - [button 10](https://filev4.subiz.com/fiqcgvysbxbykjcrorum-button4_en.png).
+[button 5](https://filev4.subiz.com/fiqcgvyuaqjoaukkjndw-bubble_06.png) - [button 6 ](https://filev4.subiz.com/fiqcgvyuoczmzfwpltrq-bubble_03.png)- [ button 7](https://filev4.subiz.com/fiqcgvziewizoqbymuqz-bubble.gif) - [button 8](https://filev4.subiz.com/fiqcggnpqqrmggiofklb-button_chat_07.png) - [button 9](https://filev4.subiz.com/fiqcgvyqfhiokhwiqmnz-button3_en.png) - [button 10](https://filev4.subiz.com/fiqcgvysbxbykjcrorum-button4_en.png).  
+Một số mẫu button chào mừng ngày Quốc Khánh 2/9: [Xem chi tiết](https://subiz.com/blog/viet-nam-tren-website-cua-ban.html)
 {% endhint %}
 
 **Bước 2**:  Cài đặt CSS tối ưu hình ảnh button:  
@@ -45,8 +46,7 @@ Xem thêm một số mẫu hình ảnh button: [button 1](https://filev4.subiz.c
 
 |  | Kiểu cửa sổ hội thoại Thu gọn  | Kiểu cửa sổ hội thoại Mở rộng |
 | :--- | :--- | :--- |
-| **Mã CSS**   | `.widget_mini .close-widget-icon { display: none; }.button-chat .avatar-preview img { display: none; }.button-chat { box-shadow: none; background-color: transparent !important; }.widget-button { bottom: 0; }.widget_mini .widget_body { bottom: 0; }` | `.widget_full .close-widget-icon {display: none;}.button-chat .avatar-preview img {display: none;}.button-chat {box-shadow: none;background-color: transparent !important;}.widget-button { bottom: 0;  }.widget_full .widget_body { bottom: 0;  }` |
-|  |  |  |
+| **Mã CSS**   | `.widget_mini .close-widget-icon {display: none;} .button-chat .avatar-preview img {display: none;} .button-chat {box-shadow: none;background-color: transparent !important;} .widget-button {bottom:0;} .new-message-number {top:8px;}.widget_mini .widget_body {bottom:0;}` | `.widget_full .close-widget-icon {display: none;} .button-chat .avatar-preview img {display: none;} .button-chat {box-shadow: none;background-color: transparent !important;}.widget-button {bottom:0;} .new-message-number {display:8px;}.widget_full .widget_body {bottom:0;}` |
 
 ![C&#xE0;i &#x111;&#x1EB7;t CSS t&#x1ED1;i &#x1B0;u h&#xEC;nh &#x1EA3;nh button](../../../.gitbook/assets/custom-button.gif)
 
@@ -66,10 +66,11 @@ Lưu ý:
 
 Khi bạn sử dụng hình ảnh button bất kỳ của bạn, Subiz có các mã CSS giúp tùy biến và tối ưu hiển thị button trên website.
 
-| Chức năng | Cửa sổ hội thoại kiểu Thu gọn | Cửa số hội thoại kiểu Mở Rộng |
+| Chức năng CC | Cửa sổ hội thoại kiểu Thu gọn | Cửa số hội thoại kiểu Mở Rộng |
 | :--- | :--- | :--- |
-| CSS điều chỉnh vị trí buttonsát chân màn hình\(Tối đa 150px\) | `.widget-button {bottom:0px;}` | `.widget-button {bottom:0px;}` |
-| CCS điều chỉnh chiều cao  preview tin nhắn mới\(Tối đa 110px\) | `.button-chat .bubble-chat {bottom: 75px;}` | `.button-chat .bubble-chat {bottom: 75px;}` |
+| CSS tùy chỉnh vị trí buttonsát chân màn hình\(Tối đa 150px\) | `.widget-button {bottom:0px;}` | `.widget-button {bottom:0px;}` |
+| CCS tùy chỉnh chiều cao  preview tin nhắn mới\(Tối đa 110px\) | `.button-chat .bubble-chat {bottom: 75px;}` | `.button-chat .bubble-chat {bottom: 75px;}` |
+| CSS tùy chỉnh vị trí cửa sổ chat so với chân màn hình\(Tối đa 140 px\) | `.widget_mini .widget_body {bottom:0;}` | `.widget_full .widget_body {bottom:0;}` |
 
 
 
