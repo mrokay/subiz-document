@@ -22,7 +22,7 @@ Bạn chọn hình ảnh trong Thư viện button và Lưu thay đổi là sử 
 
 ### **2.2 Sử dụng button tùy chỉnh bất kỳ**
 
-Để sử dụng button tùy chỉnh của bạn, bạn cần có một hình ảnh button theo mong muốn của bạn giúp tạo ấn tượng riêng dành cho khách hàng. Kích thước chuẩn của hình ảnh button là 240 x 120 px.
+Để sử dụng button tùy chỉnh của bạn, bạn cần có một hình ảnh button theo mong muốn của bạn giúp tạo ấn tượng riêng dành cho khách hàng. Kích thước chuẩn của hình ảnh button là 240 x 120 px. Định dạnh ảnh là PNG hoặc GIF.
 
 Hướng dẫn 3 bước để sử dụng button bất kỳ của bạn như sau:
 
@@ -68,7 +68,7 @@ Khi bạn sử dụng hình ảnh button bất kỳ của bạn, Subiz có các 
 
 | Chức năng CC | Cửa sổ hội thoại kiểu Thu gọn | Cửa số hội thoại kiểu Mở Rộng |
 | :--- | :--- | :--- |
-| CSS tùy chỉnh vị trí buttonsát chân màn hình\(Tối đa 150px\) | `.widget-button {bottom:0px;}` | `.widget-button {bottom:0px;}` |
+| CSS tùy chỉnh vị trí buttonso với chân màn hình\(Tối đa 150px\) | `.widget-button {bottom:0px;}` | `.widget-button {bottom:0px;}` |
 | CCS tùy chỉnh chiều cao  preview tin nhắn mới\(Tối đa 110px\) | `.button-chat .bubble-chat {bottom: 75px;}` | `.button-chat .bubble-chat {bottom: 75px;}` |
 | CSS tùy chỉnh vị trí cửa sổ chat so với chân màn hình\(Tối đa 140 px\) | `.widget_mini .widget_body {bottom:0;}` | `.widget_full .widget_body {bottom:0;}` |
 
