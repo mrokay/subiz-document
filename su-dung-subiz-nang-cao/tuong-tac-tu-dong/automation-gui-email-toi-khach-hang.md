@@ -52,6 +52,11 @@ Bạn đã có một danh sách khách hàng và cập nhật đầy đủ đị
 
 Bạn có thể sử dụng Automation Email để duy trì kết nối với khách hàng như: gửi email giới thiệu sản phẩm mới hoặc gửi mail thông báo chương trình ưu đãi.
 
+{% hint style="info" %}
+Điều kiện cài đặt đối với tất cả khách đã được cập nhật địa chỉ email:   
+**Địa chỉ email - không phải là - 0**
+{% endhint %}
+
 ![Automation g&#x1EED;i email th&#xF4;ng b&#xE1;o t&#x1EDB;i kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/copy-7.jpg)
 
 * **Gửi mail báo giá tới khách hàng khi truy cập vào trang bảng giá**
@@ -62,7 +67,7 @@ Với những khách hàng quan tâm tới trang bảng giá của công ty, b�
 Điều kiện: 
 
 * Khách truy cập trang bảng giá: **URL của trang - chứa - pricing** \([https://subiz.com/vi/pricing.html](https://subiz.com/vi/pricing.html)\)
-* Khách đã điền địa chỉ email: **Địa chỉ email - không phải là - 0**
+* Khách đã được cập nhật địa chỉ email: **Địa chỉ email - không phải là - 0**
 {% endhint %}
 
 ![Automation email g&#x1EED;i b&#xE1;o gi&#xE1;](../../.gitbook/assets/copy-8.jpg)
