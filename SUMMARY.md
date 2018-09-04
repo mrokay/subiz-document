@@ -44,6 +44,7 @@
     * [Hỏi thông tin khách hàng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/nam-bat-khach-hang-tiem-nang.md)
     * [Automation gửi email tới khách hàng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/automation-gui-email-toi-khach-hang.md)
     * [Sáng tạo tin nhắn Automation với mã Markdown](su-dung-subiz-nang-cao/tuong-tac-tu-dong/sang-tao-tin-nhan-automation-voi-ma-markdown.md)
+    * [Sử dụng Thư viện Automation](su-dung-subiz-nang-cao/tuong-tac-tu-dong/su-dung-thu-vien-automation.md)
   * [Quản lý dữ liệu](su-dung-subiz-nang-cao/quan-ly-du-lieu/README.md)
     * [Phân khúc khách hàng](su-dung-subiz-nang-cao/quan-ly-du-lieu/phan-khuc-khach-hang/README.md)
       * [Sử dụng phân khúc khách hàng mặc định](su-dung-subiz-nang-cao/quan-ly-du-lieu/phan-khuc-khach-hang/su-dung-phan-khuc-khach-hang-mac-dinh.md)
