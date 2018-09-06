@@ -78,7 +78,7 @@ Hướng dẫn các bước tùy chỉnh ngôn ngữ cửa sổ chat với file 
 
 *  Truy cập [https://localise.biz/free/poeditor](https://localise.biz/free/poeditor), tải lên file gốc .po mà bạn vừa lưu trong máy tính
 
-![](../../../.gitbook/assets/4.-tai-len-po.jpg)
+![T&#x1EA3;i l&#xEA;n file g&#x1ED1;c .po](../../../.gitbook/assets/4.-tai-len-po.jpg)
 
 * Source text là phần ngôn ngữ gốc, **Translation là phần dịch để bạn tùy chỉnh ngôn ngữ theo nhu cầu**
 
@@ -86,17 +86,17 @@ Hướng dẫn các bước tùy chỉnh ngôn ngữ cửa sổ chat với file 
 
 * chọn **Save** sau khi tùy chỉnh xong và chọn Tải file .po đã tùy chỉnh về máy tính
 
-![](../../../.gitbook/assets/6.-luu-ve-may.jpg)
+![L&#x1B0;u file .po &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh v&#x1EC1; m&#xE1;y t&#xED;nh](../../../.gitbook/assets/6.-luu-ve-may.jpg)
 
 **Bước 3: Tải lên Subiz file .po đã tùy chỉnh** 
 
 * Tại bảng **Tùy chỉnh ngôn ngữ** của Subiz, bạn tải lên file .po đã tùy chỉnh
 
-![](../../../.gitbook/assets/7.-tuy-chinh-file-po.jpg)
+![Ch&#x1ECD;n &#x111;&#x1EC3; t&#x1EA3;i l&#xEA;n file .po &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh ](../../../.gitbook/assets/7.-tuy-chinh-file-po.jpg)
 
 * Khi tải lên thành công, bạn chọn **X** để hoàn thành và không cần lưu lại.
 
-![](../../../.gitbook/assets/8.-luu-thanh-cong.jpg)
+![T&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; th&#xE0;nh c&#xF4;ng](../../../.gitbook/assets/8.-luu-thanh-cong.jpg)
 
 > Bạn đang cần hỗ trợ thêm, vui lòng chat trực tiếp với Subiz trên website [Subiz.com](https://subiz.com/vi/feature.html) nhé!
 
