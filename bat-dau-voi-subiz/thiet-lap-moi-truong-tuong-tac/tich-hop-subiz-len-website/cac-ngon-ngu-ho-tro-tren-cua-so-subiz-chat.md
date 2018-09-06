@@ -57,7 +57,7 @@ Hiện tại, [Subiz](https://subiz.com/vi/) hỗ trợ 2 ngôn ngữ là Tiến
 * Sử dụng một ngôn ngữ khác ngoài Tiếng Việt và Tiếng Anh. Ví dụ: Tiếng Pháp, Tiếng Nhật,..
 * Tùy chỉnh phần dịch ngôn ngữ của nhiều mục khác trên cửa sổ chat. Ví dụ: Tin nhắn trong Automation hỏi thông tin,...
 
-Hướng dẫn các bước tùy chỉnh ngôn ngữ cửa sổ chat với file .po
+**Hướng dẫn các bước tùy chỉnh ngôn ngữ cửa sổ chat với file .po gồm 3 bước sau:**
 
 **Bước 1: Tải xuống file gốc .po**
 
