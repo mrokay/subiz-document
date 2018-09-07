@@ -1,6 +1,6 @@
 # Thống kê User
 
-Thống kê User cho phép bạn thống kê được tất cả các khách hàng đã truy cập website và có trò chuyện, tương tác với bạn. Đây cũng là cơ sở giúp các chủ tài khoản \(Agent owner\) đánh giá được hiệu quả công việc của từng agent \(tư vấn viên\) giúp nâng cao hiệu suất và cải thiện chất lượng hội thoại tốt hơn. 
+Thống kê User cho phép bạn thống kê được tất cả các khách hàng đã truy cập website và có trò chuyện, tương tác với bạn. Đây cũng là cơ sở giúp các chủ tài khoản \(Agent owner\) đánh giá được hiệu quả công việc của từng agent giúp nâng cao hiệu suất và cải thiện chất lượng hội thoại tốt hơn. 
 
 ### Các tiêu chí thống kê 
 
