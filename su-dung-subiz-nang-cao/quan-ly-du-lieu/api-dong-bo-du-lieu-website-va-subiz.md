@@ -58,7 +58,7 @@ subiz('updateUserAttributes', [{ key: 'emails’,   text :'example1@domain.com, 
 {% endtab %}
 {% endtabs %}
 
-**2.2. API cập nhật đông thời nhiều trường dữ liệu mặc định** 
+**2.2. API cập nhật đồng thời nhiều trường dữ liệu mặc định** 
 
 ```text
 <script>
