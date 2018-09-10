@@ -1,16 +1,16 @@
-# Tùy chỉnh hình ảnh bubble button
+# Tùy chỉnh hình ảnh chat button
 
-### 1. Bubble button là gì?
+### 1. Chat button là gì?
 
-Bubble button là hình ảnh kêu gọi và thu hút khách hàng chat trực tuyến trên cửa sổ Subiz chat. Khi khách hàng click vào bubble button sẽ mở ra cửa sổ chat.
+Chat button là hình ảnh kêu gọi và thu hút khách hàng chat trực tuyến trên cửa sổ Subiz chat. Khi khách hàng click vào chat button sẽ mở ra cửa sổ chat.
 
-Mỗi doanh nghiệp có thể chủ động thiết kế hình ảnh bubble button để truyền tải thông điệp riêng và mang đến cho khách hàng những trải nghiệm thú vị khi truy cập website.
+Mỗi doanh nghiệp có thể chủ động thiết kế hình ảnh chat button để truyền tải thông điệp riêng và mang đến cho khách hàng những trải nghiệm thú vị khi truy cập website.
 
-### 2. Hướng dẫn cài đặt bubble button
+### 2. Hướng dẫn cài đặt chat button
 
-Hướng dẫn cài đặt bubble button: Đăng nhập Subiz qua link [App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ hội thoại &gt; Tùy chỉnh bubble button](https://app.subiz.com/settings/widget-setting)\*\*\*\*
+Hướng dẫn cài đặt chat button: Đăng nhập Subiz qua link [App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ hội thoại &gt; Tùy chỉnh chat button](https://app.subiz.com/settings/widget-setting)\*\*\*\*
 
-Bạn có thể lựa chọn sử dụng bubble button từ thư viện button của Subiz, hoặc sử dụng hình ảnh button tùy chỉnh của bạn và tải lên Subiz.
+Bạn có thể lựa chọn sử dụng chat button từ thư viện button của Subiz, hoặc sử dụng hình ảnh button tùy chỉnh của bạn và tải lên Subiz.
 
 ![T&#xF9;y ch&#x1EC9;nh bubble button](../../../.gitbook/assets/1.-edit-button.png)
 
@@ -20,14 +20,14 @@ Bạn chọn hình ảnh trong Thư viện button và Lưu thay đổi là sử 
 
 ![Th&#x1B0; vi&#x1EC7;n button c&#x1EE7;a Subiz](../../../.gitbook/assets/2.-library.png)
 
-### **2.2 Sử dụng button tùy chỉnh bất kỳ**
+### **2.2 Sử dụng chat button tùy chỉnh bất kỳ**
 
 Để sử dụng button tùy chỉnh của bạn, bạn cần có một hình ảnh button theo mong muốn của bạn giúp tạo ấn tượng riêng dành cho khách hàng. Kích thước chuẩn của hình ảnh button là 240 x 120 px.
 
 Hướng dẫn 2 bước để sử dụng button bất kỳ của bạn như sau:
 
 **Bước 1**: Để tải lên hình ảnh button tùy chỉnh của bạn:  
-              &gt; Chọn[ Tùy chỉnh bubble button ](https://app.subiz.com/settings/widget-setting)  
+              &gt; Chọn[ Tùy chỉnh chat button ](https://app.subiz.com/settings/widget-setting)  
               &gt; Tải lên button tùy chỉnh   
               &gt; Chọn tệp hoặc Kéo tệp để tải lên &gt; Nhấp "**X**" để thoát   
 
@@ -51,7 +51,7 @@ Một số lưu ý:
 
 Khi bạn sử dụng hình ảnh button bất kỳ của bạn, Subiz có các mã CSS giúp tùy biến và tối ưu hiển thị button trên website.
 
-| Chức năng CC | Cửa sổ hội thoại kiểu Thu gọn | Cửa số hội thoại kiểu Mở Rộng |
+| Chức năng CSS | Cửa sổ hội thoại kiểu Thu gọn | Cửa số hội thoại kiểu Mở Rộng |
 | :--- | :--- | :--- |
 | CSS tùy chỉnh vị trí buttonso với chân màn hình\(Tối đa 150px\) | `.widget-button {bottom:0px;}` | `.widget-button {bottom:0px;}` |
 | CCS tùy chỉnh chiều cao  preview tin nhắn mới\(Tối đa 110px\) | `.button-chat .bubble-chat {bottom: 75px;}` | `.button-chat .bubble-chat {bottom: 75px;}` |
