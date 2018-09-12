@@ -1,10 +1,32 @@
 # Tích hợp sử dụng Email trên Subiz
 
-### Thiết lập chuyển tiếp Email trên Subiz {#thiet-lap-chuyen-tiep-email-tren-subiz}
+Với việc tích hợp email, Subiz sẽ hoạt động giống như một hòm thư giúp bạn có thể nhận, trả lời và gửi các email cho khách hàng một cách nhanh chóng, tiện lợi mà không cần đăng nhập vào công cụ quản lý email khác.
 
-Khi [đăng ký tài khoản Subiz](https://app.subiz.com/register), bạn sẽ được cung cấp một địa chỉ email có dạng abc@mail.subiz.com. Tất cả các email được gửi về địa chỉ này sẽ được coi như một cuộc hội thoại trên [Subiz](https://subiz.com/vi/).
+### Cách thức hoạt động của kênh Email Subiz
 
-Với các email bạn đang sử dụng để tương tác với khách hàng, bạn cần thiết lập để chuyển tiếp các email này về địa chỉ abc@mail.subiz.com. Khi đó, bạn có thể dễ dàng quản lý tất cả các email và làm việc qua email ngay trên [Subiz](https://subiz.com/vi/). **Để đảm bảo có thể gửi email ra và nhận email vào tài khoản Subiz** của bạn, bạn cần thao tác theo **2 bước** sau
+Khi[ đăng ký tài khoản Subiz](https://app.subiz.com/register), bạn sẽ được cung cấp một địa chỉ email có dạng **abc@mail.subiz.com**. Tất cả các email được gửi về địa chỉ này sẽ được coi như một cuộc hội thoại trên[ Subiz](https://subiz.com/vi/).
+
+Bạn cần lưu ý 2 loại địa chỉ Email sau trong quá trình tích hợp:
+
+* **Income Email:**  Đây là danh sách các địa chỉ email muốn chuyển tiếp email về **abc@mail.subiz.com** để bạn có thể nhận email luôn trên Subiz
+
+![Danh s&#xE1;ch Income Email](../../.gitbook/assets/danh-sach-income-email.png)
+
+{% hint style="info" %}
+**Lưu ý:**  Danh sách này chỉ mang tính chất giúp quản lý dữ liệu \(quản lý số lượng, thêm, xóa các địa chỉ email đã được liệt kê\) chứ không  thể kiểm tra xem các địa chỉ email được thêm vào danh sách đã thiết lập chuyển tiếp email hay chưa.
+{% endhint %}
+
+* **Outcome Email:** Là địa chỉ email được sử dụng để hiển thị khi email được gửi đi từ tài khoản Subiz tới user
+
+![Danh s&#xE1;ch Outcome Email](../../.gitbook/assets/danh-sach-outcome-email.png)
+
+{% hint style="info" %}
+**Lưu ý:** Khi địa chỉ email của bạn đã đưọc cài đặt chuyển tiếp email , thì địa chỉ email này có thể được sử dụng để làm outcome email
+{% endhint %}
+
+### Thiết lập tích **hợp** Email trên Subiz {#thiet-lap-chuyen-tiep-email-tren-subiz}
+
+Để đảm bảo có thể gửi email ra và nhận email vào tài khoản Subiz của bạn, bạn cần thao tác theo 2 bước sau
 
 #### **Bước 1: Tạo danh sách Income Email trên Subiz**
 
