@@ -4,11 +4,11 @@ Với việc tích hợp email, Subiz sẽ hoạt động giống như một hò
 
 ### Cách thức hoạt động của kênh Email Subiz
 
-Khi[ đăng ký tài khoản Subiz](https://app.subiz.com/register), bạn sẽ được cung cấp một địa chỉ email có dạng **abc@mail.subiz.com**. Tất cả các email được gửi về địa chỉ này sẽ được coi như một cuộc hội thoại trên[ Subiz](https://subiz.com/vi/).
-
 Bạn cần lưu ý 2 loại địa chỉ Email sau trong quá trình tích hợp:
 
-* **Income Email:**  Đây là danh sách các địa chỉ email muốn chuyển tiếp email về **abc@mail.subiz.com** để bạn có thể nhận email luôn trên Subiz
+* **Income Email:**  Khi[ đăng ký tài khoản Subiz](https://app.subiz.com/register), bạn sẽ được cung cấp một địa chỉ email có dạng **abc@mail.subiz.com**. Tất cả các email được gửi về địa chỉ này sẽ được coi như một cuộc hội thoại trên[ Subiz](https://subiz.com/vi/).
+
+Tại trang tích hợp Email, bạn sẽ theo dõi  danh sách các địa chỉ email muốn chuyển tiếp email về **abc@mail.subiz.com** để bạn có thể nhận email luôn trên Subiz
 
 ![Danh s&#xE1;ch Income Email](../../.gitbook/assets/danh-sach-income-email.png)
 
@@ -28,7 +28,7 @@ Bạn cần lưu ý 2 loại địa chỉ Email sau trong quá trình tích hợ
 
 Để đảm bảo có thể gửi email ra và nhận email vào tài khoản Subiz của bạn, bạn cần thao tác theo 2 bước sau
 
-#### **Bước 1: Tạo danh sách Income Email trên Subiz**
+#### **Bước 1: Tích hợp email cá nhân vào Subiz**
 
 Đây là danh sách email bạn muốn tích hợp trên Subiz để nhận và gửi email cho khách hàng.
 
