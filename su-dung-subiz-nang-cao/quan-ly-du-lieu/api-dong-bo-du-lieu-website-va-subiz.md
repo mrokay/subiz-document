@@ -28,7 +28,7 @@ Bạn có thể sử dụng Subiz API Javascript để cập nhật dữ liệu 
 Để chuyển đúng dữ liệu qua API, bạn cần xác định được  2 thông số:
 
 * Key là: Attribute key 
-* Loại dữ liệu: Subiz có 5 loại dữ liệu gồm Text, Number, Boolean, List, Date Time . \(Xem chú thích chi tiết\) 
+* Loại dữ liệu: Subiz có 5 loại dữ liệu gồm Text, Number, Boolean, List, Date Time . \([Xem chú thích chi tiết](https://help.subiz.com/su-dung-subiz-nang-cao/quan-ly-du-lieu/thong-tin-khach-hang#tuy-chinh-thong-tin-khach-hang)\) 
 
 **2.1 API cập nhật một trường dữ liệu mặc định** 
 
