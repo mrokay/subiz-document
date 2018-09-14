@@ -65,11 +65,11 @@ Khi đã tích hợp Messenger thành công, danh sách các Fanpage được k�
 
 Bạn cần thực hiện 2 bước để xóa hoàn toàn Fanpage đã kết nối vào Subiz và không nhận tin nhắn mới của khách hàng gửi từ Fanpage trên Subiz.
 
-Bước 1: Xóa Fanpage trên Subiz
+#### Bước 1: Xóa Fanpage trên Subiz
 
 ![X&#xF3;a Fanpage tr&#xEA;n Subiz](../../.gitbook/assets/danh-sach-fb-2%20%281%29.jpg)
 
-Bước 2: Xóa Subiz trên Fanpage
+#### Bước 2: Xóa Subiz trên Fanpage
 
 * Nếu bạn muốn xóa tất cả Fanpage trên Subiz, bạn thao tác như sau:  &gt; Đăng nhập tài khoản Facebook của bạn  &gt; chọn Cài đặt &gt; chọn Tiện ích tích hợp cho doanh nghiệp &gt; chọn Gỡ Subiz 
 
