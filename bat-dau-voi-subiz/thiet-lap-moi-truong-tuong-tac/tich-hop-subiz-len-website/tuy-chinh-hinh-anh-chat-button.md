@@ -51,13 +51,62 @@ Một số lưu ý:
 
 Khi bạn sử dụng hình ảnh button bất kỳ của bạn, Subiz có các mã CSS giúp tùy biến và tối ưu hiển thị button trên website.
 
-| Chức năng CSS | Cửa sổ hội thoại kiểu Thu gọn | Cửa số hội thoại kiểu Mở Rộng |
-| :--- | :--- | :--- |
-| CSS tùy chỉnh vị trí buttonso với chân màn hình\(Tối đa 150px\) | `.widget-button {bottom:0px;}` | `.widget-button {bottom:0px;}` |
-| CCS tùy chỉnh chiều cao  preview tin nhắn mới\(Tối đa 110px\) | `.button-chat .bubble-chat {bottom: 75px;}` | `.button-chat .bubble-chat {bottom: 75px;}` |
-| CSS tùy chỉnh vị trí cửa sổ chat so với chân màn hình\(Tối đa 140 px\) | `.widget_mini .widget_body {bottom:0;}` | `.widget_full .widget_body {bottom:0;}` |
-
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Chức năng CSS</th>
+      <th style="text-align:left">Cửa sổ hội thoại kiểu Thu gọn</th>
+      <th style="text-align:left">Cửa số hội thoại kiểu Mở Rộng</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>CSS tùy chỉnh vị trí button</p>
+        <p>so với chân màn hình</p>
+        <p>(Tối đa 150px)</p>
+      </td>
+      <td style="text-align:left"><code>.widget-button<br />{bottom:0px;}</code>
+      </td>
+      <td style="text-align:left"><code>.widget-button<br />{bottom:0px;}</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>CCS tùy chỉnh chiều cao
+          <br />preview tin nhắn mới</p>
+        <p>(Tối đa 110px)</p>
+      </td>
+      <td style="text-align:left">
+        <p><code>.button-chat .bubble-chat {</code>
+        </p>
+        <p><code>bottom: 75px;</code>
+        </p>
+        <p><code>}</code>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p><code>.button-chat .bubble-chat {</code>
+        </p>
+        <p><code>bottom: 75px;</code>
+        </p>
+        <p><code>}</code>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>CSS tùy chỉnh vị trí cửa sổ chat
+          <br />so với chân màn hình</p>
+        <p>(Tối đa 140 px)</p>
+      </td>
+      <td style="text-align:left"><code>.widget_mini .widget_body<br />{bottom:0;}</code>
+      </td>
+      <td style="text-align:left"><code>.widget_full .widget_body<br />{bottom:0;}</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 > Bạn có băn khoăn và cần hỗ trợ, vui lòng chat trực tiếp với tư vấn viên trên website [Subiz.com.](https://subiz.com/vi/feature.html)
 
