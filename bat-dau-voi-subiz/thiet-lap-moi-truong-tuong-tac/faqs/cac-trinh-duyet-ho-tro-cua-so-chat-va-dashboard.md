@@ -44,7 +44,7 @@ Hiện tại Subiz hỗ trợ hiển thị cửa sổ chat và trang đăng nh�
 
 | Hệ điều hành | Phiên bản |
 | :--- | :--- |
-| IOs | **11.2.1, 10.3.3** |
+| IOs | **11.2.1 trở lên** |
 | Android | **4.4.3, 5.1.1, 7.0** |
 
   
