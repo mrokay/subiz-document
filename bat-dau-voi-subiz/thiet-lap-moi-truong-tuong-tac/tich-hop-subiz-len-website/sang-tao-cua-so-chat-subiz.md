@@ -39,7 +39,7 @@ Ví dụ: &lt;p&gt; Kỷ niệm sinh nhật lần thứ 5. Chúng tôi giảm g
 {% endtab %}
 {% endtabs %}
 
-### Tùy chỉnh CSS cho cửa sổ chat Subiz
+### CSS tùy chỉnh cửa sổ chat Subiz trên máy tính
 
 Bên cạnh việc sử dụng những [cài đặt cửa sổ chat trên website](https://app.subiz.com/settings/widget-setting) mà Subiz đã cung cấp. Bạn có thể dễ dàng tùy chỉnh những thành phần khác trên cửa sổ chat bằng cách sử dụng mã CSS.
 
@@ -55,7 +55,7 @@ Tiếp theo, **bạn Copy và paste đoạn css tương ứng** để tùy chỉ
 
 Dưới đây là một số tùy chỉnh css một số thành phần trên cửa sổ chat bạn có thể tham khảo.
 
-#### Thay đổi kích thước cửa sổ chat
+### Thay đổi kích thước cửa sổ chat
 
 Bạn có thể thay đổi chiều cao và chiều rộng theo ý muốn:
 
@@ -103,7 +103,7 @@ Phần 750px, 600px bạn có thể điều chỉnh con số cho phù hợp vớ
 {% endtab %}
 {% endtabs %}
 
-#### Tùy chỉnh cỡ chữ {#tuy-chinh-co-chu}
+### Tùy chỉnh cỡ chữ
 
 Đoạn mã tùy chỉnh cỡ chữ trên cửa sổ chat [Subiz](https://subiz.com/vi/)
 
@@ -113,7 +113,7 @@ Phần 750px, 600px bạn có thể điều chỉnh con số cho phù hợp vớ
 
 ![Thay &#x111;&#x1ED5;i c&#x1EE1; ch&#x1EEF; tr&#xEA;n c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/css-size-font.png)
 
-#### Tùy chỉnh màu sắc trên cửa sổ chat Subiz {#tuy-chinh-mau-sac-tung-phan-tren-cua-so-chat}
+### Tùy chỉnh màu sắc trên cửa sổ chat Subiz
 
 {% tabs %}
 {% tab title="Màu sắc toàn bộ cửa sổ chat" %}
@@ -214,50 +214,6 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 ![T&#xF9;y ch&#x1EC9;nh m&#xE0;u n&#xFA;t &quot;T&#x1EA1;o m&#x1EDB;i&quot; theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p](../../../.gitbook/assets/css-tao-moi.png)
 {% endtab %}
 {% endtabs %}
-
-### Tùy chỉnh ngôn ngữ cửa sổ Subiz chat qua file .Po
-
-Hiện tại, [Subiz](https://subiz.com/vi/) hỗ trợ 2 ngôn ngữ là Tiếng Việt và Tiếng Anh. Trên cửa sổ [Subiz](https://subiz.com/vi/), bạn có thể **tùy chỉnh tiêu đề cửa sổ và lời giới thiệu theo từng ngôn ngữ**.
-
-Ngoài ra, nếu bạn muốn sử dụng một ngôn ngữ khác ngoài các ngôn ngữ được hỗ trợ. Giả sử bạn muốn thay ngôn ngữ Tiếng Anh bằng Tiếng Đức. Hoặc bạn có nhu cầu chỉnh sửa nhiều hơn ở phần ngôn ngữ trên cửa sổ, bạn có thể tùy chỉnh theo file ngôn ngữ .po theo các bước dưới đây:
-
-#### Bước 1: Tải file ngôn ngữ mẫu {#buoc-1-tai-file-ngon-ngu-mau}
-
-Đăng nhập tài khoản và vào [Cài đặt cửa sổ hội thoại](https://app.subiz.com/settings/widget-setting), phần **Ngôn ngữ**. Chọn 1 ngôn ngữ cụ thể và click vào “Tùy chỉnh ngôn ngữ”.
-
-![N&#x1A1;i b&#x1EAF;t &#x111;&#x1EA7;u th&#x1EF1;c hi&#x1EC7;n t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF;](../../../.gitbook/assets/tc-ngon-ngu-1.png)
-
-Chọn “Nhấn để tải xuống file tùy chỉnh ngôn ngữ cho widget” để tải về file .po mẫu.
-
-![T&#x1EA3;i xu&#x1ED1;ng file t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; cho widget](../../../.gitbook/assets/tai-file-tuy-chinh-ngon-ngu.png)
-
-#### Bước 2: Tùy chỉnh file ngôn ngữ {#buoc-2-tuy-chinh-file-ngon-ngu}
-
-* Truy cập [https://localise.biz/free/poeditor](https://localise.biz/free/poeditor), tải lên file mẫu mà bạn vừa tải về.
-
-![&#x110;&#x1B0;a file t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; l&#xEA;n](../../../.gitbook/assets/drop-a-file.png)
-
-* Tại **Source text** là phần ngôn ngữ gốc. Bạn có thể dịch ra các ngôn ngữ mà bạn muốn tại phần Translation. Ví dụ, dịch sang tiếng Đức: Email and Name = Email und Name.
-
-![D&#x1ECB;ch c&#xE1;c ng&#xF4;n ng&#x1EEF; b&#x1EA1;n mu&#x1ED1;n t&#xF9;y ch&#x1EC9;nh](../../../.gitbook/assets/edit-file.png)
-
-* Chọn **Save** để Lưu thay đổi sau khi hoàn tất.
-
-![L&#x1B0;u file &#x111;&#xE3; d&#x1ECB;ch](../../../.gitbook/assets/save-button.png)
-
-* Click vào file để tải về.
-
-![T&#x1EA3;i file &#x111;&#xE3; d&#x1ECB;ch v&#x1EC1; m&#xE1;y t&#xED;nh](../../../.gitbook/assets/save-file.png)
-
-#### Bước 3: Tải lên file .po đã chỉnh sửa  {#buoc-3-tai-len-file-po-da-chinh-sua-va-luu-thay-doi}
-
-Tại phần cài đặt Ngôn ngữ, bạn chọn 1 ngôn ngữ và chọn Tùy chỉnh ngôn ngữ. Sau khi tải file mới lên, ngôn ngữ mới sẽ được ghi đè lên ngôn ngữ bạn vừa chọn.
-
-![T&#x1EA3;i file &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; l&#xEA;n Subiz](../../../.gitbook/assets/upload-file.png)
-
-Sau khi có thông báo file tải lên thành công, bạn thoát ra ngoài và không cần lưu lại
-
-![Th&#xF4;ng b&#xE1;o t&#x1EA3;i file &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; th&#xE0;nh c&#xF4;ng](../../../.gitbook/assets/upload-success.png)
 
 ###  {#loi-khi-tich-hop-len-website}
 
