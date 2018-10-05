@@ -82,7 +82,7 @@ Hướng dẫn tạo câu trả lời mẫu:
 ![T&#x1EA1;o c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](../../.gitbook/assets/tao-thu-vien-ans.jpg)
 
 {% hint style="info" %}
-Lưu ý: Bạn có thể chọn **Chia sẻ câu trả lời mẫu với các Agent** **khác** để các Agent khác có thể sử dụng mẫu câu này.
+Lưu ý: Bạn có thể chọn **Chia sẻ câu trả lời mẫu với các Agent** **khác** để các Agent khác có thể sử dụng mẫu câu này.[ \(Xem thêm\)](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/thu-vien-cau-tra-loi)
 {% endhint %}
 {% endtab %}
 
