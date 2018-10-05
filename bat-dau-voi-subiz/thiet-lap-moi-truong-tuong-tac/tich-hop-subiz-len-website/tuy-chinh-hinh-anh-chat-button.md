@@ -66,9 +66,9 @@ Khi bạn sử dụng hình ảnh button bất kỳ của bạn, Subiz có các 
         <p>so với chân màn hình</p>
         <p>(Tối đa 150px)</p>
       </td>
-      <td style="text-align:left"><code>.widget-button<br />{bottom:0px;}</code>
+      <td style="text-align:left"><code>.widget-button<br />{bottom:0;}</code>
       </td>
-      <td style="text-align:left"><code>.widget-button<br />{bottom:0px;}</code>
+      <td style="text-align:left"><code>.widget-button<br />{bottom:0;}</code>
       </td>
     </tr>
     <tr>
