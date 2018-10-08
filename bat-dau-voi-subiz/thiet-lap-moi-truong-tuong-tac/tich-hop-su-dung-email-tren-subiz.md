@@ -4,7 +4,7 @@ Với việc tích hợp email, Subiz sẽ hoạt động giống như một hò
 
 ### Cách thức hoạt động của kênh Email Subiz
 
-Bạn cần lưu ý 2 loại địa chỉ Email sau trong quá trình tích hợp: chào
+Bạn cần lưu ý 2 loại địa chỉ Email sau trong quá trình tích hợp:
 
 * **Income Email:**  Khi[ đăng ký tài khoản Subiz](https://app.subiz.com/register), bạn sẽ được cung cấp một địa chỉ email có dạng **abc@mail.subiz.com**. Tất cả các email được gửi về địa chỉ này sẽ được coi như một cuộc hội thoại trên[ Subiz](https://subiz.com/vi/).
 
