@@ -37,14 +37,15 @@ Bạn có thể tùy chỉnh màu sắc cho [cửa sổ Subiz](https://app.subiz
 Lưu ý, **cần chọn màu sắc cửa sổ chat tương đồng với màu sắc của thương hiệu,** nhưng cũng cần chọn màu sắc để dễ nhận biết trên website của bạn
 {% endhint %}
 
-### **Tùy chỉnh bubble**
+### **Tùy chỉnh chat button**
 
-Tại phần Bubble Button, bạn click chọn **Thư viện Bubble Button** và chọn mẫu Bubble theo ý muốn.
+Tại phần Chat button, bạn click chọn **Thư viện chat button** và chọn mẫu button mặc định của Subiz.  
+Hoặc bạn có thể **Tùy chỉnh Chat button** bắt mắt[ theo hướng dẫn này](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-hinh-anh-chat-button).
 
 ![Th&#x1B0; vi&#x1EC7;n Bubble button](../../../.gitbook/assets/thu-vien-bubble.png)
 
 {% hint style="info" %}
-Lưu ý, màu sắc của bubble sẽ tương ứng với màu sắc của cả cửa sổ Subiz mà bạn đã chọn.
+Lưu ý: Màu sắc của chat button trong Thư viện chat button sẽ tương ứng với màu sắc của cửa sổ chat Subiz mà bạn đã chọn.
 {% endhint %}
 
 ### **Tùy chọn ngôn ngữ**
@@ -65,7 +66,7 @@ Hãy chỉnh sửa lời chào, lời giới thiệu theo đúng bản sắc vă
 {% endhint %}
 
 {% hint style="danger" %}
-**Nếu bạn muốn sử dụng một ngôn ngữ chưa được hỗ trợ**, hoặc muốn tùy chỉnh thêm các phần ngôn ngữ khác, bạn có thể tùy chỉnh ngôn ngữ bằng cách tải lên file ngôn ngữ dạng po \([hướng dẫn chi tiết tùy chỉnh ngôn ngữ qua file .Po](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-cua-so-subiz-chat#tuy-chinh-ngon-ngu-cua-so-subiz-chat-qua-file-po)\)
+**Nếu bạn muốn sử dụng một ngôn ngữ chưa được hỗ trợ**, hoặc muốn tùy chỉnh thêm các phần ngôn ngữ khác, bạn có thể tùy chỉnh ngôn ngữ bằng cách tải lên file ngôn ngữ dạng po \([hướng dẫn chi tiết tùy chỉnh ngôn ngữ qua file .Po](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/cac-ngon-ngu-ho-tro-tren-cua-so-subiz-chat#3-tuy-chinh-ngon-ngu-cua-so-chat-voi-file-po)\)
 {% endhint %}
 
 ### **Cài đặt Whitelist domain**
