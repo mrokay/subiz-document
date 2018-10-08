@@ -41,13 +41,16 @@ Subiz có sẵn 3 phân khúc khách hàng mặc định để bạn dễ dàng 
 * **Connected users**: Là danh sách tất cả khách hàng đã có tương tác trò chuyện và được phân phối cho các agent của doanh nghiệp. Nhà quản lý sẽ chủ động quan sát và theo dõi được khách hàng cũng như cách tư vấn của nhân viên.
 * **Hội thoại chưa được phân phối**: Là danh sách khách hàng có cuộc hội thoại chưa được chỉ định, phân phối cho bất cứ agent nào. Bất cứ agent nào đều có thể trả lời trong cuộc hội thoại này. 
 
-
-
 ### **Cập nhật phiên bản app Subiz mới nhất**
 
 Subiz thường xuyên cập nhật phiên bản app mobile để nâng cao trải nghiệm người dùng và những tính năng mới.  
 Subiz có thông báo Cập nhật phiên bản mới khi bạn đăng nhập ứng dụng Subiz trên điện thoại.   
 Hoặc bạn có thể chủ động tìm thấy các phiên bản mới nhất của ứng dụng Subiz bằng cách  truy cập cửa hàng ứng dụng trên điện thoại \(ví dụ: [App Store](https://itunes.apple.com/vn/app/subiz/id1414797772?mt=8), [Google Play](https://play.google.com/store/apps/details?id=com.subiz.mobile4)\). Từ đây, bạn có thể xem có gì mới với ứng dụng và chọn Cập nhật phiên bản mới nhất.  
+
+
+> Bạn đang cần hỗ trợ? Hãy chat trực tiếp với tư vấn viên tại website [Subiz.com](https://subiz.com/vi/feature.html)!
+
+  
   
 
 
