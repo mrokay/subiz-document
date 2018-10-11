@@ -140,7 +140,7 @@ Khi bạn sử dụng Google Tag Manager trên website, bạn có thể tích h�
 ![Tag Subiz chat tr&#xEA;n Google Tag Manager](../../../.gitbook/assets/1-subiz-chat-copy.jpg)
 
 {% hint style="info" %}
-Lưu ý: Trigger là điều kiện bạn muốn thẻ Tag Subiz chat sẽ hoạt động. Bạn có thể tùy chọn Trigger theo nhu cầu riêng. Ví dụ:
+**Lưu ý**: Trigger là điều kiện bạn muốn thẻ Tag Subiz chat sẽ hoạt động. Bạn có thể tùy chọn Trigger theo nhu cầu riêng. Ví dụ:
 
 * Tất cả các trang của website \(All Pages\) sẽ hiển thị cửa sổ Subiz chat.
 * Chỉ một số trang \(Some Pages\) sẽ hiển thị cửa sổ Subiz chat.
