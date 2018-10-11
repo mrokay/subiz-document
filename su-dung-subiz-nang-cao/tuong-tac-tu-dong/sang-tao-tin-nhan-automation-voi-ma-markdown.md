@@ -73,6 +73,16 @@ Khi khách hàng click vào hình ảnh, bạn hoàn toàn có thể dẫn khác
 
 ![G&#x1EAF;n link v&#xE0;o h&#xEC;nh &#x1EA3;nh](../../.gitbook/assets/screenshot_5.png)
 
+### Chèn số điện thoại vào tin nhắn
+
+Bạn hoàn toàn có thể chèn số điện thoại vào tin nhắn Automation. Khi khách hàng click vào số điện thoại, họ hoàn toàn có thể gọi trực tiếp cho bạn nếu như đang online trên di động hoặc máy tính của họ có hỗ trợ phần mềm gọi điện.
+
+```text
+[02473021368](tel:02473021368)
+```
+
+![G&#x1EAF;n s&#x1ED1; &#x111;i&#x1EC7;n tho&#x1EA1;i trong tin nh&#x1EAF;n Automation](../../.gitbook/assets/gan-so-dien-thoai.png)
+
 ### Kết hợp các mã markdown trong một tin nhắn
 
 Hãy kết hợp các mã markdown để tạo một lời chào thu hút, hấp dẫn trên website của bạn!
