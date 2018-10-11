@@ -38,6 +38,8 @@ Nếu bạn vẫn không thấy cửa sổ [Subiz Chat](https://subiz.com/vi/liv
 2. Chọn[ **Cài đặt** &gt; **Tài khoản** &gt; **Tích hợp**](https://app.subiz.com/settings/install)
 3. Nhập đường dẫn **website** bạn và click nút **Kiểm tra**.
 
+
+
 ![Ki&#x1EC3;m tra xem m&#xE3; nh&#xFA;ng Subiz tr&#xEA;n website c&#x1EE7;a b&#x1EA1;n](../../../.gitbook/assets/kiem-tra-cai-ma-nhung.png)
 
 {% hint style="danger" %}
@@ -118,5 +120,27 @@ Bước 2: [Đăng nhập trang quản trị website của Sapo](https://www.sap
 {% endtab %}
 {% endtabs %}
 
-> Bạn còn băn khoăn? Hãy chat trực tuyến với hỗ trợ viên ngay trên website [Subiz.com](https://subiz.com/vi/feature.html) nhé!
+### Tích hợp Subiz qua Google Tag Manager
+
+Subiz kết hợp mạnh mẽ với Google Tag Manager. 
+
+Khi bạn sử dụng Google Tag Manager trên website, bạn có thể tích hợp Subiz chat vào website thông qua Google Tag Manager theo các bước như sau:
+
+1. Đăng nhập[ Tagmanager.google.com](https://tagmanager.google.com/#/home)
+2. Chọn account quản lý website sẽ tích hợp Subiz chat tại All account.
+3. Tạo Tag mới: Tại WORKSPACE chọn Tags &gt; New
+
+![](../../../.gitbook/assets/1-gtm-copy.jpg)
+
+* **Untitled Tag**: Điền tên Tag để phân biệt các Tag và chức năng của Tag
+* **Tag Configuration**: Chọn Custom HTML &gt; Sao chép mã nhúng Subiz và dán vào ô HTML &gt; chọn  Support document.write.
+* **Triggering**: Chọn All Page
+
+![T&#x1EA1;o Tag Subiz chat tr&#xEA;n Google Tag Manager](../../../.gitbook/assets/1-subiz-chat-copy.jpg)
+
+* Chọn **SAVE** &gt;  chọn **SUBMIT** &gt; Điền thông tin mô tả trong mục **Publish and Create Version** &gt; chọn **PUBLISH** để hoàn thành.
+
+Bạn hãy vào website và chọn F5 tải lại trang, kiểm tra cửa sổ chat Subiz đã hiển thị trên website.
+
+> Bạn còn băn khoăn? Hãy chat trực tuyến với hỗ trợ viên ngay trên website [Subiz.com](https://subiz.com/vi/feature.html)!
 
