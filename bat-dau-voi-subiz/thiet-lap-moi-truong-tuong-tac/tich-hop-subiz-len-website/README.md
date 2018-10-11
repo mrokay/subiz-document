@@ -130,15 +130,15 @@ Khi bạn sử dụng Google Tag Manager trên website, bạn có thể tích h�
 2. Chọn account quản lý website sẽ tích hợp Subiz chat tại All account.
 3. Tạo Tag mới: Tại WORKSPACE chọn Tags &gt; New
 
-![](../../../.gitbook/assets/1-gtm-copy.jpg)
+![T&#x1EA1;o Tags m&#x1EDB;i](../../../.gitbook/assets/2-tags-copy.jpg)
 
 * **Untitled Tag**: Điền tên Tag để phân biệt các Tag và chức năng của Tag
 * **Tag Configuration**: Chọn Custom HTML &gt; Sao chép mã nhúng Subiz và dán vào ô HTML &gt; chọn  Support document.write.
 * **Triggering**: Chọn All Page
 
-![T&#x1EA1;o Tag Subiz chat tr&#xEA;n Google Tag Manager](../../../.gitbook/assets/1-subiz-chat-copy.jpg)
+![Tag Subiz chat tr&#xEA;n Google Tag Manager](../../../.gitbook/assets/1-subiz-chat-copy.jpg)
 
-* Chọn **SAVE** &gt;  chọn **SUBMIT** &gt; Điền thông tin mô tả trong mục **Publish and Create Version** &gt; chọn **PUBLISH** để hoàn thành.
+* Chọn **SAVE** &gt;  chọn **SUBMIT** ở góc phải màn hình &gt; Điền thông tin mô tả trong mục **Publish and Create Version** &gt; chọn **PUBLISH** để hoàn thành.
 
 Bạn hãy vào website và chọn F5 tải lại trang, kiểm tra cửa sổ chat Subiz đã hiển thị trên website.
 
