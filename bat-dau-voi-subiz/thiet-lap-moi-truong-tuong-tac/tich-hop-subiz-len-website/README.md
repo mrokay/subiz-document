@@ -135,9 +135,17 @@ Khi bạn sử dụng Google Tag Manager trên website, bạn có thể tích h�
 * **Untitled Tag**: Điền tên Tag để phân biệt các Tag và chức năng của Tag
 * **Tag Configuration**: Chọn Custom HTML &gt; [Sao chép mã nhúng Subiz](https://app.subiz.com/settings/install) và dán vào ô HTML
 * Chọn ****\(tick\) **Support document.write**
-* **Triggering**: Chọn All Page
+* **Triggering**: Chọn All Pages nếu muốn hiển thị cửa sổ chat Subiz trên tất cả các trang của website
 
 ![Tag Subiz chat tr&#xEA;n Google Tag Manager](../../../.gitbook/assets/1-subiz-chat-copy.jpg)
+
+{% hint style="info" %}
+Lưu ý: Trigger là điều kiện bạn muốn thẻ Tag Subiz chat sẽ hoạt động. Bạn có thể tùy chọn Trigger theo nhu cầu riêng. Ví dụ:
+
+* Tất cả các trang của website \(All Pages\) sẽ hiển thị cửa sổ Subiz chat.
+* Chỉ một số trang \(Some Pages\) sẽ hiển thị cửa sổ Subiz chat.
+* Khách có một hành động cụ thể như Click, kéo scroll chuột, hay sau một khoảng thời gian vào website,.... sẽ hiển thị cửa sổ Subiz chat.
+{% endhint %}
 
 * Chọn **SAVE** &gt;  chọn **SUBMIT** ở góc phải màn hình &gt; Điền thông tin mô tả trong mục **Publish and Create Version** &gt; chọn **PUBLISH** để hoàn thành.
 
