@@ -30,7 +30,7 @@
     * [Phân phối cuộc hội thoại](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/README.md)
       * [Cách thức phân phối cuộc hội thoại](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/rule-phan-phoi-cuoc-hoi-thoai.md)
       * [Tạo Rule mới](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/tao-rule-moi.md)
-      * [Các ví dụ tự động phân phối hội thoại](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/untitled.md)
+      * [Các ví dụ Rule phân phối hội thoại](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/untitled.md)
       * [Quản lý danh sách Rule](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/quan-ly-danh-sach-rule.md)
     * [Gắn Tag cuộc hội thoại](bat-dau-voi-subiz/trien-khai-hoat-dong/gan-tag-cuoc-hoi-thoai.md)
   * [Làm việc trên Subiz](bat-dau-voi-subiz/lam-viec-tren-subiz/README.md)

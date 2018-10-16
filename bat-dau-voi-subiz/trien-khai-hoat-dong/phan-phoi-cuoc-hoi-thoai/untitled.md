@@ -1,4 +1,4 @@
-# Các ví dụ tự động phân phối hội thoại
+# Các ví dụ Rule phân phối hội thoại
 
 ### Phân phối tất cả hội thoại cho một Agent hoặc nhiều Agent
 
