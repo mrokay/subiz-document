@@ -1,6 +1,6 @@
 # Các ví dụ tự động phân phối hội thoại
 
-### Chỉ định tất cả hội thoại cho một tư vấn viên 
+### Phân phối tất cả hội thoại cho một Agent hoặc nhiều Agent
 
 Bạn có thể sử dụng Rule mặc định ban đầu nếu muốn chuyển hội thoại cho agent owner \(chủ tài khoản\). Trong trường hợp bạn muốn chuyển cho agent khác tư vấn khách hàng, bạn thao tác như sau:
 
@@ -28,13 +28,13 @@ Bạn cần chọn một trong những kiểu phân phối sau:
 
 ![Ph&#xE2;n ph&#x1ED1;i t&#x1EDB;i agent c&#xF3; t&#x1B0;&#x1A1;ng t&#xE1;c cu&#x1ED1;i c&#xF9;ng v&#x1EDB;i user](../../../.gitbook/assets/phan-phoi-toi-agent-co-tuong-tac-cuoi-cung-voi-user.png)
 
-### Phân phối hội thoại đồng đều cho các tư vấn viên
+### Phân phối hội thoại đồng đều theo vòng cho các agent
 
 Khi phân phối theo quy tắc này, hội thoại mới của khách hàng sẽ được phân bổ đều cho một vài agent hoặc một nhóm agent. Khi bạn có nhiều cuộc hội thoại, việc phân chia hội thoại sẽ giúp giảm áp lực và tăng tốc độ phản hồi của tư vấn viên. Bạn có thể cài đặt như sau:
 
 ![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i &#x111;&#x1ED3;ng &#x111;&#x1EC1;u cho c&#xE1;c t&#x1B0; v&#x1EA5;n vi&#xEA;n](../../../.gitbook/assets/phan-phoi-hoi-thoai-theo-vong.png)
 
-### Phân phối hội thoại theo kênh tương tác 
+### Phân phối hội thoại cho agent theo kênh tương tác 
 
 Bạn có nhiều kênh tương tác: Website, Email, Fanpage và muốn phân phối hội thoại cho tư vấn viên theo từng kênh để phân loại khách hàng nhưng vẫn quản lý được dữ liệu tập trung. Bạn thao tác như sau:
 
