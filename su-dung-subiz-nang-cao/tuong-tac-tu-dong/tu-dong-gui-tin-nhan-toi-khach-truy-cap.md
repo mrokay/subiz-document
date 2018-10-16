@@ -1,4 +1,4 @@
-# Các ví dụ tự động gửi tin nhắn
+# Một số ví dụ Automation tự động gửi tin nhắn
 
 Automation gửi tin nhắn tới user trên kênh[ Subiz chat](https://subiz.com/vi/live-chat.html) là hành động tự động gửi tin nhắn tới khách truy cập website. Hành động này sẽ khởi tạo cuộc hội thoại với khách truy cập website thỏa mãn điều kiện đặt trước và gửi kèm 1 tin nhắn. **Tin nhắn này có chức năng như lời mời chat tự động, giúp bạn gửi lời chào riêng biệt tới từng đối tượng khách hàng.**
 
