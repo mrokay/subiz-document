@@ -11,7 +11,7 @@
 {% hint style="info" %}
 * Bạn cần thanh toán gói thuê bao vào đầu mỗi chu kỳ thanh toán. \(Thuê bao trả trước\)
 * Tùy theo quy mô và nhu cầu của doanh nghiệp, bạn có thể chọn gói dịch vụ phù hợp.
-* Bạn có thể nhận được ưu đãi lên đến 20% khi đăng kí chu kỳ thanh toán từ 3 tháng trở lên \([Chi tiết](https://subiz.com/vi/calculator.html)\)
+* Bạn có thể nhận được ưu đãi lên đến 30% khi đăng kí chu kỳ thanh toán từ 3 tháng trở lên \([Chi tiết](https://subiz.com/vi/calculator.html)\)
 * Bạn có thể nâng cấp, hạ cấp, thêm, xóa bỏ agent, thay đổi thời hạn bất cứ lúc nào.
 {% endhint %}
 
