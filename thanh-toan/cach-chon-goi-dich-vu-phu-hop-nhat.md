@@ -11,7 +11,7 @@ Với những doanh nghiệp **lần đầu tiếp cận** [**Subiz**](https://s
 Kết thúc 30 ngày dùng thử, bạn có thể quyết định nâng cấp tài khoản lên gói Cơ bản/Nâng cao ****hoặc nếu không, hệ thống sẽ tự động cập nhật tài khoản của bạn sang gói **Miễn phí.**
 
 {% hint style="info" %}
-Nâng cấp tài khoản lên gói trả phí giúp bạn sử dụng đầy đủ nhất, tốt nhất các [tính năng](https://subiz.com/vi/feature.html) mà Subiz cung cấp.
+Nâng cấp tài khoản lên gói trả phí để bạn sử dụng đầy đủ nhất, tốt nhất các [tính năng](https://subiz.com/vi/feature.html) mà Subiz cung cấp.
 {% endhint %}
 
 Dựa vào tính chất và mô hình doanh nghiệp, doanh nghiệp có thể tùy chọn 1 trong số các gói dịch vụ dưới đây của [Subiz](https://subiz.com/vi/):
