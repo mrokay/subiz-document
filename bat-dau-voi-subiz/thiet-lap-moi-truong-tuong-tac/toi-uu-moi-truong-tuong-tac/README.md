@@ -10,3 +10,11 @@ Những hướng dẫn sau sẽ giúp bạn tối ưu môi trường tương tá
 
 {% page-ref page="cai-dat-thong-bao-tin-nhan-moi.md" %}
 
+* **Sử dụng app Subiz trên cả máy tính và điện thoại di động**
+
+{% page-ref page="app-subiz-tren-may-tinh.md" %}
+
+* **Ứng dụng Subiz điện thoại di động**
+
+{% page-ref page="ung-dung-subiz-tren-dien-thoai.md" %}
+
