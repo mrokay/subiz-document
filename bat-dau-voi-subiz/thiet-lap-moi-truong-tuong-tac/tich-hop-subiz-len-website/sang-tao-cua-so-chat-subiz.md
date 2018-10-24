@@ -53,7 +53,7 @@ Ví dụ: &lt;p&gt; Kỷ niệm sinh nhật lần thứ 5. Chúng tôi giảm g
 
 Những thành phần bạn có thể thay đổi trong đoạn mã trên:
 
-* Số điện thoại bạn muốn gắn l
+* Số điện thoại bạn muốn gắn lên cửa sổ chat 
 * White: là màu bạn muốn thay đổi cho số điện thoại 
 
 ![G&#x1EAF;n link s&#x1ED1; &#x111;i&#x1EC7;n tho&#x1EA1;i tr&#xEA;n c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/html.png)
