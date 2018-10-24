@@ -12,7 +12,7 @@ Lưu ý: Bạn có thể cài đặt nhiều kịch bản Automation cùng lúc 
 
 Sau đây là một số kịch bản Automation để bạn tham khảo cài đặt:
 
-### Gửi tin nhắn tới khách vào 1 trang cụ thể trên website {#1-gui-tin-nhan-toi-khach-vao-1-trang-cu-the-tren-website}
+### Gửi tin nhắn tới khách vào 1 trang cụ thể trên website <a id="1-gui-tin-nhan-toi-khach-vao-1-trang-cu-the-tren-website"></a>
 
 Khi khách hàng mới ghé thăm website, bạn muốn gửi đến khách hàng một lời chào, để họ biết sự hiện diện của bạn và luôn sẵn sàng giúp họ bất cứ khi nào trong quá trình mua sắm.
 
@@ -20,7 +20,7 @@ Ví dụ: **URL của trang – chứa –  abc.com.vn**
 
 ![G&#x1EED;i tin nh&#x1EAF;n cho kh&#xE1;ch v&#xE0;o 1 site c&#x1EE5; th&#x1EC3;](../../.gitbook/assets/screenshot_1%20%283%29.png)
 
-### Gửi tin nhắn cho khách hàng khi xem một sản phẩm cụ thể {#3-gui-tin-nhan-cho-khach-hang-theo-khu-vuc-dia-ly}
+### Gửi tin nhắn cho khách hàng khi xem một sản phẩm cụ thể <a id="3-gui-tin-nhan-cho-khach-hang-theo-khu-vuc-dia-ly"></a>
 
 Bạn muốn gửi thông điệp quảng cáo tới các khách vào 1 trang sản phẩm cụ thể, hoặc muốn gửi chương trình khuyến mãi cho khách vào trang thanh toán? Bạn chỉ cần thiết lập Automation theo điều kiện URL của trang chứa link sản phẩm, hoặc theo tiêu đề trang sản phẩm:
 
@@ -54,7 +54,7 @@ Quốc gia – Afghanistan. Mã quốc gia – AF
 
 ![C&#xE1;ch xem m&#xE3; code c&#xE1;c qu&#x1ED1;c gia](../../.gitbook/assets/countrycode.png)
 
-### Lưu ý khi tạo Automation gửi tin nhắn tự động {#luu-y-khi-tao-automation-gui-tin-nhan-tu-dong}
+### Lưu ý khi tạo Automation gửi tin nhắn tự động <a id="luu-y-khi-tao-automation-gui-tin-nhan-tu-dong"></a>
 
 * Bạn hoàn toàn có thể [Sáng tạo tin nhắn Automation với mã Markdown](https://help.subiz.com/su-dung-subiz-nang-cao/tuong-tac-tu-dong/sang-tao-tin-nhan-automation-voi-ma-markdown) để tạo ra những lời chào thú vị, thu hút khách hàng vào website.
 * Một kịch bản automation chỉ chạy 1 lần với 1 khách truy cập. Bạn có thể cài đặt nhiều kịch bản Automation cùng lúc để gửi nhiều tin nhắn với các mục đích khác nhau cho khách hàng.

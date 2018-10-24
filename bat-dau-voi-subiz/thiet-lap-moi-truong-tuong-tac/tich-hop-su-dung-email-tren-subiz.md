@@ -24,7 +24,7 @@ Tại trang tích hợp Email, bạn sẽ theo dõi  danh sách các địa ch�
 **Lưu ý:** Khi địa chỉ email của bạn đã đưọc cài đặt chuyển tiếp email , thì địa chỉ email này có thể được sử dụng để làm outcome email
 {% endhint %}
 
-### Thiết lập tích **hợp** Email trên Subiz {#thiet-lap-chuyen-tiep-email-tren-subiz}
+### Thiết lập tích **hợp** Email trên Subiz <a id="thiet-lap-chuyen-tiep-email-tren-subiz"></a>
 
 Để đảm bảo có thể gửi email ra và nhận email vào tài khoản Subiz của bạn, bạn cần thao tác theo 2 bước sau
 

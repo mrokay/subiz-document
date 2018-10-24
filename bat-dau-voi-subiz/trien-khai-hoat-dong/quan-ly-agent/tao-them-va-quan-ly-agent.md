@@ -8,7 +8,7 @@
 * Bạn có thể cài đặt phân quyền và quản lý hoạt động của các Agent.
 {% endhint %}
 
-### Mời Agent cùng sử dụng [Subiz](https://subiz.com/vi/) {#them-agent-moi}
+### Mời Agent cùng sử dụng [Subiz](https://subiz.com/vi/) <a id="them-agent-moi"></a>
 
 Tạo thêm tài khoản Agent có hai bước như sau:
 
@@ -61,5 +61,5 @@ Hướng dẫn Khóa tài khoản Agent \(Inactive Agent\) như sau: Chọn **n�
 
 
 
-###  {#tao-nhom-agent}
+###  <a id="tao-nhom-agent"></a>
 

@@ -37,6 +37,27 @@ Ví dụ: &lt;p&gt; Kỷ niệm sinh nhật lần thứ 5. Chúng tôi giảm g
 
 ![Xu&#x1ED1;ng d&#xF2;ng tr&#xEA;n &#x111;o&#x1EA1;n gi&#x1EDB;i thi&#x1EC7;u](../../../.gitbook/assets/loi-gioi-thieu-2.png)
 {% endtab %}
+
+{% tab title="Gắn link số điện thoại trong trên lời giới thiệu" %}
+* Gắn l số điện thoai
+
+```text
+<a href="tel:02473021368">02473021368</a>
+```
+
+* Tùy chỉnh màu sắc của s điện thoại
+
+```text
+<a href="tel:02473021368"><strong><u><font color="white">02473021368</font color></u></strong></a>
+```
+
+Những thành phần bạn có thể thay đổi trong đoạn mã trên:
+
+* Số điện thoại bạn muốn gắn l
+* White: là màu bạn muốn thay đổi cho số điện thoại 
+
+![G&#x1EAF;n link s&#x1ED1; &#x111;i&#x1EC7;n tho&#x1EA1;i tr&#xEA;n c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/html.png)
+{% endtab %}
 {% endtabs %}
 
 ### CSS tùy chỉnh cửa sổ chat Subiz trên máy tính
@@ -45,7 +66,7 @@ Bên cạnh việc sử dụng những [cài đặt cửa sổ chat trên websit
 
 CSS là viết tắt của cụm từ “Cascading Style Sheet”, nó là một ngôn ngữ quy định cách trình bày của các thẻ html trên trang web. Với việc sử dụng CSS bạn có thể tùy chỉnh một số thành phần của cửa sổ Subiz chat theo ý muốn một cách dễ dàng và đơn giản.
 
-#### Tùy chỉnh CSS ở đâu? {#tuy-chinh-css-o-dau}
+#### Tùy chỉnh CSS ở đâu? <a id="tuy-chinh-css-o-dau"></a>
 
 Bạn sẽ đăng nhập vào trang app.subiz.com, vào phần [**Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Cửa sổ hội thoại &gt; Tùy chỉnh CSS**](https://app.subiz.com/settings/widget-setting) để thực hiện những thay đổi về CSS này.
 
@@ -215,7 +236,7 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 {% endtab %}
 {% endtabs %}
 
-###  {#loi-khi-tich-hop-len-website}
+###  <a id="loi-khi-tich-hop-len-website"></a>
 
 > Bạn có nhu cầu tùy chỉnh cửa sổ  riêng, bạn vui lòng chat trực tiếp với tư vấn viên tại [Subiz.com](https://subiz.com/vi/feature.html)!
 

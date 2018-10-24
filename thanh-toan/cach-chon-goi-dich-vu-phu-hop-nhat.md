@@ -1,6 +1,6 @@
 # Cách chọn gói dịch vụ phù hợp nhất?
 
-### [Subiz ](https://subiz.com/vi/)có những gói dịch vụ nào? {#cacgoidichvu}
+### [Subiz ](https://subiz.com/vi/)có những gói dịch vụ nào? <a id="cacgoidichvu"></a>
 
 [Subiz ](https://subiz.com/vi/)cung cấp 4 gói dịch vụ bao gồm: gói **Trial**, gói **Miễn phí**, gói **Cơ bản** và gói **Nâng cao**.
 
