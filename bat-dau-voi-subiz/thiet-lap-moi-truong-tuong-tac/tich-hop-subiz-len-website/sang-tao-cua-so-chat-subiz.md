@@ -45,7 +45,7 @@ Ví dụ: &lt;p&gt; Kỷ niệm sinh nhật lần thứ 5. Chúng tôi giảm g
 <a href="tel:02473021368">02473021368</a>
 ```
 
-* Tùy chỉnh màu sắc của s điện thoại
+* Tùy chỉnh màu sắc của số điện thoại
 
 ```text
 <a href="tel:02473021368"><strong><u><font color="white">02473021368</font color></u></strong></a>
