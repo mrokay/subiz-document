@@ -39,7 +39,7 @@ Ví dụ: &lt;p&gt; Kỷ niệm sinh nhật lần thứ 5. Chúng tôi giảm g
 {% endtab %}
 
 {% tab title="Gắn link số điện thoại trong trên lời giới thiệu" %}
-* Gắn l số điện thoai
+* Gắn link vào số điện thoai
 
 ```text
 <a href="tel:02473021368">02473021368</a>
