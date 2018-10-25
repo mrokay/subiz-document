@@ -2,8 +2,6 @@
 
 Bạn là một nhà quản trị hay một Marketer, bạn cần thống kê số lượng khách hàng có cuộc hội thoại và tương tác qua Subiz chat theo từng nguồn truy cập? Từ đó, bạn sẽ có những quyết định phù hợp chăm sóc khách hàng và Marketing hiệu quả.
 
-Bài viết này sẽ hướng dẫn bạn cách đọc thống kê Subiz chat theo nguồn khách truy cập trên Google Analytics.
-
 {% hint style="info" %}
 **Lưu ý**: 
 
@@ -11,7 +9,7 @@ Bài viết này sẽ hướng dẫn bạn cách đọc thống kê Subiz chat t
 * Trên Google Analytics, mỗi dữ liệu sự kiện Subiz được chia thành 3 thành tố sự kiện là: Danh mục sự kiện, Hành động sự kiện, Nhãn sự kiện. [Xem thêm cách đọc sự kiện Subiz trên Google Analytics](https://help.subiz.com/bao-cao-and-thong-ke/thong-ke-subiz-chat-tren-google-analytics#cac-loai-su-kien-subiz-gui-sang-ga). 
 {% endhint %}
 
-Để xem thống kê số lượng khách hàng tương tác qua Subiz chat theo nguồn truy cập, bạn sẽ thao tác như sau:
+Để xem thống kê số lượng khách hàng có tương tác qua Subiz chat theo nguồn truy cập trên Google analytics, bạn sẽ thao tác 4 bước như sau:
 
 ### Bước 1: Đăng nhập [Google Analytics](https://analytics.google.com).
 
