@@ -60,6 +60,7 @@
   * [Thống kê User](bao-cao-and-thong-ke/thong-ke-user.md)
   * [Thống kê tag](bao-cao-and-thong-ke/thong-ke-tag.md)
   * [Thống kê Subiz chat trên Google Analytics](bao-cao-and-thong-ke/thong-ke-subiz-chat-tren-google-analytics.md)
+  * [Thống kê nguồn khách truy cập kết hợp với Subiz chat](bao-cao-and-thong-ke/thong-ke-nguon-khach-truy-cap-ket-hop-voi-subiz-chat.md)
 * [Thanh toán](thanh-toan/README.md)
   * [Subiz tính phí như thế nào](thanh-toan/subiz-tinh-phi-nhu-the-nao.md)
   * [Cách chọn gói dịch vụ phù hợp nhất?](thanh-toan/cach-chon-goi-dich-vu-phu-hop-nhat.md)
