@@ -1,8 +1,22 @@
 # Sáng tạo cửa sổ chat Subiz
 
-### Sử dụng HTML tùy biến lời giới thiệu trên cửa sổ chat
+## Sử dụng HTML tùy biến lời giới thiệu trên cửa sổ chat
 
-Ngay trên cửa sổ Subiz chat, bạn có thể tùy chỉnh và sáng tạo lời giới thiệu về doanh nghiệp, thông tin hotline hay chương trình khuyến mãi để gia tăng nhận diện thương hiệu và thu hút khách hàng.
+Ngay trên cửa sổ Subiz chat, bạn có thể tùy chỉnh và sáng tạo lời giới thiệu về doanh nghiệp, số hotline hay chương trình khuyến mãi để gia tăng nhận diện thương hiệu và thu hút khách hàng.
+
+Một số mã HTML thường dùng để định dạng chữ viết \(text\).
+
+* HTML định dạng chữ viết  
+  `<strong>text`: In đậm chữ viết.   
+  `<i>text`: In nghiêng chữ viết.
+
+  `<u>text`: Gạch chân chữ viết.  
+
+* HTML xuống dòng đoạn văn bản `<br>text`: ****Đặt mã &lt;br&gt; trước đoạn văn bản bạn muốn xuống dòng 
+* HTML thay đổi màu chữ viết `<font color="yellow">text!</font></a>`: Thay đổi màu sắc vào ô "yellow" như red, white, blue.... 
+* HTML gắn đường link URL vào chữ viết &lt;a href="http://example.com"&gt;Text&lt;/a&gt;
+
+
 
 {% tabs %}
 {% tab title="Gắn link trên lời giới thiệu" %}
