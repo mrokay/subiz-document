@@ -1,8 +1,8 @@
 # Sáng tạo cửa sổ chat Subiz
 
-### Sáng tạo lời giới thiệu trên cửa sổ chat
+### Sử dụng HTML tùy biến lời giới thiệu trên cửa sổ chat
 
-Vào những dịp đặc biệt, hoặc khi có các chương trình khuyến mại, bạn nên thay đổi và sáng tạo lời giới thiệu về doanh nghiệp ngay trên cửa sổ chat để tăng sự thu hút và tạo sự ấn tượng với khách truy cập website.
+Ngay trên cửa sổ Subiz chat, bạn có thể tùy chỉnh và sáng tạo lời giới thiệu về doanh nghiệp, thông tin hotline hay chương trình khuyến mãi để gia tăng nhận diện thương hiệu và thu hút khách hàng.
 
 {% tabs %}
 {% tab title="Gắn link trên lời giới thiệu" %}
@@ -60,7 +60,7 @@ Những thành phần bạn có thể thay đổi trong đoạn mã trên:
 {% endtab %}
 {% endtabs %}
 
-### CSS tùy chỉnh cửa sổ chat Subiz trên máy tính
+## CSS tùy chỉnh cửa sổ chat Subiz trên máy tính
 
 Bên cạnh việc sử dụng những [cài đặt cửa sổ chat trên website](https://app.subiz.com/settings/widget-setting) mà Subiz đã cung cấp. Bạn có thể dễ dàng tùy chỉnh những thành phần khác trên cửa sổ chat bằng cách sử dụng mã CSS.
 
@@ -238,5 +238,5 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 
 ###  <a id="loi-khi-tich-hop-len-website"></a>
 
-> Bạn có nhu cầu tùy chỉnh cửa sổ  riêng, bạn vui lòng chat trực tiếp với tư vấn viên tại [Subiz.com](https://subiz.com/vi/feature.html)!
+> Bạn có nhu cầu tùy chỉnh cửa sổ chat, vui lòng chat trực tiếp với tư vấn viên tại [Subiz.com](https://subiz.com/vi/feature.html)!
 
