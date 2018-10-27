@@ -4,7 +4,7 @@
 
 Ngay trên cửa sổ Subiz chat, bạn có thể tùy chỉnh và sáng tạo lời giới thiệu về doanh nghiệp, số hotline hay chương trình khuyến mãi để gia tăng nhận diện thương hiệu và thu hút khách hàng.
 
-Một số mã HTML thường dùng để định dạng chữ viết \(text\).
+### **Một số mã HTML thường dùng để định dạng chữ viết.**
 
 * HTML định dạng chữ viết  
   `<strong>text`: In đậm chữ viết.   
@@ -14,12 +14,15 @@ Một số mã HTML thường dùng để định dạng chữ viết \(text\).
 
 * HTML xuống dòng đoạn văn bản `<br>text`: ****Đặt mã &lt;br&gt; trước đoạn văn bản bạn muốn xuống dòng 
 * HTML thay đổi màu chữ viết `<font color="yellow">text!</font></a>`: Thay đổi màu sắc vào ô "yellow" như red, white, blue.... 
-* HTML gắn đường link URL vào chữ viết &lt;a href="http://example.com"&gt;Text&lt;/a&gt;
+* HTML gắn đường link URL vào chữ viết  
+  `<a href="http://example.com">Text</a>`: Thay link của bạn vào  http://example.com
 
+* HTML gắn link số điện thoại để có thể click số điện thoại và Gọi ngay trên điện thoại `<a href="tel:02473021368">02473021368</a>`: Thay số điện thoại của bạn vào 02473021368 
 
+### **Ví dụ kết hợp HTML tùy chỉnh ngôn ngữ trên cửa sổ chat**
 
 {% tabs %}
-{% tab title="Gắn link trên lời giới thiệu" %}
+{% tab title="Gắn link  và thay màu chữ" %}
 Đoạn mã giúp bạn gắn link trên lời giới thiệu
 
 ```text
@@ -38,7 +41,7 @@ Những thành phần bạn có thể thay đổi trong đoạn mã trên:
 ![S&#xE1;ng t&#x1EA1;o l&#x1EDD;i gi&#x1EDB;i thi&#x1EC7;u k&#xE8;m link](../../../.gitbook/assets/loi-gioi-thieu-1.png)
 {% endtab %}
 
-{% tab title="Xuống dòng trên lời giới thiệu" %}
+{% tab title="Xuống dòng và thay màu chữ" %}
 Đoạn mã giúp bạn xuống dòng trên lời giới thiệu
 
 ```text
@@ -52,7 +55,7 @@ Ví dụ: &lt;p&gt; Kỷ niệm sinh nhật lần thứ 5. Chúng tôi giảm g
 ![Xu&#x1ED1;ng d&#xF2;ng tr&#xEA;n &#x111;o&#x1EA1;n gi&#x1EDB;i thi&#x1EC7;u](../../../.gitbook/assets/loi-gioi-thieu-2.png)
 {% endtab %}
 
-{% tab title="Gắn link số điện thoại trong trên lời giới thiệu" %}
+{% tab title="Gắn link số điện thoại, in đậm và thay màu chữ" %}
 * Gắn link vào số điện thoai
 
 ```text
