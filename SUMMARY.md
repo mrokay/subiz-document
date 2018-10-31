@@ -6,7 +6,7 @@
   * [Thiết lập môi trường tương tác](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/README.md)
     * [Tích hợp Subiz Chat](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/README.md)
       * [Tùy chỉnh cửa sổ chat Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-cua-so-chat-subiz.md)
-      * [Sáng tạo cửa sổ chat Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/sang-tao-cua-so-chat-subiz.md)
+      * [Sáng tạo cửa sổ chat Subiz ấn tượng](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/sang-tao-cua-so-chat-subiz.md)
       * [Các ngôn ngữ hỗ trợ trên cửa sổ Subiz chat](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/cac-ngon-ngu-ho-tro-tren-cua-so-subiz-chat.md)
       * [Đặt button Subiz mọi nơi trên website với API](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-hinh-anh-button-subiz.md)
       * [Tùy chỉnh hình ảnh chat button](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-hinh-anh-chat-button.md)

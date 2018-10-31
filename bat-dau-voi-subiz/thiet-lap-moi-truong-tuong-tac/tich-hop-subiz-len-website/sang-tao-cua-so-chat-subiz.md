@@ -1,4 +1,4 @@
-# Sáng tạo cửa sổ chat Subiz
+# Sáng tạo cửa sổ chat Subiz ấn tượng
 
 ## Sử dụng HTML tùy biến lời giới thiệu trên cửa sổ chat
 
@@ -13,7 +13,7 @@ Ngay trên cửa sổ Subiz chat, bạn có thể tùy chỉnh và sáng tạo l
   `<u>text`: Gạch chân chữ viết.  
 
 * HTML xuống dòng đoạn văn bản `<br>text`: ****Đặt mã &lt;br&gt; trước đoạn văn bản bạn muốn xuống dòng 
-* HTML thay đổi màu chữ viết `<font color="yellow">text!</font></a>`: Thay đổi màu sắc vào ô "yellow" như red, white, blue.... 
+* HTML thay đổi màu chữ viết `<font color="yellow">text</font>`: Thay đổi màu sắc vào ô "yellow" như red, white, blue.... 
 * HTML gắn đường link URL vào chữ viết  
   `<a href="http://example.com">Text</a>`: Thay link của bạn vào  http://example.com
 
@@ -23,57 +23,43 @@ Ngay trên cửa sổ Subiz chat, bạn có thể tùy chỉnh và sáng tạo l
 
 {% tabs %}
 {% tab title="Gắn link  và thay màu chữ" %}
-Đoạn mã giúp bạn gắn link trên lời giới thiệu
-
-```text
-<p> Normal text <a href="http://example.com"> <font color="yellow">Linked text</font></a></p>
-```
+Đoạn mã HTM gắn link và thay đổi màu chữ trên lời giới thiệu:  
+`<a href="http://example.com"> <font color="yellow">text</font></a>`
 
 Những thành phần bạn có thể thay đổi trong đoạn mã trên:
 
-* **Normal text:** Là đoạn giới thiệu bạn muốn trình bày
-* [**http://example.com**](http://example.com)**:** Là đường link trang đích bạn muốn khách hàng xem sau khi bấm vào Linked text
-* **Yellow:** Là màu bạn muốn chọn cho Linked text
-* **Linked text:** Là đoạn chữ chứa đường link trang đích
+* **http://example.com:** Là đường link trang đích bạn muốn khách hàng xem sau khi bấm vào đoạn chữ viết được gắn link
+* **Yellow:** Là màu bạn muốn chọn cho chữ viết được gắn link
+* **Text:** Là đoạn chữ viết được gắn link 
 
-**Ví dụ:** &lt;p&gt; Kỷ niệm sinh nhật lần thứ 5. Chúng tôi giảm giá 50% nhiều mặt hàng. Vui lòng xem chi tiết &lt;a href="http://example.com"&gt; &lt;font color="yellow"&gt;tại đây!&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+**Ví dụ:**  Tưng bừng khuyến mãi tới 50%. Vui lòng xem chi tiết  &lt;a href="http://example.com"&gt; &lt;font color="yellow"&gt;TẠI ĐÂY!&lt;/font&gt;&lt;/a&gt;
 
-![S&#xE1;ng t&#x1EA1;o l&#x1EDD;i gi&#x1EDB;i thi&#x1EC7;u k&#xE8;m link](../../../.gitbook/assets/loi-gioi-thieu-1.png)
+![G&#x1EAF;n link trang &#x111;&#xED;ch tr&#xEA;n c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/1.-gan-link.jpg)
 {% endtab %}
 
 {% tab title="Xuống dòng và thay màu chữ" %}
-Đoạn mã giúp bạn xuống dòng trên lời giới thiệu
+Đoạn mã HTML xuống dòng và thay đổi màu chữ trên lời giới thiệu:  
+`<br><font color="yellow">Text</font>`
 
-```text
-<br>Text
-```
+Bạn đặt đoạn mã HTML trên trước đoạn chữ viết  mà bạn muốn nó xuống dòng.
 
-Bạn đặt đoạn mã trên trước đoạn Text \(chữ\) mà bạn muốn nó xuống dòng.
+**Ví dụ**: Tưng bừng khuyến mãi tới 50%. &lt;br&gt; Vui lòng xem chi tiết  &lt;a href="http://example.com"&gt; &lt;font color="yellow"&gt;TẠI ĐÂY!&lt;/font&gt;&lt;/a&gt;
 
-Ví dụ: &lt;p&gt; Kỷ niệm sinh nhật lần thứ 5. Chúng tôi giảm giá 50% nhiều mặt hàng cao cấp. &lt;br&gt;Vui lòng xem chi tiết &lt;a href="http://example.com"&gt; &lt;font color="yellow"&gt;tại đây!&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
-
-![Xu&#x1ED1;ng d&#xF2;ng tr&#xEA;n &#x111;o&#x1EA1;n gi&#x1EDB;i thi&#x1EC7;u](../../../.gitbook/assets/loi-gioi-thieu-2.png)
+![T&#xF9;y ch&#x1EC9;nh ng&#x1EAF;t d&#xF2;ng](../../../.gitbook/assets/2.-copy-xuong-dong.jpg)
 {% endtab %}
 
-{% tab title="Gắn link số điện thoại, in đậm và thay màu chữ" %}
-* Gắn link vào số điện thoai
-
-```text
-<a href="tel:02473021368">02473021368</a>
-```
-
-* Tùy chỉnh màu sắc của số điện thoại
-
-```text
-<a href="tel:02473021368"><strong><u><font color="white">02473021368</font color></u></strong></a>
-```
+{% tab title="Gắn link số điện thoại và thay màu chữ" %}
+* Mã HTML gắn link vào số điện thoại: `<a href="tel:02473021368">02473021368</a>`
+* Mã HTML gắn link vào số điện thoại, in đậm và thay màu sắc số điện thoại: `<a href="tel:02473021368"><strong><u><font color="white">02473021368</font color></u></strong></a>`
 
 Những thành phần bạn có thể thay đổi trong đoạn mã trên:
 
-* Số điện thoại bạn muốn gắn lên cửa sổ chat 
-* White: là màu bạn muốn thay đổi cho số điện thoại 
+* **02473021368**: Số điện thoại bạn muốn gắn lên cửa sổ chat 
+* **white**: là màu bạn muốn thay đổi cho số điện thoại 
 
-![G&#x1EAF;n link s&#x1ED1; &#x111;i&#x1EC7;n tho&#x1EA1;i tr&#xEA;n c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/html.png)
+**Ví dụ**: SUBIZ HOTLINE: &lt;a href="tel:02473021368"&gt;&lt;strong&gt;&lt;u&gt;&lt;font color="white"&gt;02473021368&lt;/font color&gt;&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;
+
+![G&#x1EAF;n link s&#x1ED1; &#x111;i&#x1EC7;n tho&#x1EA1;i](../../../.gitbook/assets/3.-copy-phone-link.jpg)
 {% endtab %}
 {% endtabs %}
 
