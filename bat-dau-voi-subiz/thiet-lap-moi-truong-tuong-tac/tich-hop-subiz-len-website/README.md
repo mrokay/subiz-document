@@ -126,9 +126,9 @@ Subiz kết hợp mạnh mẽ với Google Tag Manager.
 
 Khi bạn sử dụng Google Tag Manager trên website, bạn có thể tích hợp Subiz chat vào website thông qua Google Tag Manager theo các bước như sau:
 
-1. Đăng nhập[ Tagmanager.google.com](https://tagmanager.google.com/#/home)
-2. Chọn account quản lý website sẽ tích hợp Subiz chat tại All account.
-3. Tạo Tag mới: Tại WORKSPACE chọn Tags &gt; NEW
+1. **Đăng nhập**[ Tagmanager.google.com](https://tagmanager.google.com/#/home)
+2. **Chọn account quản lý website** sẽ tích hợp Subiz chat tại All account.
+3. **Tạo Tag mới**: Tại WORKSPACE chọn Tags &gt; NEW
 
 ![T&#x1EA1;o Tags m&#x1EDB;i](../../../.gitbook/assets/2-tags-copy.jpg)
 
