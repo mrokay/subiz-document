@@ -26,7 +26,7 @@ width: 220px; height: 33px;
 
 ![B&#x1EA3;ng T&#xF9;y ch&#x1EC9;nh CSS](../../../.gitbook/assets/1-css-copy.jpg)
 
-### 3. CSS tùy chỉnh giao diện cửa sổ chat 
+### 3. CSS tùy chỉnh giao diện cửa sổ chat trên điện thoại
 
 * Tùy chỉnh màu sắc chung của cả cửa sổ chat và chat button ****Bạn có thể thay đổi mã màu \#0000
 
@@ -60,7 +60,7 @@ background-color: #0000;
 }
 ```
 
-### 4. CSS tùy chỉnh hình ảnh chat button
+### 4. CSS tùy chỉnh hình ảnh chat button trên điện thoại
 
 * Thay đổi chat button trên điện thoại. Trong đó:  
   * [https://filev4.subiz.com/fiqcggnqemgkhtwdbyne-button\_chat\_08.png](https://filev4.subiz.com/fiqcggnqemgkhtwdbyne-button_chat_08.png): là link hình ảnh chat button. Bạn có thể thay đổi chọn link ảnh của bạn.
