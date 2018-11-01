@@ -57,7 +57,7 @@
     * [API đồng bộ dữ liệu website và Subiz](su-dung-subiz-nang-cao/quan-ly-du-lieu/api-dong-bo-du-lieu-website-va-subiz.md)
 * [Báo cáo & Thống kê](bao-cao-and-thong-ke/README.md)
   * [Thống kê hội thoại](bao-cao-and-thong-ke/thong-ke-cuoc-hoi-thoai.md)
-  * [Thống kê User](bao-cao-and-thong-ke/thong-ke-user.md)
+  * [Thống kê Users](bao-cao-and-thong-ke/thong-ke-user.md)
   * [Thống kê hội thoại được gắn tag](bao-cao-and-thong-ke/thong-ke-tag.md)
   * [Thống kê Subiz chat trên Google Analytics](bao-cao-and-thong-ke/thong-ke-subiz-chat-tren-google-analytics.md)
   * [Thống kê Subiz chat theo nguồn khách truy cập](bao-cao-and-thong-ke/thong-ke-nguon-khach-truy-cap-ket-hop-voi-subiz-chat.md)
