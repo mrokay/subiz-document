@@ -13,20 +13,13 @@ Cửa sổ chat Subiz trên điện thoại di động được thiết kế t�
 
 ### 2. Các bước tùy chỉnh cửa sổ chat trên điện thoại với mã CSS
 
-Để sử dụng mã CSS tùy chỉnh cửa sổ chat, bạn thao tác: [Đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ hội thoại &gt; Tùy chỉnh CSS](https://app.subiz.com/settings/widget-setting) &gt; Sao chép mã CSS và dán vào phía dưới bảng tùy chỉnh CSS  
-`.widget_mobile .button-chat {  
-background-image: url(https://filev4.subiz.com/fiqcggnqemgkhtwdbyne-button_chat_08.png);  
-}  
-.widget_mobile .widget-button {  
-width: 220px; height: 33px;  
-}`  
-   
+Để sử dụng mã CSS tùy chỉnh cửa sổ chat, bạn thao tác: [Đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ hội thoại &gt; Tùy chỉnh CSS](https://app.subiz.com/settings/widget-setting) &gt; Sao chép mã CSS tương ứng và dán vào phía dưới bảng tùy chỉnh CSS  
 &gt; Lưu thay đổi tại bảng Tùy chỉnh CSS   
 &gt; Lưu thay đổi tại mục Cửa sổ hội thoại để hoàn thành
 
 ![B&#x1EA3;ng T&#xF9;y ch&#x1EC9;nh CSS](../../../.gitbook/assets/1-css-copy.jpg)
 
-### 3. CSS tùy chỉnh giao diện cửa sổ chat trên điện thoại
+### 2.1 CSS tùy chỉnh giao diện cửa sổ chat trên điện thoại
 
 * Tùy chỉnh màu sắc chung của cả cửa sổ chat và chat button ****Bạn có thể thay đổi mã màu \#0000
 
@@ -60,7 +53,7 @@ background-color: #0000;
 }
 ```
 
-### 4. CSS tùy chỉnh hình ảnh chat button trên điện thoại
+### 2.2 CSS tùy chỉnh chat button trên điện thoại
 
 * Thay đổi chat button trên điện thoại. Trong đó:  
   * [https://filev4.subiz.com/fiqcggnqemgkhtwdbyne-button\_chat\_08.png](https://filev4.subiz.com/fiqcggnqemgkhtwdbyne-button_chat_08.png): là link hình ảnh chat button. Bạn có thể thay đổi chọn link ảnh của bạn.
