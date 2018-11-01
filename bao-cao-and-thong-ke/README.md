@@ -8,9 +8,21 @@ Trong [Subiz](https://subiz.com/vi/), mọi dữ liệu tương tác của bạn
 
 Tại đây bạn có thể thống kê tương tác online theo các danh mục sau:
 
-* \*\*\*\*[**Thống kê cuộc hội thoại**](https://help.subiz.com/bao-cao-and-thong-ke/thong-ke-cuoc-hoi-thoai): Bạn có thể thống kê cuộc hội thoại theo từng khung thời gian chi tiết và theo từng Agent/ Nhóm Agent cụ thể. Taị đây, bạn sẽ có được số liệu chi tiết về những cuộc tương tác, thời điểm có nhiều khách hàng tương tác, những agent nào có nhiều/ ít cuộc tương tác nhất và kênh nào hoạt động hiệu quả nhất.
-* [**Thống kê User**](https://help.subiz.com/bao-cao-and-thong-ke/thong-ke-user): Để giúp các doanh nghiệp dễ dàng quản lý và nắm bắt được hiệu quả qua các kênh tương tác, Subiz hỗ trợ bạn thống kê theo User. Thống kê này giúp bạn có thể thống kê lượt khách hàng truy cập và đã có tương tác theo kênh tương tác và theo từng Agent/ Nhóm Agent cụ thể. Bạn có thể thống kê lượt truy cập theo từng thời điểm, theo từng kênh để đánh giá hiệu quả của website.
-* \*\*\*\*[**Thống kê Tag**](https://help.subiz.com/bao-cao-and-thong-ke/thong-ke-tag): Thống kê tag sẽ giúp bạn phân loại và quản lý các cuộc tương tác một cách hiệu quả. Nếu như bạn không chỉ muốn bán hàng trên các kênh online mà còn cung cấp các dịch vụ chăm sóc khách hàng, hỗ trợ kỹ thuật...chức năng thống kê này sẽ giúp bạn nắm được tình hình hoạt động trực tuyến của doanh nghiệp và xác định kênh hỗ trợ khách hàng hiệu quả.
+{% page-ref page="thong-ke-cuoc-hoi-thoai.md" %}
+
+* Bạn có thể thống kê cuộc hội thoại theo từng khoảng thời gian chi tiết và theo từng Agent/ Nhóm Agent cụ thể, từng kênh bán hàng.
+
+{% page-ref page="thong-ke-user.md" %}
+
+* Thống kê lượt khách hàng truy cập, có tương tác theo kênh tương tác và từng dữ liệu khách hàng. Bạn có thể thống kê lượt truy cập theo từng thời điểm, theo từng kênh để có tổng quan về khách hàng của doanh nghiệp.
+
+{% page-ref page="thong-ke-tag.md" %}
+
+* Thống kê hội thoại được gắn tag sẽ giúp phân loại và quản lý nội dung các cuộc tương tác một cách dễ dàng.
+
+{% page-ref page="thong-ke-subiz-chat-tren-google-analytics.md" %}
+
+* Dữ liệu Subiz chat được tự động chuyển sang GA giúp nhà quản trị Marketing thống kê dữ liệu và thông số theo từng nhu cầu riêng của doanh nghiệp
 
 Như vậy, với thống kê báo cáo [Subiz](https://subiz.com/vi/), bạn không chỉ đơn thuần thấy được những con số thống kê mà còn xây dựng những cơ sở dữ liệu để quản lý tình hình hoạt động kinh doanh, chăm sóc khách hàng và triển khai những kế hoạch kinh doanh hiệu quả.
 

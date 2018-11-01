@@ -1,14 +1,15 @@
 # Thống kê User
 
-Thống kê User là thống kê số lượng khách hàng mới đã truy cập website, có tương tác qua Subiz trong một khoảng thời gian. Đây cũng là cơ sở giúp các Marketing, nhà quản lý đánh giá được bức tranh khách hàng và tổng quan tỷ lệ chuyển đổi của doanh nghiệp.
+[Thống kê User](https://app.subiz.com/reports/user) là thống kê số lượng khách hàng mới đã truy cập website, có tương tác qua Subiz trong một khoảng thời gian. Đây cũng là cơ sở giúp các Marketing, nhà quản lý đánh giá được tổng quan khách hàng và tỷ lệ chuyển đổi của doanh nghiệp.
 
 ### Các thông số thống kê User
 
-Tại trang thống kê User, bạn có thể thống kê số lượng khách hàng đã truy cập website hay số lượng khách hàng đã có tương tác theo các thông số như **Phân khúc user**, **Kênh**, **Trường dữ liệu của user**, **Thời gian**
+Tại trang [thống kê User](https://app.subiz.com/reports/user), bạn có thể thống kê số lượng khách hàng đã truy cập website hay số lượng khách hàng đã có tương tác theo các thông số như **Phân khúc user**, **Kênh**, **Trường dữ liệu của user**, **Thời gian**
 
 {% tabs %}
 {% tab title="Phân khúc user" %}
-Chọn đối tượng phân khúc user bạn muốn thống kê:
+Phân khúc user là nhóm khách hàng đã được phân chia. Gồm 3 phân khúc user chính: Tất cả user, User của tôi, Connected users  
+\([Xem thêm về phân khúc user](https://help.subiz.com/su-dung-subiz-nang-cao/quan-ly-du-lieu/phan-khuc-khach-hang/su-dung-phan-khuc-khach-hang-mac-dinh)\)
 
 ![Th&#x1ED1;ng k&#xEA; User theo &#x111;&#x1ED1;i t&#x1B0;&#x1EE3;ng](../.gitbook/assets/thong-ke-hoi-thoai-theo-user.png)
 
@@ -18,7 +19,7 @@ Chọn đối tượng phân khúc user bạn muốn thống kê:
 {% endtab %}
 
 {% tab title="Kênh" %}
-Tổng hợp các user đã có tương tác qua các kênh như: Email, Subiz chat trên Website, Fanpage Messenger.
+Các kênh chăm sóc khách hàng và bán hàng của bạn như: Email, Subiz chat trên Website, Fanpage Messenger.
 
 ![Th&#x1ED1;ng k&#xEA; User theo k&#xEA;nh](../.gitbook/assets/thong-ke-hoi-thoai-theo-kenh-user.png)
 {% endtab %}
