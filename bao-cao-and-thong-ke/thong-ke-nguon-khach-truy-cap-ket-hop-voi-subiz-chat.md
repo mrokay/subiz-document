@@ -47,7 +47,7 @@ Tùy từng mục đích thống kê, bạn sẽ chọn các điều kiện tư�
 
 ![ Th&#x1ED1;ng k&#xEA; s&#x1ED1; kh&#xE1;ch c&#xF3; nh&#x1EAD;n v&#xE0; g&#x1EED;i tin nh&#x1EAF;n qua Subiz](../.gitbook/assets/10-copy.jpg)
 
-* Ví dụ 5: Xem thống kê tổng số khách có hận tin nhắn HOẶC gửi tin nhắn qua cửa sổ Subiz chat,  chọn Điều kiện là **Nhãn sự kiện - chứa - User**
+* Ví dụ 5: Xem thống kê tổng số khách có nhận tin nhắn HOẶC gửi tin nhắn qua cửa sổ Subiz chat,  chọn Điều kiện là **Nhãn sự kiện - chứa - User**
 
 ![Th&#x1ED1;ng k&#xEA; s&#x1ED1; kh&#xE1;ch c&#xF3; nh&#x1EAD;n HO&#x1EB6;C g&#x1EED;i tin nh&#x1EAF;n qua Subiz](../.gitbook/assets/8.-nhan-user-copy.jpg)
 
