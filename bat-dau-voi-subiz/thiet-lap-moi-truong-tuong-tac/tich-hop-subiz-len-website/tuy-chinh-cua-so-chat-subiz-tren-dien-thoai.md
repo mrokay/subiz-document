@@ -11,6 +11,8 @@ Cửa sổ chat Subiz trên điện thoại di động được thiết kế t�
 * Bạn có thể tùy chỉnh các thành phần của giao diện **cửa sổ chat** với mã CSS
 * Tin nhắn tự động của Automation sẽ hiển thị thông báo tin nhắn dạng số tại chat button, không mở cửa sổ chat.
 
+![C&#x1EED;a s&#x1ED5; Subiz chat tr&#xEA;n &#x111;i&#x1EC7;n tho&#x1EA1;i](../../../.gitbook/assets/widget-vn.png)
+
 ### 2. Các bước tùy chỉnh cửa sổ chat trên điện thoại với mã CSS
 
 Để sử dụng mã CSS tùy chỉnh cửa sổ chat, bạn thao tác: [Đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ hội thoại &gt; Tùy chỉnh CSS](https://app.subiz.com/settings/widget-setting) &gt; Sao chép mã CSS tương ứng và dán vào phía dưới bảng tùy chỉnh CSS  
