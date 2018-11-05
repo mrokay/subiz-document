@@ -49,7 +49,8 @@ Một số lưu ý:
 
 ### 3. Một số mã CSS tối ưu hiển thị button 
 
-Khi bạn sử dụng hình ảnh button bất kỳ của bạn, Subiz có các mã CSS giúp tùy biến và tối ưu hiển thị button trên website.
+Khi bạn sử dụng hình ảnh button bất kỳ của bạn, Subiz có các mã CSS giúp tùy biến và tối ưu hiển thị button trên website.  
+Các bước cài đặt: [Cửa sổ Subiz chat](https://app.subiz.com/settings/widget-setting) &gt; Tùy chỉnh CSS &gt; Sao chép và dán mã CSS phù hợp vào bảng Tùy chỉnh CSS  &gt; Lưu thay đổi  tại bảng &gt; Lưu thay đổi tại Cửa sổ Subiz chat.
 
 <table>
   <thead>
