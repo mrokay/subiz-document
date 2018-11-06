@@ -74,7 +74,7 @@ Hiện tại, [Subiz](https://subiz.com/vi/) hỗ trợ 2 ngôn ngữ là Tiến
 
 *  Truy cập [https://localise.biz/free/poeditor](https://localise.biz/free/poeditor), tải lên tệp .po mà bạn vừa lưu trong máy tính
 
-![T&#x1EA3;i l&#xEA;n file g&#x1ED1;c .po](../../../.gitbook/assets/4.-tai-len-po.jpg)
+![T&#x1EA3;i l&#xEA;n t&#x1EC7;p t&#xF9;y ch&#x1EC9;nh n&#x1ED9;i dung](../../../.gitbook/assets/4.-tai-len-po.jpg)
 
 * Source text là phần ngôn ngữ gốc, **Translation là phần dịch để bạn tùy chỉnh ngôn ngữ theo nhu cầu**
 
@@ -82,17 +82,17 @@ Hiện tại, [Subiz](https://subiz.com/vi/) hỗ trợ 2 ngôn ngữ là Tiến
 
 * chọn **Save** sau khi tùy chỉnh xong và chọn Tải file .po đã tùy chỉnh về máy tính
 
-![L&#x1B0;u file .po &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh v&#x1EC1; m&#xE1;y t&#xED;nh](../../../.gitbook/assets/6.-luu-ve-may.jpg)
+![L&#x1B0;u t&#x1EC7;p &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh v&#x1EC1; m&#xE1;y t&#xED;nh](../../../.gitbook/assets/6.-luu-ve-may.jpg)
 
 **Bước 3: Tải lên Subiz tệp nội dung đã tùy chỉnh** 
 
 * Tại bảng **Tùy chỉnh nội dung** của Subiz, bạn tải lên tệp nội dung đã tùy chỉnh
 
-![Ch&#x1ECD;n &#x111;&#x1EC3; t&#x1EA3;i l&#xEA;n file .po &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh ](../../../.gitbook/assets/7.-tuy-chinh-file-po.jpg)
+![T&#x1EA3;i l&#xEA;n t&#x1EC7;p &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh n&#x1ED9;i dung](../../../.gitbook/assets/3.-copy.jpg)
 
 * Khi tải lên thành công, bạn chọn **X** để hoàn thành và không cần lưu lại.
 
-![T&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; th&#xE0;nh c&#xF4;ng](../../../.gitbook/assets/8.-luu-thanh-cong.jpg)
+![T&#x1EA3;i t&#x1EC7;p t&#xF9;y ch&#x1EC9;nh n&#x1ED9;i dung th&#xE0;nh c&#xF4;ng](../../../.gitbook/assets/4-copy.jpg)
 
 > Bạn đang cần hỗ trợ thêm, vui lòng chat trực tiếp với Subiz trên website [Subiz.com](https://subiz.com/vi/feature.html) nhé!
 
