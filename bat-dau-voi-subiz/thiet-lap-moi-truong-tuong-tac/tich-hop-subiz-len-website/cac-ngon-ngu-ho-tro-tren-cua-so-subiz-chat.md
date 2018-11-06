@@ -48,21 +48,21 @@ subiz('setLanguage', 'vi');
 
 ```
 
-### 3. Tùy chỉnh ngôn ngữ cửa sổ chat với file .po
+### 3. Tùy chỉnh nội dung cửa sổ chat với file .po
 
-Hiện tại, [Subiz](https://subiz.com/vi/) hỗ trợ 2 ngôn ngữ là Tiếng Việt và Tiếng Anh để bạn có thể tùy chỉnh mục **tiêu đề cửa sổ chat và lời giới thiệu** theo từng ngôn ngữ này.
+Hiện tại, [Subiz](https://subiz.com/vi/) hỗ trợ 2 ngôn ngữ là Tiếng Việt và Tiếng Anh để bạn có thể tùy chỉnh nội dung **tiêu đề cửa sổ chat và lời giới thiệu** theo từng ngôn ngữ này.
 
 Đặc biệt,  Subiz cung cấp thêm file tùy chỉnh ngôn ngữ gốc .po khi bạn có nhu cầu riêng như:
 
 * Sử dụng một ngôn ngữ khác ngoài Tiếng Việt và Tiếng Anh. Ví dụ: Tiếng Pháp, Tiếng Nhật,..
-* Tùy chỉnh phần dịch ngôn ngữ của nhiều mục khác trên cửa sổ chat. Ví dụ: Tin nhắn trong Automation hỏi thông tin,...
+* Tùy chỉnh nội dung của nhiều mục khác trên cửa sổ chat. Ví dụ: Tin nhắn trong Automation hỏi thông tin,...
 
 **Hướng dẫn các bước tùy chỉnh ngôn ngữ cửa sổ chat với file .po gồm 3 bước sau:**
 
 **Bước 1: Tải xuống file gốc .po**
 
 * [Đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ hội thoại ](https://app.subiz.com/settings/widget-setting)
-* Tại mục **NGÔN NGỮ** &gt; chọn **Tiếng Việt** &gt; chọn **Tùy chỉnh ngôn ngữ**
+* Tại mục **NGÔN NGỮ** &gt; chọn **Tiếng Việt** &gt; chọn **Tùy chỉnh nội dung**
 
 ![T&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; trong c&#x1EED;a s&#x1ED5; h&#x1ED9;i tho&#x1EA1;i](../../../.gitbook/assets/1.-tuy-chinh.jpg)
 
