@@ -59,24 +59,20 @@ Hiện tại, [Subiz](https://subiz.com/vi/) hỗ trợ 2 ngôn ngữ là Tiến
 
 **Hướng dẫn các bước tùy chỉnh ngôn ngữ cửa sổ chat với file .po gồm 3 bước sau:**
 
-**Bước 1: Tải xuống file gốc .po**
+**Bước 1: Tải xuống tệp tùy chỉnh nội dung cửa sổ chat**
 
 * [Đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ hội thoại ](https://app.subiz.com/settings/widget-setting)
 * Tại mục **NGÔN NGỮ** &gt; chọn **Tiếng Việt** &gt; chọn **Tùy chỉnh nội dung**
 
-![T&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; trong c&#x1EED;a s&#x1ED5; h&#x1ED9;i tho&#x1EA1;i](../../../.gitbook/assets/1.-tuy-chinh.jpg)
+![T&#xF9;y ch&#x1EC9;nh n&#x1ED9;i dung c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/1-copye.jpg)
 
-* Chọn **Tải xuống file gốc .po**
+* Chọn **Tải về tệp tùy chỉnh nội dung của widget &gt; Tệp định dạng .po** sẽ được lưu về máy tính
 
-![T&#x1EA3;i xu&#x1ED1;ng file g&#x1ED1;c .po](../../../.gitbook/assets/2.-tai-xuong-po.jpg)
-
-* **File .po sẽ được mở ở tab khác** &gt; **Nhấp chuột phải** và chọn **Lưu thành** \(hay **Save as**\) &gt; File lưu về máy tính định dạng **PO translation**
-
-![L&#x1B0;u file g&#x1ED1;c .po v&#x1EC1; m&#xE1;y t&#xED;nh](../../../.gitbook/assets/3.-save-as.jpg)
+![T&#x1EA3;i v&#x1EC1; t&#x1EC7;p t&#xF9;y ch&#x1EC9;nh n&#x1ED9;i dung c&#x1EE7;a widget](../../../.gitbook/assets/2-copy.jpg)
 
 **Bước 2: Tùy chỉnh file ngôn ngữ .po**
 
-*  Truy cập [https://localise.biz/free/poeditor](https://localise.biz/free/poeditor), tải lên file gốc .po mà bạn vừa lưu trong máy tính
+*  Truy cập [https://localise.biz/free/poeditor](https://localise.biz/free/poeditor), tải lên tệp .po mà bạn vừa lưu trong máy tính
 
 ![T&#x1EA3;i l&#xEA;n file g&#x1ED1;c .po](../../../.gitbook/assets/4.-tai-len-po.jpg)
 
@@ -88,9 +84,9 @@ Hiện tại, [Subiz](https://subiz.com/vi/) hỗ trợ 2 ngôn ngữ là Tiến
 
 ![L&#x1B0;u file .po &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh v&#x1EC1; m&#xE1;y t&#xED;nh](../../../.gitbook/assets/6.-luu-ve-may.jpg)
 
-**Bước 3: Tải lên Subiz file .po đã tùy chỉnh** 
+**Bước 3: Tải lên Subiz tệp nội dung đã tùy chỉnh** 
 
-* Tại bảng **Tùy chỉnh ngôn ngữ** của Subiz, bạn tải lên file .po đã tùy chỉnh
+* Tại bảng **Tùy chỉnh nội dung** của Subiz, bạn tải lên tệp nội dung đã tùy chỉnh
 
 ![Ch&#x1ECD;n &#x111;&#x1EC3; t&#x1EA3;i l&#xEA;n file .po &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh ](../../../.gitbook/assets/7.-tuy-chinh-file-po.jpg)
 
