@@ -8,7 +8,7 @@ Tài khoản Subiz là tài sản của doanh nghiệp, vì vậy khi đăng ký
 
 Khi bạn đăng ký tài khoản Subiz, email đăng ký sẽ được gọi là email tài khoản chính hay email owner. Tài khoản chính có quyền cao nhất và quản lý tài khoản thông qua email owner. Bao gồm các quyền:
 
-* Đăng nhập vào trang quản trị Subiz
+* Đăng nhập vào trang quản trị Subiz [App.subiz.com](https://app.subiz.com/)
 * Quản lý thông tin gói dịch vụ của tài khoản: nâng cấp mới, mua thêm agent, gia hạn dịch vụ, phương thức thanh toán
 * Quản lý các tài khoản Agent: Tạo thêm, tùy chỉnh quyền, xóa tài khoản Agent
 * Thực hiện các chỉnh sửa , cài đặt tài khoản
@@ -18,14 +18,14 @@ Khi bạn đăng ký tài khoản Subiz, email đăng ký sẽ được gọi l�
 **Lưu ý:**
 
 * Bạn nên đăng ký tài khoản Subiz bằng email chung của công ty để giúp dễ quản lý tài khoản trong quá trình làm việc, tránh việc đăng ký bằng email cá nhân, gây thất lạc trong quá trình luân chuyển công tác, bàn giao tài khoản.
-* Chỉ chủ tài khoản email owner có quyền quản lý tài khoản và gửi yêu cầu tới Subiz về các vấn đề của tài khoả : chuyển thanh toán sang tài khoản khác, bảo lưu tài khoản, ngưng sử dụng dịch vụ, đổi email chủ quản…
+* Chỉ chủ tài khoản email owner có quyền quản lý tài khoản và gửi yêu cầu tới Subiz về các vấn đề của tài khoản : chuyển thanh toán sang tài khoản khác, đổi email chủ quản…
 * Bạn có thể thay đổi email nhận thông tin gia hạn từ Subiz bằng cách liên hệ với Subiz để được hỗ trợ đổi email này.
 {% endhint %}
 
 **Mật khẩu**
 
 * Mật khẩu là thông tin bảo mật của doanh nghiệp. Mật khẩu sẽ được mã hóa bảo mật và thuộc quyền quản lý của doanh nghiệp
-* Trong trường hợp quên mật khẩu bạn có thể khôi phục bằng cách click vào phần quên mật khẩu ngay trên trang đăng nhập của Subiz. Hệ thống sẽ gửi tới email đăng ký của bạn  đường link đổi mật khẩu.
+* Trong trường hợp quên mật khẩu bạn có thể khôi phục bằng cách click vào phần quên mật khẩu ngay trên trang đăng nhập của Subiz. Hệ thống sẽ gửi tới email đăng ký của bạn hướng dẫn thay đổi mật khẩu.
 
 ### Các trường hợp cần thay đổi Email owner
 
