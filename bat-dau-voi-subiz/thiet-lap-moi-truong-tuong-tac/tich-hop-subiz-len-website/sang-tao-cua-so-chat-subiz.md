@@ -241,7 +241,7 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 
 ### Tùy chỉnh giao diện tiêu đề cửa sổ chat
 
-Cửa sổ chat tăng tính nhận diện thương hiệu với việc hiển thị logo công ty và thông tin doanh nghiệp
+Cửa sổ chat tùy biến mới lạ và tăng tính nhận diện thương hiệu với việc hiển thị logo công ty và thông tin doanh nghiệp.
 
 Bạn có thể tùy chỉnh được bố cục, giao diện khung tiêu đề cửa sổ chat bắt mắt hơn với sự kết hợp của các mã CSS sau:  
 `.color-theme-default {background-color:#f44336;}  
@@ -268,7 +268,7 @@ padding: 0 20px 0 10px; font-size:13px;
 }`   
 
 
-Trong đó, bạn có thể thay đổi các thông số của từng mã CSS để giao diện khung tiêu đề được hài hòa
+Trong đó, bạn có thể thay đổi các thông số của từng mã CSS để giao diện khung tiêu đề được hài hòa.
 
 <table>
   <thead>
@@ -322,13 +322,5 @@ Trong đó, bạn có thể thay đổi các thông số của từng mã CSS đ
     </tr>
   </tbody>
 </table>  
-
-
-
-
-
-
-
-
-> Bạn có nhu cầu tùy chỉnh cửa sổ chat, vui lòng chat trực tiếp với tư vấn viên tại [Subiz.com](https://subiz.com/vi/feature.html)!
+Bạn có nhu cầu tùy chỉnh cửa sổ chat, vui lòng chat trực tiếp với tư vấn viên tại [Subiz.com](https://subiz.com/vi/feature.html) haowcj email Support@subiz.com!
 
