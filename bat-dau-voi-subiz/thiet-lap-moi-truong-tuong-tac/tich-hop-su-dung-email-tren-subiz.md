@@ -2,7 +2,7 @@
 
 Với việc tích hợp email, Subiz sẽ hoạt động giống như một hòm thư giúp bạn có thể nhận, trả lời và gửi các email cho khách hàng một cách nhanh chóng, tiện lợi mà không cần đăng nhập vào công cụ quản lý email khác.
 
-### Cách thức hoạt động của kênh Email Subiz
+## 1. Cách thức hoạt động của kênh Email Subiz
 
 Bạn cần lưu ý 2 loại địa chỉ Email sau trong quá trình tích hợp:
 
@@ -24,41 +24,47 @@ Tại trang tích hợp Email, bạn sẽ theo dõi  danh sách các địa ch�
 **Lưu ý:** Khi địa chỉ email của bạn đã đưọc cài đặt chuyển tiếp email , thì địa chỉ email này có thể được sử dụng để làm outcome email
 {% endhint %}
 
-### Thiết lập tích **hợp** Email trên Subiz <a id="thiet-lap-chuyen-tiep-email-tren-subiz"></a>
+## 2. Cài đặt tích **hợp** Email trên Subiz
 
-Để đảm bảo có thể gửi email ra và nhận email vào tài khoản Subiz của bạn, bạn cần thao tác theo 2 bước sau
+Để đảm bảo có thể gửi email ra và nhận email vào tài khoản Subiz của bạn, bạn cần thao tác theo 2 bước sau:
 
-#### **Bước 1: Tích hợp email cá nhân vào Subiz**
+### **Bước 1: Thêm địa chỉ email của doanh nghiệp vào Subiz**
 
 Đây là danh sách email bạn muốn tích hợp trên Subiz để nhận và gửi email cho khách hàng.
 
 Bạn làm theo các bước sau để thêm địa chỉ email:
 
-* Đăng nhập tài khoản và vào phần [**Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Email**](https://app.subiz.com/settings/email)
-* Chọn **Thêm Income Email**
-* Nhập địa chỉ email muốn chuyển tiếp vào phần **Nhập địa chỉ email**
+* Đăng nhập tài khoản và vào phần [**Cài đặt &gt; Tài khoản &gt; Email**](https://app.subiz.com/settings/email)
+* Chọn **Thêm địa chỉ Email**
+* Nhập địa chỉ email của doanh nghiệp vào phần **Nhập địa chỉ email**
 * Chọn **Thêm**
 
-![Th&#xEA;m &#x111;&#x1ECB;a ch&#x1EC9; email v&#xE0;o danh s&#xE1;ch Income Email](../../.gitbook/assets/new-income-email.png)
+![Th&#xEA;m &#x111;&#x1ECB;a ch&#x1EC9; email c&#x1EE7;a doanh nghi&#x1EC7;p v&#xE0;o Subiz](../../.gitbook/assets/them-email.jpg)
 
-#### **Bước 2: Cài đặt chuyển tiếp tự động trên tài khoản Gmail của bạn**
+### **Bước 2: Cài đặt chuyển tiếp tự động trên tài khoản email của doanh nghiệp**
 
-Đây là bước cài đặt để chuyển tiếp những email được gửi cho bạn vào tài khoản Subiz nhằm giúp bạn có thể nhận và trả lời email ngay trên Subiz.
+Đây là bước cài đặt để cho phép tự động chuyển tiếp thư của khách hàng được gửi cho bạn vào tài khoản Subiz giúp bạn có thể nhận và trả lời email ngay trên Subiz.
 
-**Đối với tài khoản Gmail**, bạn cài đặt chuyển tiếp theo hướng dẫn sau:
+{% hint style="info" %}
+Tham khảo hướng dẫn chi tiết cài đặt tự động chuyển tiếp trên [Google mail](https://support.google.com/mail/answer/10957?hl=vi), [Yahoo Mail](https://help.yahoo.com/kb/SLN22028.html), [Office 365](https://support.office.com/en-us/article/forward-email-from-office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e), [Outlook](https://support.office.com/en-us/article/turn-on-automatic-forwarding-in-outlook-on-the-web-7f2670a1-7fff-4475-8a3c-5822d63b0c8e), [Zoho mail](https://www.zoho.com/mail/help/email-forwarding.html), [Yandex mail](https://yandex.com/support/mail/web/preferences/filters/forwarding.html),...
+{% endhint %}
 
-* Đăng nhập tài khoản gmail mà bạn đã nhập trong Income Email
-* Click vào biểu tượng bánh xe và chọn **Setting**
-* Tại phần Setting, chọn **Forwarding and POP/IMAP**
+Dưới đây là hướng dẫn chi tiết Cài đặt chuyển tiếp trên Gmail và Bizweb mail.
+
+#### **HƯỚNG DẪN CÀI ĐẶT TỰ ĐỘNG CHUYỂN TIẾP TRÊN GMAIL:**
+
+* [Đăng nhập tài khoản Gmail](https://mail.google.com) mà bạn đã nhập trong Income Email
+* Click vào biểu tượng bánh xe và chọn **Settings**
+* Tại phần Settings, chọn **Forwarding and POP/IMAP**
 * Click vào **Add a forwarding address**
 
-![Thi&#x1EBF;t l&#x1EAD;p tr&#xEA;n Gmail](../../.gitbook/assets/gmail%20%281%29.png)
+![C&#xE0;i &#x111;&#x1EB7;t chuy&#x1EC3;n ti&#x1EBF;p tr&#xEA;n Gmail](../../.gitbook/assets/mail-gmail.jpg)
 
 * Nhập địa chỉ Income email mà [Subiz](https://subiz.com/vi/) đã cung cấp cho bạn \(để tránh sai sót, bạn ấn vào nút **Sao chép** tại trang [**Cài đặt Email** trên app.Subiz.com](https://app.subiz.com/settings/email-add)\)​
 
-![Sao ch&#xE9;p &#x111;&#x1ECB;a ch&#x1EC9; email Subiz cung c&#x1EA5;p cho b&#x1EA1;n](../../.gitbook/assets/button-copy-email.png)
+![Sao ch&#xE9;p &#x111;&#x1ECB;a ch&#x1EC9; Income email c&#x1EE7;a Subiz](../../.gitbook/assets/sao-chep.jpg)
 
-* Chọn **Next &gt; Proceed**
+* Chọn **Next &gt; Proceed** 
 * Gmail sẽ gửi một thư xác nhận tới địa chỉ email mà Subiz đã cấp cho bạn. Bạn kiểm tra thư này ngay tại mục [HOẠT ĐỘNG](https://app.subiz.com/activities/) trên trang [app. subiz.com](https://app.subiz.com/) như một đoạn hội thoại mới. Click vào link xác nhận được gửi trong thư.
 
 ![Email x&#xE1;c nh&#x1EAD;n](../../.gitbook/assets/email.png)
@@ -67,37 +73,26 @@ Bạn làm theo các bước sau để thêm địa chỉ email:
 * Chọn **Forward a copy of incoming mail to**
 * Chọn **Keep Gmail’s copy in the Inbox** nếu bạn muốn giữ các email đến trong hộp thư \(khuyến nghị sử dụng\)
 
-Sau khi hoàn thành 2 bước trên, thư gửi tới địa chỉ mail trong danh sách Income Email cũng sẽ được chuyển về Subiz như một hội thoại \(conversation\) mới. Khi bạn trả lời thư, người nhận sẽ nhìn thấy địa chỉ gửi đến là địa chỉ đã nhận thư \(địa chỉ email của bạn\).
+Sau khi hoàn thành 2 bước trên, thư gửi tới địa chỉ mail của doanh nghiệp cũng sẽ được tự động chuyển tiếp về Subiz như một hội thoại mới. Khi bạn trả lời thư, người nhận sẽ nhìn thấy địa chỉ gửi đến là địa chỉ của doanh nghiệp.  
 
-{% hint style="info" %}
-Hướng dẫn cài đặt tự động chuyển tiếp trên  [Yahoo Mail](https://help.yahoo.com/kb/SLN22028.html), [Office 365](https://support.office.com/en-us/article/forward-email-from-office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e), [Outlook](https://support.office.com/en-us/article/turn-on-automatic-forwarding-in-outlook-on-the-web-7f2670a1-7fff-4475-8a3c-5822d63b0c8e), [Zoho mail](https://www.zoho.com/mail/help/email-forwarding.html), [Yandex mail](https://yandex.com/support/mail/web/preferences/filters/forwarding.html),...
-{% endhint %}
 
-{% hint style="info" %}
-Hướng dẫn cài đặt chuyển tiếp trên Bizwebmail:
+#### HƯỚNG DẪN CÀI ĐẶT CHUYỂN TIẾP TRÊN BIZWEB MAIL
 
-1. Đăng nhập [Bizweb mail](https://mail.bizwebmail.vn/)
-2. Chọn Preferences \(Tùy chọn\) &gt; Mail &gt; Recieving Messages &gt; [Sao chép Income email của Subiz](https://app.subiz.com/settings/email-add) và dán vào ô **Forward a copy to** &gt; Save  
-   ****
+* Đăng nhập [Bizweb mail](https://mail.bizwebmail.vn/)
+* Chọn Preferences \(Tùy chọn\) &gt; Mail &gt; Recieving Messages &gt; [Sao chép Income email của Subiz](https://app.subiz.com/settings/email-add) và dán vào ô **Forward a copy to** &gt; Save để hoàn thành
 
-   ![](../../.gitbook/assets/bizweb-copy.jpg)
+![](../../.gitbook/assets/bizweb-copy.jpg)
 
-  
-   ****
+## ​3. Cài đặt DKIM/ SPF cho tên miền để tối ưu việc gửi email
 
-3. Bizweb sẽ gửi mail xác nhận kích hoạt vào Income email của Subiz. Bạn hãy kiểm tra và xác nhận để hoàn thành cài đặt tự động chuyển tiếp.
-{% endhint %}
-
-### ​Cài đặt DKIM/ SPF cho tên miền để tối ưu việc gửi email
-
-**DKIM \(Domain Keys Indentified Mail\)** là phương thức xác thực e-mail bằng chữ ký số của tên miền gửi thư. Việc thiết lập DKIM cho domain sẽ giúp thư của bạn gửi đi được xác thực và tránh vào hòm thư spam.
+**DKIM \(Domain Keys Indentified Mail\)** là phương thức xác thực e-mail bằng chữ ký số của tên miền gửi thư. Việc thiết lập DKIM cho domain sẽ giúp thư của bạn gửi đi được xác thực và nâng cao tỷ lệ thư vào hộp thư đến của người nhận.
 
 Để việc gửi email trên [Subiz](https://subiz.com/vi/) đạt hiệu quả cao nhất, bạn nên thiết lập DKIM và SPF trên domain của mình.
 
-* ​[Đăng nhập tài khoản Subiz](http://app.subiz.com/), vào phần [**Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Email**](https://app.subiz.com/settings/email)
+* ​[Đăng nhập tài khoản Subiz](http://app.subiz.com/), vào phần [**Cài đặt &gt; Tài khoản  &gt; Email**](https://app.subiz.com/settings/email)
 * Chọn **Configure DKIM**
 * Nhập tên miền hòm thư của bạn \(dạng company.com\)
-* Liên hệ người quản lý domain công ty để thiết lập DKIM và SPF cho domain
+* Liên hệ người quản lý domain công ty để thiết lập DKIM và SPF cho domain 
 
-
+> Bạn cần hỗ trợ thêm? Hãy liên hệ tư vấn viên qua chat online tại Subiz.com hoặc gửi mail Support@subiz.com!
 
