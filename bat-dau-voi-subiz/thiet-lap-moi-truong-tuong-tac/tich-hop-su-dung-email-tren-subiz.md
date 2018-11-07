@@ -6,9 +6,9 @@ Với việc tích hợp email, Subiz sẽ hoạt động giống như một hò
 
 Bạn cần lưu ý 2 loại địa chỉ Email sau trong quá trình tích hợp:
 
-* **Income Email:**  Khi[ đăng ký tài khoản Subiz](https://app.subiz.com/register), bạn sẽ được cung cấp một địa chỉ email có dạng **abc@mail.subiz.com**. Tất cả các email được gửi về địa chỉ này sẽ được coi như một cuộc hội thoại trên[ Subiz](https://subiz.com/vi/).
+* **Income Email:**  Khi[ đăng ký tài khoản Subiz](https://app.subiz.com/register), bạn sẽ được cung cấp một địa chỉ email có dạng **abcxyz@mail.subiz.com**. Tất cả các email được gửi về địa chỉ này sẽ được coi như một cuộc hội thoại trên[ Subiz](https://subiz.com/vi/).
 
-Tại trang tích hợp Email, bạn sẽ theo dõi  danh sách các địa chỉ email muốn chuyển tiếp email về **abc@mail.subiz.com** để bạn có thể nhận email luôn trên Subiz
+Tại trang tích hợp Email, bạn sẽ theo dõi  danh sách các địa chỉ email muốn chuyển tiếp email về **abcxyz@mail.subiz.com** để bạn có thể nhận email luôn trên Subiz
 
 ![Danh s&#xE1;ch Income Email](../../.gitbook/assets/danh-sach-income-email.png)
 
@@ -16,12 +16,12 @@ Tại trang tích hợp Email, bạn sẽ theo dõi  danh sách các địa ch�
 **Lưu ý:**  Danh sách này chỉ mang tính chất giúp quản lý dữ liệu \(quản lý số lượng, thêm, xóa các địa chỉ email đã được liệt kê\) chứ không  thể kiểm tra xem các địa chỉ email được thêm vào danh sách đã thiết lập chuyển tiếp email hay chưa.
 {% endhint %}
 
-* **Outcome Email:** Là địa chỉ email được sử dụng để hiển thị khi email được gửi đi từ tài khoản Subiz tới user
+* **Outcome Email:** Là địa chỉ email sẽ gửi thư cho khách hàng. Bạn có thể lựa chọn sử dụng địa chỉ outcome email tại mục Người gửi khi soạn email.
 
 ![Danh s&#xE1;ch Outcome Email](../../.gitbook/assets/danh-sach-outcome-email.png)
 
 {% hint style="info" %}
-**Lưu ý:** Khi địa chỉ email của bạn đã đưọc cài đặt chuyển tiếp email , thì địa chỉ email này có thể được sử dụng để làm outcome email
+**Lưu ý:** Sau khi bạn cài đặt tích hợp email trên Subiz thành công , thì địa chỉ email của doanh nghiệp sẽ được sử dụng để làm outcome email.
 {% endhint %}
 
 ## 2. Cài đặt tích **hợp** Email trên Subiz
@@ -79,7 +79,7 @@ Sau khi hoàn thành 2 bước trên, thư gửi tới địa chỉ mail của d
 #### HƯỚNG DẪN CÀI ĐẶT CHUYỂN TIẾP TRÊN BIZWEB MAIL
 
 * Đăng nhập [Bizweb mail](https://mail.bizwebmail.vn/)
-* Chọn Preferences \(Tùy chọn\) &gt; Mail &gt; Recieving Messages &gt; [Sao chép Income email của Subiz](https://app.subiz.com/settings/email-add) và dán vào ô **Forward a copy to** &gt; Save để hoàn thành
+* Chọn Preferences  &gt; Mail &gt; Recieving Messages &gt; [Sao chép Income email của Subiz](https://app.subiz.com/settings/email-add) và dán vào ô **Forward a copy to** &gt; Save để hoàn thành
 
 ![](../../.gitbook/assets/bizweb-copy.jpg)
 
