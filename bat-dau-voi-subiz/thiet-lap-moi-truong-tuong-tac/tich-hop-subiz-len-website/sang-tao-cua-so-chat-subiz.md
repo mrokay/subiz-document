@@ -273,8 +273,8 @@ Trong đó, bạn có thể thay đổi các thông số của từng mã CSS đ
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">CSS</th>
-      <th style="text-align:left">Ý nghĩa</th>
+      <th style="text-align:left">Mã CSS</th>
+      <th style="text-align:left">Ý nghĩa và thông số có thể thay đổi</th>
     </tr>
   </thead>
   <tbody>
@@ -295,29 +295,30 @@ Trong đó, bạn có thể thay đổi các thông số của từng mã CSS đ
     <tr>
       <td style="text-align:left"><code>.avatar-team { <br />position:absolute; <br />top:-70%; <br />background: url(</code>
         <a
-        href="https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png"><code>https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png</code>
+        href="https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png"><code>https://filev4.subiz.com/fiqbqxbalnpx<br />eeandtdr-image.png</code>
           </a><code> ); </code>
       </td>
-      <td style="text-align:left">
-        <p>Link ảnh hiển thị trên khung tiêu đề:</p>
-        <p><a href="https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png"><code>https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png</code></a><code></code>
-        </p>
-        <p><code>K&#xED;ch th&#x1B0;&#x1EDB;c chu&#x1EA9;n: d&#xE0;i 160px, cao 60px </code>
-        </p>
-      </td>
+      <td style="text-align:left">Link ảnh hiển thị trên khung tiêu đề: https://filesv4.subiz.com/fiqbqxabalnpxeeandtdr-image.png
+        <br
+        />Kích thước của ảnh chuẩn: dài 120px, cao 60px</td>
     </tr>
     <tr>
       <td style="text-align:left"><code>height: 100px; <br />background-size: 150px; <br />background-repeat: no-repeat; <br />background-position: center;<br /> } </code>
       </td>
       <td style="text-align:left">
-        <p>Thay đổi chiều cao của ảnh: 100px</p>
-        <p>Thay đổi kích thước của ảnh: 150px</p>
+        <p>Chiều cao của ảnh: 100px</p>
+        <p>Kích thước của ảnh: 150px</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>.team-intro { <br />width:55%; <br />margin-bottom:12px; <br />} .team-intro p{ <br />padding: 0 20px 0 10px; font-size:13px; <br />} </code>
+      <td style="text-align:left"><code>.team-intro { <br />width:55%; <br />margin-bottom:12px; <br />} .team-intro p{ <br />padding: 0 10px 0 10px; <br />font-size:13px; <br />} </code>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Nội dung giới thiệu khoản 55% khung tiêu đề</p>
+        <p>Khoảng trống nội dung giới thiệu so với
+          <br />4 đường viên khung tiêu đề: 0 10px 0 10px</p>
+        <p>Kích thước chữ viết: 13 px</p>
+      </td>
     </tr>
   </tbody>
 </table>  
