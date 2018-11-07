@@ -24,7 +24,7 @@ Ngay trên cửa sổ Subiz chat, bạn có thể tùy chỉnh và sáng tạo l
 {% tabs %}
 {% tab title="Gắn link  và thay màu chữ" %}
 Đoạn mã HTM gắn link và thay đổi màu chữ trên lời giới thiệu:  
-`<a href="http://example.com"> <font color="yellow">text</font></a>`
+`<a href="http://example.com"> <font color="yellow">Text</font></a>`
 
 Những thành phần bạn có thể thay đổi trong đoạn mã trên:
 
@@ -239,7 +239,95 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 {% endtab %}
 {% endtabs %}
 
-###  <a id="loi-khi-tich-hop-len-website"></a>
+### Tùy chỉnh giao diện tiêu đề cửa sổ chat
+
+Cửa sổ chat tăng tính nhận diện thương hiệu với việc hiển thị logo công ty và thông tin doanh nghiệp
+
+Bạn có thể tùy chỉnh được bố cục, giao diện khung tiêu đề cửa sổ chat bắt mắt hơn với sự kết hợp của các mã CSS sau:  
+`.color-theme-default {background-color:#f44336;}  
+.list-agents {   
+float:left;   
+width:45%; }   
+.avatar-team {   
+position:absolute;   
+top:-70%;   
+background: url(`[`https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png`](https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png) `);   
+height: 100px;   
+background-size: 150px;   
+background-repeat: no-repeat;   
+background-position: center;  
+ }   
+.avatar-team .avatar-agent{   
+display:none;   
+}   
+.team-intro {   
+width:55%;   
+margin-bottom:12px;   
+} .team-intro p{   
+padding: 0 20px 0 10px; font-size:13px;   
+}`   
+
+
+Trong đó, bạn có thể thay đổi các thông số của từng mã CSS để giao diện khung tiêu đề được hài hòa
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">CSS</th>
+      <th style="text-align:left">Ý nghĩa</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><code>.color-theme-default {background-color:#f44336;}</code>
+      </td>
+      <td style="text-align:left">Thay đổi mã màu khung tiêu đề: <code>#f44336</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>.list-agents { <br />float:left; <br />width:45%; }</code>
+      </td>
+      <td style="text-align:left">
+        <p>Ví trí ảnh trên khung tiêu đề: bên trái - left</p>
+        <p>Độ rộng ảnh khoảng 45% khung tiêu đề</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>.avatar-team { <br />position:absolute; <br />top:-70%; <br />background: url(</code>
+        <a
+        href="https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png"><code>https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png</code>
+          </a><code> ); </code>
+      </td>
+      <td style="text-align:left">
+        <p>Link ảnh hiển thị trên khung tiêu đề:</p>
+        <p><a href="https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png"><code>https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png</code></a><code></code>
+        </p>
+        <p><code>K&#xED;ch th&#x1B0;&#x1EDB;c chu&#x1EA9;n: d&#xE0;i 160px, cao 60px </code>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>height: 100px; <br />background-size: 150px; <br />background-repeat: no-repeat; <br />background-position: center;<br /> } </code>
+      </td>
+      <td style="text-align:left">
+        <p>Thay đổi chiều cao của ảnh: 100px</p>
+        <p>Thay đổi kích thước của ảnh: 150px</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>.team-intro { <br />width:55%; <br />margin-bottom:12px; <br />} .team-intro p{ <br />padding: 0 20px 0 10px; font-size:13px; <br />} </code>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>  
+
+
+
+
+
+
+
 
 > Bạn có nhu cầu tùy chỉnh cửa sổ chat, vui lòng chat trực tiếp với tư vấn viên tại [Subiz.com](https://subiz.com/vi/feature.html)!
 
