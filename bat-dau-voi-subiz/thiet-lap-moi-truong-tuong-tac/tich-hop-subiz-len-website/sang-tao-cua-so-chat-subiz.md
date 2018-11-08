@@ -13,7 +13,7 @@ Ngay trên cửa sổ Subiz chat, bạn có thể tùy chỉnh và sáng tạo l
   `<u>text`: Gạch chân chữ viết.  
 
 * HTML xuống dòng đoạn văn bản `<br>text`: ****Đặt mã &lt;br&gt; trước đoạn văn bản bạn muốn xuống dòng 
-* HTML thay đổi màu chữ viết `<font color="yellow">text</font>`: Thay đổi màu sắc vào ô "yellow" như red, white, blue.... 
+* HTML thay đổi màu sắc chữ viết `<font color="yellow">text</font>`: Thay đổi màu sắc vào ô "yellow" như red, white, blue.... 
 * HTML gắn đường link URL vào chữ viết  
   `<a href="http://example.com">Text</a>`: Thay link của bạn vào  http://example.com
 
@@ -63,7 +63,7 @@ Những thành phần bạn có thể thay đổi trong đoạn mã trên:
 {% endtab %}
 {% endtabs %}
 
-## CSS tùy chỉnh cửa sổ chat Subiz trên máy tính
+## CSS tùy chỉnh cửa sổ chat Subiz trên bản máy tính
 
 Bên cạnh việc sử dụng những [cài đặt cửa sổ chat trên website](https://app.subiz.com/settings/widget-setting) mà Subiz đã cung cấp. Bạn có thể dễ dàng tùy chỉnh những thành phần khác trên cửa sổ chat bằng cách sử dụng mã CSS.
 
@@ -73,18 +73,18 @@ CSS là viết tắt của cụm từ “Cascading Style Sheet”, nó là một
 
 Bạn sẽ đăng nhập vào trang app.subiz.com, vào phần [**Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Cửa sổ hội thoại &gt; Tùy chỉnh CSS**](https://app.subiz.com/settings/widget-setting) để thực hiện những thay đổi về CSS này.
 
-![B&#x1EAF;t &#x111;&#x1EA7;u t&#xF9;y ch&#x1EC9;nh CSS](../../../.gitbook/assets/noi-tuy-chinh-css.png)
+![T&#xF9;y ch&#x1EC9;nh CSS trong c&#x1EED;a s&#x1ED5; Subiz chat](../../../.gitbook/assets/tuy-chinh-css.jpg)
 
-Tiếp theo, **bạn Copy và paste đoạn css tương ứng** để tùy chỉnh thành phần bạn muốn, sau đó quay lại màn hình cài đặt cửa sổ chat và **Lưu thay đổi**
+Tiếp theo, **bạn sao chép và dán đoạn CSS tương ứng** để tùy chỉnh thành phần bạn muốn, sau đó quay lại màn hình cài đặt cửa sổ chat và **Lưu thay đổi**
 
 Dưới đây là một số tùy chỉnh css một số thành phần trên cửa sổ chat bạn có thể tham khảo.
 
 ### Thay đổi kích thước cửa sổ chat
 
-Bạn có thể thay đổi chiều cao và chiều rộng theo ý muốn:
+Bạn cần xác định [KIỂU CỬA SỔ CHAT](https://app.subiz.com/settings/widget-setting) đang sử dụng là Thu gọn hay Mở rộng để chọn mã CSS tùy chỉnh kích thước cửa sổ chat đúng dưới đây.
 
 {% tabs %}
-{% tab title="Loại cửa sổ Mở rộng" %}
+{% tab title="Kiểu cửa sổ chat Mở rộng" %}
 * Đoạn mã tùy chỉnh chiều cao cửa sổ chat [Subiz](https://subiz.com/vi/)
 
 ```text
@@ -105,7 +105,7 @@ Phần 750px, 600px bạn có thể điều chỉnh con số cho phù hợp vớ
 ![T&#xF9;y ch&#x1EC9;nh k&#xED;ch th&#x1B0;&#x1EDB;c c&#x1EED;a s&#x1ED5; chat M&#x1EDF; r&#x1ED9;ng](../../../.gitbook/assets/mo-rong-1.png)
 {% endtab %}
 
-{% tab title="Loại cửa sổ Thu gon" %}
+{% tab title="Kiểu cửa sổ chat Thu gọn" %}
 * Đoạn mã tùy chỉnh chiều cao cửa sổ chat Subiz
 
 ```text
@@ -127,9 +127,9 @@ Phần 750px, 600px bạn có thể điều chỉnh con số cho phù hợp vớ
 {% endtab %}
 {% endtabs %}
 
-### Tùy chỉnh cỡ chữ
+### Tùy chỉnh cỡ chữ của tin nhắn
 
-Đoạn mã tùy chỉnh cỡ chữ trên cửa sổ chat [Subiz](https://subiz.com/vi/)
+Đoạn mã tùy chỉnh cỡ chữ tin nhắn trên cửa sổ Subiz chat
 
 ```text
 .message-content{ font-size:20px;}
@@ -142,7 +142,7 @@ Phần 750px, 600px bạn có thể điều chỉnh con số cho phù hợp vớ
 {% tabs %}
 {% tab title="Màu sắc toàn bộ cửa sổ chat" %}
 {% hint style="danger" %}
-Khi bạn chọn cách tùy chỉnh màu sắc toàn bộ cửa sổ chat, bạn sẽ **không thể** tùy chỉnh màu sắc cho từng phần riêng biệt như header, khung tin nhắn hay nút tạo mới được nữa
+Khi bạn chọn cách tùy chỉnh màu sắc toàn bộ cửa sổ chat, bạn sẽ **không thể** tùy chỉnh màu sắc cho từng phần riêng biệt như khung tiêu đề, khung tin nhắn hay nút tạo mới được nữa
 {% endhint %}
 
 Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp.
@@ -168,10 +168,10 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 ![T&#xF9;y ch&#x1EC9;nh m&#xE0;u s&#x1EAF;c to&#xE0;n b&#x1ED9; c&#x1EED;a s&#x1ED5; chat theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p](../../../.gitbook/assets/css-mau-sac-toan-bo.png)
 {% endtab %}
 
-{% tab title="Màu sắc header" %}
+{% tab title="khung tiêu đề" %}
 Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
 
-* **Mã code tùy chỉnh màu sắc đơn của header**
+* **Mã code tùy chỉnh màu sắc đơn của khung tiêu đề**
 
 ```text
 .widget-header {background-color:#00000;}
@@ -179,7 +179,7 @@ Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuy�
 
 Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
 
-* **Mã code tùy chỉnh dài màu chuyển tiếp của header**
+* **Mã code tùy chỉnh dài màu chuyển tiếp của khung tiêu đề**
 
 ```text
 .widget-header
@@ -217,7 +217,7 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 {% tab title="Màu sắc nút \"Tạo mới\"" %}
 Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
 
-* **Mã code tùy chỉnh theo màu sắc đơn cho nút "Tạo mới"**
+* **Mã code tùy chỉnh theo màu sắc đơn cho nút "Tạo mới" \(Bắt đầu trò chuyện\)**
 
 ```text
 .add-new-conversation
@@ -243,23 +243,31 @@ Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có
 
 Cửa sổ chat tùy biến mới lạ và tăng tính nhận diện thương hiệu với việc hiển thị logo công ty và thông tin doanh nghiệp.
 
+![](../../../.gitbook/assets/sang-tao-widget-1.png)
+
 Bạn có thể tùy chỉnh được bố cục, giao diện khung tiêu đề cửa sổ chat bắt mắt hơn với sự kết hợp của các mã CSS sau:  
 `.color-theme-default {background-color:#f44336;}  
+  
 .list-agents {   
 float:left;   
 width:45%; }   
+  
 .avatar-team {   
 position:absolute;   
 top:-70%;   
 background: url(`[`https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png`](https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png) `);   
+  
 height: 100px;   
 background-size: 150px;   
 background-repeat: no-repeat;   
 background-position: center;  
- }   
+ }  
+.full { width:160px !important; }  
+  
 .avatar-team .avatar-agent{   
 display:none;   
 }   
+  
 .team-intro {   
 width:55%;   
 margin-bottom:12px;   
@@ -300,10 +308,14 @@ Trong đó, bạn có thể thay đổi các thông số của từng mã CSS đ
       </td>
       <td style="text-align:left">Link ảnh hiển thị trên khung tiêu đề: https://filesv4.subiz.com/fiqbqxabalnpxeeandtdr-image.png
         <br
-        />Kích thước của ảnh chuẩn: dài 120px, cao 60px</td>
+        />Kích thước của ảnh chuẩn: dài 160px, cao 60px</td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>height: 100px; <br />background-size: 150px; <br />background-repeat: no-repeat; <br />background-position: center;<br /> } </code>
+      <td style="text-align:left">
+        <p><code>height: 100px; <br />background-size: 150px; <br />background-repeat: no-repeat; <br />background-position: center;<br /> } </code>
+        </p>
+        <p><code>.full { width:160px !important; }</code>
+        </p>
       </td>
       <td style="text-align:left">
         <p>Chiều cao của ảnh: 100px</p>
@@ -321,6 +333,5 @@ Trong đó, bạn có thể thay đổi các thông số của từng mã CSS đ
       </td>
     </tr>
   </tbody>
-</table>  
-Bạn có nhu cầu tùy chỉnh cửa sổ chat, vui lòng chat trực tiếp với tư vấn viên tại [Subiz.com](https://subiz.com/vi/feature.html) haowcj email Support@subiz.com!
+</table>> Bạn muốn tùy chỉnh cửa sổ chat theo nhu cầu riêng, vui lòng chat trực tiếp với tư vấn viên tại [Subiz.com](https://subiz.com/vi/feature.html) hoặc email Support@subiz.com!
 
