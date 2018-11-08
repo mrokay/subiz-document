@@ -22,6 +22,7 @@
       * [Những vấn đề gặp phải khi đăng nhập Dashboard](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/faqs/loi-dang-nhap-subiz.md)
       * [Tôi không nhận được email của Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/faqs/toi-khong-nhan-duoc-email-cua-subiz.md)
       * [Các trình duyệt hỗ trợ cửa sổ chat và trang đăng nhập Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/faqs/cac-trinh-duyet-ho-tro-cua-so-chat-va-dashboard.md)
+      * [Tích hợp Bizweb mail vào Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/faqs/tich-hop-bizweb-mail-vao-subiz.md)
   * [Triển khai hoạt động](bat-dau-voi-subiz/trien-khai-hoat-dong/README.md)
     * [Quản lý Agent](bat-dau-voi-subiz/trien-khai-hoat-dong/quan-ly-agent/README.md)
       * [Tổng quan về Agent](bat-dau-voi-subiz/trien-khai-hoat-dong/quan-ly-agent/cac-loai-agent.md)
