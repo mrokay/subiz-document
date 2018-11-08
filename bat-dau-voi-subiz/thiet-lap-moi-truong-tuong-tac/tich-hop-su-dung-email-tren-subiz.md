@@ -6,14 +6,14 @@ Với việc tích hợp email, Subiz sẽ hoạt động giống như một hò
 
 Bạn cần lưu ý 2 loại địa chỉ Email sau trong quá trình tích hợp:
 
-* **Income Email:**  Khi[ đăng ký tài khoản Subiz](https://app.subiz.com/register), bạn sẽ được cung cấp một địa chỉ email có dạng **abcxyz@mail.subiz.com**. Tất cả các email được gửi về địa chỉ này sẽ được coi như một cuộc hội thoại trên[ Subiz](https://subiz.com/vi/).
+* **Income Email** hay địa chỉ email trên Subiz**:**  Khi[ đăng ký tài khoản Subiz](https://app.subiz.com/register), bạn sẽ được cung cấp một địa chỉ email có dạng **abcxyz@mail.subiz.com**. Tất cả các email được gửi về địa chỉ này sẽ được coi như một cuộc hội thoại trên[ Subiz](https://subiz.com/vi/).
 
-Tại trang tích hợp Email, bạn sẽ theo dõi  danh sách các địa chỉ email muốn chuyển tiếp email về **abcxyz@mail.subiz.com** để bạn có thể nhận email luôn trên Subiz
+Tại trang Cài đặt Email, bạn sẽ theo dõi  danh sách các địa chỉ email của doanh nghiệp muốn chuyển tiếp email về địa chỉ mail trên Subiz của bạn **abcxyz@mail.subiz.com** để bạn có thể nhận email luôn trên Subiz
 
-![Danh s&#xE1;ch Income Email](../../.gitbook/assets/danh-sach-income-email.png)
+![Danh s&#xE1;ch email c&#x1EE7;a doanh nghi&#x1EC7;p](../../.gitbook/assets/cai-dat-email.jpg)
 
 {% hint style="info" %}
-**Lưu ý:**  Danh sách này chỉ mang tính chất giúp quản lý dữ liệu \(quản lý số lượng, thêm, xóa các địa chỉ email đã được liệt kê\) chứ không  thể kiểm tra xem các địa chỉ email được thêm vào danh sách đã thiết lập chuyển tiếp email hay chưa.
+**Lưu ý:**  Danh sách này chỉ mang tính chất giúp quản lý địa chỉ email sử dụng trên Subiz \(quản lý số lượng, thêm, xóa các địa chỉ email đã được liệt kê\). Bạn cần thực hiện đủ 2 bước tích hợp Email trên Subiz để nhận và trả lời thư của khách hàng trên Subiz.
 {% endhint %}
 
 * **Outcome Email:** Là địa chỉ email sẽ gửi thư cho khách hàng. Bạn có thể lựa chọn sử dụng địa chỉ outcome email tại mục Người gửi khi soạn email.
@@ -46,21 +46,19 @@ Bạn làm theo các bước sau để thêm địa chỉ email:
 Đây là bước cài đặt để cho phép tự động chuyển tiếp thư của khách hàng được gửi cho bạn vào tài khoản Subiz giúp bạn có thể nhận và trả lời email ngay trên Subiz.
 
 {% hint style="info" %}
-Tham khảo hướng dẫn chi tiết cài đặt tự động chuyển tiếp trên [Google mail](https://support.google.com/mail/answer/10957?hl=vi), [Yahoo Mail](https://help.yahoo.com/kb/SLN22028.html), [Office 365](https://support.office.com/en-us/article/forward-email-from-office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e), [Outlook](https://support.office.com/en-us/article/turn-on-automatic-forwarding-in-outlook-on-the-web-7f2670a1-7fff-4475-8a3c-5822d63b0c8e), [Zoho mail](https://www.zoho.com/mail/help/email-forwarding.html), [Yandex mail](https://yandex.com/support/mail/web/preferences/filters/forwarding.html),...
+Tham khảo hướng dẫn chi tiết cài đặt tự động chuyển tiếp trên [Google mail](https://support.google.com/mail/answer/10957?hl=vi), [Yahoo Mail](https://help.yahoo.com/kb/SLN22028.html), [Office 365](https://support.office.com/en-us/article/forward-email-from-office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e), [Outlook](https://support.office.com/en-us/article/turn-on-automatic-forwarding-in-outlook-on-the-web-7f2670a1-7fff-4475-8a3c-5822d63b0c8e), [Zoho mail](https://www.zoho.com/mail/help/email-forwarding.html), [Yandex mail](https://yandex.com/support/mail/web/preferences/filters/forwarding.html), [Bizweb mail](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/faqs/tich-hop-bizweb-mail-vao-subiz),...
 {% endhint %}
 
-Dưới đây là hướng dẫn chi tiết Cài đặt chuyển tiếp trên Gmail và Bizweb mail.
+Dưới đây là hướng dẫn chi tiết Cài đặt chuyển tiếp trên Gmail.
 
-#### **HƯỚNG DẪN CÀI ĐẶT TỰ ĐỘNG CHUYỂN TIẾP TRÊN GMAIL:**
-
-* [Đăng nhập tài khoản Gmail](https://mail.google.com) mà bạn đã nhập trong Income Email
+* [Đăng nhập tài khoản Gmail](https://mail.google.com) mà bạn đã nhập thêm trên bước 1
 * Click vào biểu tượng bánh xe và chọn **Settings**
 * Tại phần Settings, chọn **Forwarding and POP/IMAP**
 * Click vào **Add a forwarding address**
 
 ![C&#xE0;i &#x111;&#x1EB7;t chuy&#x1EC3;n ti&#x1EBF;p tr&#xEA;n Gmail](../../.gitbook/assets/mail-gmail.jpg)
 
-* Nhập địa chỉ Income email mà [Subiz](https://subiz.com/vi/) đã cung cấp cho bạn \(để tránh sai sót, bạn ấn vào nút **Sao chép** tại trang [**Cài đặt Email** trên app.Subiz.com](https://app.subiz.com/settings/email-add)\)​
+* Nhập địa chỉ email trên Subiz của bạn \(để tránh sai sót, bạn chọn nút **Sao chép** tại trang [**Cài đặt Email** trên Subiz](https://app.subiz.com/settings/email-add)\)​
 
 ![Sao ch&#xE9;p &#x111;&#x1ECB;a ch&#x1EC9; Income email c&#x1EE7;a Subiz](../../.gitbook/assets/sao-chep.jpg)
 
@@ -73,15 +71,7 @@ Dưới đây là hướng dẫn chi tiết Cài đặt chuyển tiếp trên Gm
 * Chọn **Forward a copy of incoming mail to**
 * Chọn **Keep Gmail’s copy in the Inbox** nếu bạn muốn giữ các email đến trong hộp thư \(khuyến nghị sử dụng\)
 
-Sau khi hoàn thành 2 bước trên, thư gửi tới địa chỉ mail của doanh nghiệp cũng sẽ được tự động chuyển tiếp về Subiz như một hội thoại mới. Khi bạn trả lời thư, người nhận sẽ nhìn thấy địa chỉ gửi đến là địa chỉ của doanh nghiệp.  
-
-
-#### HƯỚNG DẪN CÀI ĐẶT CHUYỂN TIẾP TRÊN BIZWEB MAIL
-
-* Đăng nhập [Bizweb mail](https://mail.bizwebmail.vn/)
-* Chọn Preferences  &gt; Mail &gt; Recieving Messages &gt; [Sao chép Income email của Subiz](https://app.subiz.com/settings/email-add) và dán vào ô **Forward a copy to** &gt; Save để hoàn thành
-
-![](../../.gitbook/assets/bizweb-copy.jpg)
+Sau khi hoàn thành 2 bước trên, thư gửi tới địa chỉ mail của doanh nghiệp cũng sẽ được tự động chuyển tiếp về Subiz như một hội thoại mới. Khi bạn trả lời thư, người nhận sẽ nhìn thấy địa chỉ gửi đến là địa chỉ của doanh nghiệp.
 
 ## ​3. Cài đặt DKIM/ SPF cho tên miền để tối ưu việc gửi email
 
