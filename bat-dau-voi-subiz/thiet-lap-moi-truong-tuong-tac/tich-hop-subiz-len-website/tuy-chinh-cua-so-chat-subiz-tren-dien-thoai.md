@@ -21,7 +21,7 @@ Cửa sổ chat Subiz trên điện thoại di động được thiết kế t�
 
 ![B&#x1EA3;ng t&#xF9;y ch&#x1EC9;nh CSS](../../../.gitbook/assets/2.-box-copy.jpg)
 
-### 2.1 CSS tùy chỉnh giao diện cửa sổ chat trên điện thoại
+### 2.1 CSS tùy chỉnh màu sắc cửa sổ chat trên điện thoại
 
 * **Tùy chỉnh màu sắc chung của cả cửa sổ chat và chat button** Bạn có thể thay đổi mã màu \#0000
 
