@@ -23,7 +23,7 @@ Cửa sổ chat Subiz trên điện thoại di động được thiết kế t�
 
 ### 2.1 CSS tùy chỉnh giao diện cửa sổ chat trên điện thoại
 
-* Tùy chỉnh màu sắc chung của cả cửa sổ chat và chat button ****Bạn có thể thay đổi mã màu \#0000
+* **Tùy chỉnh màu sắc chung của cả cửa sổ chat và chat button** Bạn có thể thay đổi mã màu \#0000
 
 ```text
 .widget_mobile .color_theme_default {
@@ -31,7 +31,7 @@ background-color: #0000;
 }
 ```
 
-* Tùy chỉnh màu sắc thanh tiêu đề cửa sổ chat ****Bạn có thể thay đổi mã màu \#0000
+* **Tùy chỉnh màu sắc thanh tiêu đề cửa sổ chat** Bạn có thể thay đổi mã màu \#0000
 
 ```text
 .widget_mobile .widget-header {
@@ -39,7 +39,7 @@ background-color: #0000;
 }
 ```
 
-* Tùy chỉnh màu sắc ô tin nhắn trong cửa sổ chat ****Bạn có thể thay đổi mã màu \#0000
+* **Tùy chỉnh màu sắc ô tin nhắn trong cửa sổ chat** Bạn có thể thay đổi mã màu \#0000
 
 ```text
 .widget_mobile .message-body {
@@ -47,7 +47,7 @@ background-color: #0000;
 }
 ```
 
-* Tùy chỉnh màu sắc nút Bắt đầu trò chuyện trong cửa sổ chat ****Bạn có thể thay đổi mã màu \#0000
+* **Tùy chỉnh màu sắc nút Bắt đầu trò chuyện trong cửa sổ chat** Bạn có thể thay đổi mã màu \#0000
 
 ```text
 .widget_mobile .add-new-conversation {
@@ -57,7 +57,7 @@ background-color: #0000;
 
 ### 2.2 CSS tùy chỉnh chat button trên điện thoại
 
-* Thay đổi chat button trên điện thoại. Trong đó:  
+* **Thay đổi chat button trên bản điện thoại** Trong đó:  
   * [https://filev4.subiz.com/fiqcggnqemgkhtwdbyne-button\_chat\_08.png](https://filev4.subiz.com/fiqcggnqemgkhtwdbyne-button_chat_08.png): là link hình ảnh chat button. Bạn có thể thay đổi chọn link ảnh của bạn.
   * 60 px: là kích thước chiều dài và chiều cao của hình ảnh chat button.
 
@@ -70,7 +70,7 @@ width: 60px; height: 60px;
 }
 ```
 
-* Tùy chỉnh vị trí chat button so với màn hình điện thoại Trong đó: 10px là vị trí của chat button so với chân màn hình \(buttom\) và bên phải màn hình \(right\)
+* **Tùy chỉnh vị trí chat button so với chân màn hình điện thoại** Trong đó: 10px là vị trí của chat button so với chân màn hình \(buttom\) và bên phải màn hình \(right\)
 
 ```text
 .widget_mobile .widget-button {
@@ -79,7 +79,8 @@ right:10px;
 }
 ```
 
-
+* **Ẩn chat button trên bản điện thoại** `.widget_mobile  { display: none;  }` 
+* **Ẩn cửa sổ chat trên bản điện thoại**  `.widget_mobile  {display: none; }`
 
 > Bạn đang có mong muốn tùy chỉnh khác trên cửa sổ chat, hãy  gửi yêu cầu qua Support@Subiz.com để được hỗ trợ tốt nhất!
 
