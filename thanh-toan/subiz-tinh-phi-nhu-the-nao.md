@@ -12,7 +12,6 @@
 * Bạn cần thanh toán gói thuê bao vào đầu mỗi chu kỳ thanh toán. \(Thuê bao trả trước\)
 * Tùy theo quy mô và nhu cầu của doanh nghiệp, bạn có thể chọn gói dịch vụ phù hợp.
 * Bạn có thể nhận được ưu đãi lên đến 30% khi đăng kí chu kỳ thanh toán từ 3 tháng trở lên \([Chi tiết](https://subiz.com/vi/calculator.html)\)
-* Bạn có thể nâng cấp, hạ cấp, thêm, xóa bỏ agent, thay đổi thời hạn chu kỳ sử dụng bất cứ lúc nào. Số tiền đã thanh toán và chưa sử dụng đến sẽ được bảo lưu để bạn sử dụng sau này.
 {% endhint %}
 
 ### Đối tượng có thể truy cập vào trang thanh toán?
