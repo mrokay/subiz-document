@@ -16,7 +16,7 @@ Subiz hỗ trợ 2 phương thức thanh toán là Thẻ tín dụng và Chuyể
 Lưu ý:
 
 * Hóa đơn đã được thanh toán thành công sẽ tự động cập nhật trạng thái ĐÃ THANH TOÁN
-* Thanh toán bằng thẻ tín dụng báo lỗi/ không thanh toán được, bạn kiểm tra theo 3 cách sau: 1. Kiểm tra đủ các bước: BẬT - Tự động trả, Điền đúng thông tin thẻ tín dụng 2. Nếu đã thao tác đủ và đúng thông tin, bạn vui lòng liên hệ ngân hàng kiểm tra giao dịch lỗi do hạn mức thẻ hay lỗi hệ thống. 3. Liên hệ tư vấn viên Subiz qua email Support@subiz.com hoặc chat online tại Subiz.com
+* Thanh toán bằng thẻ tín dụng báo lỗi/ không thanh toán được, bạn kiểm tra theo 3 bước sau: 1. Kiểm tra đủ các bước: BẬT - Tự động trả, Điền ĐÚNG thông tin thẻ tín dụng 2. Nếu đã thao tác đủ và đúng thông tin, bạn vui lòng liên hệ ngân hàng kiểm tra giao dịch lỗi do hạn mức thẻ hay lỗi hệ thống. 3. Liên hệ tư vấn viên Subiz qua email Support@subiz.com hoặc chat online tại Subiz.com
 {% endhint %}
 
 ### Thanh toán qua thẻ tín dụng
