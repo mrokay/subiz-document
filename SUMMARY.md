@@ -58,7 +58,7 @@
     * [API đồng bộ dữ liệu website và Subiz](su-dung-subiz-nang-cao/quan-ly-du-lieu/api-dong-bo-du-lieu-website-va-subiz.md)
 * [Thanh toán](thanh-toan/README.md)
   * [Subiz tính phí như thế nào?](thanh-toan/subiz-tinh-phi-nhu-the-nao.md)
-  * [Tài khoản trả phí Subiz](thanh-toan/cach-chon-goi-dich-vu-phu-hop-nhat.md)
+  * [Trả phí dịch vụ Subiz](thanh-toan/cach-chon-goi-dich-vu-phu-hop-nhat.md)
   * [Phương thức thanh toán](thanh-toan/phuong-thuc-thanh-toan.md)
   * [Xem thông tin tài khoản hiện tại](thanh-toan/xem-thong-tin-tai-khoan-hien-tai.md)
   * [Thay đổi gói dịch vụ](thanh-toan/thay-doi-goi-dich-vu.md)
