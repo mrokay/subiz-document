@@ -40,6 +40,8 @@ Ví dụ: Thanh toán chu kỳ 1 năm dịch vụ Subiz, bạn nhận được �
 Subiz hỗ trợ [bảng tính giá chi tiết](https://subiz.com/vi/calculator.html) theo từng gói dịch vụ để bạn tham khảo thêm.
 {% endhint %}
 
+> Bạn cần tư vấn thêm cách tính phí và báo giá, hãy gửi yêu cầu tới Support@subiz.com!
+
   
 
 
