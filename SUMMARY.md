@@ -59,7 +59,7 @@
 * [Thanh toán](thanh-toan/README.md)
   * [Subiz tính phí như thế nào?](thanh-toan/subiz-tinh-phi-nhu-the-nao.md)
   * [Trả phí dịch vụ Subiz](thanh-toan/cach-chon-goi-dich-vu-phu-hop-nhat.md)
-  * [Phương thức thanh toán](thanh-toan/phuong-thuc-thanh-toan.md)
+  * [Hợp đồng và hóa đơn dành cho Doanh Nghiệp](thanh-toan/phuong-thuc-thanh-toan.md)
   * [Xem thông tin tài khoản hiện tại](thanh-toan/xem-thong-tin-tai-khoan-hien-tai.md)
   * [Thay đổi gói dịch vụ](thanh-toan/thay-doi-goi-dich-vu.md)
   * [FAQs](thanh-toan/faqs.md)

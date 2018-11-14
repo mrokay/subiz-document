@@ -1,56 +1,18 @@
-# Phương thức thanh toán
+# Hợp đồng và hóa đơn dành cho Doanh Nghiệp
 
-Hiện tại, [Subiz](https://subiz.com/vi/) hỗ trợ 02 hình thức thanh toán: **Thanh toán qua Thẻ tín dụng** \( Credit và Debit card\) và **Thanh toán qua Chuyển khoản ngân hàng**. Việc nâng cấp tài khoản lên gói dịch vụ trả phí sau khi bạn đã trải nghiệm thời gian dùng thử vô cùng đơn giản. Chỉ vài phút thao tác, tài khoản của bạn sẽ được nâng cấp ngay lập tức.
+* **Hợp đồng** được thực hiện với thuê bao có chu kỳ thanh toán từ **12 tháng** trở lên.
+* **Hóa đơn** được xuất theo yêu cầu của doanh nghiệp khi thuê bao có chu kỳ thanh toán từ **03 tháng** trở lên.
 
-### Thanh toán qua Thẻ tín dụng \(Credit và Debit card\)
+**Lưu ý:** Subiz là dịch vụ phần mềm không chịu thuế. Mục Thuế suất GTGT trong hóa đơn sẽ gạch chéo \(\\)
 
-Bước 1: Truy nhập vào [App.subiz.com](https://app.subiz.com) chọn[ Cài đặt &gt; Thanh toán](https://app.subiz.com/payment-home)  
+Để gửi yêu cầu thực hiện Hợp đồng và Hóa đơn, bạn vui lòng điền thông tin doanh nghiệp theo [mẫu](https://docs.subiz.com/wp-content/uploads/2017/12/Subiz_Th%C3%B4ng-tin-doanh-nghi%E1%BB%87p.doc) và gửi tới email [billing@subiz.com](mailto:billing@subiz.com).
 
+* Phương thức vận chuyển: Chuyển phát qua đơn vị Chuyển phát nhanh
+* Thời gian thực hiện: **07 – 10 ngày** làm việc
 
-![&#x110;&#x103;ng nh&#x1EAD;p Trang thanh to&#xE1;n](https://lh6.googleusercontent.com/bZ6Z6NWYW-oMT5Ddv961tr5bAZsPOXZbKG18lyQpVvR-FVKTOa55WxklcA8VqO5GlLEEt6FN4SUxz8GjMe7dFMviKGbiX0M3eGdKEQo89R7YEqiAt7T-cbkw47cnYiFd_uJKkMC-)
+### Chỉ viết hóa đơn trong 30 ngày từ khi thanh toán?
 
-Bước 2:  Lựa chọn thông tin của gói dịch vụ
-
-[Subiz](https://subiz.com/vi/) tính phí theo 3 yếu tố:
-
-* **Loại gói:** Cơ bản/Nâng cao \( Standard/Advanced\).
-* **Số agent:** số người đăng nhập [Subiz](https://subiz.com/vi/)
-* **Chu kì thanh toán:** 01, 03, 06,12, 24 tháng
-
-Bạn chỉ cần lựa chọn gói dịch vụ phù hợp, điền thông tin và Click vào Đăng ký ngay.
-
-![Th&#xF4;ng tin &#x111;&#x103;ng k&#xED;](https://lh5.googleusercontent.com/t7swLtIl3Usrs1H3_FBmoDCGnz2Pe7JSuukqZDCXFmrW3LjX_nlr5pqItAgZ4gY36HrNPqot_f22vH3TjDnEjXf8tIiERwwcuNf5MLypmcREnVScf4EMlBfFBhbbvtcLVw0hVN36)
-
-Sau khi điền đầy đủ thông tin ở gói dịch vụ mà bạn chọn, nhấn vào nút **Đăng ký ngay**, giao diện thanh toán qua thẻ tín dụng sẽ được hiển thị như sau:
-
-![Nh&#x1EAD;p th&#xF4;ng tin thanh to&#xE1;n](https://lh4.googleusercontent.com/0aPysyra5mMUUEOHzCqEC6AeEftPIXA2nHscSUwfvJsRCPlm6eqEMVh6YLUHnZlgsf0h-EcjVvHEqqbemgRrkwWWExjIuiRinhFeokQ3BrE96zgiyXgh-QDxpWgwFUiLxJQ0yV3I)
-
-Khi bạn thực hiện thanh toán thành công, tài khoản sẽ được nâng cấp ngay lập tức, đồng thời hệ thống sẽ gửi xác nhận cung cấp dịch vụ thành công tới email đăng ký của bạn.
-
-Dưới đây là minh họa giao diện hiển thị thông tin tài khoản của bạn khi đã hoàn tất nâng cấp:
-
-![Th&#xF4;ng tin g&#xF3;i c&#x1B0;&#x1EDB;c](https://lh6.googleusercontent.com/P-HOVM6zmqYEHk0p5MCJL_zh1BxFwhLc54gAyag_ErmkSstnRN8NqH9FOGPBYcKC7QyvN71f5bDMMOtFO_KQycE26uH4khsBeRIhU9zo409-44TEXkmmTDQXXkvearOouVUAd8lH)
-
-{% hint style="info" %}
-Sau khi nâng cấp tài khoản thành công, bất kỳ lúc nào bạn đều có thể thay đổi những thông tin thuê bao này.
-{% endhint %}
-
-### Thanh toán qua Chuyển Khoản ngân hàng
-
-Việc Thanh toán qua Chuyển khoản ngân hàng được thực hiện qua 2 bước đơn giản như sau:
-
-* Bước 1: Truy nhập vào [App.subiz.com](https://app.subiz.com) và chọn[ **Cài đặt &gt; Thanh toán**](https://app.subiz.com/payment-home)\*\*\*\*
-* Bước 2:  Lựa chọn thông tin của gói dịch vụ phù hợp và Click vào mục **Chuyển khoản** , hệ thống sẽ hiển thị số tiền cần chuyển và thông tin tài khoản của [Subiz](https://subiz.com/vi/).
-
-![Thanh to&#xE1;n chuy&#x1EC3;n kho&#x1EA3;n](https://lh5.googleusercontent.com/x8S2IQkM7gxVr1wCYPz86ZOCMD8NMcNOyq75s9GWabjI7cuqPx5zz-ajkCWeL36Q4lPcmX_5djBLPGdslQZ16BBo5Gf8leXliM2NEjc7_nSNlQiVUImCCnMODAYf258Y7VG7fETd)
-
-{% hint style="info" %}
-Lưu ý: Hệ thống tự động hiển thị thông tin thanh toán tương ứng:
-
-* Số tiền
-* Nội dung chuyển khoản
-* Số tài khoản ghi nhận thanh toán
-{% endhint %}
+Hóa đơn được yêu cầu thực hiện trong vòng **30 ngày** kể từ ngày doanh nghiệp hoàn tất nghĩa vụ thanh toán. Subiz không có trách nhiệm xuất hóa đơn bù nếu quá thời gian quy định. Chính sách này được áp dụng với tất cả khách hàng của Subiz.
 
 
 
