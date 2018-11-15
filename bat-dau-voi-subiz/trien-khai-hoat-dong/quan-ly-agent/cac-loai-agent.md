@@ -68,7 +68,8 @@ _Hướng dẫn tùy chỉnh thông tin_: **Thay đổi các trường thông ti
 {% endtab %}
 
 {% tab title="2. Ảnh đại diện" %}
-_Hướng dẫn thay đổi ảnh đại diện_: Chọn **Thay đổi ảnh đại diện** &gt; **Tải ảnh lên** &gt; Chọn **Lưu**
+Hướng dẫn thay đổi ảnh đại diện: Chọn **Thay đổi ảnh đại diện** &gt; **Tải ảnh lên** &gt; Chọn **Lưu.**  
+Lưu ý: Ảnh đại diện kích thước tối thiểu 200px x 200 px
 
 ![Thay &#x111;&#x1ED5;i anh &#x111;&#x1EA1;i di&#x1EC7;n \(Avatar\)](../../../.gitbook/assets/thay-doi-avatar.jpg)
 {% endtab %}

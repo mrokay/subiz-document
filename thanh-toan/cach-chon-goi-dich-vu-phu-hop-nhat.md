@@ -8,9 +8,17 @@ Subiz hỗ trợ 2 phương thức thanh toán là Thẻ tín dụng và Chuyể
 
 * Bước 1: Truy cập trang [THANH TOÁN](https://app.subiz.com/payment-home) của Subiz
 * Bước 2: Chọn gói dịch vụ Subiz                + Gói Cơ bản/ Nâng cao                + Số Agent                + Chu kỳ thanh toán
+
+![Ch&#x1ECD;n g&#xF3;i d&#x1ECB;ch v&#x1EE5; tr&#x1EA3; ph&#xED;](../.gitbook/assets/1-chon-goi-copy.jpg)
+
 * Bước 3: chọn ĐĂNG KÝ NGAY. Tài khoản sẽ được nâng cấp và tự sinh ra hóa đơn 
 * Bước 4: Để thanh toán qua thẻ tín dụng chọn Thêm thẻ &gt; Điền thông tin thẻ tín dụng hoăc thẻ ghi nợ &gt; Chọn Make Primary &gt; Hoàn thành
+
+![&#x110;i&#x1EC3;n th&#xF4;ng tin th&#x1EBB; t&#xED;n d&#x1EE5;ng ho&#x1EB7;c th&#x1EBB; ghi n&#x1EE3;](../.gitbook/assets/2-them-the.jpg)
+
 * Bước 5: Bật - Tự động trả tiền
+
+![B&#x1EAD;t T&#x1EF1; &#x111;&#x1ED9;ng tr&#x1EA3; ti&#x1EC1;n](../.gitbook/assets/3-bat-tu-dong-copy.jpg)
 
 {% hint style="info" %}
 Lưu ý:
@@ -23,6 +31,9 @@ Lưu ý:
 
 * Bước 1: Truy cập trang [THANH TOÁN](https://app.subiz.com/payment-home) của Subiz
 * Bước 2: Chọn gói dịch vụ Subiz                + Gói Cơ bản/ Nâng cao                + Số Agent                + Chu kỳ thanh toán
+
+![Ch&#x1ECD;n g&#xF3;i d&#x1ECB;ch v&#x1EE5; tr&#x1EA3; ph&#xED;](../.gitbook/assets/1-chon-goi-copy.jpg)
+
 * Bước 3: chọn ĐĂNG KÝ NGAY. Tài khoản sẽ được nâng cấp và tự sinh ra hóa đơn 
 * Bước 4: Mở Hóa đơn CHỜ THANH TOÁN để xem thông tin thanh toán và chuyển khoản tới:                Tài khoản số: 0451001477880                Tại Ngân hàng: TMCP Ngoại thương Việt Nam- Chi nhánh Thành Công - Hà Nội                Chủ tài khoản: Công ty cổ phần giải pháp trực tuyến VietnamBIZ                                Nội dung chuyển khoản: Mua dịch vụ cho "Mã tài khoản" hoặc "website" hoặc "email                            đăng nhập Subiz"
 
