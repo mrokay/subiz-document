@@ -8,7 +8,7 @@
 
 **Bạn nhập các thông tin doanh nghiệp như sau:**
 
-* **Logo photo**: Ảnh thương hiệu của doanh nghiệp
+* **Logo photo**: Ảnh thương hiệu của doanh nghiệp                       \(Lưu ý tải lên ảnh hình vuông, kích thước tối thiếu 200 x 200px\)
 * **Tên doanh nghiệp:** Tên thương hiệu của doanh nghiệp
 * **Địa chỉ:** Địa chỉ doanh nghiệp
 * **Thành phố/ Thị trấn:** Thành phố doanh nghiệp đặt trụ sở
