@@ -1,4 +1,4 @@
-# Chính sách chấm dứt tài khoản
+# Chính sách hoàn tiền
 
 ### Thời gian dùng thử
 
