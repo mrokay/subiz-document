@@ -2,7 +2,7 @@
 
 ### Gia hạn Subiz là gì?
 
-Đến ngày tài khoản của bạn kết thúc chu kỳ thanh toán trước của gói dịch vụ, Subiz sẽ hỗ trợ tự động gia hạn dịch vụ theo gói trả phí bạn đã đăng ký, tránh sự gián đoạn công việc của Doanh Nghiệp.
+Sau khi tài khoản của bạn kết thúc chu kỳ thanh toán trước của gói dịch vụ, Subiz sẽ hỗ trợ tự động gia hạn dịch vụ theo gói trả phí bạn đã đăng ký, tránh sự gián đoạn công việc của Doanh Nghiệp.
 
 Hóa đơn gia hạn cũng sẽ tự động sinh ra để bạn thực hiện thanh toán.
 
