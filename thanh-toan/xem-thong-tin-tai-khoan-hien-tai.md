@@ -13,7 +13,7 @@ Bạn có thể xem chi tiết gói dịch vụ và hóa đơn thanh toán tại
 Subiz sẽ thông báo hóa đơn gia hạn cần thanh toán trên 2 kênh chính:
 
 1. Thông báo ngay trên trang quản trị [App.subiz.com](https://app.subiz.com), bạn có thể xem chi tiết hóa đơn gia hạn tại trang [THANH TOÁN](https://app.subiz.com/payment-home)
-2. Thông báo hóa đơn gia hạn qua email đăng ký tài khoản Subiz hoặc email của bạn yêu cầu nhận thông báo hóa đơn 
+2. Thông báo hóa đơn gia hạn qua email phụ trách tài khoản Subiz hoặc email của bạn yêu cầu nhận thông báo hóa đơn 
 
 ### Phương thức thanh toán gia hạn Subiz
 

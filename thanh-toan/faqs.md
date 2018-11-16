@@ -37,19 +37,13 @@ Nếu tất cả các thông tin bạn điền là chính xác, bạn có thể 
 1. Sử dụng thẻ tín dụng khác \(nếu có\)
 2. Liên hệ với ngân hàng phát hành thẻ và yêu cầu mở thanh toán
 
-### Quản lý hóa đơn
-
-Để theo dõi thông tin, tình trạng Hóa đơn \(tình trạng thanh toán, chu kì, thời hạn còn lại..\) bạn có thể truy cập vào [App.subiz.com](https://app.subiz.com) &gt; [Cài đặt/**Thanh toán**](https://app.subiz.com/payment-home). Thông tin sẽ được hiển thị như sau:
-
-![Th&#xF4;ng tin H&#xF3;a &#x111;&#x1A1;n](../.gitbook/assets/screenshot_11.png)
-
 ### Tôi có thể thay đổi gói dịch vụ Subiz bất cứ lúc nào?
 
-Đúng vậy, bạn có thể thay đổi gói dịch vụ của mình bất cứ khi nào để phù hợp nhất với tình hình kinh doanh và hoạt động của công ty. Bạn có thể thêm/bớt Agent, tăng/giảm chu kỳ thanh toán hoặc thay đổi phương thức thanh toán phù hợp.
+Đúng vậy, bạn có thể thay đổi gói dịch vụ của mình bất cứ khi nào để phù hợp nhất với tình hình kinh doanh và hoạt động của công ty. Bạn có thể thêm/bớt Agent, tăng/giảm chu kỳ thanh toán hoặc thay đổi phương thức thanh toán phù hợp tại trang [THANH TOÁN](https://app.subiz.com/payment-home) của Subiz.
 
 ### Tại sao hệ thống hiển thị thông báo về hóa đơn quá hạn?
 
-Khi tài khoản của bạn phát sinh hóa đơn dưới dạng **Chưa thanh toán** \(Open\), hệ thống sẽ hiển thị thông báo cho đến khi bạn hoàn tất thanh toán.
+Khi tài khoản của bạn phát sinh hóa đơn dưới dạng **CHỜ THANH TOÁN**  \(Open\), hệ thống sẽ hiển thị thông báo cho đến khi bạn hoàn tất thanh toán.
 
 Click vào “**thực hiện thanh toán**” trên dòng thông báo – hệ thống sẽ tự động chuyển bạn đến phần Danh sách hóa đơn, cụ thể là vùng hóa đơn Chưa thanh toán để bạn có thể thuận tiện tra cứu và thực hiện thanh toán một cách dễ dàng.
 

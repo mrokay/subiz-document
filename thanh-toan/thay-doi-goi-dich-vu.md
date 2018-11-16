@@ -2,13 +2,11 @@
 
 Trong quá trình sử dụng Subiz, tùy vào tình hình kinh doanh và chiến lược phát triển, bạn có thay đổi thông tin tài khoản bất cứ khi nào để phù hợp với nhu cầu của doanh nghiệp.
 
-### Nâng/ Hạ tài khoản
-
-#### Nâng cấp tài khoản
+### Nâng cấp tài khoản
 
 * **Tài khoản ở gói miễn phí**
 
-Khi tài khoản của bạn ở gói miễn phí và muốn nâng cấp lên gói trả phí, bạn cần đăng nhập vào trang [Thanh toán](https://app.subiz.com/payment-home) sau đó lựa chọn số lượng Agent và chu kỳ phù hợp rồi click vào phần **Đăng ký ngay**
+Khi tài khoản của bạn ở gói miễn phí và muốn nâng cấp lên gói trả phí, bạn cần đăng nhập vào trang [Thanh toán](https://app.subiz.com/payment-home) sau đó lựa chọn số lượng Agent và chu kỳ phù hợp rồi click vào **ĐĂNG KÝ NGAY**.
 
 ![N&#xE2;ng c&#x1EA5;p g&#xF3;i t&#xE0;i kho&#x1EA3;n](../.gitbook/assets/nang-cap-goi-tai-khoan.png)
 
@@ -26,9 +24,13 @@ Sau đó lựa chọn gói Nâng cao và tiến hành nâng cấp tài khoản:
 Sau khi nâng cấp tài khoản, hệ thống sẽ phát sinh hóa đơn trong tài khoản của bạn. Bạn có thể lựa chọn thanh toán qua Thẻ tín dụng hoặc Chuyển khoản theo [**Hướng dẫn thanh toán**](https://subiz.gitbook.io/subiz-document/untitled/thanh-toan/untitled)
 {% endhint %}
 
-#### Hạ cấp tài khoản
+### Hạ cấp tài khoản
 
-Để hạ cấp tài khoản, bạn vào mục **Gói cước hiện tại** và tiến hành hạ cấp tài khoản
+Bạn đang sử dụng gói Nâng cao và muốn hạ cấp tài khoản xuống gói cơ bản, bạn vào mục **Gói cước hiện tại** và tiến hành hạ cấp tài khoản.
+
+{% hint style="info" %}
+ Lưu ý: Với việc hạ cấp gói dịch vụ, hệ thống sẽ không sinh hóa đơn, và bạn cũng không được hoàn lại số tiền đã thanh toán cho gói dịch vụ hiện tại. **Hãy cân nhắc!**
+{% endhint %}
 
 ![H&#x1EA1; c&#x1EA5;p t&#xE0;i kho&#x1EA3;n](../.gitbook/assets/ha-tai-khoan%20%281%29.png)
 
@@ -40,9 +42,13 @@ Sau khi nâng cấp tài khoản, hệ thống sẽ phát sinh hóa đơn trong 
 
 ![Mua th&#xEA;m Agent](../.gitbook/assets/mua-them-agents%20%281%29.png)
 
-**Giảm Agent**
+**Giảm số lượng Agent**
 
 Để giảm số lượng Agent, bạn vào mục **Xem thêm** sau đó thay đổi số lượng Agent phù hợp.
+
+{% hint style="info" %}
+ Lưu ý: Việc giảm agent sẽ không sinh hóa đơn, và bạn cũng không được giảm trừ số tiền đã thanh toán. **Hãy cân nhắc!**
+{% endhint %}
 
 ![Gi&#x1EA3;m Agent](../.gitbook/assets/giam-agent.png)
 
@@ -50,13 +56,20 @@ Sau khi nâng cấp tài khoản, hệ thống sẽ phát sinh hóa đơn trong 
 
 Để thay đổi chu kỳ thanh toán, bạn click vào mục **Thay đổi chu kỳ thanh toán** và lựa chọn chu kỳ phù hợp:
 
+{% hint style="info" %}
+ Lưu ý: Việc thay đổi chu kỳ thanh toán sẽ được cập nhật trong hóa đơn sinh ra tại chu kỳ kế tiếp. Vì chu kỳ hiện tại hóa đơn đã được hệ thống tự sinh rồi.
+{% endhint %}
+
 ![Thay &#x111;&#x1ED5;i chu k&#x1EF3; thanh to&#xE1;n](../.gitbook/assets/thay-doi-chu-ky-thanh-toan.png)
 
 ### Hạ tài khoản xuống gói miễn phí
 
-Tùy vào nhu cầu sử dụng và hoạt động kinh doanh, bạn có thể lựa chọn Hạ tài khoản xuống gói miễn phí và nâng cấp lại bất cứ khi nào:
+Tùy vào nhu cầu sử dụng và hoạt động kinh doanh, bạn có thể lựa chọn Hạ tài khoản xuống gói miễn phí và nâng cấp lại bất cứ khi nào  
+[Xem thêm chính sách chấm dứt tài khoản](https://subiz.com/vi/terms-of-service.html)
 
 ![H&#x1EA1; t&#xE0;i kho&#x1EA3;n xu&#x1ED1;ng g&#xF3;i mi&#x1EC5;n ph&#xED;](../.gitbook/assets/ha-tai-khoan-xuong-goi-mien-phi%20%281%29.png)
 
-
+{% hint style="info" %}
+Bạn có thắc mắc hoặc cần hỗ trợ, vui lòng gửi yêu cầu tới email Support@subiz.com.
+{% endhint %}
 

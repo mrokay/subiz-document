@@ -1,14 +1,11 @@
 # Hợp đồng và hóa đơn dành cho Doanh Nghiệp
 
 * **Hợp đồng** được thực hiện với thuê bao có chu kỳ thanh toán từ **12 tháng** trở lên.
-* **Hóa đơn** được xuất theo yêu cầu của doanh nghiệp khi thuê bao có chu kỳ thanh toán từ **03 tháng** trở lên.
+* **Hóa đơn** **VAT** được xuất theo yêu cầu của doanh nghiệp khi thuê bao có chu kỳ thanh toán từ **03 tháng** trở lên. Subiz sẽ xuất hóa đơn điện tử gửi về địa chỉ email của Doanh Nghiệp.
 
 **Lưu ý:** Subiz là dịch vụ phần mềm không chịu thuế. Mục Thuế suất GTGT trong hóa đơn sẽ gạch chéo \(\\)
 
 Để gửi yêu cầu thực hiện Hợp đồng và Hóa đơn, bạn vui lòng điền thông tin doanh nghiệp theo [mẫu](https://docs.subiz.com/wp-content/uploads/2017/12/Subiz_Th%C3%B4ng-tin-doanh-nghi%E1%BB%87p.doc) và gửi tới email [billing@subiz.com](mailto:billing@subiz.com).
-
-* Phương thức vận chuyển: Chuyển phát qua đơn vị Chuyển phát nhanh
-* Thời gian thực hiện: **07 – 10 ngày** làm việc
 
 ### Chỉ viết hóa đơn trong 30 ngày từ khi thanh toán?
 
