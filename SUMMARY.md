@@ -62,6 +62,7 @@
   * [Hợp đồng và hóa đơn dành cho Doanh Nghiệp](thanh-toan/phuong-thuc-thanh-toan.md)
   * [Gia hạn Subiz](thanh-toan/xem-thong-tin-tai-khoan-hien-tai.md)
   * [Thay đổi gói dịch vụ](thanh-toan/thay-doi-goi-dich-vu.md)
+  * [Chính sách hoàn tiền](thanh-toan/chinh-sach-hoan-tien.md)
   * [FAQs](thanh-toan/faqs.md)
   * [Quản lý email tài khoản chính](thanh-toan/quan-ly-tai-khoan-owner.md)
 * [Báo cáo & Thống kê](bao-cao-and-thong-ke/README.md)

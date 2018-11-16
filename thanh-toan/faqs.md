@@ -37,43 +37,11 @@ Nếu tất cả các thông tin bạn điền là chính xác, bạn có thể 
 1. Sử dụng thẻ tín dụng khác \(nếu có\)
 2. Liên hệ với ngân hàng phát hành thẻ và yêu cầu mở thanh toán
 
-### Hợp đồng và Hóa đơn \(đối với khách hàng doanh nghiệp\) 
-
-Để gửi yêu cầu thực hiện Hợp đồng và Hóa đơn, bạn vui lòng điền thông tin theo [mẫu](https://docs.subiz.com/wp-content/uploads/2017/12/Subiz_Th%C3%B4ng-tin-doanh-nghi%E1%BB%87p.doc) và gửi tới email [billing@subiz.com](mailto:billing@subiz.com).
-
-* Phương thức vận chuyển: Chuyển phát qua đơn vị Chuyển phát nhanh
-* Thời gian thực hiện: **07 – 10 ngày** làm việc
-
-{% hint style="info" %}
-* **Hợp đồng** được thực hiện với thuê bao có chu kỳ thanh toán từ **12 tháng** trở lên.
-* **Hóa đơn** được xuất theo yêu cầu của doanh nghiệp với chu kỳ thanh toán từ **03 tháng** trở lên.
-* Sản phẩm của Subiz thuộc đối tượng không chịu thuế. Phần VAT trong hóa đơn sẽ được gạch chéo.
-{% endhint %}
-
-#### Xuất hóa đơn muộn?
-
-Hóa đơn được yêu cầu thực hiện trong vòng **30 ngày** kể từ ngày doanh nghiệp hoàn tất nghĩa vụ thanh toán. Subiz không có trách nhiệm xuất hóa đơn bù nếu quá thời gian quy định. Chính sách này được áp dụng với tất cả khách hàng của Subiz.
-
 ### Quản lý hóa đơn
 
 Để theo dõi thông tin, tình trạng Hóa đơn \(tình trạng thanh toán, chu kì, thời hạn còn lại..\) bạn có thể truy cập vào [App.subiz.com](https://app.subiz.com) &gt; [Cài đặt/**Thanh toán**](https://app.subiz.com/payment-home). Thông tin sẽ được hiển thị như sau:
 
 ![Th&#xF4;ng tin H&#xF3;a &#x111;&#x1A1;n](../.gitbook/assets/screenshot_11.png)
-
-### Chính sách hoàn tiền 
-
-#### Thời gian dùng thử
-
-Sau khi đăng ký tài khoản mới, bạn sẽ được sử dụng toàn bộ[ tính năng](https://subiz.com/vi/feature.html) của [Subiz ](https://subiz.com/vi/)gói trả phí Cơ bản trong vòng 30 ngày để có thể trải nghiệm trước khi quyết định nâng cấp tài khoản. Bạn sẽ không mất bất kỳ chi phí nào trong thời gian dùng thử này.
-
-#### Tài khoản trả phí
-
-Khi bạn quyết định nâng cấp tài khoản, bạn cần xác định số agent \(hỗ trợ viên\), chu kỳ thanh toán và loại gói dịch vụ. Thanh toán sẽ được hoàn tất vào đầu chu kỳ sử dụng. Chúng tôi không có chính sách hoàn thanh toán – đây là chính sách đối với tất cả khách hàng – và bạn sẽ chịu trách nhiệm về toàn bộ các lần thanh toán của tài khoản bạn sở hữu.
-
-### Subiz có những chính sách ưu đãi nào?
-
-* [Subiz](https://subiz.com/vi/) hỗ trợ ưu đãi ưu đãi tới 30% khi thanh toán chu kỳ dài, xem chi tiết tại bảng tính giá.
-* [Subiz ](https://subiz.com/vi/)hỗ trợ giảm 40% chi phí cho các đơn vị giáo dục công lập, tổ chức phi lợi nhuận.
 
 ### Tôi có thể thay đổi gói dịch vụ Subiz bất cứ lúc nào?
 
@@ -97,33 +65,6 @@ Do đó, ngày thanh toán kế tiếp sẽ hiển thị ngày kết thúc của
 
 {% hint style="info" %}
 **Lưu ý**: Trường hợp hóa đơn phát sinh do thao tác không mong muốn, bạn cần gửi xác nhận tới [Subiz](https://subiz.com/vi/), chúng tôi sẽ giúp bạn hủy hóa đơn.
-{% endhint %}
-
-### Hóa đơn gia hạn
-
-Tại thời điểm bắt đầu chu kỳ kế tiếp, hệ thống sẽ tự động gia hạn dịch vụ đồng thời hóa đơn gia hạn sẽ phát sinh tương ứng.
-
-Để kiểm soát thông tin tốt nhất, [Subiz ](https://subiz.com/vi/)sẽ gửi thông báo về việc gia hạn tài khoản qua các phương thức: Email tới người phụ trách tài khoản; Hiển thị thông báo trên trang quản lý Dashboard; Hiển thị thông báo tại phần Thông báo mới.
-
-Khi nhận được thông báo, bạn có thể kiểm tra hóa đơn trực tiếp tại [trang thanh toán](https://app.subiz.com/payment-home#) như hình minh họa:
-
-![H&#xF3;a &#x111;&#x1A1;n thanh to&#xE1;n](../.gitbook/assets/hoa-don-thanh-toan%20%282%29.png)
-
-{% hint style="info" %}
-* Nếu tài khoản của bạn được thiết lập gọi thanh toán tự động qua thẻ tín dụng, hệ thống sẽ tự động gọi thanh toán trong vòng 24h tính từ thời điểm hóa đơn phát sinh. 
-* Nếu tài khoản của bạn sử dụng hình thức thanh toán chuyển khoản, trong vòng 07 ngày hệ thống sẽ gửi thông báo nhắc qua email về việc đề nghị thanh toán gia hạn tài khoản.
-{% endhint %}
-
-### Hóa đơn quá hạn được thông báo qua các kênh nào?
-
-Hóa đơn quá hạn sẽ được thông báo qua các kênh sau:
-
-* Hiển thị thông báo trên màn hình quản lý Dashboard
-* Hiển thị thông báo tại phần Thông báo mới
-* Gửi Email thông báo tới email đăng ký chính \(mặc định\), hoặc email được xác nhận phụ trách.
-
-{% hint style="info" %}
-**Lưu ý**: Để đảm bảo bạn nhận được đầy đủ thông tin từ [Subiz](https://subiz.com/vi/), trong trường hợp thay đổi người phụ trách tài khoản hoặc thay đổi email liên hệ, bạn cần gửi xác nhận tới[ Subiz](https://subiz.com/vi/) để chúng tôi cập nhật thông tin
 {% endhint %}
 
 ### Hướng dẫn đọc thông tin trên hóa đơn?
