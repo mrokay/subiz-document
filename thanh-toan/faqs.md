@@ -71,7 +71,27 @@ Hóa đơn là là sự cam kết trách nhiệm và nghĩa vụ của 2 bên: S
 
 ### Chuyển đổi sử dụng tài khoản Subiz 3.0 lên Subiz 4.0
 
-Bạn đang có tài khoản Subiz phiên bản 3.0 và muốn sử dụng Subiz phiên bản 4.0
+Bạn đang có tài khoản Subiz phiên bản 3.0 và muốn sử dụng Subiz phiên bản 4.0. 
 
+Ngay bây giờ, bạn có thể bắt đầu sử dụng Subiz 4.0 với 4 bước sau:
 
+1. Đăng nhập trang quản lý Subiz 4.0 qua link [app.subiz.com](https://app.subiz.com) bằng email và mật khẩu tài khoản bạn đang sở hữu. Lưu ý: Nếu bạn muốn sử dụng tài khoản Subiz 4.0 mới, bạn cần [đăng ký tài khoản mới tại đây](https://app.subiz.com/register). 
+2. Tích hợp cửa sổ chat Subiz 4.0 lên website, kết nối Fanpage \(nếu có\) vào Subiz \([Xem chi tiết](https://app.subiz.com/settings/install)\) 
+3. Cập nhật sử dụng Automation tự động chào mừng khách vào website \([Xem chi tiết](https://app.subiz.com/settings/automation-add?atmlibrary=3)\) 
+4. Trò chuyện và quản lý danh sách khách hàng trên Subiz \([Xem chi tiết](https://subiz.com/blog/tuong-tac-khach-hang-hieu-qua-voi-subiz.html)\) 
+
+Tài khoản Subiz 3.0 của bạn đang sử dụng gói trả phí, bạn cần gửi tới email Support@subiz.com xác nhận chuyển đổi tài khoản từ Subiz 3.0 lên Subiz 4.0 nhằm đảm bảo đầy đủ quyền lợi sử dụng gói dịch vụ trả phí của mình.
+
+* **Email người gửi**: Địa chỉ email quản lý tài khoản Subiz 3.0
+* **Email người nhận**: Support@Subiz.com
+* **Subject**: Xác nhận chuyển đổi tài khoản Subiz 3.0 lên Subiz 4.0
+* **Nội dung**: Chuyển đổi sử dụng tài khoản Subiz 3.0 - ID ......... - sang tài khoản Subiz 4.0 ID.....  Subiz hỗ trợ chuyển đổi và hạ tài khoản 3.0 xuống gói miễn phí
+
+![](../.gitbook/assets/v3-v4.jpg)
+
+{% hint style="info" %}
+Bạn có băn khoăn và cần hỗ trợ, vui lòng gửi yêu cầu tới Support@subiz.com
+{% endhint %}
+
+ 
 
