@@ -69,5 +69,9 @@ Hóa đơn là là sự cam kết trách nhiệm và nghĩa vụ của 2 bên: S
 
 **Balance Due** là số tiền chưa thanh toán \(công nợ\). Balance due &gt; 0 hệ thống sẽ hiển thị thông báo về hóa đơn quá hạn.
 
+### Chuyển đổi sử dụng tài khoản Subiz 3.0 lên Subiz 4.0
+
+Bạn đang có tài khoản Subiz phiên bản 3.0 và muốn sử dụng Subiz phiên bản 4.0
+
 
 
