@@ -1,8 +1,8 @@
 # FAQs
 
-### Tôi đã thanh toán rồi mà hệ thống vẫn hiển thị thông báo? 
+### Tôi đã thanh toán rồi mà hệ thống vẫn hiển thị thông báo hóa đơn chờ thanh toán? 
 
-Tình trạng này xảy ra với những trường hợp thanh toán thiếu do chênh lệch số dư khi thực hiện chuyển tiền. Việc này đã được lưu ý ngay tại email xác nhận thanh toán từ hệ thống khi thực hiện cập nhật thanh toán cho tài khoản bạn. Bạn vui lòng thanh toán chính xác số tiền hệ thống cung cấp.
+Tình trạng này xảy ra với những trường hợp thanh toán thiếu do chênh lệch số dư khi thực hiện chuyển khoản. Việc này đã được lưu ý ngay tại email xác nhận thanh toán từ hệ thống khi thực hiện cập nhật thanh toán cho tài khoản bạn. Bạn vui lòng thanh toán chính xác số tiền hệ thống cung cấp.
 
 {% hint style="info" %}
 Nếu có bất kỳ câu hỏi nào liên quan đến hóa đơn phát sinh và việc thực hiện thanh toán, vui lòng gửi phản hồi đến email [billing@subiz.com](mailto:billing@subiz.com) để được hỗ trợ.
@@ -45,7 +45,7 @@ Nếu tất cả các thông tin bạn điền là chính xác, bạn có thể 
 
 Khi tài khoản của bạn phát sinh hóa đơn dưới dạng **CHỜ THANH TOÁN**  \(Open\), hệ thống sẽ hiển thị thông báo cho đến khi bạn hoàn tất thanh toán.
 
-Click vào “**thực hiện thanh toán**” trên dòng thông báo – hệ thống sẽ tự động chuyển bạn đến phần Danh sách hóa đơn, cụ thể là vùng hóa đơn Chưa thanh toán để bạn có thể thuận tiện tra cứu và thực hiện thanh toán một cách dễ dàng.
+Click vào “**Thực hiện thanh toán**” trên dòng thông báo – hệ thống sẽ tự động chuyển bạn đến phần Danh sách hóa đơn, cụ thể là vùng hóa đơn Chưa thanh toán để bạn có thể thuận tiện tra cứu và thực hiện thanh toán một cách dễ dàng.
 
 ![H&#xF3;a &#x111;&#x1A1;n ch&#x1B0;a thanh to&#xE1;n](../.gitbook/assets/hoa-don-chua-thanh-toan%20%282%29.png)
 
@@ -58,12 +58,12 @@ Do đó, ngày thanh toán kế tiếp sẽ hiển thị ngày kết thúc của
 ![Ng&#xE0;y thanh to&#xE1;n h&#xF3;a &#x111;&#x1A1;n](../.gitbook/assets/thanh-toan.png)
 
 {% hint style="info" %}
-**Lưu ý**: Trường hợp hóa đơn phát sinh do thao tác không mong muốn, bạn cần gửi xác nhận tới [Subiz](https://subiz.com/vi/), chúng tôi sẽ giúp bạn hủy hóa đơn.
+**Lưu ý**: Trường hợp hóa đơn phát sinh do thao tác không mong muốn, bạn cần gửi xác nhận tới Support@subiz.com, chúng tôi sẽ giúp bạn hủy hóa đơn.
 {% endhint %}
 
 ### Hướng dẫn đọc thông tin trên hóa đơn?
 
-Hóa đơn là chứng nhận cho việc cung cấp dịch vụ từ Subiz, bạn nên chủ động nắm rõ và kiểm soát các thông tin này:
+Hóa đơn là là sự cam kết trách nhiệm và nghĩa vụ của 2 bên: Subiz có trách nhiệm cung cấp đúng gói dịch vụ và Doanh nghiệp có nghĩa vụ thanh toán hóa đơn của gói dịch vụ. Bạn cần chủ động nắm rõ và kiểm soát các thông tin này:
 
 ![&#x110;&#x1ECD;c th&#xF4;ng tin tr&#xEA;n h&#xF3;a &#x111;&#x1A1;n](../.gitbook/assets/overdue-invoice_final-1.png)
 
