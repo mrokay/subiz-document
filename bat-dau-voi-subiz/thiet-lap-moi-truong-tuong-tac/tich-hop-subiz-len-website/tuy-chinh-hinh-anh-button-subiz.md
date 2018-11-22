@@ -18,11 +18,18 @@ Cửa sổ hội thoại có hai kiểu: Thu gọn và Mở rộng.
 
 ![C&#xE1;ch x&#xE1;c &#x111;&#x1ECB;nh ki&#x1EC3;u c&#x1EED;a s&#x1ED5; h&#x1ED9;i tho&#x1EA1;i Subiz tr&#xEA;n website](../../../.gitbook/assets/kieu-1.jpg)
 
-Dưới đây là 2 mã CSS ẩn button [Subiz ](https://subiz.com/vi/)tương ứng với từng kiểu cửa sổ hội thoại. Bạn sao chép và đặt mã CSS này trong bảng Tùy chỉnh CSS rồi Lưu thay đổi.
+Dưới đây là 2 mã CSS ẩn chat button [Subiz ](https://subiz.com/vi/) tương ứng với từng kiểu cửa sổ hội thoại. Bạn sao chép và đặt mã CSS này trong bảng Tùy chỉnh CSS rồi Lưu thay đổi.
 
 |                     **Kiểu: Thu gọn** |                 **Kiểu: Mở rộng** |
 | :--- | :--- |
 | .widget-button {display:none;} .widget\_mini .widget\_body {bottom:0;} | .widget-button {display:none;} |
+
+{% hint style="info" %}
+Lưu ý: Mã CSS sử dụng để ẩn riêng chat button trên phiên bản điện thoại:  
+`.widget_mobile .button-chat {  
+display: none;  
+}`
+{% endhint %}
 
 ![D&#xE1;n m&#xE3; CSS &#x1EA9;n button Subiz](../../../.gitbook/assets/kieu-2.jpg)
 
@@ -32,10 +39,11 @@ Khi cài đặt ẩn button[ Subiz](https://subiz.com/vi/), khách hàng sẽ kh
 
 Sử dụng API trong code website sẽ giúp bạn gắn link cửa sổ chat Subiz vào hình ảnh hoặc đoạn text bất kỳ trên website và tự động mở cửa sổ chat.
 
+* API phổ thông đặt vào vùng chứa trong code website , vùng sẽ gắn link cửa sổ Subiz chat  `<script type="text/javascript">window.subiz('expandWidget') </script>` 
 * API gắn link cửa sổ [Subiz chat](https://subiz.com/vi/live-chat.html) vào hình ảnh
 
 ```text
-<a href="#nogo" onclick="subiz('shrinkWidget')"><img src="đường dẫn ảnh của bạn"></a>
+<a href="#nogo" onclick="subiz('expandWidget')"><img src="đường dẫn ảnh của bạn"></a>
 ```
 
 * API gắn link cửa sổ [Subiz chat ](https://subiz.com/vi/live-chat.html)vào đoạn text
