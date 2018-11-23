@@ -6,17 +6,17 @@ Các thông tin và hướng dẫn trong mục Thanh toán sẽ giúp bạn hi�
 
 {% page-ref page="subiz-tinh-phi-nhu-the-nao.md" %}
 
-{% page-ref page="cach-chon-goi-dich-vu-phu-hop-nhat.md" %}
+{% page-ref page="tra-phi-dich-vu-subiz.md" %}
 
-{% page-ref page="phuong-thuc-thanh-toan.md" %}
+{% page-ref page="hop-dong-hoa-don-subiz.md" %}
 
-{% page-ref page="xem-thong-tin-tai-khoan-hien-tai.md" %}
+{% page-ref page="gia-han-subiz.md" %}
 
 {% page-ref page="thay-doi-goi-dich-vu.md" %}
 
 {% page-ref page="chinh-sach-hoan-tien.md" %}
 
-{% page-ref page="faqs.md" %}
+{% page-ref page="cau-hoi-thuong-gap.md" %}
 
-{% page-ref page="quan-ly-tai-khoan-owner.md" %}
+{% page-ref page="quan-ly-tai-khoan-email-owner.md" %}
 
