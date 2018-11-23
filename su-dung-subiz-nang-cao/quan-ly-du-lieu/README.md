@@ -1,4 +1,4 @@
-# Quản lý dữ liệu
+# Quản lý dữ liệu Khách hàng
 
 Dữ liệu khách hàng luôn là tài sản quý với mọi doanh nghiệp. Khi bạn có một lượng khách hàng nhất định, [Subiz](https://subiz.com/vi/) sẽ giúp bạn phân loại, quản lý và khai thác hiệu quả các dữ liệu khách hàng này, nhằm mang lại hiệu quả kinh doanh cao và xây dựng mối quan hệ bền vững với khách hàng.
 
