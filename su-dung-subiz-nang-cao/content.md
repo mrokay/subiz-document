@@ -16,7 +16,7 @@ Chức năng quản lý sản phẩm giúp bạn lưu trữ chứ không thay th
 
 CSV \(Comma Separated Values\) là một loại định dạng văn bản đơn giản mà trong đó, các giá trị được ngăn cách với nhau bằng dấu phẩy. File CSV cũng mở được bằng Google Sheet hay Excel. 
 
-![S&#x1EED; d&#x1EE5;ng Googl Sheet &#x111;&#x1EC3; l&#x1B0;u d&#x1EEF; li&#x1EC7;u S&#x1EA3;n ph&#x1EA9;m v&#xE0; export ra File CSV ](../../.gitbook/assets/screenshot-from-2018-11-23-11-02-40.png)
+![S&#x1EED; d&#x1EE5;ng Googl Sheet &#x111;&#x1EC3; l&#x1B0;u d&#x1EEF; li&#x1EC7;u S&#x1EA3;n ph&#x1EA9;m v&#xE0; export ra File CSV ](../.gitbook/assets/screenshot-from-2018-11-23-11-02-40.png)
 
 #### Tự động đồng bộ dữ liệu từ Website.
 
