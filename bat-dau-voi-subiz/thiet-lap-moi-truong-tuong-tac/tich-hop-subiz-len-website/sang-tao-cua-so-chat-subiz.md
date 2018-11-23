@@ -270,7 +270,7 @@ display:none;
   
 .team-intro {   
 width:55%;   
-margin-bottom:0;   
+margin-bottom:12px;   
 } .team-intro p{   
 padding: 0 0 0 0; font-size:13px;   
 }`   
@@ -323,7 +323,7 @@ Trong đó, bạn có thể thay đổi các thông số của từng mã CSS đ
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>.team-intro { <br />width:55%; <br />margin-bottom:0; <br />} .team-intro p{ <br />padding: 0 0 0 0; <br />font-size:13px; <br />} </code>
+      <td style="text-align:left"><code>.team-intro { <br />width:55%; <br />margin-bottom:12px; <br />} .team-intro p{ <br />padding: 0 0 0 0; <br />font-size:13px; <br />} </code>
       </td>
       <td style="text-align:left">
         <p>Nội dung giới thiệu khoản 55% khung tiêu đề</p>
