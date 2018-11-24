@@ -74,6 +74,17 @@ Các bước cài đặt: [Cửa sổ Subiz chat](https://app.subiz.com/settings
     </tr>
     <tr>
       <td style="text-align:left">
+        <p>CSS tùy chỉnh vị trí cửa sổ chat
+          <br />so với chân màn hình</p>
+        <p>(Tối đa 140 px)</p>
+      </td>
+      <td style="text-align:left"><code>.widget_mini .widget_body<br />{bottom:0;}</code>
+      </td>
+      <td style="text-align:left"><code>.widget_full .widget_body<br />{bottom:0;}</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
         <p>CCS tùy chỉnh chiều cao
           <br />preview tin nhắn mới</p>
         <p>(Tối đa 110px)</p>
@@ -93,17 +104,6 @@ Các bước cài đặt: [Cửa sổ Subiz chat](https://app.subiz.com/settings
         </p>
         <p><code>}</code>
         </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p>CSS tùy chỉnh vị trí cửa sổ chat
-          <br />so với chân màn hình</p>
-        <p>(Tối đa 140 px)</p>
-      </td>
-      <td style="text-align:left"><code>.widget_mini .widget_body<br />{bottom:0;}</code>
-      </td>
-      <td style="text-align:left"><code>.widget_full .widget_body<br />{bottom:0;}</code>
       </td>
     </tr>
   </tbody>

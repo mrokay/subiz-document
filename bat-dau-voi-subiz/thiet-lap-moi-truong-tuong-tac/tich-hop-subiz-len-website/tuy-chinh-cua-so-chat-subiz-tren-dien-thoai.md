@@ -21,7 +21,7 @@ Cửa sổ chat Subiz trên điện thoại di động được thiết kế t�
 
 ![B&#x1EA3;ng t&#xF9;y ch&#x1EC9;nh CSS](../../../.gitbook/assets/2.-box-copy.jpg)
 
-### 2.1 CSS tùy chỉnh màu sắc cửa sổ chat trên điện thoại
+### 2.1 CSS tùy chỉnh cửa sổ chat trên điện thoại
 
 * **Tùy chỉnh màu sắc chung của cả cửa sổ chat và chat button** Bạn có thể thay đổi mã màu \#0000
 
@@ -55,18 +55,23 @@ background-color: #0000;
 }
 ```
 
+* **Tùy chỉnh chiều cao cửa sổ chat so với màn hình điện thoại** `.widget_mobile .widget_body {height: 90%;}`  
+* **Ẩn cửa sổ chat trên phiên bản điện thoại** 
+
+  `.widget_mobile   
+  {display: none;  
+  }`
+
 ### 2.2 CSS tùy chỉnh chat button trên điện thoại
 
 * **Thay đổi chat button trên bản điện thoại** Trong đó:   [https://filev4.subiz.com/fiqcgvyibtxjcxnbjysc-button1\_vn.png](https://filev4.subiz.com/fiqcgvyibtxjcxnbjysc-button1_vn.png): là link hình ảnh chat button. Bạn có thể thay đổi chọn link ảnh của bạn. 190px và 60 px: là kích thước chiều dài và chiều cao của hình ảnh chat button.  `.widget_mobile .button-chat { border-radius: 0; background-image: url(`[`https://filev4.subiz.com/fiqcgvyibtxjcxnbjysc-button1_vn.png`](https://filev4.subiz.com/fiqcgvyibtxjcxnbjysc-button1_vn.png)`); background-repeat: no-repeat; } .widget_mobile .button-chat-icon { display: none; } @supports (-ms-ime-align:auto) { .widget_mobile .button-chat { border-radius: 50%; } .widget_mobile .button-chat-icon { display: inline-block; } } .widget_mobile .widget-button { width: 190px; height: 60px; } .widget_mobile .button-chat { border-radius: 0 !important; } .widget_mobile .widget-button:after { display: none; } .widget_mobile .widget_mini .close-widget-icon { display: none; } .widget_mobile .button-chat .avatar-preview img { display: none; } .widget_mobile .button-chat { box-shadow: none; background-color: transparent !important; }` ****
-* **Tùy chỉnh vị trí chat button so với chân màn hình điện thoại** Trong đó: 0 - 40px là vị trí của chat button so với chân màn hình \(buttom\), bên phải màn hình \(right\), bên trải màn hình \(left\) `.widget_mobile .widget-button {bottom:40px;right:40px;}`  .`widget_mobile .widget-button { bottom:0; left:0; }` 
+* **Tùy chỉnh vị trí chat button so với chân màn hình điện thoại** Trong đó: 0 - 40px là vị trí của chat button so với chân màn hình \(buttom\), bên phải màn hình \(right\), bên trải màn hình \(left\) Nếu chọn vị trí cửa sổ chat là bên phải: `.widget_mobile .widget-button {bottom:40px;right:40px;}`  Nếu chọn vị trí cửa sổ chat là bên trái: .`widget_mobile .widget-button { bottom:0; left:0; }` 
 * **Ẩn chat button trên bản điện thoại**  
   `.widget_mobile .button-chat {`
 
   `display: none;  
   }`  
   **``**  
-
-* **Ẩn cửa sổ chat trên bản điện thoại**  `.widget_mobile  {display: none; }`
 
 > Bạn đang có mong muốn tùy chỉnh khác trên cửa sổ chat, hãy  gửi yêu cầu qua Support@Subiz.com để được hỗ trợ tốt nhất!
 
