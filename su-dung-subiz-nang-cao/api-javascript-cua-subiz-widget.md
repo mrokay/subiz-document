@@ -8,7 +8,7 @@ description: >-
 
 ### Update User Attributes
 
-API cho phép cập nhật dữ liệu khách hàng ngay từ Website. Ví dụ khi khách truy cập Login trên web, bạn có thể cập nhật email, tên...  lên Subiz để quản lý cũng như tương tác.  
+API cho phép cập nhật dữ liệu khách hàng ngay từ Website. Ví dụ khi khách truy cập đăng nhập trên web, bạn có thể cập nhật email, họ tên...  lên Subiz để quản lý cũng như tương tác.  
 
 ```javascript
 <script>
@@ -17,7 +17,7 @@ API cho phép cập nhật dữ liệu khách hàng ngay từ Website. Ví dụ 
 //Cập nhật tên. Trong đó fullname là Attributes Key của trường dữ liệu Fullname.
 ```
 
-Bạn có thể lấy Attributes Key tại [https://app.subiz.com/settings/user-attributes](https://app.subiz.com/settings/user-attributes)
+Bạn có thể tạo và lấy Attributes Key tại [trang cài đặt Thông tin khách hàng](https://app.subiz.com/settings/user-attributes).
 
 ```javascript
 <script>
@@ -108,7 +108,7 @@ API cho phép bạn truyền một đoạn mã CSS để thay đổi lại Subiz
 </script>
 ```
 
-
+Bạn tham khảo thêm [một số mã CSS sáng tạo cửa sổ tại đây.](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/sang-tao-cua-so-chat-subiz#css-tuy-chinh-cua-so-chat-subiz-tren-ban-may-tinh)
 
 
 
