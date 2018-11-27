@@ -70,7 +70,7 @@ API cho phép web chỉ định ngôn ngữ hiển thị của Subiz Widget.  Kh
 
 Mã ngôn ngữ là Mã đại diện của ngôn ngữ theo chuẩn [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1)  \( hai ký tự\) và là những ngôn ngữ mà Subiz hiện đang có. [Xem danh sách ngôn ngữ Subiz đang hỗ trợ](http://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/cac-ngon-ngu-ho-tro-tren-cua-so-subiz-chat). 
 
-### Mở /  Đóng Subiz 
+### Mở /  Đóng Subiz Widget 
 
 API cho phép bạn ra lệnh mở Subiz Widget. Ví dụ, bạn có thể tạo một nút trên website để khi khách truy cập click vào nút đó, cửa sổ Subiz sẽ mở ra.
 
