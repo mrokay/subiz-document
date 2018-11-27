@@ -56,6 +56,7 @@
     * [Chặn một User](su-dung-subiz-nang-cao/quan-ly-du-lieu/lam-the-nao-de-chan-mot-user.md)
     * [Tùy chỉnh thông tin khách hàng](su-dung-subiz-nang-cao/quan-ly-du-lieu/thong-tin-khach-hang.md)
     * [API đồng bộ dữ liệu website và Subiz](su-dung-subiz-nang-cao/quan-ly-du-lieu/api-dong-bo-du-lieu-website-va-subiz.md)
+  * [API Javascript của Subiz Widget](su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget.md)
   * [Sản phẩm](su-dung-subiz-nang-cao/content.md)
 * [Thanh toán](thanh-toan/README.md)
   * [Subiz tính phí như thế nào?](thanh-toan/subiz-tinh-phi-nhu-the-nao.md)
