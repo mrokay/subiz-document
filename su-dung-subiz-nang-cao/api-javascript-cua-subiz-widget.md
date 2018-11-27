@@ -6,8 +6,6 @@ description: >-
 
 # API Javascript của Subiz Widget
 
-Là các phương thức tương tác với Subiz Widget \(cửa sổ Subiz\) thông qua Javascript. Nó giúp các website làm việc với Subiz sáng tạo hơn.
-
 ### Update User Attributes
 
 API cho phép cập nhật dữ liệu khách hàng ngay từ Website. Ví dụ khi khách truy cập Login trên web, bạn có thể cập nhật email, tên...  lên Subiz để quản lý cũng như tương tác.  
