@@ -5,10 +5,12 @@ Với tính năng Automation của Subiz, bạn hoàn toàn có thể thiết l�
 Để vào mục thư viện Automation của Subiz, bạn thao tác theo các bước: [Cài đặt &gt; Tài khoản &gt; Automation &gt; Thư viện Automation**.**](https://app.subiz.com/settings/automation-list)  
 ****Tại đây, thư viện sẽ hiển thị danh sách kịch bản Automation.
 
-* [Hỏi báo giá](https://app.subiz.com/settings/automation-add?atmlibrary=1) 
-* [Chào khách hàng ở nước ngoài trên website](https://app.subiz.com/settings/automation-add?atmlibrary=2)
-* [Chào khách hàng Việt Nam trên website](https://app.subiz.com/settings/automation-add?atmlibrary=3)
-* [Hỏi thông tin khách hàng như Họ tên, Số điện thoại, Email ](https://app.subiz.com/settings/automation-add?atmlibrary=4) 
+* Hỏi báo giá  \([Click và chọn Cập nhật](https://app.subiz.com/settings/automation-add?atmlibrary=1)\)
+* Chào khách hàng ở nước ngoài trên website \([Click và chọn Cập nhật](https://app.subiz.com/settings/automation-add?atmlibrary=2)\)
+* Chào khách hàng Việt Nam trên website \([Click và chọn Cập nhật](https://app.subiz.com/settings/automation-add?atmlibrary=3)\)
+* Hỏi thông tin khách hàng như Họ tên, Số điện thoại, Email  \([Click và chọn Cập nhật](https://app.subiz.com/settings/automation-add?atmlibrary=4)\)
+
+  
 
 ![Th&#x1B0; vi&#x1EC7;n Automation](../../.gitbook/assets/thu-vien.png)
 

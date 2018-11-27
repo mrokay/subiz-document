@@ -16,7 +16,7 @@ Sau đây là một số kịch bản Automation để bạn tham khảo cài đ
 
 Khi khách hàng mới ghé thăm website, bạn muốn gửi đến khách hàng một lời chào, để họ biết sự hiện diện của bạn và luôn sẵn sàng giúp họ bất cứ khi nào trong quá trình mua sắm.
 
-Ví dụ: **URL của trang – chứa –  abc.com.vn**
+Ví dụ: **URL của trang** – **chứa** –  **Subiz.com**
 
 ![G&#x1EED;i tin nh&#x1EAF;n cho kh&#xE1;ch v&#xE0;o 1 site c&#x1EE5; th&#x1EC3;](../../.gitbook/assets/screenshot_1%20%283%29.png)
 
@@ -24,11 +24,15 @@ Ví dụ: **URL của trang – chứa –  abc.com.vn**
 
 Bạn muốn gửi thông điệp quảng cáo tới các khách vào 1 trang sản phẩm cụ thể, hoặc muốn gửi chương trình khuyến mãi cho khách vào trang thanh toán? Bạn chỉ cần thiết lập Automation theo điều kiện URL của trang chứa link sản phẩm, hoặc theo tiêu đề trang sản phẩm:
 
+Ví dụ: **URL của trang**  -  **chứa**  -  **Samsung-galaxy-s7**
+
 ![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng xem m&#x1ED9;t s&#x1EA3;n ph&#x1EA9;m c&#x1EE5; th&#x1EC3;](../../.gitbook/assets/screenshot_2%20%282%29.png)
 
 ### Gửi tin nhắn cho khách hàng đến từ một thành phố cụ thể
 
 Nếu bạn có những khách hàng đến từ những thành phố khác nhau và bạn muốn có thể dễ dàng nhận diện được những khách hàng này và gửi lời chào đến họ, bạn hãy cài đặt automation theo hướng dẫn sau:
+
+Ví dụ: **Thành phố**  -  **bằng**   -  **Hanoi**
 
 ![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng theo t&#x1EEB;ng khu v&#x1EF1;c](../../.gitbook/assets/screenshot_3%20%282%29.png)
 
@@ -36,13 +40,13 @@ Nếu bạn có những khách hàng đến từ những thành phố khác nhau
 
 Subiz hỗ trợ bạn gửi tin nhắn riêng biệt tới từng đối tượng khách hàng chia theo khu vực địa lý theo Quốc gia. Bạn có thể sử dụng để gửi tin nhắn với ngôn ngữ phù hợp tới từng đối tượng khách hàng. Ví dụ, với khách hàng đến từ Việt Nam, bạn cài đặt tin nhắn bằng ngôn ngữ Tiếng Việt.
 
-Điều kiện: Quốc gia  – bằng – Vietnam
+Điều kiện: **Quốc gia**  – **bằng** – **Vietnam**
 
 ![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng &#x111;&#x1EBF;n t&#x1EEB; Vi&#x1EC7;t Nam](../../.gitbook/assets/vn%20%281%29.png)
 
 Với khách hàng nước ngoài, bạn cài đặt tin nhắn bằng ngôn ngữ Tiếng Anh.
 
-Điều kiện: Quốc gia – không phải là – VN
+Điều kiện: **Quốc gia** – **không phải là** – **Vietnam**
 
 ![Ch&#xE0;o kh&#xE1;ch h&#xE0;ng &#x111;&#x1EBF;n t&#x1EEB; n&#x1B0;&#x1EDB;c ngo&#xE0;i](../../.gitbook/assets/screenshot_2.png)
 
