@@ -108,7 +108,12 @@ API cho phép bạn truyền một đoạn mã CSS để thay đổi lại Subiz
 </script>
 ```
 
-Bạn tham khảo thêm [một số mã CSS sáng tạo cửa sổ tại đây.](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/sang-tao-cua-so-chat-subiz#css-tuy-chinh-cua-so-chat-subiz-tren-ban-may-tinh)
+Bạn tham khảo thêm:
+
+* Một số mã [CSS sáng tạo cửa sổ trên bản destop](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/sang-tao-cua-so-chat-subiz#css-tuy-chinh-cua-so-chat-subiz-tren-ban-may-tinh)
+* Một số mã [CSS tùy chỉnh cửa sổ Subiz chat trên bản mobile](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-cua-so-chat-subiz-tren-dien-thoai#2-2-css-tuy-chinh-chat-button-tren-dien-thoai)
+
+
 
 
 
