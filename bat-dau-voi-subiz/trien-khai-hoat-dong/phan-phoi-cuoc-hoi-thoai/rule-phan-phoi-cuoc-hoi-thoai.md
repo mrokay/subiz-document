@@ -1,4 +1,4 @@
-# Cách thức phân phối cuộc hội thoại
+# Rule phân phối cuộc hội thoại
 
 ### Rule là gì?
 

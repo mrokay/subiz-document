@@ -29,7 +29,7 @@
       * [Tạo thêm và quản lý Agent](bat-dau-voi-subiz/trien-khai-hoat-dong/quan-ly-agent/tao-them-va-quan-ly-agent.md)
       * [Quản lý nhóm Agent](bat-dau-voi-subiz/trien-khai-hoat-dong/quan-ly-agent/quan-ly-nhom-agent.md)
     * [Phân phối cuộc hội thoại](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/README.md)
-      * [Cách thức phân phối cuộc hội thoại](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/rule-phan-phoi-cuoc-hoi-thoai.md)
+      * [Rule phân phối cuộc hội thoại](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/rule-phan-phoi-cuoc-hoi-thoai.md)
       * [Tạo Rule mới](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/tao-rule-moi.md)
       * [Một số ví dụ Rule phân phối hội thoại](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/untitled.md)
       * [Quản lý danh sách Rule](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/quan-ly-danh-sach-rule.md)
