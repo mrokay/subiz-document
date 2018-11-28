@@ -6,7 +6,7 @@ Rule là tính năng giúp bạn có thể phân phối cuộc hội thoại c�
 
 Trong đó:
 
-* **Phân phối tới tất cả available agents**: Available agent là những agent đang đăng nhập Subiz trên máy tính hoặc đăng nhập app Subiz trên điện thoại. 
+* **Phân phối tới tất cả available agents**: Available agent là những agent đang đăng nhập Subiz trên máy tính hoặc app Subiz trên điện thoại. 
 * **Phân phối tới các agents**: Chọn Agent bạn muốn chỉ định phân phối hội thoại của khách hàng
 * **Phân phối tới các nhóm**: Chọn nhóm agent bạn đã tạo để chỉ định phân phối hội thoại của khách hàng
 * **Phân phối tới agent có tương tác cuối cung với khách hàng**: Khi agent đã hỗ trợ khách hàng trước đó, bạn sẽ chọn chỉ định các cuộc hội thoại tiếp theo của khách cho agent tiếp tục chăm sóc và tư vấn.
