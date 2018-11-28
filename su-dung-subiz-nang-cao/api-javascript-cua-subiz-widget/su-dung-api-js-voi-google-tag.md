@@ -32,3 +32,48 @@ Trong ví dụ này, bạn có thể thay Trigger Scroll Depth bằng:
 * Sự kiện Click vào một element: Ví dụ với kịch bản khi khách click nút đăng ký, cửa sổ chat mở; khách click nút mua hàng hay yêu cầu hỗ trợ... 
 * Sự kiện Submit form Lỗi/Thành công: Để xuất hiện đúng thời điểm khi khách cần hay cung cấp dịch vụ VIP cho những khách hàng quan trọng.
 
+### Dùng Google Tag Manager để tùy chỉnh Widget
+
+Trong ví dụ này, tôi sẽ sử dụng Google Tag Manager để ẩn đi button Subiz khi truy cập bằng mobile. 
+
+**Bước 1: Dùng Google Tag Manager để nhận biết thiết bị là Mobile.**
+
+* Login Google Tag, vào phần Variable và tạo mới Variable với loại là Custom Javascript. Sử dụng function dưới đây để nhận biết thiết bị Mobile
+
+```javascript
+function() {
+ if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+ {
+  return 'true';
+ } 
+ else 
+ {
+  return 'false';
+ }
+}
+```
+
+![T&#x1EA1;o Variable &#x111;&#x1EC3; x&#xE1;c &#x111;&#x1ECB;nh thi&#x1EBF;t b&#x1ECB; truy c&#x1EAD;p l&#xE0; Mobile.](../../.gitbook/assets/screenshot-from-2018-11-28-13-25-39.png)
+
+**Bước 2: Tạo Tag để gọi đến** [**Subiz API Javascript để thay đổi CSS**](http://help.subiz.com/su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget#tuy-chinh-css)**.** 
+
+Tạo tag mới với loại là Custom HTML và nhập đoạn mã sau để ẩn cửa sổ Subiz trên mobile:
+
+```javascript
+<script type="text/javascript">
+    window.subiz('changeCss', '.widget_mobile .button-chat {display: none;}')
+</script>
+```
+
+![T&#x1EA1;o tag tr&#xEA;n Google Tag Manager &#x111;&#x1EC3; &#x1EA9;n button Subiz tr&#xEA;n Mobile.](../../.gitbook/assets/screenshot-from-2018-11-28-13-30-23.png)
+
+**Bước 3: Tạo trigger cho tag trên.**
+
+Tại trang trigger, tạo trigger mới với loại là Page View. Sử dụng Variables "is Mobile" để nhận biết Page View bằng Mobile.Bạn thiết lập như hình dưới:
+
+![S&#x1EED; d&#x1EE5;ng Variables &quot;is Mobile&quot; &#x111;&#x1EC3; thi&#x1EBF;t l&#x1EAD;p trigger. ](../../.gitbook/assets/screenshot-from-2018-11-28-13-34-50.png)
+
+Bây giờ bạn Save và Publish lên web. Dùng chức năng Preview để kiểm tra lại sự hoạt động.
+
+Qua ví dụ này, bạn có thể thay thế việc ẩn bằng sáng tạo riêng cho mình những Button khác để hấp dẫn hơn trên thiết bị Mobile. Hoặc bạn cũng có thể lập trình đơn giản để mỗi ngày, cửa sổ Subiz có một diện mạo khác nhau.
+
