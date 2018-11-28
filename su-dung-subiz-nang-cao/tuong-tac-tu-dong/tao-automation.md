@@ -94,7 +94,7 @@ Xem trước nội dung [email](https://subiz.com/vi/email.html):
 {% hint style="info" %}
 * Bạn có thể cài đặt Agent đại diện để gửi tin nhắn và email đi.
 
-                                         ![](../../.gitbook/assets/image%20%2816%29.png)
+                                         ![](../../.gitbook/assets/image%20%2817%29.png)
 
 * Bạn có thể tùy chỉnh tin nhắn cho sinh động hơn \(đậm/ nghiêng/ chèn link/ gửi ảnh…\) thông qua công cụ tùy chỉnh văn bản.
 {% endhint %}

@@ -4,32 +4,27 @@ Rule là tính năng tự động phân phối cuộc hội thoại của khách
 
 Để tạo rule mới, bạn [đăng nhập tài khoản](https://app.subiz.com/login) và vào phần[ **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Rule &gt; Tạo Rule mới**](https://app.subiz.com/settings/add-rule)\*\*\*\*
 
-![T&#x1EA1;o Rule m&#x1EDB;i](../../../.gitbook/assets/taorulemoi.png)
+![T&#x1EA1;o Rule m&#x1EDB;i](../../../.gitbook/assets/tao-rule.jpg)
 
 ### Bước 1: Đặt tên và mô tả Rule
 
-* **Tên:** Đặt tên để quản lý trong bảng danh sách các rule.
-* **Mô tả**: Mô tả điều kiện và đối tượng của rule để dễ nhận biết.
+* **Tên:** Đặt tên để gọi và phân biệt các Rule cài đặt
+* **Mô tả**: Mô tả mục đích cài đặt Rule
 
-![Nh&#x1EAD;p t&#x1EC7;p v&#xE0; m&#xF4; t&#x1EA3; v&#x1EC1; Rule](../../../.gitbook/assets/ten-va-mo-ta-rule.png)
+![&#x110;i&#x1EC1;n t&#xEA;n v&#xE0; m&#xF4; t&#x1EA3; Rule](../../../.gitbook/assets/ten-rule.jpg)
 
-### Bước 2: Đặt các điều kiện cho Rule
+### Bước 2: Chọn Điều kiện cho Rule
 
-Điều kiện trong Rule là các để một Rule được thực thi, giúp thiết lập các kịch bản phân phối cuộc hội thoại tới Agent một cách thông minh và hoạt động đúng lúc. 
+Điều kiện trong Rule là những logic để một Rule hoạt động, tự động phân phối cuộc hội thoại của đúng khách hàng tới đúng agent phụ trách.
 
-{% hint style="info" %}
-**Lưu ý:** Một Rule **chỉ áp dụng cho một quy tắc phân phối hội thoại**. Tuy nhiên, bạn có thể kết hợp nhiều điều kiện để phân phối tới một hay nhóm agent tương ứng với điều kiện đó. 
-{% endhint %}
+Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
 
-  
-Cách thiết lập các điều kiện trong Rule: 
+* Click Thêm điều kiện để thêm điều kiện cài đặt Rule
+* Chọn Và / Hoặc để xác định mối quan hệ giữa các điều kiện.
 
-* Click Thêm điều kiện để kết hợp nhiều điều kiện trong một rule.
-* Chọn Và/ Hoặc để xác định mối quan hệ giữa các điều kiện.
+  **Ví dụ:** Rule cài đặt Phân phối hội thoại của khách Việt Nam và nhắn tin từ web Subiz.com 
 
-  **Ví dụ:** Khách hỏi nội dung có ký tự “giá” hội thoại sẽ chuyển đến agent Linh Chi.
-
-![Kh&#xE1;ch h&#x1ECF;i n&#x1ED9;i dung c&#xF3; k&#xFD; t&#x1EF1; &#x201C;gi&#xE1;&#x201D; h&#x1ED9;i tho&#x1EA1;i s&#x1EBD; chuy&#x1EC3;n &#x111;&#x1EBF;n agent Linh Chi.](../../../.gitbook/assets/khach-hoi-bao-gia.png)
+![](../../../.gitbook/assets/dieu-kien-rule%20%281%29.jpg)
 
 **Bạn có thể chọn một hay nhiều điều kiện trong danh sách các điều kiện trong Rule dưới đây:​**
 
@@ -46,10 +41,11 @@ Cách thiết lập các điều kiện trong Rule:
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Any condition</td>
-      <td style="text-align:left">Khi lựa chọn điều kiện này, các cuộc hội thoại sẽ luôn được phân phối
-        cho các agent được thiết lập trong rule.</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Bất kì điều kiện nào</td>
+      <td style="text-align:left">Khi lựa chọn điều kiện này, tất cả cuộc hội thoại sẽ luôn được phân phối
+        tới các agent.</td>
+      <td style="text-align:left">Điều kiện:<em>Bất kì điều kiện nào</em>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Date Time</b>
@@ -59,17 +55,30 @@ Cách thiết lập các điều kiện trong Rule:
     </tr>
     <tr>
       <td style="text-align:left">Giờ trong ngày</td>
-      <td style="text-align:left">Dùng khi bạn muốn phân chia cuộc thoại cho các Agent theo các khung giờ
-        trong ngày. Giờ trong ngày từ 0 - 23.</td>
-      <td style="text-align:left">Ca sáng cho Agent A - Ca chiều cho Agent B - Ca tối cho Agent C.</td>
+      <td style="text-align:left">Dùng khi bạn muốn phân chia cuộc thoại theo các khung giờ trong ngày.
+        Giờ trong ngày từ 0 - 23.</td>
+      <td style="text-align:left">
+        <p>Bạn cài đăt 3 rule tương ứng: Ca sáng cho Agent A - Ca chiều cho Agent
+          B - Ca tối cho Agent C.</p>
+        <p>Điều kiện:
+          <br /><em>Giờ trong ngày - lớn hơn hoặc bằng - 7<br />Và<br />Giờ trong ngày - nhỏ hơn - 12</em>
+        </p>
+        <p></p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Ngày trong tuần</td>
-      <td style="text-align:left">Dùng điều kiện này để phân chia cuộc hội thoại theo ngày. Lưu ý: Ngày
-        trong tuần được ghi nhận theo số thứ tự từ 2-8. Thứ Hai = 2, Thứ Ba = 3…
-        , Chủ nhật = 8.</td>
-      <td style="text-align:left">Ngày chẵn cho Agent A - Ngày lẻ cho Agent B, 3 ngày đầu tuần cho Agent
-        C - 3 ngày cuối tuần cho Agent D.</td>
+      <td style="text-align:left">Dùng khi bạn muốn phân chia cuộc thoại theo ngày trong tuần.
+        <br />Lưu ý: Ngày trong tuần được ghi nhận theo số thứ tự từ 2-8. Thứ Hai =
+        2, Thứ Ba = 3… , Chủ nhật = 8.</td>
+      <td style="text-align:left">
+        <p>Bạn cài đặt 2 Rule: 3 ngày đầu tuần cho Agent A và 3 ngày cuối tuần cho
+          Agent B</p>
+        <p>Điều kiện:
+          <br /><em>Ngày trong tuần - bằng - 2<br />Hoặc <br />Ngày trong tuần - bằng - 3<br />Hoặc <br />Ngày trong tuần - bằng - 4</em>
+        </p>
+        <p></p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Hội thoại</b>
@@ -78,46 +87,64 @@ Cách thiết lập các điều kiện trong Rule:
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">Kênh</td>
+      <td style="text-align:left">Dùng khi bạn muốn phân phối hội thoại theo kênh tương tác khách hàng.
+        Ví dụ kênh Subiz chat trên website, Kênh Fanpage, kênh Subiz Email</td>
+      <td
+      style="text-align:left">
+        <p>Bạn tạo 3 Rule phân chai hội thoại trên 3 kênh Subiz chat, Fanpage, Email
+          như sau:</p>
+        <p>Điều kiện:
+          <br /><em>1.  Kênh - bằng - Subiz chat</em>
+        </p>
+        <p><em>2. Kênh - bằng - Subiz Email</em>
+        </p>
+        <p><em>3. Kênh - bằng - Fanpage</em>
+        </p>
+        </td>
+    </tr>
+    <tr>
       <td style="text-align:left">URL của trang</td>
-      <td style="text-align:left">Mỗi trang URL thường tập trung giới thiệu về một Sản phẩm và Dịch vụ cụ
-        thể, bạn có thể nhận diện khách hàng đang xem các trang cụ thể này và phân
-        phối cuộc hội thoại cho từng Agent chuyên trách</td>
+      <td style="text-align:left">Dùng khi bạn muốn phân chia cuộc hội thoại theo từng URL website riêng
+        hay URL page sản phẩm/ dịch vụ trên 1 website</td>
       <td style="text-align:left">
-        <p>Khách vào trang Báo giá chuyển hội thoại cho agent A.</p>
-        <p>Điều kiện: URL của trang - bằng - banggia</p>
+        <p>Khách vào website của Subiz sẽ được phân phối cho Agent A</p>
+        <p>Điều kiện: <em>URL của trang - chứa - Subiz.com</em>
+        </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Tiêu đề trang</td>
-      <td style="text-align:left">Tiêu đề trang gần giống URL trang, dùng để phân phối cuộc hội thoại cho
-        các trang cụ thể cho từng Agent chuyên trách</td>
+      <td style="text-align:left">Tiêu đề trang gần giống URL trang, dùng để phân phối hội thoại theo từng
+        tiêu đề của trang sản phẩm/ dịch vụ</td>
       <td style="text-align:left">
-        <p>Tiêu đề trang chứa các từ khóa sau: Các trang có tiêu đề chứa từ khóa
-          “Máy Ảnh” phân phối cuộc hội thoại cho Agent A.</p>
-        <p>Điều kiện: Tiêu đề trang - chứa - máy ảnh</p>
+        <p>Khách vào trang có tiêu đề chứa từ khóa “Máy Ảnh” phân phối cuộc hội thoại
+          cho Agent A.</p>
+        <p>Điều kiện: <em>Tiêu đề trang - chứa - máy ảnh</em>
+        </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Nội dung tin nhắn</td>
-      <td style="text-align:left">Khi khách hàng gửi tin nhắn đầu tiên có liên quan đến một nội dung nhất
-        định, bạn có thể phân phối cuộc hội thoại này cho người chuyên trách về
-        nội dung đó</td>
+      <td style="text-align:left">Dùng khi bạn muốn dựa vào nội dung tin nhắn đầu tiên của khách gửi để
+        phân phối hội thoại cho agent</td>
       <td style="text-align:left">
-        <p>Cho xin “giá” sản phẩm A. Khi tin nhắn đầu tiên của khách hàng có chứa
-          từ “giá”, cuộc hội thoại này sẽ được phân phối cho Agent A.</p>
-        <p>Điều kiện: Nội dung tin nhắn - chứa - giá</p>
+        <p>Khi tin nhắn đầu tiên của khách hàng có chứa từ “giá”, cuộc hội thoại
+          này sẽ được phân phối cho Agent A.</p>
+        <p>Điều kiện: <em>Nội dung tin nhắn - chứa - giá</em>
+        </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Ngôn ngữ trên trình duyệt</td>
-      <td style="text-align:left">Ngôn ngữ trên trình duyệt tuân theo chuẩn <a href="http://www.lingoes.net/en/translator/langcode.htm">ISO Language Code</a>,
-        ví dụ: vi- VN, en- US. Khách hàng sử dụng ngôn ngữ trình duyệt nào thì
-        hãy phân phối cuộc hội thoại cho Agent biết ngôn ngữ đó</td>
+      <td style="text-align:left">Dùng khi bạn muốn dựa vào ngôn ngữ trình duyệt của khách để phân phối
+        hội thoại. Ngôn ngữ trên trình duyệt theo chuẩn <a href="http://www.lingoes.net/en/translator/langcode.htm">ISO Language Code</a>,
+        ví dụ: vi- VN, en - US.</td>
       <td style="text-align:left">
-        <p>Khách hàng sử dụng ngôn ngữ trên trình duyệt là Tiếng Anh phân phối cuộc
-          chat cho Agent Tiếng Anh. Khách hàng sử dụng ngôn ngữ trên trình duyệt
-          là Tiếng Việt phân phối cuộc chat cho Agent Tiếng Việt</p>
-        <p>Điều kiện: Ngôn ngữ trên trình duyệt - bằng - vi-VN</p>
+        <p>Khách hàng sử dụng ngôn ngữ English trên trình sẽ phân phối hội thoại
+          cho nhóm agent quốc tế.</p>
+        <p>Điều kiện: <em>Ngôn ngữ trên trình duyệt - bằng - en- US</em>
+        </p>
       </td>
     </tr>
     <tr>
@@ -128,45 +155,46 @@ Cách thiết lập các điều kiện trong Rule:
     </tr>
     <tr>
       <td style="text-align:left">Quốc gia</td>
-      <td style="text-align:left">Thực hiện phân phối hội thoại dựa trên quốc gia của user. Tên quốc gia
-        là tên tiếng Anh của quốc gia, chỉ viết hoa các chữ cái đầu tiên của từ.
-        Ví dụ: Vietnam, United States
-        <br /><a href="https://countrycode.org/">Tham khảo danh sách các quốc gia</a>
-      </td>
+      <td style="text-align:left">Dùng khi bạn muốn dựa vào Quốc gia của khách hàng để phân phối hội thoại
+        cho agent. Tên Quốc gia theo chuẩn quốc tế, <a href="https://countrycode.org/">tham khảo danh sách quốc gia.</a>
+        <br
+        />Ví dụ: Vietnam, United States</td>
       <td style="text-align:left">
-        <p>Phân phối hội thoại cho agent dựa trên Quốc gia của User.</p>
-        <p>Vd: Quốc gia - bằng - Vietnam</p>
-        <p></p>
+        <p>Khách hàng ở Việt Nam sẽ phân phối hội thoại cho các agent nội địa</p>
+        <p>Điều kiện: <em>Quốc gia - bằng - Vietnam </em>
+        </p>
+        <p><em></em>
+        </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Mã quốc gia</td>
-      <td style="text-align:left">Thực hiện phân phối hội thoại dựa trên mã quốc gia. Mã quốc gia căn cứ
-        theo ISO Code (2 ký tự), viết hoa cả 2 chữ cái.
-        <br />Ví dụ: Việt Nam = VN, Mỹ = US, Trung Quốc = CN, Hàn Quốc = KR, Nhật Bản
-        = JP. <a href="https://en.wikipedia.org/wiki/ISO_3166-2">Tham khảo danh sách mã quốc gia</a>
-      </td>
+      <td style="text-align:left">Dùng khi bạn muốn dựa vào Mã Quốc gia của khách để phân phối hội thoại.
+        Mã quốc gia căn cứ theo ISO Code (2 ký tự), viết hoa cả 2 chữ cái. <a href="https://en.wikipedia.org/wiki/ISO_3166-2">Tham khảo danh sách mã quốc gia</a>
+        <br
+        />Ví dụ: Việt Nam = VN, Mỹ = US, Trung Quốc = CN, Hàn Quốc = KR, Nhật Bản
+        = JP.</td>
       <td style="text-align:left">
-        <p>Phân phối hội thoại khách hàng đến từ Việt Nam cho agent A phụ trách.</p>
-        <p>Điều kiện: Mã quốc gia - bằng - VN</p>
+        <p>Phân phối hội thoại khách hàng nước ngoài cho các agent quốc tế</p>
+        <p>Điều kiện: <em>Mã quốc gia - không phải là - VN</em>
+        </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Thành phố</td>
-      <td style="text-align:left">Thực hiện phân phối hội thoại với các user đến từ một thành phố cụ thể.
-        Là tên tiếng Anh của các thành phố, chỉ viết hoa các chữ cái đầu tiên của
-        từ.
-        <br />Ví dụ: Hanoi, Ho Chi Minh City, New York, Hong Kong. Danh sách mã thành
-        phố của các quốc gia (<a href="https://countrycode.org/">Click vào từng quốc gia để tra cứu tên thành phố</a>)</td>
-      <td
-      style="text-align:left">
-        <p>Phân phối hội thoại cho khách hàng đến từ Hà Nội cho agent A phụ trách,
-          khách hàng đến từ thành phố Hồ Chí Minh cho agent B.</p>
-        <p>Điều kiện:
-          <br />- Thành phố - bằng - Hanoi.
-          <br />- Thành phố - bằng - Ho Chi Minh City</p>
+      <td style="text-align:left">
+        <p>Dùng khi bạn muốn dựa vào địa chỉ Thành phố của khách để phân phối hội
+          thoại. Là tên tiếng Anh của các thành phố, chỉ viết hoa các chữ cái đầu
+          tiên của từ. <a href="https://countrycode.org/vietnam">Tham khảo tên Thành phố từng quốc gia</a>
+          <br
+          />Ví dụ: Hanoi, Ho Chi Minh City, New York, Hong Kong.</p>
         <p></p>
-        </td>
+      </td>
+      <td style="text-align:left">
+        <p>Phân phối hội thoại cho khách hàng đến từ Hà Nội cho agent Hà Nội</p>
+        <p>Điều kiện : <em>Thành phố - bằng - Hanoi</em>
+        </p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Múi giờ</td>
@@ -178,50 +206,60 @@ Cách thiết lập các điều kiện trong Rule:
       </td>
       <td style="text-align:left">
         <p>Phân phối hội thoại cho khách hàng đến từ khu vực Đông Nam Á cho agent
-          A phụ trách.</p>
-        <p>Điều kiện: Múi giờ - bằng - UTC +7 G</p>
+          A Đông Nam Á.</p>
+        <p>Điều kiện: <em>Múi giờ - bằng - UTC +7 G</em>
+        </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Tên</td>
-      <td style="text-align:left">Chuyển cuộc thoại của khách hàng có tên cụ thể cho 1 Agent nào đó</td>
-      <td
-      style="text-align:left">
-        <p>Phân phối cuộc hội thoại của khách hàng Nguyễn Văn A cho Agent A.</p>
-        <p>Tên - bằng - Nguyễn Văn A</p>
-        </td>
+      <td style="text-align:left">Dùng khi bạn muốn dựa vào thông tin Họ tên của khách để phân phối hội
+        thoại cho agent.</td>
+      <td style="text-align:left">
+        <p>Phân phối cuộc hội thoại của khách hàng đã có thông tin Họ tên cho Agent
+          Dịch vụ</p>
+        <p>Điều kiện: <em>Tên  - Không trống</em>
+        </p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Địa chỉ email</td>
-      <td style="text-align:left">Chuyển cuộc thoại của khách hàng có email cụ thể cho 1 Agent nào đó</td>
-      <td
-      style="text-align:left">
-        <p>Phân phối cuộc hội thoại của khách hàng có email là abc@gmail.com cho
-          Agent A.</p>
-        <p>Điều kiện: Địa chỉ email - bằng - abc@gmail.com</p>
-        </td>
+      <td style="text-align:left">Dùng khi bạn muốn dựa vào thông tin địa chỉ email của khách để phân phối
+        hội thoại cho agent.</td>
+      <td style="text-align:left">
+        <p>Phân phối cuộc hội thoại của khách hàng đã có địa chỉ email cho Agent
+          Kinh doanh</p>
+        <p>Điều kiện:<em> Địa chỉ email  - Không trống</em>
+        </p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Số điện thoại</td>
-      <td style="text-align:left">Chuyển cuộc thoại của khách hàng có số điện thoại cụ thể cho 1 Agent nào
-        đó. Số điện thoại là tập hợp các chữ số, viết liền không chứa ký tự đặc
-        biệt</td>
+      <td style="text-align:left">Dùng khi bạn muốn dựa vào thông tin số điện thoại của khách để phân phối
+        hội thoại cho agent.</td>
       <td style="text-align:left">
-        <p>Phân phối cuộc hội thoại của khách hàng có số điện thoại 0123456789 cho
-          Agent A.</p>
-        <p>Điều kiện: Số điện thoại - bằng - 0123456789</p>
+        <p>Phân phối cuộc hội thoại của khách hàng đã có địa chỉ email cho Agent
+          Tổng đài</p>
+        <p>Điều kiện: <em>Số điện thoại  - Không trống</em>
+        </p>
       </td>
     </tr>
   </tbody>
-</table>### Bước 3: Chọn cách thức phân phối các cuộc tương tác cho Agent
+</table>### Bước 3: Chọn cách thức phân phối tới Agent
 
 Bây giờ, bạn chọn cách thức phân phối cuộc các cuộc hội thoại thỏa mãn các điều kiện đã đặt ở trên.
 
-![Kh&#xE1;ch h&#x1ECF;i n&#x1ED9;i dung c&#xF3; k&#xFD; t&#x1EF1; &#x201C;gi&#xE1;&#x201D; h&#x1ED9;i tho&#x1EA1;i s&#x1EBD; chuy&#x1EC3;n &#x111;&#x1EBF;n agent Linh Chi.](../../../.gitbook/assets/khach-hoi-bao-gia-chuyen-cho-lc.png)
+* **Phân phối tới tất cả available agents**: Available agent là những agent đang đăng nhập Subiz trên máy tính hoặc app Subiz trên điện thoại.  Khi các agent không đăng nhập Subiz, cuộc hội thoại của khách chuyển về phân khúc Hội thoại chưa được phân phối. Agent có thể xem và trả lời khách hàng sau khi đăng nhập Subiz.
+* **Phân phối tới các agents**: Chọn cụ thể Agent bạn muốn phân phối hội thoại của khách hàng
+* **Phân phối tới các nhóm**: Chọn nhóm agent bạn đã tạo để phân phối hội thoại của khách hàng
+* **Phân phối tới agent có tương tác cuối cung với khách hàng**: Khi agent đã hỗ trợ khách hàng trước đó, bạn sẽ chọn chỉ định các cuộc hội thoại tiếp theo của khách cho agent tiếp tục chăm sóc và tư vấn.
+* **Phân phối cuộc hội thoại đồng đều theo vòng**: Bạn có nhiều agent và muốn chỉ định theo vòng chia đều cuộc hội thoại của khách cho các agent. 
+
+![Rule Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho available agent ](../../../.gitbook/assets/rule-moi.jpg)
 
 {% hint style="info" %}
-* Rule là **điều kiện bắt buộc** để agent nhận được cuộc chat. Khi bạn xóa Rule mặc định nhưng không tạo Rule mới, tất cả các agent sẽ không nhận tương tác của khách hàng. Lúc này, tất cả hội thoại sẽ nằm trong mục **hội thoại chưa phân phối** trong phần **Hoạt động**.
-* Bạn có thể tạo nhiều Rule, quản lý các Rule và thay đổi Rule theo thời gian, cho phù hợp với số lượng Agent và cách quản lý của bạn.
+* Rule là cài đặt **bắt buộc** để agent nhận được cuộc chat. Khi bạn xóa Rule mặc định nhưng không tạo Rule mới, tất cả các agent sẽ không nhận tương tác của khách hàng. Lúc này, tất cả hội thoại sẽ nằm trong phân khúc **Hội thoại chưa phân phối** trong phần **Hoạt động**.
+* Bạn có thể tạo nhiều Rule và thay đổi Rule theo thời gian, cho phù hợp với số lượng Agent và cách phân chia công việc của doanh nghiệp.
 {% endhint %}
 
 
