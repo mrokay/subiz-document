@@ -1,12 +1,14 @@
 # Tạo Rule mới
 
-Rule là tính năng tự động phân phối cuộc hội thoại của khách hàng cho các agent theo các điều kiện cài đặt. Bạn nên dựa trên tình hình thực tế, cách thức quản lý, điều hành của doanh nghiệp, cách thức phân chia công việc của tư vấn viên để sáng tạo ra các Rule mới, giúp cho việc phân phối và xử lý các cuộc hội thoại được hiệu quả.
+Rule là tính năng tự động phân phối cuộc hội thoại của khách hàng cho các agent theo điều kiện cài đặt.
 
-Để tạo rule mới, bạn [đăng nhập tài khoản](https://app.subiz.com/login) và vào phần[ **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Rule &gt; Tạo Rule mới**](https://app.subiz.com/settings/add-rule)\*\*\*\*
+Bạn có thể cân nhắc cách thức quản lý và  phân chia công việc của Agent để tạo Rule mới, giúp cho việc phân phối và xử lý các cuộc hội thoại được kịp thời, hiệu quả.
+
+Để tạo rule mới, bạn [đăng nhập Subiz](https://app.subiz.com/login) và vào phần[ **Cài đặt &gt; Tài khoản &gt; Rule &gt; Tạo Rule mới**](https://app.subiz.com/settings/add-rule)\*\*\*\*
 
 ![T&#x1EA1;o Rule m&#x1EDB;i](../../../.gitbook/assets/tao-rule.jpg)
 
-### Bước 1: Đặt tên và mô tả Rule
+### Bước 1: Điền tên và mô tả Rule
 
 * **Tên:** Đặt tên để gọi và phân biệt các Rule cài đặt
 * **Mô tả**: Mô tả mục đích cài đặt Rule
