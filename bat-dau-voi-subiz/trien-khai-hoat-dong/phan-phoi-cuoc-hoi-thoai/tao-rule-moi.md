@@ -15,7 +15,7 @@ Rule là tính năng tự động phân phối cuộc hội thoại của khách
 
 ### Bước 2: Đặt các điều kiện cho Rule
 
-Điều kiện trong Rule là các tiêu chuẩn để một Rule được thực thi, giúp thiết lập các kịch bản phân phối cuộc hội thoại tới Agent một cách thông minh và hoạt động đúng lúc. 
+Điều kiện trong Rule là các để một Rule được thực thi, giúp thiết lập các kịch bản phân phối cuộc hội thoại tới Agent một cách thông minh và hoạt động đúng lúc. 
 
 {% hint style="info" %}
 **Lưu ý:** Một Rule **chỉ áp dụng cho một quy tắc phân phối hội thoại**. Tuy nhiên, bạn có thể kết hợp nhiều điều kiện để phân phối tới một hay nhóm agent tương ứng với điều kiện đó. 
