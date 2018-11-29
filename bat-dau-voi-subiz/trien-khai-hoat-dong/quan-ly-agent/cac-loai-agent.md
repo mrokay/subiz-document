@@ -39,6 +39,15 @@ Một số lưu ý về phân quyền Agent:
 * Bạn không thể tùy chỉnh phân quyền Agent của mình. Chỉ những Agent có quyền Quản lý tài khoản hoặc Cài đặt tài khoản được phép tùy chỉnh quyền của các Agent khác.
 {% endhint %}
 
+### Agent đăng nhập và trạng thái kết nối Subiz
+
+Agent đăng nhập Subiz cần địa chỉ email và mật khẩu tài khoản.
+
+Khi đăng nhập Subiz, agent có 2 trạng thái kết nối Subiz:
+
+* **Available**: Agent có kết nối trực tiếp tới Subiz và sẵn sàng làm việc, có thể đang mở trang quản lý App.subiz.com trên máy tính hoặc hiển thị app Subiz trên điện thoại.
+* **Unavailable**: Agen đã tắt trang quản lý Subiz trên máy tính hay không mở app Subiz trên điện thoại 
+
 ### Thông tin cá nhân của Agent
 
 **Thông tin cá nhân của Agent là thông tin tài khoản đăng nhập Subiz của bạn, sẽ hiển thị trong cửa sổ chat Subiz trên website.** Khi bạn thiết lập đầy đủ các thông tin của Agent, hình ảnh của bạn sẽ chuyên nghiệp và uy tín hơn trong mắt khách hàng.
