@@ -6,7 +6,7 @@ Bạn có thể tạo những Mẫu tin nhắn theo từng kênh tương tác nh
 
 Mẫu tin nhắn hỗ trợ nhiều kiểu nội dung như:
 
-* **Tin nhắn văn bản**: gồm nội dung và gắn thêm icon emoji cảm xúc, thông tin cá nhân của khách hàng. Bạn có thể thêm button như **** button dẫn link URL trang web, button gọi số điện thoại
+* **Tin nhắn văn bản**: gồm nội dung tin nhắn văn bản, có thể thêm icon emoji cảm xúc, thông tin cá nhân của khách hàng và thêm button như ****button dẫn link URL trang web, button gọi số điện thoại
 * **Hình ảnh**: Hỗ trợ tải lên tối đa 10 ảnh/ 1 mẫu tin nhắn
 * **Tệp đính kèm**: hỗ trợ nhiều định dạng như DOC \(.doc\) PDF \(.pdf\), TXT \(.txt\), CSV \(.csv\), RAR \(.zip\),... và có thể xem trực tiếp trên Subiz tệp Audio, Video
 * **Sản phẩm**: Hỗ trợ hiển thị  tối đa 10 sản phẩm / 1 mẫu tin nhắn
