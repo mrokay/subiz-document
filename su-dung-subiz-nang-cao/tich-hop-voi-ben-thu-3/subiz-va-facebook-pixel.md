@@ -20,7 +20,7 @@ Cửa sổ Subiz được mở bởi bất kỳ lý do gì: User mở; API Javas
 
 Event Name: _SUBIZ Chat_
 
-Parameter "Action": _Opened_
+Parameter "action": _Opened_
 
 Parameter "label": _Subiz Windows_
 {% endtab %}

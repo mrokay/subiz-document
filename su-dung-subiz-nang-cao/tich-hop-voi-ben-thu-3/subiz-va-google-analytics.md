@@ -41,7 +41,7 @@ Event Label: _User_
 {% tab title="User gửi tin nhắn" %}
 Event Category: _SUBIZ Chat_ 
 
-Event Action: _Received_
+Event Action: _Sent_
 
 Event Label: _User_
 {% endtab %}
@@ -56,7 +56,7 @@ Từ những dữ liệu này, bạn có thể sử dụng để phân tích hà
 * Phân tích khách tương tác Subiz theo Campaign quảng cáo.
 * Phân tích khách tương tác Subiz theo Nguồn truy cập \(Traffic Channel\).
 * Phân tích khách mua hàng trên website và có tương tác Subiz. 
-* Thiết lập Subiz như một channel traffic để hiêu được họ mất bao nhiêu phiên tương tác để mua hàng. 
+* Thiết lập Subiz như một channel traffic để hiểu được họ mất bao nhiêu phiên tương tác để mua hàng. 
 * Sử dụng để lọc những khách hàng đã tương tác Subiz để chạy quảng cáo Remarketing.
 * .... 
 
