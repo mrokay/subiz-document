@@ -2,7 +2,7 @@
 
 ### Hướng dẫn xem thống kê Subiz trên GA
 
-**Bước 1**: [Đăng nhập tài khoản Google Analytics](https://analytics.google.com/analytics/) của website cần kiểm tra 
+**Bước 1**: [Đăng nhập Google Analytics](https://analytics.google.com/analytics/) và chọn website cần kiểm tra 
 
 **Bước 2**: Trong mục Báo cáo &gt; chọn HÀNH VI &gt; Sự kiện 
 
@@ -10,7 +10,7 @@
 
 **Bước 3**: Chọn Tổng quan để xem thống kê Danh mục sự kiện
 
-![Xem th&#x1ED1;ng k&#xEA; Subiz chat trong Danh m&#x1EE5;c s&#x1EF1; ki&#x1EC7;n](../.gitbook/assets/buoc-2-copy.jpg)
+![Xem th&#x1ED1;ng k&#xEA; SUBIZ chat trong Danh m&#x1EE5;c s&#x1EF1; ki&#x1EC7;n](../.gitbook/assets/thong-ke-ga.jpg)
 
 **Bước 4**: Để xem thống kê chi tiết các Hành động sự kiện của Subiz: vào Sự kiện hàng đầu &gt; Danh mục sự kiện &gt;  chọn Subiz chat &gt; Hành động sự kiện
 
