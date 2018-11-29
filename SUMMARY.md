@@ -60,6 +60,8 @@
   * [API Javascript của Subiz Widget](su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget/README.md)
     * [Sử dụng API Js với Google Tag](su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget/su-dung-api-js-voi-google-tag.md)
   * [Sản phẩm](su-dung-subiz-nang-cao/content.md)
+  * [Tích hợp với bên thứ 3](su-dung-subiz-nang-cao/tich-hop-voi-ben-thu-3/README.md)
+    * [Subiz và Google Analytics](su-dung-subiz-nang-cao/tich-hop-voi-ben-thu-3/subiz-va-google-analytics.md)
 * [Thanh toán](thanh-toan/README.md)
   * [Subiz tính phí như thế nào?](thanh-toan/subiz-tinh-phi-nhu-the-nao.md)
   * [Trả phí dịch vụ Subiz](thanh-toan/tra-phi-dich-vu-subiz.md)
