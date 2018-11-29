@@ -18,33 +18,29 @@ Subiz sẽ gửi các dữ liệu sự kiện \(event data\) sang Facebook Pixel
 {% tab title="Cửa sổ Subiz Mở" %}
 Cửa sổ Subiz được mở bởi bất kỳ lý do gì: User mở; API Javascript mở; Automation mở...
 
-Event Category: _SUBIZ Chat_
+Event Name: _SUBIZ Chat_
 
 Parameter "Action": _Opened_
 
-Parameter "abel": _Subiz Windows_
+Parameter "label": _Subiz Windows_
 {% endtab %}
 
 {% tab title="User nhận tin nhắn" %}
 User nhận được tin nhắn của agents hay automation....
 
-Event Category: _SUBIZ Chat_
-
-Parameter "action": _Received_
-
-Parameter "abel": _User_
-{% endtab %}
-
-{% tab title="User gửi tin nhắn" %}
-Event Category: _SUBIZ Chat_
+Event Name: _SUBIZ Chat_
 
 Parameter "action": _Received_
 
 Parameter "label": _User_
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="User gửi tin nhắn" %}
+Event Name: _SUBIZ Chat_
 
+Parameter "action": _Received_
+
+Parameter "label": _User_
 {% endtab %}
 {% endtabs %}
 
