@@ -51,5 +51,20 @@ Event Label: _User_
 
 ### Khai thác dữ liệu
 
+Từ những dữ liệu này, bạn có thể sử dụng để phân tích hành vi khách truy cập trên Google Analytics hoặc có thể thiết lập để thành Mục tiêu \(GOAL\) và đồng bộ nó sang tài khoản adwords của bạn. 
 
+* Phân tích khách tương tác Subiz theo Campaign quảng cáo.
+* Phân tích khách tương tác Subiz theo Nguồn truy cập \(Traffic Channel\).
+* Phân tích khách mua hàng trên website và có tương tác Subiz. 
+* Thiết lập Subiz như một channel traffic để hiêu được họ mất bao nhiêu phiên tương tác để mua hàng. 
+* Sử dụng để lọc những khách hàng đã tương tác Subiz để chạy quảng cáo Remarketing.
+* .... 
+
+### Câu hỏi thường gặp khi tích hợp với Google Analytics
+
+* Website có nhiều mã nhúng Google Analytics, Subiz sẽ gửi dữ liệu đến tài khoản nào? _Subiz gửi tới tất cả các tài khoản được tích hợp._
+* Google Analytics được cài qua Google Tag Manager thì Subiz có gửi dữ liệu sang không? _Có._ 
+* Thời điểm nào Subiz sẽ gửi dữ liệu sang Google Analytics? _Ngay lúc sự kiện xẩy ra._ 
+
+[Cách xem báo cáo Subiz trên Google Analytics](http://help.subiz.com/bao-cao-and-thong-ke/thong-ke-subiz-chat-tren-google-analytics). 
 

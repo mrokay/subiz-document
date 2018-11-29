@@ -62,6 +62,7 @@
   * [Sản phẩm](su-dung-subiz-nang-cao/content.md)
   * [Tích hợp với bên thứ 3](su-dung-subiz-nang-cao/tich-hop-voi-ben-thu-3/README.md)
     * [Subiz và Google Analytics](su-dung-subiz-nang-cao/tich-hop-voi-ben-thu-3/subiz-va-google-analytics.md)
+    * [Subiz và Facebook Pixel](su-dung-subiz-nang-cao/tich-hop-voi-ben-thu-3/subiz-va-facebook-pixel.md)
 * [Thanh toán](thanh-toan/README.md)
   * [Subiz tính phí như thế nào?](thanh-toan/subiz-tinh-phi-nhu-the-nao.md)
   * [Trả phí dịch vụ Subiz](thanh-toan/tra-phi-dich-vu-subiz.md)
