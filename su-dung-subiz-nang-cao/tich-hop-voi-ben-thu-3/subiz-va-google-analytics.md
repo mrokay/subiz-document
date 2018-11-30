@@ -68,3 +68,5 @@ Từ những dữ liệu này, bạn có thể sử dụng để phân tích hà
 
 [Cách xem báo cáo Subiz trên Google Analytics](http://help.subiz.com/bao-cao-and-thong-ke/thong-ke-subiz-chat-tren-google-analytics). 
 
+[Subiz làm việc cùng với Facebook Pixel.](https://help.subiz.com/~/edit/drafts/-LSXtBwNzwZUwy15lt2A/su-dung-subiz-nang-cao/tich-hop-voi-ben-thu-3/subiz-va-facebook-pixel)
+
