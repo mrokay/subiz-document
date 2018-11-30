@@ -57,3 +57,5 @@ Parameter "label": _User_
 * Web cài nhiều mã Facebook Pixel, Subiz sẽ gửi dữ liệu đến Pixel nào? Subiz gửi đến tất cả các Pixel được cài trên web.
 * Facebook Pixel được thiết lập qua Google Tag Manager, Subiz có gửi dữ liệu không? Có. 
 
+Bài liên quan: [Subiz làm việc với Google Analytics](http://help.subiz.com/su-dung-subiz-nang-cao/tich-hop-voi-ben-thu-3/subiz-va-google-analytics).
+
