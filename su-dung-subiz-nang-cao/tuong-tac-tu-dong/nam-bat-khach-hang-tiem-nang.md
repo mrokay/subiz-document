@@ -18,7 +18,7 @@ Ví dụ kịch bản cài đặt Automation - Hỏi thông tin khách hàng thu
 * **Chọn kênh**: Subiz chat 
 * **Hành động**: chọn Nắm bắt khách hàng tiềm năng
 * **Từ**: Chọn tên Agent hiển thị hỏi thông tin khách hàng
-* **Chọn Yêu cầu user hoàn thành bảng hỏi trước khi gửi tin nhắn**
+* **Chọn Yêu cầu user hoàn thành bảng hỏi trước khi gửi tin nhắn** hoặc không
 * **Chọn thêm điều kiện hỏi thông tin khách hàng**
 
 ### Thêm trường dữ liệu hỏi thông tin khách hàng
@@ -41,7 +41,8 @@ Lưu ý: Loại dữ liệu viết chữ thường không dấu, có cách chân
 
 ![Tr&#x1B0;&#x1EDD;ng d&#x1EEF; li&#x1EC7;u m&#x1EDB;i &#x111;&#x1B0;&#x1EE3;c th&#xEA;m v&#xE0;o &#x111;i&#x1EC1;u ki&#x1EC7;n Automation](../../.gitbook/assets/auto-2.jpg)
 
-**Bước 3**: Cài đặt Automation - Nắm bắt khách hàng tiềm năng hỏi trường dữ liệu đã tạo thêm
+**Bước 3**: Cài đặt Automation - Nắm bắt khách hàng tiềm năng hỏi trường dữ liệu đã tạo thêm  
+
 
 ![V&#xED; d&#x1EE5; Automation h&#x1ECF;i nhu c&#x1EA7;u g&#xF3;i d&#x1ECB;ch v&#x1EE5; Subiz](../../.gitbook/assets/auto-3.jpg)
 
@@ -55,7 +56,11 @@ Lưu ý: Loại dữ liệu viết chữ thường không dấu, có cách chân
 
 ![C&#x1EED;a s&#x1ED5; Subiz chat tr&#xEA;n website](../../.gitbook/assets/widget-capture%20%281%29.jpg)
 
-  3. Thông tin trả lời của khách hàng sẽ được tự động cập nhật và lưu trữ trong mục Thông tin khách hàng
+  3. Thay đổi nội dung tin nhắn hỏi thông tin 
+
+Bạn sẽ sử dụng file ngôn ngữ của Subiz và tùy chỉnh nội dung tin nhắn hỏi thông tin khách theo đúng mong muốn của mình [\(Xem chi tiết\)](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/cac-ngon-ngu-ho-tro-tren-cua-so-subiz-chat#3-tuy-chinh-noi-dung-cua-so-chat-voi-file-po)
+
+  4. Thông tin trả lời của khách hàng sẽ được tự động cập nhật và lưu trữ trong mục Thông tin khách hàng
 
 ![Trang qu&#x1EA3;n tr&#x1ECB; Subiz](../../.gitbook/assets/update-user.jpg)
 
