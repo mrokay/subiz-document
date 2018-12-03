@@ -1,61 +1,74 @@
 # Thư viện câu trả lời
 
-Thư viện câu trả lời là những câu trả lời mẫu được bạn soạn sẵn. Bằng cách sử dụng một phím tắt, bạn sẽ nhanh chóng gửi tin nhắn mẫu này cho khách hàng và tăng hiệu quả tương tác với nhiều khách hàng cùng lúc.
+Thư viện câu trả lời được phát triển hoàn toàn mới và cập nhật đa dạng nhiều mẫu tin nhắn gồm tin nhắn văn bản kèm button, hình ảnh, tệp đính kèm và thêm sản phẩm của Doanh Nghiệp..
 
-Mỗi Agent có quyền được tạo và quản lý thư viện câu trả lời chung của tài khoản.
+Agent sẽ rút ngắn thời gian trả lời cũng như đảm bảo sự ổn định và chính xác cho các câu hỏi thường gặp từ phía khách hàng, giúp tăng chất lượng cuộc hội thoại và giảm thiểu thời gian chờ đợi của khách hàng.
 
-### Tạo câu trả lời mẫu mới
+Mỗi Agent đều có quyền tạo Mẫu tin nhắn cho riêng Cá nhân sử dụng hoặc Chung cho tất cả agent trong tài khoản sử dụng trên các kênh tương tác như Subiz chat, Email,....
 
-* Bước 1: Đăng nhập ****[**App.subiz.com &gt;** Chọn **Ảnh đại diện của Agent &gt;** Chọn **Thư viện câu trả lời.**](https://app.subiz.com/profile/canned-response)
+### Hướng dẫn tạo Mẫu tin nhắn mới
 
-![Th&#x1B0; vi&#x1EC7;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i](../../.gitbook/assets/1.-canned-responce-1-copy.jpg)
+Để tạo mẫu tin nhắn mới, bạn truy cập [Thư viên câu trả lời](https://app.subiz.com/message-template) &gt; chọn **Kênh** **tương tác**  &gt; **Nhập nội dung tin nhắn mẫu** &gt; Điền **Ký tự tắt** để dễ dàng tìm kiếm mẫu tin nhắn &gt; Chọn **Quyền sử dụng: Chung hoặc Cá nhân** &gt; Chọn **Tạo** để hoàn thành 
 
-* Bước 2: Chọn **Tạo câu trả lời mẫu &gt; Nhập thông tin &gt; Tạo**
+Dưới đây là ví dụ tạo tin nhắn mẫu mới trên kênh Subiz chat.
 
-![T&#x1EA1;o c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u m&#x1EDB;i](../../.gitbook/assets/2.-tao-cau-tra-loi-mau-subiz-copy.jpg)
+Trong mục TẠO MẪU TIN NHẮN MỚI có 3 vùng chính:
 
-### Sử dụng thư viện câu trả lời
+* Vùng hiển thị nội dung mẫu tin nhắn
+* Vùng nhập nội dung mẫu tin nhắn:  Agent có thể chọn tạo mẫu tin nhắn theo từng kiểu nội dung riêng như tin nhắn mẫu văn bản, tin nhắn mẫu ảnh, tin nhắn mẫu Sản phẩm, tin nhắn mẫu Tệp; hoặc thêm cùng lúc nhiều kiểu nội dung trong 1 mẫu tin nhắn.
+* Vùng tạo Ký tự tắt và chọn Quyền sử dụng mẫu tin nhắn
 
-Tại cửa sổ hội thoại với khách, bạn bắt đầu bằng kí tự "**/**" + **Phím tắt** &gt; chọn **Câu trả lời mẫu** &gt; **Enter**
+#### **1.Thêm văn bản**
 
-![S&#x1EED; d&#x1EE5;ng th&#x1B0; vi&#x1EC7;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i](../../.gitbook/assets/3.-su-dung-copy.jpg)
+Khi agent chọn Tạo mẫu tin nhắn mới, sẽ hiển thị ô Tin nhắn văn bản để bạn nhập nội dung mẫu tin nhắn, thêm icon cảm xúc và trường thông tin của khách hàng như Họ tên - Fullname, Emails, Phone,...để tạo sự gần gũi và đem lại cảm giác riêng biệt cho khách.
 
-### Một số tips sử dụng thư viện câu trả lời
+Phía dưới phần hiển thị nội dung có chức năng Thêm button giúp khách hàng click và liên kết tới trang đích. Có 2 loại button là:
 
-   **1.Sử dụng Phím tắt ngắn và dễ nhớ**
+* URL - gắn link trang sản phẩm 
+* Gọi điện - gắn số điện thoại để khách click và gọi trực tiếp tới hotline của Doanh Nghiệp.
 
-Thư viện câu trả lời thường được sử dụng trong một số trường hợp nhất định như lời chào, cảm ơn, báo giá, lời đề nghị khách hàng chờ đợi, thông tin khuyến mãi, thông tin liên hệ.
+#### 2. Thêm Ảnh
 
-Tạo phím tắt ngắn và dễ nhớ giúp bạn dễ dàng sử dụng khi cần thiết.
+Agent có thể thêm tối đa 10 hình ảnh trong 1 mẫu tin nhắn. 
 
-![T&#x1EA1;o ph&#xED;m t&#x1EAF;t d&#x1EC5; nh&#x1EDB; cho c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](../../.gitbook/assets/4.-phim-tat-copy.jpg)
+Danh sách ảnh hiển thị dưới dạng slide, có icon di chuyển ảnh trước và sau hoặc click vào danh sách ảnh thu nhỏ phía dưới để xem lại các ảnh tải lên. 
 
-   **2. Câu trả lời mẫu súc tích và đi thẳng vào vấn đề**
+#### 3. Thêm Tệp
 
-Khách hàng luôn muốn được nhanh chóng hỗ trợ giải quyết vấn đề của mình. Hãy gửi câu trả lời ngắn gọn và trả lời đúng vấn đề của khách hàng
+Chức năng này giúp agent có thể đính kèm Tệp trong mẫu tin nhắn như PDF \(.pdf\), DOC \(.docs\), EXEL \(.xlxs\),... Các loại file Subiz hỗ trợ chạy và xem trực tiếp ngay trên Subiz : Audio, Image, Video.
 
-![C&#xE2;u tr&#x1EA3; l&#x1EDD;i &#x111;&#xFA;ng v&#x1EA5;n &#x111;&#x1EC1;](../../.gitbook/assets/5.-cau-hoi-mau-caopy.jpg)
+#### 4. Thêm Sản phẩm
 
-   **3. Ngắt dòng trong câu trả lời mẫu**
+Chức năng này cho phép agent thêm tối đa 10 sản phẩm trong 1 mẫu tin nhắn. Danh sách sản phẩm sẽ hiển thị dạng slide gồm ảnh thu nhỏ của sản phẩm, tên sản phẩm, nội dung miêu tả và giá.
 
-Câu trả lời mẫu có thể được chia thành nhiều dòng giúp khách hàng dễ nhìn, dễ đọc hơn.  
-Khi cần ngắt xuống dòng, sử dụng phím **Enter**
+Để thêm sản phẩm, agent sẽ tìm kiếm ở ô Tìm kiếm.  Lưu ý: Bạn cần tạo sản phẩm trước tại mục [Sản phẩm](https://app.subiz.com/settings/content) trước.   
+  
+****Agent có thể click vào vùng ảnh sản phẩm hoặc tên sản phẩm để truy cập vào link trang sản phẩm và xem thông tin chi tiết của sản phẩm trên website. 
 
-![Ng&#x1EAF;t d&#xF2;ng trong c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](../../.gitbook/assets/8.-ngat-dong-copy.jpg)
+### **Cách sử dụng mẫu tin nhắn** 
 
-  **4. Cá nhân hóa câu trả lời mẫu**
+Khi mẫu tin nhắn mới được tạo thành công, agent có thể sử dụng mẫu tin nhắn trong [mỗi cuộc hội thoại](https://app.subiz.com/activities) với khách hàng. 
 
-Mang lại trải nghiệm cho khách đang trò chuyện cùng một tư vấn viên thực sự chứ không phải robot chat.
+Ví dụ trên kênh Subiz chat, Agent có 2 cách sử dụng mẫu tin nhắn: 
 
-![C&#xE1; nh&#xE2;n h&#xF3;a c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](../../.gitbook/assets/6.-ca-nhan-hoa-copy.jpg)
+*  Cách 1: Tại ô Nhập tin nhắn, nhấp chuột vào  icon **+** và chọn **Thư viện câu trả lời** để hiển thị danh sách các mẫu tin nhắn &gt; Di chuyển chuột chọn tin nhắn mẫu &gt; chọn Enter gửi đi
+*  Cách 2: Tại ô Nhập tin nhắn, bắt đầu bằng **\ + ký tự tắt** và chọn tin nhắn mẫu &gt; Enter gửi đi
 
-   **5. Thường xuyên cập nhật mới cho thư viện câu trả lời**
+### Một số lưu ý sử dụng mẫu tin nhắn 
 
-Thay đổi để phát triển. Với mỗi câu trả lời mẫu, bạn hãy thường xuyên tùy chỉnh làm mới câu chữ và cách diễn đạt hay hơn khi gửi tới khách hàng của mình.
 
-Bạn có thể vào Thư viện câu trả lời và tùy chỉnh trực tiếp câu mẫu đã có hoặc xóa đi để thay đổi câu hoàn toàn mới.
 
-![T&#xF9;y ch&#x1EC9;nh th&#x1B0; vi&#x1EC7;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i](../../.gitbook/assets/7-tuy-chinh-copy.jpg)
+  
+****
+
+
+
+  
+
+
+
+
+
 
 
 
