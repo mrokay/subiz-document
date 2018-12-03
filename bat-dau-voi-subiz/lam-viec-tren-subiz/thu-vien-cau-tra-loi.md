@@ -56,6 +56,13 @@ Ví dụ trên kênh Subiz chat, Agent có 2 cách sử dụng mẫu tin nhắn:
 
 ### Một số lưu ý sử dụng mẫu tin nhắn 
 
+#### 1. **Sử dụng Ký tự tắt ngắn và dễ nhớ**
+
+#### **2.**  Mẫu Email có thể tạo dạng văn bản hoặc HTML
+
+#### 
+
+  
 
 
   
