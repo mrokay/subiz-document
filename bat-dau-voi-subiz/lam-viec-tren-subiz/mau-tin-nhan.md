@@ -1,75 +1,122 @@
 # Mẫu tin nhắn
 
-Mẫu tin nhắn giúp agent rút ngắn thời gian trả lời cũng như đảm bảo sự ổn định và chính xác cho các câu hỏi thường gặp từ phía khách hàng, giúp tăng chất lượng cuộc hội thoại và giảm thiểu thời gian chờ đợi của khách  hàng.
+Mẫu tin nhắn được phát triển hoàn toàn mới, thay thế cho thư viện câu trả lời và cập nhật đa dạng nhiều mẫu tin nhắn gồm tin nhắn văn bản kèm button, hình ảnh, đính kèm tệp và sản phẩm của Doanh Nghiệp..
 
-Bạn có thể tạo những Mẫu tin nhắn theo từng kênh tương tác như Subiz chat, Email,... và lựa chọn chế độ hiển thị **Chung** cho tất cả agent cùng sử dụng hoặc **Cá nhân** chỉ riêng bạn sử dụng.
+Agent sẽ rút ngắn thời gian trả lời cũng như đảm bảo sự ổn định và chính xác cho các câu hỏi thường gặp từ phía khách hàng, giúp tăng chất lượng cuộc hội thoại và giảm thiểu thời gian chờ đợi của khách hàng.
 
-Mẫu tin nhắn hỗ trợ nhiều kiểu nội dung như:
+Mỗi Agent đều có quyền tạo Mẫu tin nhắn cho riêng Cá nhân sử dụng hoặc Chung cho tất cả agent trong tài khoản sử dụng trên các kênh tương tác như Subiz chat, Email,....
 
-* **Tin nhắn văn bản**: gồm nội dung tin nhắn văn bản, có thể thêm icon emoji cảm xúc, thông tin cá nhân của khách hàng và thêm button như ****button dẫn link URL trang web, button gọi số điện thoại
-* **Hình ảnh**: Hỗ trợ tải lên tối đa 10 ảnh/ 1 mẫu tin nhắn
-* **Tệp đính kèm**: hỗ trợ nhiều định dạng như DOC \(.doc\) PDF \(.pdf\), TXT \(.txt\), CSV \(.csv\), RAR \(.zip\),... và có thể xem trực tiếp trên Subiz tệp Audio, Video
-* **Sản phẩm**: Hỗ trợ hiển thị  tối đa 10 sản phẩm / 1 mẫu tin nhắn
+![Th&#x1B0; vi&#x1EC7;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i](../../.gitbook/assets/library-2.jpg)
 
-![](../../.gitbook/assets/library%20%281%29.jpg)
+### Hướng dẫn tạo Mẫu tin nhắn mới
 
-### Cách tạo mẫu tin nhắn trên Subiz chat
+Để tạo mẫu tin nhắn mới, bạn truy cập [Mẫu tin nhắn](https://app.subiz.com/message-template) &gt; chọn **Kênh** **tương tác**  &gt; **Nhập nội dung tin nhắn mẫu** &gt; Điền **Ký tự tắt** để dễ dàng tìm kiếm mẫu tin nhắn &gt; Chọn **Quyền sử dụng: Chung hoặc Cá nhân** &gt; Chọn **Tạo** để hoàn thành 
 
-Bạn có thể chọn tạo mẫu tin nhắn theo từng kiểu nội dung riêng như tin nhắn mẫu văn bản, tin nhắn mẫu hình ảnh, tin nhắn mẫu Sản phẩm, Tin nhắn mẫu đính kèm hay tin nhắn mẫu button;  
-hoặc kết hợp đồng thời nhiều kiểu nội dung trong 1 mẫu tin nhắn.
+Dưới đây là ví dụ tạo tin nhắn mẫu mới trên kênh Subiz chat.
 
-Để tạo mẫu tin nhắn mới trên kênh Subiz chat, bạn truy cập vào [**Thư viện câu trả lời**](https://app.subiz.com/message-template) &gt; chọn **Subiz chat** &gt; Thao tác 5 bước sau:
+Trong mục TẠO MẪU TIN NHẮN MỚI có 3 vùng chính:
 
-* Bước 1: Chọn kiểu nội dung tin nhắn mẫu: Văn bản - Hình ảnh - Tệp - Sản phẩm 
-* Bước 2: Nhập nội dung tin nhắn tương ứng với từng kiểu nội dung đã chọn và Thêm
+* \(1\) Vùng hiển thị nội dung mẫu tin nhắn
+* \(2 + 3\) Vùng nhập nội dung mẫu tin nhắn:  Agent có thể chọn tạo mẫu tin nhắn theo từng kiểu nội dung riêng như tin nhắn mẫu văn bản, tin nhắn mẫu ảnh, tin nhắn mẫu Sản phẩm, tin nhắn mẫu Tệp; hoặc thêm cùng lúc nhiều kiểu nội dung trong 1 mẫu tin nhắn.
+* \(4\) Vùng tạo Ký tự tắt và chọn Quyền sử dụng mẫu tin nhắn
 
-Ví dụ: Tạo  mẫu tin nhắn văn bản &gt; chọn Văn bản &gt; Nhập  Tin nhắn văn bản &gt; Thêm &gt; chọn Thêm button &gt; Thêm
+![](../../.gitbook/assets/tao-moi.png)
 
-![M&#x1EAB;u tin nh&#x1EAF;n v&#x103;n b&#x1EA3;n](../../.gitbook/assets/button.jpg)
+#### **1.Thêm văn bản**
 
-Ví dụ: Tạo mẫu tin nhắn hình ảnh &gt; Chọn Hình ảnh &gt; Chọn Ảnh
+Khi agent chọn Tạo mẫu tin nhắn mới, sẽ hiển thị ô Tin nhắn văn bản để bạn nhập nội dung mẫu tin nhắn, thêm Icon cảm xúc và Trường thông tin của khách hàng như Họ tên - Fullname, Emails, Phone,...để tạo sự gần gũi và đem lại cảm giác riêng biệt cho khách.
 
-![M&#x1EAB;u tin nh&#x1EAF;n h&#xEC;nh &#x1EA3;nh](../../.gitbook/assets/mau-anh.jpg)
+![M&#x1EAB;u tin nh&#x1EAF;n v&#x103;n b&#x1EA3;n](../../.gitbook/assets/van-ban.jpg)
 
-Ví dụ: Tạo  mẫu tin nhắn gồm văn bản, button và hình ảnh &gt; chọn Văn bản &gt; Nhập Tin nhắn văn bản &gt; Thêm &gt; chọn Thêm button &gt; Thêm &gt; Chọn Hình ảnh &gt; Chọn Ảnh 
+Phía dưới phần hiển thị nội dung có chức năng thêm button giúp khách hàng click và liên kết tới trang đích. Có 2 loại button là:
 
-![M&#x1EAB;u tin nh&#x1EAF;n g&#x1ED3;m n&#x1ED9;i dung, button, &#x1EA3;nh](../../.gitbook/assets/mau-anh-button.jpg)
+* URL - gắn link trang sản phẩm 
+* Gọi điện - gắn số điện thoại để khách click và gọi trực tiếp tới hotline của Doanh Nghiệp.
 
-* Bước 3: Điền **Ký tự tắt** để Agent nhanh chóng tìm kiếm và sử dụng tin nhắn mẫu
-* Bước 4: Chọn **Quyền sử dụng** tin nhắn mẫu là **Chung** cho tất cả agent hoặc **Cá nhân** riêng bạn sử dụng
-* Bước 5: Chọn **Tạo** để hoàn thành mẫu tin nhắn
+![Th&#xEA;m button URL](../../.gitbook/assets/them-button.jpg)
 
-![T&#x1EA1;o m&#x1EAB;u tin nh&#x1EAF;n m&#x1EDB;i](../../.gitbook/assets/tin-nhan-mau.png)
+#### 2. Thêm Ảnh
 
-### Hướng dẫn sử dụng mẫu tin nhắn trên Subiz chat
+Agent có thể thêm tối đa 10 hình ảnh trong 1 mẫu tin nhắn. 
 
-Khi mẫu tin nhắn mới được tạo thành công, agent có thể sử dụng mẫu tin nhắn trong[ mỗi cuộc hội thoại ](https://app.subiz.com/activities)với khách hàng. Agent có 2 cách sử dụng tin nhắn mẫu:
+Danh sách ảnh hiển thị dưới dạng slide, có icon di chuyển ảnh trước và sau hoặc click vào danh sách ảnh thu nhỏ phía dưới để xem lại các ảnh tải lên. 
 
-* Cách 1: Tại ô Nhập tin nhắn, chọn icon **+** và ****chọn **Tin nhắn mẫu** gửi khách
+![Th&#xEA;m &#x1EA3;nh trong m&#x1EAB;u tin nh&#x1EAF;n](../../.gitbook/assets/mau-anh-button.jpg)
 
-![Ch&#x1ECD;n Th&#xEA;m tin nh&#x1EAF;n m&#x1EAB;u](../../.gitbook/assets/chon-+.png)
+#### 3. Thêm Tệp
 
-* Cách 2: Tại ô Nhập tin nhắn, bắt đầu bằng **\ + ký tự tắt** và chọn tin nhắn mẫu gửi khách
+Chức năng này giúp agent có thể đính kèm Tệp trong mẫu tin nhắn như PDF \(.pdf\), DOC \(.docs\), EXEL \(.xlxs\),... Các loại file Subiz hỗ trợ chạy và xem trực tiếp ngay trên Subiz : Audio, Image, Video.
 
-![Ph&#xED;m t&#x1EAF;t m&#x1EDF; tin nh&#x1EAF;n m&#x1EAB;u](../../.gitbook/assets/hi.png)
+![](../../.gitbook/assets/tep.jpg)
 
-### Cách tạo mẫu Email và sử dụng trên Subiz Email
+#### 4. Thêm Sản phẩm
 
-Để tạo Mẫu email, bạn truy cập vào [**Thư viện câu trả lời**](https://app.subiz.com/message-template) &gt; chọn Email &gt;  Nhập nội dung email mẫu:
+Chức năng này cho phép agent thêm tối đa 10 sản phẩm trong 1 mẫu tin nhắn. Danh sách sản phẩm sẽ hiển thị dạng slide gồm ảnh thu nhỏ của sản phẩm, tên sản phẩm, nội dung miêu tả và giá.
 
-Mẫu Email sẽ bao gồm **Tiêu đề email** , **Địa chỉ email người gửi**, **Nhập nội dung email** kiểu văn bản trực quan hoặc mã HTML.  Lưu ý:
+Để thêm sản phẩm, agent sẽ tìm kiếm ở ô Tìm kiếm.  Lưu ý: Bạn cần tạo sản phẩm tại mục [Sản phẩm](https://app.subiz.com/settings/content) trước.   
+  
+****Agent có thể click vào vùng ảnh sản phẩm hoặc tên sản phẩm để truy cập vào link trang sản phẩm và xem thông tin chi tiết của sản phẩm trên website. 
 
-* Khi tạo email sẽ có chức năng soạn thảo, thêm file đính kèm và thêm trường thông tin của khách hàng như Họ tên, Địa chỉ,....
-* Điền **Ký tự tắt** để nhanh chóng tìm kiếm và sử dụng mẫu email
-* Chọn **Quyền sử dụng** mẫu Email là **Chung** cho tất cả agent hoặc **Cá nhân** riêng bạn sử dụng
+### **Cách sử dụng mẫu tin nhắn** 
 
-![T&#x1EA1;o m&#x1EAB;u Email ](../../.gitbook/assets/email-template.jpg)
+Khi mẫu tin nhắn mới được tạo thành công, agent có thể sử dụng mẫu tin nhắn trong [mỗi cuộc hội thoại](https://app.subiz.com/activities) với khách hàng. 
 
-Khi mẫu email tạo thành công, trong hội thoại email, bạn có thể chọn Mẫu email và sử dụng
+Ví dụ trên kênh Subiz chat, Agent có 2 cách sử dụng mẫu tin nhắn: 
 
-![S&#x1EED; d&#x1EE5;ng m&#x1EAB;u Email](../../.gitbook/assets/mail-moi.jpg)
+*  Cách 1: Tại ô Nhập tin nhắn, nhấp chuột vào  icon **+** và chọn **Tin nhắn mẫu** để hiển thị danh sách các mẫu tin nhắn &gt; Di chuyển chuột chọn tin nhắn mẫu &gt; chọn Enter gửi đi
+
+![Ch&#x1ECD;n tin nh&#x1EAF;n m&#x1EAB;u v&#xE0; g&#x1EED;i kh&#xE1;ch](../../.gitbook/assets/chon-+.png)
+
+*  Cách 2: Tại ô Nhập tin nhắn, bắt đầu bằng **\ + ký tự tắt** và chọn tin nhắn mẫu &gt; Enter gửi đi
+
+![S&#x1EED; d&#x1EE5;ng K&#xFD; t&#x1EF1; t&#x1EAF;t t&#xEC;m tin nh&#x1EAF;n m&#x1EAB;u](../../.gitbook/assets/cach-2.png)
+
+### Một số lưu ý sử dụng mẫu tin nhắn 
+
+#### **1.**  Mẫu Email có thể tạo dạng văn bản hoặc HTML
+
+Sử dụng mã HTML để tạo những mẫu email sáng tạo và ấn tượng.
+
+**2. Mẫu tin nhắn ngắn gọn và đi thẳng vào vấn đề**
+
+Khách hàng luôn muốn được nhanh chóng hỗ trợ giải quyết vấn đề của mình. Hãy gửi tin nhắn ngắn gọn. và trả lời đúng vấn đề của khách hàng.
+
+#### 3. Cá nhân hóa tin nhắn mẫu tới Trường thông tin khách hàng 
+
+Với chức năng thêm Trường thông tin, bạn có thể cá nhân hóa tin nhắn như gọi tên riêng của khách hàng.
+
+#### 4. **Sử dụng Ký tự tắt ngắn và dễ nhớ**
+
+Thư viện câu trả lời thường được sử dụng trong một số trường hợp nhất định như lời chào, cảm ơn, báo giá, thông tin khuyến mãi, thông tin liên hệ,...
+
+Tạo phím tắt ngắn và dễ nhớ giúp bạn dễ dàng tim kiếm sử dụng khi cần thiết.
+
+**5. Thường xuyên cập nhật mới cho Mẫu tin nhắn**
+
+Thay đổi để phát triển. Với mỗi ****mẫu tin nhắn, bạn hãy thường xuyên tùy chỉnh làm mới câu chữ và cách diễn đạt hay hơn khi gửi tới khách hàng của mình.
+
+Bạn có thể vào Mẫu tin nhắn và tùy chỉnh trực tiếp mẫu tin nhắn đã có hoặc xóa đi để  tạo mẫu tin nhắn mới.
+
+\*\*\*\*
+
+
+
+#### 
 
   
+
+
   
+****
+
+
+
+  
+
+
+
+
+
+
 
 
