@@ -65,7 +65,7 @@ Ví dụ trên kênh Subiz chat, Agent có 2 cách sử dụng mẫu tin nhắn:
 
 *  Cách 1: Tại ô Nhập tin nhắn, nhấp chuột vào  icon **+** và chọn **Thư viện câu trả lời** để hiển thị danh sách các mẫu tin nhắn &gt; Di chuyển chuột chọn tin nhắn mẫu &gt; chọn Enter gửi đi
 
-![Ch&#x1ECD;n Th&#x1B0; vi&#x1EC7;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i trong h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/cach-1%20%281%29.png)
+![Ch&#x1ECD;n tin nh&#x1EAF;n m&#x1EAB;u v&#xE0; g&#x1EED;i kh&#xE1;ch](../../.gitbook/assets/chon-+.png)
 
 *  Cách 2: Tại ô Nhập tin nhắn, bắt đầu bằng **\ + ký tự tắt** và chọn tin nhắn mẫu &gt; Enter gửi đi
 
