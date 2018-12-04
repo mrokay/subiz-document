@@ -6,7 +6,7 @@ Agent sẽ rút ngắn thời gian trả lời cũng như đảm bảo sự ổn
 
 Mỗi Agent đều có quyền tạo Mẫu tin nhắn cho riêng Cá nhân sử dụng hoặc Chung cho tất cả agent trong tài khoản sử dụng trên các kênh tương tác như Subiz chat, Email,....
 
-![](../../.gitbook/assets/library%20%282%29.jpg)
+![Th&#x1B0; vi&#x1EC7;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i](../../.gitbook/assets/library-2.jpg)
 
 ### Hướng dẫn tạo Mẫu tin nhắn mới
 
