@@ -11,7 +11,7 @@ Mẫu tin nhắn hỗ trợ nhiều kiểu nội dung như:
 * **Tệp đính kèm**: hỗ trợ nhiều định dạng như DOC \(.doc\) PDF \(.pdf\), TXT \(.txt\), CSV \(.csv\), RAR \(.zip\),... và có thể xem trực tiếp trên Subiz tệp Audio, Video
 * **Sản phẩm**: Hỗ trợ hiển thị  tối đa 10 sản phẩm / 1 mẫu tin nhắn
 
-![](../../.gitbook/assets/library.jpg)
+![](../../.gitbook/assets/library%20%281%29.jpg)
 
 ### Cách tạo mẫu tin nhắn trên Subiz chat
 
