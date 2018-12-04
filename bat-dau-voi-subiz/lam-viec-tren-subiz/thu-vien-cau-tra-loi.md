@@ -1,6 +1,6 @@
-# Thư viện câu trả lời
+# Mẫu tin nhắn
 
-Thư viện câu trả lời được phát triển hoàn toàn mới và cập nhật đa dạng nhiều mẫu tin nhắn gồm tin nhắn văn bản kèm button, hình ảnh,đính kèm tệp và sản phẩm của Doanh Nghiệp..
+Mẫu tin nhắn  được phát triển hoàn toàn mới, thay thế cho thư viện câu trả lời và cập nhật đa dạng nhiều mẫu tin nhắn gồm tin nhắn văn bản kèm button, hình ảnh,đính kèm tệp và sản phẩm của Doanh Nghiệp..
 
 Agent sẽ rút ngắn thời gian trả lời cũng như đảm bảo sự ổn định và chính xác cho các câu hỏi thường gặp từ phía khách hàng, giúp tăng chất lượng cuộc hội thoại và giảm thiểu thời gian chờ đợi của khách hàng.
 
@@ -10,7 +10,7 @@ Mỗi Agent đều có quyền tạo Mẫu tin nhắn cho riêng Cá nhân sử 
 
 ### Hướng dẫn tạo Mẫu tin nhắn mới
 
-Để tạo mẫu tin nhắn mới, bạn truy cập [Thư viên câu trả lời](https://app.subiz.com/message-template) &gt; chọn **Kênh** **tương tác**  &gt; **Nhập nội dung tin nhắn mẫu** &gt; Điền **Ký tự tắt** để dễ dàng tìm kiếm mẫu tin nhắn &gt; Chọn **Quyền sử dụng: Chung hoặc Cá nhân** &gt; Chọn **Tạo** để hoàn thành 
+Để tạo mẫu tin nhắn mới, bạn truy cập [Mẫu tin nhắn](https://app.subiz.com/message-template) &gt; chọn **Kênh** **tương tác**  &gt; **Nhập nội dung tin nhắn mẫu** &gt; Điền **Ký tự tắt** để dễ dàng tìm kiếm mẫu tin nhắn &gt; Chọn **Quyền sử dụng: Chung hoặc Cá nhân** &gt; Chọn **Tạo** để hoàn thành 
 
 Dưới đây là ví dụ tạo tin nhắn mẫu mới trên kênh Subiz chat.
 
@@ -63,7 +63,7 @@ Khi mẫu tin nhắn mới được tạo thành công, agent có thể sử d�
 
 Ví dụ trên kênh Subiz chat, Agent có 2 cách sử dụng mẫu tin nhắn: 
 
-*  Cách 1: Tại ô Nhập tin nhắn, nhấp chuột vào  icon **+** và chọn **Thư viện câu trả lời** để hiển thị danh sách các mẫu tin nhắn &gt; Di chuyển chuột chọn tin nhắn mẫu &gt; chọn Enter gửi đi
+*  Cách 1: Tại ô Nhập tin nhắn, nhấp chuột vào  icon **+** và chọn Mẫu tin nhắn để hiển thị danh sách các mẫu tin nhắn &gt; Di chuyển chuột chọn tin nhắn mẫu &gt; chọn Enter gửi đi
 
 ![Ch&#x1ECD;n tin nh&#x1EAF;n m&#x1EAB;u v&#xE0; g&#x1EED;i kh&#xE1;ch](../../.gitbook/assets/chon-+.png)
 
@@ -91,11 +91,11 @@ Thư viện câu trả lời thường được sử dụng trong một số tr�
 
 Tạo phím tắt ngắn và dễ nhớ giúp bạn dễ dàng tim kiếm sử dụng khi cần thiết.
 
-**5. Thường xuyên cập nhật mới cho thư viện câu trả lời**
+**5. Thường xuyên cập nhật mới cho Mẫu tin nhắn**
 
 Thay đổi để phát triển. Với mỗi ****mẫu tin nhắn, bạn hãy thường xuyên tùy chỉnh làm mới câu chữ và cách diễn đạt hay hơn khi gửi tới khách hàng của mình.
 
-Bạn có thể vào Thư viện câu trả lời và tùy chỉnh trực tiếp mẫu tin nhắn đã có hoặc xóa đi để  tạo mẫu tin nhắn mới.
+Bạn có thể vào Mẫu tin nhắn và tùy chỉnh trực tiếp mẫu tin nhắn đã có hoặc xóa đi để  tạo mẫu tin nhắn mới.
 
 \*\*\*\*
 
