@@ -63,33 +63,25 @@ Hướng dẫn thêm Agent: Chọn nút  **"Add Agent"**  &gt; Chọn **Agent** 
 _**Lưu ý**_: Chỉ Agent được phân phối cuộc hội thoại mới có quyền thêm Agent khác.
 {% endhint %}
 
-### Sử dụng thư viện câu trả lời 
+### Sử dụng mẫu tin nhắn
 
-Thư viện câu trả lời là những tin nhắn mẫu được soạn sẵn, giúp bạn trò chuyện với khách hàng một cách nhanh chóng và hiệu quả.
+[Mẫu tin nhắn](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/mau-tin-nhan) được soạn sẵn, giúp bạn gửi khách hàng một cách nhanh chóng và hiệu quả.
 
-Mỗi Agent có quyền được tạo và quản lý thư viên câu trả lời của riêng mình. Hướng dẫn cài đặt như sau:
+Mỗi Agent có quyền được tạo và quản lý mẫu tin nhắncủa riêng mình.  
+  
+Hướng dẫn cài đặt như sau:
 
 {% tabs %}
 {% tab title="Tạo câu trả lời mẫu" %}
-Hướng dẫn tạo câu trả lời mẫu: 
+ Để tạo mẫu tin nhắn mới, bạn truy cập [Mẫu tin nhắn](https://app.subiz.com/message-template) &gt; chọn **Kênh** Subiz chat &gt; **Nhập nội dung tin nhắn mẫu** &gt; Điền **Ký tự tắt** để dễ dàng tìm kiếm mẫu tin nhắn &gt; Chọn **Quyền sử dụng: Chung hoặc Cá nhân** &gt; Chọn **Tạo** để hoàn thành
 
-1. [Đăng nhập **App.subiz.com** &gt; Chọn **Ảnh đại diện của Agent** &gt; Chọn **Thư viện câu trả lời** ](https://app.subiz.com/profile/canned-response)
-
-![C&#xE0;i &#x111;&#x1EB7;t Th&#x1B0; vi&#x1EC7;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i](../../.gitbook/assets/thu-vien-ans.jpg)
-
-    2. Chọn **Tạo câu trả lời mẫu** &gt; **Nhập thông tin** &gt; **Tạo**
-
-![T&#x1EA1;o c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](../../.gitbook/assets/tao-thu-vien-ans.jpg)
-
-{% hint style="info" %}
-Lưu ý: Bạn có thể chọn **Chia sẻ câu trả lời mẫu với các Agent** **khác** để các Agent khác có thể sử dụng mẫu câu này.[ \(Xem thêm\)](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/thu-vien-cau-tra-loi)
-{% endhint %}
+![](../../.gitbook/assets/library-2.jpg)
 {% endtab %}
 
-{% tab title="Sử dụng thư viện câu trả lời" %}
-_Hướng dẫn sử dụng thư viện câu trả lời_: Tại cửa sổ chat, bạn bắt đầu bằng kí tự "**/**" + **Phím tắt** &gt; chọn **Câu trả lời mẫu** &gt; **Enter**
+{% tab title="Sử dụng mẫu tin nhắn" %}
+_Hướng dẫn sử dụng mẫu tin nhắn:_ Tại ô Nhập tin nhắn, nhấp chuột vào icon **+** và chọn **Tin nhắn mẫu** để hiển thị danh sách các mẫu tin nhắn &gt; Di chuyển chuột chọn tin nhắn mẫu &gt; chọn Enter gửi đi
 
-![S&#x1EED; d&#x1EE5;ng Th&#x1B0; vi&#x1EC7;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i m&#x1EAB;u](../../.gitbook/assets/5.-ans-library-3%20%281%29.jpg)
+![](../../.gitbook/assets/chon-+.png)
 {% endtab %}
 {% endtabs %}
 
