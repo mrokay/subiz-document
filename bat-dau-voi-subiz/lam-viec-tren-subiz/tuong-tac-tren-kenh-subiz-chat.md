@@ -72,14 +72,14 @@ Mỗi Agent có quyền được tạo và quản lý mẫu tin nhắncủa riê
 Hướng dẫn cài đặt như sau:
 
 {% tabs %}
-{% tab title="Tạo câu trả lời mẫu" %}
+{% tab title="Tạo mẫu tin nhắn mới" %}
  Để tạo mẫu tin nhắn mới, bạn truy cập [Mẫu tin nhắn](https://app.subiz.com/message-template) &gt; chọn **Kênh** Subiz chat &gt; **Nhập nội dung tin nhắn mẫu** &gt; Điền **Ký tự tắt** để dễ dàng tìm kiếm mẫu tin nhắn &gt; Chọn **Quyền sử dụng: Chung hoặc Cá nhân** &gt; Chọn **Tạo** để hoàn thành
 
 ![](../../.gitbook/assets/library-2.jpg)
 {% endtab %}
 
 {% tab title="Sử dụng mẫu tin nhắn" %}
-_Hướng dẫn sử dụng mẫu tin nhắn:_ Tại ô Nhập tin nhắn, nhấp chuột vào icon **+** và chọn **Tin nhắn mẫu** để hiển thị danh sách các mẫu tin nhắn &gt; Di chuyển chuột chọn tin nhắn mẫu &gt; chọn Enter gửi đi
+Tại ô Nhập tin nhắn, nhấp chuột vào icon **+** và chọn **Tin nhắn mẫu** để hiển thị danh sách các mẫu tin nhắn &gt; Di chuyển chuột chọn tin nhắn mẫu &gt; chọn Enter gửi đi
 
 ![](../../.gitbook/assets/chon-+.png)
 {% endtab %}
