@@ -39,7 +39,7 @@
     * [Tương tác trên kênh Subiz chat](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-tren-kenh-subiz-chat.md)
     * [Tương tác qua kênh Email](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-email.md)
     * [Tương tác qua kênh Messenger](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-messenger.md)
-    * [Mẫu tin nhắn](bat-dau-voi-subiz/lam-viec-tren-subiz/thu-vien-cau-tra-loi.md)
+    * [Mẫu tin nhắn](bat-dau-voi-subiz/lam-viec-tren-subiz/mau-tin-nhan-1.md)
     * [Mẫu tin nhắn](bat-dau-voi-subiz/lam-viec-tren-subiz/mau-tin-nhan.md)
 * [Sử dụng Subiz nâng cao](su-dung-subiz-nang-cao/README.md)
   * [Tương tác tự động](su-dung-subiz-nang-cao/tuong-tac-tu-dong/README.md)
