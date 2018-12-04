@@ -1,6 +1,6 @@
 # Mẫu tin nhắn
 
-Mẫu tin nhắn  được phát triển hoàn toàn mới, thay thế cho thư viện câu trả lời và cập nhật đa dạng nhiều mẫu tin nhắn gồm tin nhắn văn bản kèm button, hình ảnh,đính kèm tệp và sản phẩm của Doanh Nghiệp..
+Mẫu tin nhắn được phát triển hoàn toàn mới, thay thế cho thư viện câu trả lời và cập nhật đa dạng nhiều mẫu tin nhắn gồm tin nhắn văn bản kèm button, hình ảnh, đính kèm tệp và sản phẩm của Doanh Nghiệp..
 
 Agent sẽ rút ngắn thời gian trả lời cũng như đảm bảo sự ổn định và chính xác cho các câu hỏi thường gặp từ phía khách hàng, giúp tăng chất lượng cuộc hội thoại và giảm thiểu thời gian chờ đợi của khách hàng.
 
@@ -63,7 +63,7 @@ Khi mẫu tin nhắn mới được tạo thành công, agent có thể sử d�
 
 Ví dụ trên kênh Subiz chat, Agent có 2 cách sử dụng mẫu tin nhắn: 
 
-*  Cách 1: Tại ô Nhập tin nhắn, nhấp chuột vào  icon **+** và chọn Mẫu tin nhắn để hiển thị danh sách các mẫu tin nhắn &gt; Di chuyển chuột chọn tin nhắn mẫu &gt; chọn Enter gửi đi
+*  Cách 1: Tại ô Nhập tin nhắn, nhấp chuột vào  icon **+** và chọn **Tin nhắn mẫu** để hiển thị danh sách các mẫu tin nhắn &gt; Di chuyển chuột chọn tin nhắn mẫu &gt; chọn Enter gửi đi
 
 ![Ch&#x1ECD;n tin nh&#x1EAF;n m&#x1EAB;u v&#xE0; g&#x1EED;i kh&#xE1;ch](../../.gitbook/assets/chon-+.png)
 
