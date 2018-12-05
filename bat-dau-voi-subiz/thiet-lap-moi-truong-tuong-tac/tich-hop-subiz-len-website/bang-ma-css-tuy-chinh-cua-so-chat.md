@@ -22,13 +22,13 @@ Bạn cần xác định [KIỂU CỬA SỔ CHAT](https://app.subiz.com/settings
       <td style="text-align:left">
         <p><code>.widget_mini .widget_body <br />{height: 500px !important;<br />max-height: 580px !important;}</code>
         </p>
-        <p><em>Thay đổi kích thước: 500px</em>
+        <p><em><br />Thay đổi kích thước: 500px</em>
         </p>
       </td>
       <td style="text-align:left">
         <p><code>.widget_full .widget_body <br />{height: 700px !important;<br />max-height: 800px !important;}</code>
         </p>
-        <p><em>Thay đổi kích thước: 500px</em>
+        <p><em><br />Thay đổi kích thước: 700px</em>
         </p>
       </td>
     </tr>
@@ -37,31 +37,32 @@ Bạn cần xác định [KIỂU CỬA SỔ CHAT](https://app.subiz.com/settings
       <td style="text-align:left">
         <p><code>.widget_mini .widget_body <br />{width:360px;}</code>
         </p>
-        <p><em>Thay đổi kích thước: 360px</em>
+        <p><em><br />Thay đổi kích thước: 360px</em>
         </p>
       </td>
       <td style="text-align:left">
         <p><code>.widget_full .widget_body <br />{width:400px;}</code>
         </p>
-        <p><em>Thay đổi kích thước: 400px</em>
+        <p><em><br />Thay đổi kích thước: 400px</em>
         </p>
       </td>
     </tr>
   </tbody>
 </table>###  Tùy chỉnh cỡ chữ của tin nhắn
 
- `.message-content  
-{ font-size:13px;}`  
-_Thay đổi cỡ chữ: 13px_
+Cỡ chữ mặc định trong tin nhắn là 13px, bạn có thể thay đổi cỡ chữ nhỏ hơn hoặc lớn hơn:
 
-### Tùy biến màu sắc trên cửa sổ chat <a id="tuy-chinh-mau-sac-tren-cua-so-chat-subiz"></a>
+ `.message-content  
+{ font-size:13px;}`
+
+### Tùy biến màu sắc trên cửa sổ chat
 
  Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp; chọn tùy chỉnh màu sắc chung cho toàn bộ cửa sổ chat hoặc màu sắc riêng của từng khung.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Ví trí</th>
+      <th style="text-align:left">Ví trí thay đổi màu sắc</th>
       <th style="text-align:left">Màu sắc đơn</th>
       <th style="text-align:left">Dải màu chuyển tiếp</th>
     </tr>
@@ -152,9 +153,37 @@ background-repeat: no-repeat; background-position: center; }
 .full { width:160px !important; }   
 .avatar-team .avatar-agent{ display:none; }   
 .team-intro { width:55%; margin-bottom:12px; }   
-.team-intro p{ padding: 0 0 0 0; font-size:13px; }`
+.team-intro p{ padding: 0 0 0 0; font-size:13px;}`
 
-### Thay đổi màu sắc cửa sổ chat trên mobile
+### Gắn cửa sổ chat sát chân màn hình desktop
+
+Bạn cần hạ sát cửa sổ chat xuống chân màn hình trên website bạn mobile, hãy sử dụng mã CSS dưới đây:  
+_Lưu ý xem lại_ [_Cửa sổ chat cài đặt Kiểu Thu gọn hay Mở rộng_ ](https://app.subiz.com/settings/widget-setting)_để dùng đúng CSS._
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Cửa sổ chat - Kiểu Thu gọn</th>
+      <th style="text-align:left">Cửa sổ chat - Kiểu Mở rộng</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p><code> .widget-button {bottom:0;}</code>
+        </p>
+        <p><code> .widget_mini .widget_body {bottom:0;}</code>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p><code> .widget-button {bottom:0;}</code>
+        </p>
+        <p><code> .widget_full .widget_body {bottom:0;}</code>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>### Thay đổi màu sắc cửa sổ chat trên mobile
 
 Trên cửa sổ chat bản mobile, bạn có thể thay đổi màu sắc chung cho toàn bộ cửa sổ chat hoặc màu sắc riêng của từng khung.
 
@@ -211,7 +240,7 @@ Trên cửa sổ chat bản mobile, bạn có thể thay đổi màu sắc chung
 
  Cửa sổ Subiz chat sẽ mặc định hiển thị khoảng 90% màn hình điện thoại, để khách vẫn nhìn thấy link của website mua hàng.
 
-Bạn muốn hạ cửa sổ chat trên mobile sẽ hiển thị thấp hơn so với mặc định, hãy dùng mã CSS dưới đây, có thể thay tỷ lệ 90%
+Bạn muốn hạ cửa sổ chat trên mobile sẽ hiển thị thấp hơn so với mặc định, hãy dùng mã CSS dưới đây, có thể thay tỷ lệ 90%`:`
 
  `.widget_mobile .widget_body {height: 90%;}`
 
@@ -220,29 +249,54 @@ Bạn muốn hạ cửa sổ chat trên mobile sẽ hiển thị thấp hơn so 
 Website bản destop và bản mobile đang hiển thị chung một chat button. Để sử dụng riêng hình ảnh chat button trên bản mobile, bạn sẽ sử dụng CSS sau:  
 Trong đó:   
 _Thay đổi link ảnh chat button:_ [`https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png`](https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png)  
-_Thay đổi kích thước ảnh chat button:_`width: 190px; height: 60px`
+_Thay đổi kích thước ảnh chat button:_`width: 81px; height: 31px`
 
  `.widget_mobile .button-chat { border-radius: 0; background-image: url(`[`https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png`](https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png)`); background-repeat: no-repeat; }   
 .widget_mobile .button-chat-icon { display: none; } @supports (-ms-ime-align:auto) { .widget_mobile .button-chat { border-radius: 50%; }   
 .widget_mobile .button-chat-icon { display: inline-block; } }   
-.widget_mobile .widget-button { width: 190px; height: 60px; }   
+.widget_mobile .widget-button { width: 81px; height: 31px; }   
 .widget_mobile .button-chat { border-radius: 0 !important; }   
 .widget_mobile .widget-button:after { display: none; }   
 .widget_mobile .widget_mini .close-widget-icon { display: none; }   
 .widget_mobile .button-chat .avatar-preview img { display: none; }   
 .widget_mobile .button-chat { box-shadow: none; background-color: transparent !important; }`
 
-### Ẩn cửa sổ chat destop
+### Tùy chỉnh vị trí chat button mobile
 
-### Ẩn cửa sổ chat mobile
+Bạn cần xác định [Cửa sổ chat đang cài đặt Vị trí Góc trí hay Góc phải](https://app.subiz.com/settings/widget-setting) để sử dụng mã CSS tùy chỉnh vị trí chat button trên website bản mobile.  
+_Vị trí thay đổi chat button từ 0 đến 40px_
 
-### Ẩn chat button destop
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">
+        <p>Cửa sổ chat</p>
+        <p>Vị trí - Góc phải</p>
+      </th>
+      <th style="text-align:left">
+        <p>Cửa sổ chat</p>
+        <p>Vị trí - Góc trái</p>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><code> .widget_mobile .widget-button <br />{bottom:40px;right:40px;}</code>
+      </td>
+      <td style="text-align:left"><code>.widget_mobile .widget-button <br />{ bottom:0;left:0;}</code>
+      </td>
+    </tr>
+  </tbody>
+</table>### Ẩn cửa sổ chat mobile
+
+ `.widget_mobile {display: none; }`
 
 ### Ẩn chat button mobile
 
-### Tùy chỉnh vị trí cửa sổ chat so với chân màn hình
+`.widget_mobile .button-chat {  
+display: none; }`
 
-### Tùy chỉnh vị trí chat button so với chân màn hình
+### 
 
 
 
