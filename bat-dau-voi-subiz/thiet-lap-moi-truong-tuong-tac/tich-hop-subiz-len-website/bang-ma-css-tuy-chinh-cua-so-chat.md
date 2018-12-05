@@ -1,4 +1,4 @@
-# Bảng mã CSS tùy chỉnh cửa sổ chat
+# Bảng CSS tùy chỉnh cửa sổ chat
 
 Bạn đang muốn tùy biến giao diện cửa sổ chat bắt mắt và riêng biệt trên website của mình, hãy tham khảo  các kiểu CSS dưới đây. 
 
