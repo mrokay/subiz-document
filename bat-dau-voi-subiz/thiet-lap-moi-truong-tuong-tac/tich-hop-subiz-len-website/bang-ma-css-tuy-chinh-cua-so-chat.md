@@ -2,7 +2,9 @@
 
 Bạn đang muốn tùy biến giao diện cửa sổ chat bắt mắt và riêng biệt trên website của mình, hãy tham khảo  các kiểu CSS dưới đây. 
 
-Đảm bảo sao chép đúng CSS và dán vào mục [Tùy chỉnh CSS trong cửa sổ Subiz chat](https://app.subiz.com/settings/widget-setting).
+Đảm bảo sao chép đúng CSS và dán vào mục [Tùy chỉnh CSS trong cửa sổ Subiz chat](https://app.subiz.com/settings/widget-setting) &gt; Lưu thay đổi tại bảng tùy chỉnh CSS và Lưu thay đổi ở mục Cửa sổ Subiz chat
+
+![T&#xF9;y ch&#x1EC9;nh CSS](../../../.gitbook/assets/tuy-chinh-css.jpg)
 
 ###  Thay đổi chiều rộng, chiều cao cửa sổ chat
 
