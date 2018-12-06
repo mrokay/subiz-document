@@ -6,7 +6,7 @@ Agent sẽ rút ngắn thời gian trả lời cũng như đảm bảo sự ổn
 
 Mỗi Agent đều có quyền tạo Mẫu tin nhắn cho riêng Cá nhân sử dụng hoặc Chung cho tất cả agent trong tài khoản sử dụng trên các kênh tương tác như Subiz chat, Email,....
 
-![Th&#x1B0; vi&#x1EC7;n c&#xE2;u tr&#x1EA3; l&#x1EDD;i](../../.gitbook/assets/library-2.jpg)
+![Danh s&#xE1;ch m&#x1EAB;u tin nh&#x1EAF;n](../../.gitbook/assets/library.png)
 
 ### Hướng dẫn tạo Mẫu tin nhắn mới
 
@@ -20,20 +20,20 @@ Trong mục TẠO MẪU TIN NHẮN MỚI có 3 vùng chính:
 * \(2 + 3\) Vùng nhập nội dung mẫu tin nhắn:  Agent có thể chọn tạo mẫu tin nhắn theo từng kiểu nội dung riêng như tin nhắn mẫu văn bản, tin nhắn mẫu ảnh, tin nhắn mẫu Sản phẩm, tin nhắn mẫu Tệp; hoặc thêm cùng lúc nhiều kiểu nội dung trong 1 mẫu tin nhắn.
 * \(4\) Vùng tạo Ký tự tắt và chọn Quyền sử dụng mẫu tin nhắn
 
-![](../../.gitbook/assets/tao-moi.png)
+![T&#x1EA1;o m&#x1EAB;u tin nh&#x1EAF;n m&#x1EDB;i](../../.gitbook/assets/tao-moi%20%281%29.png)
 
 #### **1.Thêm văn bản**
 
 Khi agent chọn Tạo mẫu tin nhắn mới, sẽ hiển thị ô Tin nhắn văn bản để bạn nhập nội dung mẫu tin nhắn, thêm Icon cảm xúc và Trường thông tin của khách hàng như Họ tên - Fullname, Emails, Phone,...để tạo sự gần gũi và đem lại cảm giác riêng biệt cho khách.
 
-![M&#x1EAB;u tin nh&#x1EAF;n v&#x103;n b&#x1EA3;n](../../.gitbook/assets/van-ban.jpg)
+![M&#x1EAB;u tin nh&#x1EAF;n v&#x103;n b&#x1EA3;n](../../.gitbook/assets/van-ban.png)
 
 Phía dưới phần hiển thị nội dung có chức năng thêm button giúp khách hàng click và liên kết tới trang đích. Có 2 loại button là:
 
 * URL - gắn link trang sản phẩm 
 * Gọi điện - gắn số điện thoại để khách click và gọi trực tiếp tới hotline của Doanh Nghiệp.
 
-![Th&#xEA;m button URL](../../.gitbook/assets/them-button.jpg)
+![Th&#xEA;m button URL](../../.gitbook/assets/button.png)
 
 #### 2. Thêm Ảnh
 
@@ -41,13 +41,13 @@ Agent có thể thêm tối đa 10 hình ảnh trong 1 mẫu tin nhắn.
 
 Danh sách ảnh hiển thị dưới dạng slide, có icon di chuyển ảnh trước và sau hoặc click vào danh sách ảnh thu nhỏ phía dưới để xem lại các ảnh tải lên. 
 
-![Th&#xEA;m &#x1EA3;nh trong m&#x1EAB;u tin nh&#x1EAF;n](../../.gitbook/assets/mau-anh-button.jpg)
+![Th&#xEA;m &#x1EA3;nh trong m&#x1EAB;u tin nh&#x1EAF;n](../../.gitbook/assets/anh.png)
 
 #### 3. Thêm Tệp
 
 Chức năng này giúp agent có thể đính kèm Tệp trong mẫu tin nhắn như PDF \(.pdf\), DOC \(.docs\), EXEL \(.xlxs\),... Các loại file Subiz hỗ trợ chạy và xem trực tiếp ngay trên Subiz : Audio, Image, Video.
 
-![](../../.gitbook/assets/tep.jpg)
+![Th&#xEA;m T&#x1EC7;p trong m&#x1EAB;u tin nh&#x1EAF;n](../../.gitbook/assets/tep.png)
 
 #### 4. Thêm Sản phẩm
 
@@ -65,11 +65,11 @@ Ví dụ trên kênh Subiz chat, Agent có 2 cách sử dụng mẫu tin nhắn:
 
 *  Cách 1: Tại ô Nhập tin nhắn, nhấp chuột vào  icon **+** và chọn **Tin nhắn mẫu** để hiển thị danh sách các mẫu tin nhắn &gt; Di chuyển chuột chọn tin nhắn mẫu &gt; chọn Enter gửi đi
 
-![Ch&#x1ECD;n tin nh&#x1EAF;n m&#x1EAB;u v&#xE0; g&#x1EED;i kh&#xE1;ch](../../.gitbook/assets/chon-+.png)
+![Ch&#x1ECD;n m&#x1EAB;u tin nh&#x1EAF;n](../../.gitbook/assets/sd-template-1.png)
 
 *  Cách 2: Tại ô Nhập tin nhắn, bắt đầu bằng **\ + ký tự tắt** và chọn tin nhắn mẫu &gt; Enter gửi đi
 
-![S&#x1EED; d&#x1EE5;ng K&#xFD; t&#x1EF1; t&#x1EAF;t t&#xEC;m tin nh&#x1EAF;n m&#x1EAB;u](../../.gitbook/assets/cach-2.png)
+![Ch&#x1ECD;n tin nh&#x1EAF;n m&#x1EAB;u](../../.gitbook/assets/su-dung-template-2.png)
 
 ### Một số lưu ý sử dụng mẫu tin nhắn 
 
