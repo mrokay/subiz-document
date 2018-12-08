@@ -41,7 +41,7 @@
     * [Tương tác qua kênh Email](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-email.md)
     * [Tương tác qua kênh Messenger](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-messenger.md)
     * [Mẫu tin nhắn](bat-dau-voi-subiz/lam-viec-tren-subiz/mau-tin-nhan.md)
-    * [Ticket - Quản lý vấn đề của khách hàng](bat-dau-voi-subiz/lam-viec-tren-subiz/ticket-quan-ly-van-de-cua-khach-hang.md)
+    * [Ticket - Quản lý yêu cầu của khách hàng](bat-dau-voi-subiz/lam-viec-tren-subiz/ticket-quan-ly-yeu-cau-cua-khac-hang.md)
 * [Sử dụng Subiz nâng cao](su-dung-subiz-nang-cao/README.md)
   * [Tương tác tự động](su-dung-subiz-nang-cao/tuong-tac-tu-dong/README.md)
     * [Tạo Automation mới](su-dung-subiz-nang-cao/tuong-tac-tu-dong/tao-automation.md)
