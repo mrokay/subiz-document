@@ -4,7 +4,19 @@ Ngoài cài đặt Automation gửi tin nhắn tự động để thu hút sự 
 
 Một tin nhắn được trình bày rõ ràng,  ngắn gọn, nội dung đầy đủ với hình ảnh thiết kế bắt mắt chắc chắn sẽ gây được nhiều ấn tượng với khách hàng. Bài viết sau đây sẽ hướng dẫn việc sử dụng mã Markdown để thiết kế tin nhắn trong Automation.
 
-### **In đậm và in nghiêng font chữ**
+### Thêm icon cảm xúc trong tin nhắn
+
+Việc thêm biểu tượng cảm xúc vào tin nhắn sẽ mang đến cho khách hàng của bạn nhiều trải nghiệm cảm xúc thú vị khi vào website của bạn và gia tăng tỷ lệ phản hồi của họ đối với thông điệp bạn gửi. Bạn có thể thêm biểu tượng cảm xúc theo ví dụ sau:
+
+![Ch&#xE8;n bi&#x1EC3;u t&#x1B0;&#x1EE3;ng c&#x1EA3;m x&#xFA;c v&#xE0;o tin nh&#x1EAF;n Automation](../../.gitbook/assets/subiz-3.png)
+
+![Tin nh&#x1EAF;n hi&#x1EC3;n th&#x1ECB; tr&#xEA;n c&#x1EED;a s&#x1ED5; chat](../../.gitbook/assets/subiz.png)
+
+Bạn có thể tham khảo một số mã code biểu tượng cảm xúc bằng cách sử dụng icon trong ô nhập tin nhắn trên trang Hoạt động:
+
+![L&#x1EA5;y m&#xE3; code icon](../../.gitbook/assets/subiz-4.png)
+
+**In đậm và in nghiêng font chữ**
 
 Để tạo sự chú ký của khách hàng tới nội dung quan trọng trong tin nhắn của bạn, bạn hoàn toàn có thể in đậm hoặc in nghiêng phông chữ theo hướng dẫn sau:
 
