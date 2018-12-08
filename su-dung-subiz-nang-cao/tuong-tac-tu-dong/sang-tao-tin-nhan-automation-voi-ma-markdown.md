@@ -12,9 +12,15 @@ Việc thêm biểu tượng cảm xúc vào tin nhắn sẽ mang đến cho kh�
 
 ![Tin nh&#x1EAF;n hi&#x1EC3;n th&#x1ECB; tr&#xEA;n c&#x1EED;a s&#x1ED5; chat](../../.gitbook/assets/subiz.png)
 
-Bạn có thể tham khảo một số mã code biểu tượng cảm xúc bằng cách sử dụng icon trong ô nhập tin nhắn trên trang Hoạt động:
+Bạn có thể tham khảo một số icon cảm xúc thông dụng
 
-![L&#x1EA5;y m&#xE3; code icon](../../.gitbook/assets/subiz-4.png)
+* :like:
+* :heart\_eyes:
+* :tongue\_out:
+* :smiling:
+* :grinning:
+* :wink:
+* :sleepy:
 
 **In đậm và in nghiêng font chữ**
 
