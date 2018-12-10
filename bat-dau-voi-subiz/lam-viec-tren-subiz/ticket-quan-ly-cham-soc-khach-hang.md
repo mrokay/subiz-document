@@ -1,4 +1,4 @@
-# Ticket - Quản lý yêu cầu của khách hàng
+# Ticket - Quản lý chăm sóc khách hàng
 
 ## **Ticket là gì?**
 
