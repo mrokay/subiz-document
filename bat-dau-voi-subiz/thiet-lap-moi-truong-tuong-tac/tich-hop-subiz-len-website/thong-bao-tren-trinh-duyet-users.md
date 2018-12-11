@@ -56,4 +56,6 @@ Bạn có thể quản lý số người Đồng ý nhận thông báo qua [Repo
 
 * Web không có https có được hỗ trợ không? Có, Subiz hỗ trợ cả web không có https. Nhưng chúng tôi khuyến nghị bạn nên sử dụng https cho website. 
 * Khách hàng có thể từ chối nhận thông báo? Có, khách có thể từ chối ngay trên cửa sổ Subiz hoặc trên cài đặt của trình duyệt.
+* Hình ảnh hiển thị trên thông báo? Là logo bạn [cài đặt trong Subiz](https://app.subiz.com/settings/).
+* URL trong thông báo? Là url cuối cùng của khách viếng thăm và trò truyện trước đó.
 
