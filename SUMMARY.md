@@ -13,6 +13,7 @@
       * [Tùy chỉnh hình ảnh chat button](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-hinh-anh-chat-button.md)
       * [Tùy chỉnh cửa sổ chat Subiz trên điện thoại](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-cua-so-chat-subiz-tren-dien-thoai.md)
       * [Bảng CSS tùy chỉnh cửa sổ chat](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/bang-ma-css-tuy-chinh-cua-so-chat.md)
+      * [Thông báo trên trình duyệt Users](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/thong-bao-tren-trinh-duyet-users.md)
     * [Tích hợp sử dụng Email trên Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz.md)
     * [Tích hợp Messenger Facebook vào Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-fanpage-facebook-vao-subiz.md)
     * [Tối ưu môi trường tương tác](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/toi-uu-moi-truong-tuong-tac/README.md)
