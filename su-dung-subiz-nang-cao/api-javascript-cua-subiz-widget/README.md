@@ -108,6 +108,24 @@ API cho phép bạn truyền một đoạn mã CSS để thay đổi lại Subiz
 </script>
 ```
 
+### API Subscribe Push Notification
+
+API cho phép bạn chủ động hỏi khách hàng đồng ý nhận thông báo qua trình duyệt khi cửa sổ Subiz của họ có tin nhắn mới.
+
+```javascript
+<script type="text/javascript">
+    subiz('subscribePushNotification')
+</script>
+//API để hỏi khách hàng đồng ý.
+```
+
+```javascript
+<script type="text/javascript">
+    subiz('unsubscribePushNotification')
+</script>
+//API để hủy đăng ký nhận thông .
+```
+
 Bạn tham khảo thêm:
 
 * Một số mã [CSS sáng tạo cửa sổ trên bản destop](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/sang-tao-cua-so-chat-subiz#css-tuy-chinh-cua-so-chat-subiz-tren-ban-may-tinh)
