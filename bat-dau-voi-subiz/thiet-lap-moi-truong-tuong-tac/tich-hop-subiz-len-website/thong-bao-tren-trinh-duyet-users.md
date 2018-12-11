@@ -15,7 +15,7 @@ Khi có cửa sổ Subiz có tin nhắn mới, Users \(khách hàng\) sẽ nhậ
 Chức năng này giúp Doanh nghiệp:
 
 * kéo lại những users đã thoát khỏi website.
-* xây dựng tập users nhận thông tin từ Doanh nghiệp.
+* ây dựng tập users nhận thông tin từ Doanh nghiệp.
 * Giúp việc tương tác giữa Doanh nghiệp và users trở nên liền mạch...
 
 ### Cách triển khai tính năng này
@@ -43,7 +43,6 @@ _Qua Automation_ - Gửi tin nhắn lúc users offline \(**chức năng sắp ra
 | Trình duyệt | Hệ điều  |
 | :--- | :--- |
 | Chrome phiên bản 42+ trở lên | Windows, Mac OS X, Linux and Android |
-|  | Windows, Max OS  |
 | Firefox \(V 44+ cho desktop; 48+ cho mobile\) | Windows, Mac OS X, Linux và Android |
 | Opera \(v 42+ cho desktop; 37+ cho mobile\) | Windows, Mac OS X, Linux và Android |
 | Safari \(version 7.1+\) | Mac OS Mavericks onwards desktops |
