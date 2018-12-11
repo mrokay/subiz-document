@@ -126,6 +126,15 @@ API cho phép bạn chủ động hỏi khách hàng đồng ý nhận thông b�
 //API để hủy đăng ký nhận thông .
 ```
 
+```javascript
+<script type="text/javascript">
+  subiz('checkPushNotification', function(status) {
+    console.log(status)
+  })
+</script>
+//API để kiểm tra tình trạng  đã đồng ý nhận thông báo chưa? 
+```
+
 Bạn tham khảo thêm:
 
 * Một số mã [CSS sáng tạo cửa sổ trên bản destop](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/sang-tao-cua-so-chat-subiz#css-tuy-chinh-cua-so-chat-subiz-tren-ban-may-tinh)
