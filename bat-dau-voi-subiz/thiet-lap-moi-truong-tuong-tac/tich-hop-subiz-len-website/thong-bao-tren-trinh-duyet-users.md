@@ -8,21 +8,21 @@ description: >-
 
 ### Thông báo trên trình duyệt là gì?
 
-Khi có cửa sổ Subiz có tin nhắn mới, Users \(khách hàng\) sẽ nhận được thông báo trên trình duyệt kể cả khi họ không còn truy cập vào website của doanh nghiệp. Khi users click vào thông báo, họ sẽ truy cập lại website của Doanh nghiệp và từ đó có thể tiếp tục một cuộc nói chuyện qua Subiz. Nếu users đã tắt cả trình duyệt, thì lần mở trình duyệt sau đó thông báo sẽ được hiển thị.
+Khi cửa sổ Subiz có tin nhắn mới, Users \(khách hàng\) sẽ nhận được thông báo trên trình duyệt kể cả khi họ không còn truy cập vào website của doanh nghiệp. Khi users click vào thông báo, họ sẽ truy cập lại website của Doanh nghiệp và từ đó có thể tiếp tục một cuộc nói chuyện qua Subiz. Nếu users đã tắt cả trình duyệt, thì lần mở trình duyệt sau đó thông báo sẽ được hiển thị.
 
 ![Th&#xF4;ng b&#xE1;o m&#xE0;n h&#xEC;nh Subiz tr&#xEA;n m&#xE1;y t&#xED;nh kh&#xE1;ch h&#xE0;ng.](../../../.gitbook/assets/screenshot-from-2018-12-11-13-29-30.png)
 
 Chức năng này giúp Doanh nghiệp:
 
-* kéo lại những users đã thoát khỏi website.
-* ây dựng tập users nhận thông tin từ Doanh nghiệp.
+* Kéo lại những users đã thoát khỏi website.
+* Xây dựng tập users nhận thông tin từ Doanh nghiệp.
 * Giúp việc tương tác giữa Doanh nghiệp và users trở nên liền mạch...
 
 ### Cách triển khai tính năng này
 
 **Kêu gọi users Đồng ý nhận thông báo.**
 
-Cửa sổ Subiz đã được thiết kế sẵn tính năng để users đăng ký nhận thông báo.
+Cửa sổ Subiz đã được thiết kế sẵn tính năng **Thông báo** để users đăng ký nhận thông báo.
 
 ![User c&#xF3; th&#x1EC3; b&#x1EAD;t ch&#x1EE9;c n&#x103;ng Th&#xF4;ng b&#xE1;o.](../../../.gitbook/assets/screenshot-from-2018-12-11-13-35-57.png)
 
@@ -36,7 +36,7 @@ _Trong cuộc hội thoại:_  Với những users đã Đồng ý nhận thông
 
 ![V&#xE0; &#x111;&#xE2;y l&#xE0; m&#xE0;n h&#xEC;nh kh&#xE1;ch h&#xE0;ng nh&#x1EAD;n &#x111;&#x1B0;&#x1EE3;c.](../../../.gitbook/assets/screenshot-from-2018-12-11-13-40-34.png)
 
-_Qua Automation_ - Gửi tin nhắn lúc users offline \(**chức năng sắp ra mắt**\).
+_Qua Automation_ - Gửi tin nhắn lúc agents offline \(**chức năng sắp ra mắt**\).
 
 ### Các trình duyệt được hỗ trợ
 
