@@ -10,7 +10,7 @@ Khách hàng tiềm năng là người đang có nhu cầu về sản phẩm và
 
 Ví dụ kịch bản cài đặt Automation - Hỏi thông tin khách hàng thu thập TÊN, SỐ ĐIỆN THOẠI, EMAIL của khách hàng như sau:
 
-![K&#x1ECB;ch b&#x1EA3;n Automation h&#x1ECF;i s&#x1ED1; &#x111;i&#x1EC7;n tho&#x1EA1;i, Email kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/auto-ask-info.jpg)
+![](../../.gitbook/assets/hoi-thong-tin-khach-hang.png)
 
 * **Trạng thái:** Bật ON
 * **Tên Automation và Mô tả**: điền thông tin giúp bạn xác định và hiểu mục đích của kịch bản Automation cài đặt
