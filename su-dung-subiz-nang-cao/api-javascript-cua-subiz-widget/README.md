@@ -110,7 +110,7 @@ API cho phép bạn truyền một đoạn mã CSS để thay đổi lại Subiz
 
 ### API Subscribe Push Notification
 
-API cho phép bạn chủ động hỏi khách hàng đồng ý nhận thông báo qua trình duyệt khi cửa sổ Subiz của họ có tin nhắn mới.
+API cho phép bạn chủ động hỏi khách hàng đồng ý nhận thông báo qua trình duyệt khi cửa sổ Subiz của họ có tin nhắn mới. Bạn có thể đặt vào một nút trên trang web hay một link bất kỳ để có thể gia tăng số người đồng ý nhận thông báo.
 
 ```javascript
 <script type="text/javascript">
