@@ -4,13 +4,13 @@ description: 'Cách quản lý và tùy chỉnh, cập nhật thông tin user (k
 
 # Quản lý và cập nhật thông tin user
 
-**User là khách hàng có tương tác với bạn qua** [**Subiz**](https://subiz.com/vi/)**,** bao gồm các khách hàng có hội thoại trò chuyện với agent từ website, Fanpage Messenger và Email. Danh sách user được hiển thị ở khung đầu tiên bên trái trên trang [**HOẠT ĐỘNG**](https://app.subiz.com/activities)**.**
+**User là khách hàng có tương tác với bạn qua** [**Subiz**](https://subiz.com/vi/)**,** bao gồm các khách hàng có hội thoại trò chuyện với agent từ website, Fanpage Messenger và Email. Danh sách user được hiển thị bên trái trên trang [**HOẠT ĐỘNG**](https://app.subiz.com/activities)**.**
 
 Tại trang [**HOẠT ĐỘNG**](https://app.subiz.com/activities), bạn có thể quản lý danh sách các user, danh sách hoạt động của từng user và các cuộc hội thoại trực tiếp với họ.
 
 ### **Danh sách User** <a id="danhsachuser"></a>
 
-**Danh sách user là các user có hội thoại trò chuyện và tương tác trên website.** Agent có thể xem các phân khúc user như User của tôi, Connected user, Hội thoại chưa được phân phối, Tickets.
+**Danh sách user là các user có hội thoại trò chuyện trên các kênh và tương tác trên website.** Agent có thể xem các phân khúc user như User của tôi, Connected user, Hội thoại chưa được phân phối, Tickets.
 
 Và tìm kiếm user theo các thông tin như Họ Tên, Địa chỉ email, Số điện thoại,...
 
