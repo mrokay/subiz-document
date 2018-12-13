@@ -22,7 +22,7 @@ Chọn button trong [Thư viện button](https://app.subiz.com/settings/widget-s
 
 Tham khảo [một số mẫu Button larger](https://app.subiz.com/settings/widget-setting?button=library), chọn và lưu thay đổi để sử dụng.
 
-![M&#x1EAB;u Button large](../../../.gitbook/assets/button-large-copy.jpg)
+![M&#x1EAB;u Button large](../../../.gitbook/assets/button-large-copy%20%281%29.jpg)
 
 ### **3. Sử dụng button tùy chỉnh** 
 
