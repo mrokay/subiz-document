@@ -18,11 +18,15 @@ Và tìm kiếm user theo các thông tin như Họ Tên, Địa chỉ email, S�
 
 **Tin nhắn mới của user hiển thị thông báo số màu đỏ để agent nhận biết và trả lời**. Tại ảnh đại diện của user có trạng thái online \(màu xanh\) hoặc offline \(màu xám\). 
 
+![Danh s&#xE1;ch user](../../.gitbook/assets/user-info-1-copy.jpg)
+
 ### Danh sách hoạt động <a id="listactivities"></a>
 
 Khi click chọn user, agent kiểm tra được Danh sách hoạt động của user gồm Đã xem trang trên website, lịch sử cuộc hội thoại trên các kênh Subiz chat, Messenger, Email.
 
 Các cuộc hội thoại có tin nhắn chưa đọc sẽ hiển thị thông báo đỏ.
+
+![Danh s&#xE1;ch ho&#x1EA1;t &#x111;&#x1ED9;ng](../../.gitbook/assets/activites-copy.jpg)
 
 \*\*\*\*
 
