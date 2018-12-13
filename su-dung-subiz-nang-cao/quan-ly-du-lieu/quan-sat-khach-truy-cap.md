@@ -27,7 +27,7 @@ Khi click vào từng khách truy cập trên trang [**KHÁCH**](https://app.sub
 
 ![Hi&#x1EC3;n th&#x1ECB; v&#x1ECB; tr&#xED; &#x111;&#x1ECB;a l&#xFD; c&#x1EE7;a kh&#xE1;ch h&#xE0;ng ](../../.gitbook/assets/ip-khach.jpg)
 
-Địa chỉ IP được cung cấp bởi ISP \(Internet Service Provider\) và thường xuyên thay đổi. Do đó, địa chỉ IP sẽ có sự sai lệch với địa điểm thực của khách hàng.
+Địa chỉ IP được cung cấp bởi ISP \(Internet Service Provider\) và thường xuyên thay đổi. User cũng có thể sử dụng  IO động. Do đó, địa chỉ IP sẽ có sự sai lệch với địa điểm thực của khách hàng.
 
 [Subiz](https://subiz.com/vi/) định kỳ 6 tháng 1 lần cập nhật dữ liệu địa chỉ IP của khách truy cập để nâng cao độ chính xác và cam kết chính xác 95% với dữ liệu Quốc Gia, 75% với dữ liệu Thành phố/tỉnh.
 
