@@ -8,19 +8,19 @@ description: >-
 
 ### Quản lý sản phẩm là gì?
 
-Chức năng quản lý sản phầm là cách dễ dàng nhất để bạn lưu trữ thông tin sản phẩm mà doanh nghiệp bạn đang kinh doanh lên Subiz, từ đó bạn có thể gửi sản phẩm cho khách hàng, mời khách hàng mua sản phẩm ngay trên cửa sổ Subiz, hỏi phản hồi về một sản phẩm cụ thể...
+Chức năng quản lý sản phẩm là cách dễ dàng nhất để bạn lưu trữ thông tin sản phẩm mà doanh nghiệp bạn đang kinh doanh lên Subiz, từ đó bạn có thể gửi sản phẩm cho khách hàng, mời khách hàng mua sản phẩm ngay trên cửa sổ Subiz, hỏi phản hồi về một sản phẩm cụ thể...
 
 Chức năng quản lý sản phẩm giúp bạn lưu trữ chứ không thay thế phần mềm quản lý kho của doanh nghiệp. Nhưng nó có khả năng đồng bộ dữ liệu giúp nhân viên trong công ty dễ dàng tiếp cận thông tin và kho hàng. Các cách sau để bạn nhập dữ liệu vào Subiz.
 
-### Sử dụng Sản phẩm lưu trên 
+### Sử dụng Sản phẩm lưu trên Subiz 
 
-Dưới đây là các ví dụ để bạn sử dụng Sản phẩm trên Subiz.
+Dưới đây là các ví dụ để bạn sử dụng chức năng Sản phẩm trên Subiz.
 
 * Subiz nhận biết khách hàng xem sản phẩm gì và hiển thị lên trên màn hình của agent.
 
 ![](../.gitbook/assets/screenshot-from-2018-12-11-10-28-44.png)
 
-* Sử dụng Sản phẩm để tạo những Tin nhắn mẫu, từ đó gửi tới Khách hàng. 
+* Sử dụng Sản phẩm để tạo những Mẫu Tin nhắn từ đó gửi tới Khách hàng. 
 
 ![](../.gitbook/assets/screenshot-from-2018-12-11-10-32-43%20%281%29.png)
 
@@ -45,7 +45,7 @@ Các trường dữ liệu Subiz như sau:
   <thead>
     <tr>
       <th style="text-align:left">Tên trường</th>
-      <th style="text-align:left">Mô</th>
+      <th style="text-align:left">Mô tả</th>
     </tr>
   </thead>
   <tbody>
@@ -81,7 +81,7 @@ Các trường dữ liệu Subiz như sau:
       <td style="text-align:left">Là đường dẫn tới ảnh của Sản phẩm.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><em>Tình tr</em>
+      <td style="text-align:left"><em>Tình trạng</em>
       </td>
       <td style="text-align:left">
         <p>Là tình trạng sản phẩm còn hàng hay không.</p>
@@ -89,7 +89,7 @@ Các trường dữ liệu Subiz như sau:
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><em></em>
+      <td style="text-align:left"><em>Giá</em>
       </td>
       <td style="text-align:left">Giá của sản phẩm. Ví dụ: 1,000,000.</td>
     </tr>
@@ -109,8 +109,8 @@ Các trường dữ liệu Subiz như sau:
       <td style="text-align:left">Là những dữ liệu tùy biến khác bạn muốn đưa lên.</td>
     </tr>
   </tbody>
-</table>### Câu hỏi thường gặp về Sản phâm. 
+</table>### Câu hỏi thường gặp về Sản phẩm. 
 
-1. Cập nhật dữ liệu một sản phẩm thế nào? Bạn có thể tạo một file CSV chứa riêng sản phẩm đó. Subiz sẽ nhận diện bằng ID \(mã sản phẩm\) để ghi đè dữ liệu.
-2. Subiz có đồng bộ dữ liệu tự động từ web về? Chúng tôi đang phát triển chức năng này. 
+1. **Cập nhật dữ liệu một sản phẩm thế nào?** Bạn có thể tạo một file CSV chứa riêng sản phẩm đó. Subiz sẽ nhận diện bằng ID \(mã sản phẩm\) để ghi đè dữ liệu.
+2. **Subiz có đồng bộ dữ liệu tự động từ web về?** Chúng tôi đang phát triển chức năng này. 
 
