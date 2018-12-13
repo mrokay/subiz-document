@@ -14,19 +14,21 @@ Tại trang [**HOẠT ĐỘNG**](https://app.subiz.com/activities), bạn có th
 
 Và tìm kiếm user theo các thông tin như Họ Tên, Địa chỉ email, Số điện thoại,...
 
-**User mới sẽ được phân biệt theo địa chỉ Thành phố + mã user và Quốc gia**. Agent có thể click chọn user và thay đổi các thông tin user như Họ tên, Địa chỉ Email, Số điện thoại.....
+**User mới sẽ được phân biệt theo địa chỉ Thành phố + mã user và Quốc gia**. Agent có thể click chọn user và thay đổi các thông tin user như Họ tên, Địa chỉ email, Số điện thoại.....
 
 **Tin nhắn mới của user hiển thị thông báo số màu đỏ để agent nhận biết và trả lời**. Tại ảnh đại diện của user có trạng thái online \(màu xanh\) hoặc offline \(màu xám\). 
 
 ![Danh s&#xE1;ch user](../../.gitbook/assets/user-info-1-copy.jpg)
 
-### Danh sách hoạt động <a id="listactivities"></a>
+### Danh sách hoạt động user <a id="listactivities"></a>
 
 Khi click chọn user, agent kiểm tra được Danh sách hoạt động của user gồm Đã xem trang trên website, lịch sử cuộc hội thoại trên các kênh Subiz chat, Messenger, Email.
 
 Các cuộc hội thoại có tin nhắn chưa đọc sẽ hiển thị thông báo đỏ.
 
-![Danh s&#xE1;ch ho&#x1EA1;t &#x111;&#x1ED9;ng](../../.gitbook/assets/activites-copy.jpg)
+Agent có thể Ghi chú thông tin user, vấn đề cần lưu ý khi hỗ trợ khách hàng.
+
+![Danh s&#xE1;ch ho&#x1EA1;t &#x111;&#x1ED9;ng c&#x1EE7;a user](../../.gitbook/assets/activites-copy-123.jpg)
 
 \*\*\*\*
 
