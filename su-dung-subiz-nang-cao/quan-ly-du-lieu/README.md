@@ -10,7 +10,7 @@ Tại mục Quản lý dữ liệu, [Subiz](https://subiz.com/vi/) có các hư�
 
 * Cập nhật và tùy chỉnh các thông tin khách hàng của bạn.
 
-{% page-ref page="cap-nhat-va-chinh-sua-thong-tin-user.md" %}
+{% page-ref page="quan-ly-va-cap-nhat-thong-tin-user.md" %}
 
 * Quan sát và chủ động tương tác với khách truy cập dựa trên hành vi của họ trên Website
 

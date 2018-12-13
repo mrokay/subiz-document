@@ -1,10 +1,14 @@
+---
+description: Quan sát danh sách khách đang truy cập trên website của bạn
+---
+
 # Quan sát khách truy cập
 
 ### Làm thế nào để quan sát khách truy cập?
 
 Doanh nghiệp có thể quan sát khách truy cập website của mình, nắm rõ nhu cầu thông tin, sản phẩm và dịch vụ mà khách hàng mong muốn, từ đó chủ động tiếp cận hỗ trợ họ. 
 
-**Bạn có thể theo dõi các khách đang truy cập website của bạn** tại trang **Khách**. Mỗi khách truy cập được nhận diện bằng [cookie](http://vi.wikipedia.org/wiki/Cookie) trên trình duyệt của họ.
+**Bạn có thể theo dõi các khách đang truy cập website của bạn** tại trang [**KHÁCH**](https://app.subiz.com/visitors). Mỗi khách truy cập được nhận diện bằng [cookie](http://vi.wikipedia.org/wiki/Cookie) trên trình duyệt của họ.
 
 ![Quan s&#xE1;t kh&#xE1;ch truy c&#x1EAD;p Website t&#x1EA1;i trang Kh&#xE1;ch](../../.gitbook/assets/visitor.png)
 
@@ -15,7 +19,7 @@ Với mỗi khách truy cập, bạn sẽ biết được những thông tin sau
 * **Vị trí địa lý**:  Hiển thị thành phố/ tình được xác định thông qua địa chỉ IP
 * **Trang đang xem**: Địa chỉ trang mà khách đang xem trên website của bạn
 
-Khi click vào từng khách truy cập trên trang **KHÁCH**, bạn sẽ bắt đầu để tương tác trực tiếp với khách hàng đó trên mục **HOẠT ĐỘNG**
+Khi click vào từng khách truy cập trên trang [**KHÁCH**](https://app.subiz.com/visitors), bạn sẽ bắt đầu để tương tác trực tiếp với khách hàng đó trên mục **HOẠT ĐỘNG**
 
 ![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i v&#xE0; chat v&#x1EDB;i kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/assets2f-lcrbjdxgv2cwmzzedgk2f-lccwktkrblkqygrim-l2f-lccwuvt7zd7uvvi3suq2fagent-chu-dong-tao-tuong-t.png)
 
