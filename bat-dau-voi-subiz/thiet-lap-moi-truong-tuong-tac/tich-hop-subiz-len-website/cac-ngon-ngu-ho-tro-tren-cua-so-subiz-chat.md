@@ -9,7 +9,7 @@ Hiện tại cửa sổ Subiz chat hỗ trợ hai ngôn ngữ mặc định: Ti�
 | English | en |
 | Tiếng Việt | vi |
 
-\*\*\*\*
+Mã ngôn ngữ là Mã đại diện của ngôn ngữ theo chuẩn [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) \(hai ký tự\).
 
 ### **1.Tùy chỉnh ngôn ngữ cửa sổ Subiz chat**
 
@@ -124,14 +124,9 @@ Hiện tại, [Subiz](https://subiz.com/vi/) hỗ trợ 2 ngôn ngữ là Tiến
 
 **Bước 1: Tải xuống tệp tùy chỉnh nội dung cửa sổ chat**
 
-* [Đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ hội thoại ](https://app.subiz.com/settings/widget-setting)
+* [Đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ Subiz chat hội thoại ](https://app.subiz.com/settings/widget-setting)
 * Tại mục **NGÔN NGỮ** &gt; chọn **Tiếng Việt** &gt; chọn **Tùy chỉnh nội dung**
-
-![T&#xF9;y ch&#x1EC9;nh n&#x1ED9;i dung c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/1-copye.jpg)
-
 * Chọn **Tải về tệp tùy chỉnh nội dung của widget &gt; Tệp định dạng .po** sẽ được lưu về máy tính
-
-![T&#x1EA3;i v&#x1EC1; t&#x1EC7;p t&#xF9;y ch&#x1EC9;nh n&#x1ED9;i dung c&#x1EE7;a widget](../../../.gitbook/assets/2-copy.jpg)
 
 **Bước 2: Tùy chỉnh file ngôn ngữ .po**
 
