@@ -2,11 +2,10 @@
 
 **Cửa sổ** [**Subiz**](https://subiz.com/vi/) **chat trên website là nơi khách truy cập trò chuyện với tư vấn viên của doanh nghiệp.** Không  đơn giản là nơi bạn tương tác tư vấn khách hàng, mà còn là nơi bạn khẳng định thương hiệu, chất lượng dịch vụ và tiếng nói của doanh nghiệp.
 
-Để tùy chỉnh cửa sổ chat, bạn đăng nhập tài khoản [**Subiz &gt; Cài đặt &gt; Tài khoản &gt;  Cửa sổ Subiz chat**](https://app.subiz.com/settings/widget-setting)\*\*\*\*
+Để tùy chỉnh cửa sổ chat, bạn đăng nhập tài khoản [**Subiz &gt; Cài đặt &gt; Tài khoản &gt;  Cửa sổ Subiz chat**](https://app.subiz.com/settings/widget-setting)**.**  
+Bạn có thể tùy chỉnh giao diện và ngôn ngữ hiển thị trên cửa sổ chat cho phù hợp với hình ảnh thương hiệu quả website.
 
-![Ch&#x1EC9;nh s&#x1EED;a c&#x1EED;a s&#x1ED5; chat Subiz](../../../.gitbook/assets/chinh-sua-cua-so-chat.png)
-
-Tại trang Cửa sổ Subiz chat, bạn có thể tùy chỉnh giao diện và ngôn ngữ hiển thị trên cửa sổ chat cho phù hợp với hình ảnh thương hiệu quả website. Cụ thể như sau::
+![C&#xE0;i &#x111;&#x1EB7;t c&#x1EED;a s&#x1ED5; Subiz chat](../../../.gitbook/assets/widget-chat-copy.jpg)
 
 ### **Kiểu cửa sổ chat Thu gọn hay Mở rộng**
 
@@ -17,7 +16,7 @@ Tại trang Cửa sổ Subiz chat, bạn có thể tùy chỉnh giao diện và 
 
 [Xem thêm thay đổi kích thước chiều rộng, chiều cao cửa sổ chat với mã CSS](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/bang-ma-css-tuy-chinh-cua-so-chat#thay-doi-chieu-rong-chieu-cao-cua-so-chat).
 
-![Ch&#x1ECD;n ki&#x1EC3;u c&#x1EED;a s&#x1ED5; chat Thu g&#x1ECD;n ho&#x1EB7;c M&#x1EDF; r&#x1ED9;ng cho website](../../../.gitbook/assets/loai-cua-so%20%281%29.png)
+![Ki&#x1EC3;u c&#x1EED;a s&#x1ED5; Subiz chat](../../../.gitbook/assets/kieu-full-copy.jpg)
 
 ### Chọn v**ị trí cửa sổ chat**
 
@@ -29,11 +28,9 @@ Vị trị đặt cửa sổ Subiz cần phù hợp với thiết kế của web
 
 ### Chỉnh sửa **màu sắc**
 
-Chọn màu nền cho cửa sổ Subiz trong các màu được gợi ý, hoặc [tùy biến màu sắc riêng với mã CSS.](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/bang-ma-css-tuy-chinh-cua-so-chat#tuy-bien-mau-sac-tren-cua-so-chat)
+Chọn màu nền cho cửa sổ Subiz trong các màu được gợi ý, hoặc ****[tham khảo thêm tùy biến màu sắc riêng với mã CSS](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/bang-ma-css-tuy-chinh-cua-so-chat#tuy-bien-mau-sac-tren-cua-so-chat) để tương đồng với màu sắc của thương hiệu.
 
-Lưu ý: Màu sắc cửa sổ chat có thể tương đồng với màu sắc của thương hiệu, nhưng cũng cần bắt mắt và dễ nhận biết trên website.
-
-![Ch&#x1ECD;n m&#xE0;u n&#x1EC1;n c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/mau-nen-cua-so-chat.png)
+![M&#xE0;u n&#x1EC1;n c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/mau-nen-copy.jpg)
 
 ### **Tùy chỉnh chat button**
 
@@ -41,9 +38,9 @@ Chat button là hình ảnh kêu gọi và thu hút khách hàng chat trực tuy
 
 Bạn có thể chọn Thư viện button có sẵn hoặc thiết kế hình ảnh chat button riêng để truyền tải thông điệp và mang đến cho khách hàng những trải nghiệm thú vị khi truy cập website.
 
-* Thư viện button: Màu sắc của button sẽ tự động thay đổi theo màu nền cửa sổ chat
-* Button large: Mẫu button bắt mắt, thu hút khách hàng. Màu sắc button không tự động thay đổi.
-* Sử dụng button tùy chỉnh: Khi bạn muốn thiết kê mẫu button riêng. Lưu ý: + Hình ảnh button thiết kế cần định dạng Png, phông nền là transparent. + Kích thước chuẩn là 240 x 120 px. + Tham khảo mẫu button Chat với chúng tôi: [button 1](https://filev4.subiz.com/fiqcggngypeovdudlqyu-button_chat_01.png) - [button 2](https://filev4.subiz.com/fiqcgvyibtxjcxnbjysc-button1_vn.png) - [button 3](https://filev4.subiz.com/fiqcggnolwzgyzltheem-button_chat_05.png) - [button 4](https://filev4.subiz.com/fiqcgvyssbundnpuqkqs-button4_vn.png) - [button 5](https://filev4.subiz.com/fiqcqpihreurxviwekol-artboard_1_copy_9.png) - [button 6](https://filev4.subiz.com/fiqcqpimprgfdctpdtht-artboard_1_copy_10.png) - [button 7](https://filev4.subiz.com/fiqcqpitaljpxccvhmow-artboard_1_copy_11.png) - [button 8](https://filev4.subiz.com/fiqcggnpqqrmggiofklb-button_chat_07.png) - [button 9](https://filev4.subiz.com/fiqcgvyqfhiokhwiqmnz-button3_en.png) - [button 10](https://filev4.subiz.com/fiqcgvysbxbykjcrorum-button4_en.png). + Tham khảo mẫu button chào mừng ngày Quốc Khánh 2/9: [Xem chi tiết](https://subiz.com/blog/viet-nam-tren-website-cua-ban.html)​ + Tham khảo mẫu button Giáng sinh:
+* [Thư viện button](https://app.subiz.com/settings/widget-setting?button=default): Màu sắc của button sẽ tự động thay đổi theo màu nền cửa sổ chat
+* [Button large](https://app.subiz.com/settings/widget-setting?button=library): Mẫu button bắt mắt, thu hút khách hàng. Màu sắc button không tự động thay đổi.
+* [Sử dụng button tùy chỉnh](https://app.subiz.com/settings/widget-setting?button=custom): Khi bạn muốn thiết kê mẫu button riêng. Lưu ý: + Hình ảnh button thiết kế cần định dạng Png, phông nền là transparent. + Kích thước chuẩn là 240 x 146 px. + Tham khảo mẫu button Quốc Khánh, cổ vũ bóng đá: [Xem thêm](https://subiz.com/blog/viet-nam-tren-website-cua-ban.html) + Tham khảo mẫu button Giáng sinh: [Xem thêm](https://subiz.com/blog/cung-subiz-mang-giang-sinh-ve-tren-website.html)
 
 ![T&#xF9;y ch&#x1EC9;nh chat button](../../../.gitbook/assets/button-large-copy.jpg)
 
@@ -51,39 +48,31 @@ Bạn có thể chọn Thư viện button có sẵn hoặc thiết kế hình �
 
 Cửa sổ Subiz hỗ trợ 2 ngôn ngữ chính là Tiếng Việt và English. Tại mục NGÔN NGỮ, bạn có thể chọn Tự động hoặc Tiếng Việt hoặc English. Trong đó:
 
-* **Tự động**: Cửa sổ [Subiz chat](https://subiz.com/vi/live-chat.html) tự động nhận diện và hiển thị ngôn ngữ tiếng Anh hoặc tiếng Việt theo địa chỉ IP của khách hàng.
+* **Tự động**: Cửa sổ [Subiz chat](https://subiz.com/vi/live-chat.html) tự động nhận diện và hiển thị ngôn ngữ English hoặc tiếng Việt theo địa chỉ IP của khách hàng.
 * **Tiếng Việt**: chọn khi doanh nghiệp chỉ phục vụ khách hàng Việt Nam và website hỗ trợ chỉ ngôn ngữ Việt Nam.
 * **English**: chọn khi doanh nghiệp phục vụ khách quốc tế và website chỉ hỗ trợ ngôn ngữ tiếng Anh.
 
-[Xem thêm tùy chỉnh nội dung cửa sổ chat với mã HTML, thay đổi ngôn ngữ khách với tệp .po](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/cac-ngon-ngu-ho-tro-tren-cua-so-subiz-chat)
+[Xem thêm sáng tạo lời  giới thiệu trên cửa sổ chat với mã HTML và tùy chỉnh nội dung cửa sổ chat theo ngôn ngữ khác](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/cac-ngon-ngu-ho-tro-tren-cua-so-subiz-chat).
 
-![T&#xF9;y ch&#x1EC9;nh Ti&#xEA;u &#x111;&#x1EC1; v&#xE0; ph&#x1EA7;n Gi&#x1EDB;i thi&#x1EC7;u](../../../.gitbook/assets/tuy-chinh-ngon-ngu.png)
+![Thay &#x111;&#x1ED5;i ng&#xF4;n ng&#x1EEF; c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/ngon-ngu-copy.jpg)
 
-### **Cài đặt Whitelist domain**
+###  Quản lý domain whitelist
 
-**Whitelist domain** là danh sách các tên miền mà bạn cho phép hiển thị cửa sổ Subiz trên trang đó. Các trang ngoài danh sách whitelist sẽ không thể hiển thị cửa sổ Subiz sau khi đặt mã nhúng.
+Domains whitelist là danh sách các địa chỉ tên miền của website mà cửa sổ Subiz Chat được phép hiển thị. Các trang ngoài danh sách whitelist sẽ không thể hiển thị cửa sổ Subiz sau khi đặt mã nhúng.
 
-Ví dụ: Bạn nhập _domain1.com_ và _domain2.com_ tại whitelist thì chỉ có thể đặt mã nhúng [cài đặt cửa sổ Subiz](https://app.subiz.com/settings/widget-setting) trên 2 trang này. Nếu bạn đặt mã nhúng tại trang _domain3.com_ thì cửa sổ sẽ không hiển thị tại trang đó.
+Ví dụ: Bạn nhập _**Subiz.com**_ ****và _**help.subiz.com**_ tại domains whitelist thì cửa sổ chat sẽ hiển thị trên 2 trang này sau khi tích hợp mã nhúng. Nếu bạn tích hợpmã nhúng tại trang _**docs.subiz.com**_ thì cửa sổ chat sẽ không hiển thị tại trang đó.
 
 {% hint style="info" %}
-Khi danh sách whitelist domain trống, mặc định cửa sổ sẽ hiển thị trên tất cả các trang được đặt mã nhúng.
+ Nếu để trống danh sách Domians whitelist, cửa sổ chat sẽ được hiển thị trên tất cả các website được đặt mã nhúng Subiz.
 
-Cài đặt whitelist domain giúp bạn kiểm soát các trang hiển thị cửa sổ Subiz, tránh trường hợp mã nhúng bị đặt trên các trang bạn không mong muốn.
+Cài đặt Domains whitelist giúp bạn kiểm soát các website hiển thị cửa sổ Subiz, tránh trường hợp cửa sổ chat của bạn bị cài đặt trên các trang bạn không mong muốn.
 {% endhint %}
 
-Thực hiện cài đặt tại phần **Quản lý Whitelist Domain**.
+Hướng dẫn quản lý domain whitelist**:** [**Vào cài đặt domains whitelist**](https://app.subiz.com/settings/whitelist-domain) **&gt; Thêm tên miền mới**
 
-![Qu&#x1EA3;n l&#xFD; whitelist domain](../../../.gitbook/assets/whitedomain.png)
+![Qu&#x1EA3;n l&#xFD; domains whitelist](../../../.gitbook/assets/whitelist-copy.jpg)
 
-Tại trang Whitelist Domain, click chọn **Thêm Whitelist Domain mới.**
 
-![Trang qu&#x1EA3;n l&#xFD; danh s&#xE1;ch trong Whitelist Domain](../../../.gitbook/assets/whitelist-domain-page.png)
 
-Nhập tên miền và chọn **Thêm** để thêm domain vào danh sách whitelist.
 
-![Th&#xEA;m whitelist domain m&#x1EDB;i](../../../.gitbook/assets/add-whitelist.png)
-
-**Để xóa một domain khỏi whitelist,** bạn ấn vào biểu tượng xóa bên cạnh tên domain trong danh sách.
-
-![X&#xF3;a domain kh&#x1ECF;i whitelist](../../../.gitbook/assets/delete-domain.png)
 
