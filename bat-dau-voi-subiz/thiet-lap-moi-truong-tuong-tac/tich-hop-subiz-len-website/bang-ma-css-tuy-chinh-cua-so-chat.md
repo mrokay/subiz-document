@@ -10,47 +10,35 @@ Bạn đang muốn tùy biến giao diện cửa sổ chat bắt mắt và riên
 
 Bạn cần xác định [KIỂU CỬA SỔ CHAT](https://app.subiz.com/settings/widget-setting) đang sử dụng là Thu gọn hay Mở rộng để chọn mã CSS tùy chỉnh kích thước cửa sổ chat đúng dưới đây.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Kích thước</th>
-      <th style="text-align:left">Kiểu cửa sổ chat THU GỌN</th>
-      <th style="text-align:left">Kiều cửa sổ chat MỞ RỘNG</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Chiều cao</td>
-      <td style="text-align:left">
-        <p><code>.widget_mini .widget_body <br />{height: 500px !important;<br />max-height: 580px !important;}</code>
-        </p>
-        <p><em><br />Thay đổi kích thước: 500px</em>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p><code>.widget_full .widget_body <br />{height: 700px !important;<br />max-height: 800px !important;}</code>
-        </p>
-        <p><em><br />Thay đổi kích thước: 700px</em>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Chiều rộng</td>
-      <td style="text-align:left">
-        <p><code>.widget_mini .widget_body <br />{width:360px;}</code>
-        </p>
-        <p><em><br />Thay đổi kích thước: 360px</em>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p><code>.widget_full .widget_body <br />{width:400px;}</code>
-        </p>
-        <p><em><br />Thay đổi kích thước: 400px</em>
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>###  Tùy chỉnh cỡ chữ của tin nhắn
+{% tabs %}
+{% tab title="Kiểu cửa sổ chat THU GỌN" %}
+```python
+.widget_mini .widget_body 
+{height: 500px !important;
+max-height: 580px !important;}
+// Thay đổi chiều cao 500px
+
+.widget_mini .widget_body 
+{width:360px;}
+// Thay đổi chiều rộng 360px
+```
+{% endtab %}
+
+{% tab title="Kiểu cửa sổ chat MỞ RỘNG" %}
+```python
+.widget_full .widget_body 
+{height: 700px !important;
+max-height: 800px !important;}
+//Thay đổi chiều cao 700px
+
+.widget_full .widget_body 
+{width:400px;}
+// Thay đổi chiểu rộng 400px
+```
+{% endtab %}
+{% endtabs %}
+
+###  Tùy chỉnh cỡ chữ của tin nhắn
 
 Cỡ chữ mặc định trong tin nhắn là 13px, bạn có thể thay đổi cỡ chữ nhỏ hơn hoặc lớn hơn:
 
@@ -143,19 +131,24 @@ Cỡ chữ mặc định trong tin nhắn là 13px, bạn có thể thay đổi 
   </tbody>
 </table>### Sáng tạo tiêu đề cửa sổ chat
 
-Thay đổi bố cục của cửa sổ chat gia tăng nhận diện hình ảnh thương hiệu của Doanh Nghiệp.  
-[`https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png`](https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png): Thay link ảnh logo của Doanh Nghiệp
+Thay đổi bố cục của cửa sổ chat gia tăng nhận diện hình ảnh thương hiệu của Doanh Nghiệp.
 
-`.color-theme-default {background-color:#f44336;}   
-.list-agents { float:left; width:45%; }   
-.avatar-team { position:absolute; top:-70%;   
-background: url(`[`https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png`](https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png)`);   
-height: 100px; background-size: 150px;   
-background-repeat: no-repeat; background-position: center; }   
-.full { width:160px !important; }   
-.avatar-team .avatar-agent{ display:none; }   
-.team-intro { width:55%; margin-bottom:12px; }   
-.team-intro p{ padding: 0 0 0 0; font-size:13px;}`
+```python
+.color-theme-default {background-color:#f44336;} 
+.list-agents { float:left; width:45%; } 
+.avatar-team { position:absolute; top:-70%; 
+background: url(
+https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png
+); 
+height: 100px; background-size: 150px; 
+background-repeat: no-repeat; background-position: center; } 
+.full { width:160px !important; } 
+.avatar-team .avatar-agent{ display:none; } 
+.team-intro { width:55%; margin-bottom:12px; } 
+.team-intro p{ padding: 0 0 0 0; font-size:13px;}
+
+// Thay đường link ảnh của bạn tại: https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png
+```
 
 ### Gắn cửa sổ chat sát chân màn hình desktop
 
@@ -253,15 +246,24 @@ Trong đó:
 _Thay đổi link ảnh chat button:_ [`https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png`](https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png)  
 _Thay đổi kích thước ảnh chat button:_`width: 81px; height: 31px`
 
- `.widget_mobile .button-chat { border-radius: 0; background-image: url(`[`https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png`](https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png)`); background-repeat: no-repeat; }   
-.widget_mobile .button-chat-icon { display: none; } @supports (-ms-ime-align:auto) { .widget_mobile .button-chat { border-radius: 50%; }   
-.widget_mobile .button-chat-icon { display: inline-block; } }   
-.widget_mobile .widget-button { width: 81px; height: 31px; }   
-.widget_mobile .button-chat { border-radius: 0 !important; }   
-.widget_mobile .widget-button:after { display: none; }   
-.widget_mobile .widget_mini .close-widget-icon { display: none; }   
-.widget_mobile .button-chat .avatar-preview img { display: none; }   
-.widget_mobile .button-chat { box-shadow: none; background-color: transparent !important; }`
+```python
+.widget_mobile .button-chat { border-radius: 0; background-image: url(
+https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png
+); background-repeat: no-repeat; } 
+.widget_mobile .button-chat-icon { display: none; } @supports (-ms-ime-align:auto) { .widget_mobile .button-chat { border-radius: 50%; } 
+.widget_mobile .button-chat-icon { display: inline-block; } } 
+.widget_mobile .widget-button { width: 81px; height: 31px; } 
+.widget_mobile .button-chat { border-radius: 0 !important; } 
+.widget_mobile .widget-button:after { display: none; } 
+.widget_mobile .widget_mini .close-widget-icon { display: none; } 
+.widget_mobile .button-chat .avatar-preview img { display: none; } 
+.widget_mobile .button-chat { box-shadow: none; background-color: transparent !important; }
+
+// Thay đường link ảnh chat button của bạn: https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png
+// Thay đổi kích thước ảnh chat button width: 81px; height: 31px
+```
+
+ 
 
 ### Tùy chỉnh vị trí chat button mobile
 
