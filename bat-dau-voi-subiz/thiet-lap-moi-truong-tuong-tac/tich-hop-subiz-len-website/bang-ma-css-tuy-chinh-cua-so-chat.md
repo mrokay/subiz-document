@@ -25,7 +25,7 @@ max-height: 580px !important;}
 {% endtab %}
 
 {% tab title="Kiểu cửa sổ chat MỞ RỘNG" %}
-```python
+```csharp
 .widget_full .widget_body 
 {height: 700px !important;
 max-height: 800px !important;}
@@ -38,16 +38,11 @@ max-height: 800px !important;}
 {% endtab %}
 {% endtabs %}
 
-###  Tùy chỉnh cỡ chữ của tin nhắn
-
-Cỡ chữ mặc định trong tin nhắn là 13px, bạn có thể thay đổi cỡ chữ nhỏ hơn hoặc lớn hơn:
-
- `.message-content  
-{ font-size:13px;}`
-
 ### Tùy biến màu sắc trên cửa sổ chat
 
- Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp; chọn tùy chỉnh màu sắc chung cho toàn bộ cửa sổ chat hoặc màu sắc riêng của từng khung.
+Màu sắc cửa sổ chat sẽ đồng bộ trên cả bản destop và mobile, hoặc bạn có thể tùy chỉnh riêng trên bản mobile. 
+
+Bạn có thể sử dụng màu sắc đơn hoặc theo dải màu chuyển tiếp; chọn tùy chỉnh màu sắc chung cho toàn bộ cửa sổ chat hoặc màu sắc riêng của từng khung.
 
 <table>
   <thead>
@@ -55,6 +50,7 @@ Cỡ chữ mặc định trong tin nhắn là 13px, bạn có thể thay đổi 
       <th style="text-align:left">Ví trí thay đổi màu sắc</th>
       <th style="text-align:left">Màu sắc đơn</th>
       <th style="text-align:left">Dải màu chuyển tiếp</th>
+      <th style="text-align:left">Cửa sổ chat trên mobile</th>
     </tr>
   </thead>
   <tbody>
@@ -62,35 +58,39 @@ Cỡ chữ mặc định trong tin nhắn là 13px, bạn có thể thay đổi 
       <td style="text-align:left">Toàn bộ cửa sổ chat</td>
       <td style="text-align:left">
         <p><code>.color-theme-default <br />{background-color:#000000;}</code>
-          <br
-          />
         </p>
-        <p><em>Thay đổi mã màu: #000000;}</em>
+        <p><em><code>//Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u: #000000;}</code></em>
         </p>
       </td>
       <td style="text-align:left">
         <p><code>.color-theme-default <br />{background-image: linear-gradient<br />(to right top, #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f);}</code>
-          <br
-          />
         </p>
-        <p><em>Thay đổi dải mã màu: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f</em>
+        <p><em><code>//Thay &#x111;&#x1ED5;i d&#x1EA3;i m&#xE3; m&#xE0;u: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f</code></em>
         </p>
+      </td>
+      <td style="text-align:left"><code>.widget_mobile .color_theme_default { background-color: #0000; } </code>
+        <br
+        /><em><code>//Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u #0000</code></em>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Khung tiêu đề</td>
       <td style="text-align:left">
         <p><code>.widget-header <br />{background-color:#00000;}</code>
-          <br />
         </p>
-        <p><em>Thay đổi mã màu: #000000;}</em>
+        <p><em><code>//Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u: #000000;}</code></em>
         </p>
       </td>
       <td style="text-align:left">
         <p><code>.widget-header <br />{background-image: linear-gradient<br />(to right top, #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f);}</code>
         </p>
-        <p></p>
-        <p><em>Thay đổi dải mã màu: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f</em>
+        <p><em><code>//Thay &#x111;&#x1ED5;i d&#x1EA3;i m&#xE3; m&#xE0;u: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f</code></em>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p><code>.widget_mobile .widget-header { background-color: #0000; } </code>
+        </p>
+        <p><em><code>//Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u #0000</code></em>
         </p>
       </td>
     </tr>
@@ -99,16 +99,16 @@ Cỡ chữ mặc định trong tin nhắn là 13px, bạn có thể thay đổi 
       <td style="text-align:left">
         <p><code>.message-body <br />{background-color:#00000;}</code>
         </p>
-        <p></p>
-        <p><em>Thay đổi mã màu: #000000;}</em>
+        <p><em><code>//Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u: #000000;}</code></em>
         </p>
       </td>
       <td style="text-align:left">
         <p><code>.message-body <br />{background-image: linear-gradient<br />(to right top, #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f);}</code>
         </p>
-        <p></p>
-        <p><em>Thay đổi dải mã màu: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f</em>
+        <p><em><code>//Thay &#x111;&#x1ED5;i d&#x1EA3;i m&#xE3; m&#xE0;u: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f</code></em>
         </p>
+      </td>
+      <td style="text-align:left"><code>.widget_mobile .message-body { background-color: #0000; } </code><em><code>//Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u #0000</code></em>
       </td>
     </tr>
     <tr>
@@ -116,16 +116,18 @@ Cỡ chữ mặc định trong tin nhắn là 13px, bạn có thể thay đổi 
       <td style="text-align:left">
         <p><code>.add-new-conversation {background-color:#000000;}</code>
         </p>
-        <p></p>
-        <p><em>Thay đổi mã màu: #000000;}</em>
+        <p><em><code>//Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u: #000000;}</code></em>
         </p>
       </td>
       <td style="text-align:left">
         <p><code>.add-new-conversation <br />{background-image: linear-gradient(to right top, #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f);}</code>
         </p>
-        <p></p>
-        <p><em>Thay đổi dải mã màu: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f</em>
+        <p><em><code>//Thay &#x111;&#x1ED5;i d&#x1EA3;i m&#xE3; m&#xE0;u: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f</code></em>
         </p>
+      </td>
+      <td style="text-align:left"><code>.widget_mobile .add-new-conversation { background-color: #0000; }</code>
+        <br
+        /><em><code>//Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u #0000</code></em>
       </td>
     </tr>
   </tbody>
@@ -133,7 +135,7 @@ Cỡ chữ mặc định trong tin nhắn là 13px, bạn có thể thay đổi 
 
 Thay đổi bố cục của cửa sổ chat gia tăng nhận diện hình ảnh thương hiệu của Doanh Nghiệp.
 
-```python
+```csharp
 .color-theme-default {background-color:#f44336;} 
 .list-agents { float:left; width:45%; } 
 .avatar-team { position:absolute; top:-70%; 
@@ -150,103 +152,75 @@ background-repeat: no-repeat; background-position: center; }
 // Thay đường link ảnh của bạn tại: https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png
 ```
 
-### Gắn cửa sổ chat sát chân màn hình desktop
+### Tùy chỉnh cỡ chữ của tin nhắn
 
-Bạn cần hạ sát cửa sổ chat xuống chân màn hình trên website bạn mobile, hãy sử dụng mã CSS dưới đây:  
+Cỡ chữ mặc định trong tin nhắn là 13px, bạn có thể thay đổi cỡ chữ nhỏ hơn hoặc lớn hơn:
+
+```csharp
+ .message-content
+{ font-size:13px;}
+//Thay đổi cỡ chữ 13px
+```
+
+### Vị trí chat button trên website
+
+Bạn muốn thay đổi vị trí chat button lên cao hay xuống thấp trên website , hãy sử dụng mã CSS dưới đây:  
 _Lưu ý xem lại_ [_Cửa sổ chat cài đặt Kiểu Thu gọn hay Mở rộng_ ](https://app.subiz.com/settings/widget-setting)_để dùng đúng CSS._
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Cửa sổ chat - Kiểu Thu gọn</th>
-      <th style="text-align:left">Cửa sổ chat - Kiểu Mở rộng</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p><code> .widget-button {bottom:0;}</code>
-        </p>
-        <p><code> .widget_mini .widget_body {bottom:0;}</code>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p><code> .widget-button {bottom:0;}</code>
-        </p>
-        <p><code> .widget_full .widget_body {bottom:0;}</code>
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>### Màu sắc cửa sổ chat trên bản mobile
+{% tabs %}
+{% tab title="Cửa sổ chat THU GỌN" %}
+Trên bản destop:
 
-Trên cửa sổ chat bản mobile, bạn có thể thay đổi màu sắc chung cho toàn bộ cửa sổ chat hoặc màu sắc riêng của từng khung.
+```csharp
+ .widget-button {bottom:0;}
+ .widget_mini .widget_body {bottom:0;}
+ //Kích thước thay đổi khoảng 0 - 40px
+```
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Vị trí thay đổi màu sắc</th>
-      <th style="text-align:left">CSS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Toàn bộ cửa sổ chat</td>
-      <td style="text-align:left">
-        <p><code>.widget_mobile .color_theme_default <br />{ background-color: #0000; }</code>
-        </p>
-        <p></p>
-        <p><em>Thay đổi mã màu #0000</em>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Khung tiêu đề</td>
-      <td style="text-align:left">
-        <p><code>.widget_mobile .widget-header <br />{ background-color: #0000; }</code>
-        </p>
-        <p></p>
-        <p><em>Thay đổi mã màu #0000</em>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Khung tin nhắn</td>
-      <td style="text-align:left">
-        <p><code>.widget_mobile .message-body <br />{ background-color: #0000; }</code>
-        </p>
-        <p></p>
-        <p><em>Thay đổi mã màu #0000</em>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Nút "Bắt đầu trò chuyện"</td>
-      <td style="text-align:left">
-        <p><code>.widget_mobile .add-new-conversation <br />{ background-color: #0000; }</code>
-        </p>
-        <p></p>
-        <p><em>Thay đổi mã màu #0000</em>
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>###  Hạ thấp **chiều cao cửa sổ chat trên mobile**
+Trên bản mobile
+
+```csharp
+ .widget_mobile .widget-button 
+{bottom:40px;right:40px;}
+//Kích thước thay đổi khoảng 0 - 40px
+```
+{% endtab %}
+
+{% tab title="Cửa sổ chat MỞ RỘNG" %}
+Trên destop:
+
+```csharp
+ .widget-button {bottom:0;}
+ .widget_full .widget_body {bottom:0;}
+ //Kích thước thay đổi khoảng 0 - 40px
+```
+
+Trên mobile:
+
+```csharp
+.widget_mobile .widget-button 
+{ bottom:0;left:0;}
+ //Kích thước thay đổi khoảng 0 - 40px
+```
+{% endtab %}
+{% endtabs %}
+
+###  Hạ thấp **chiều cao cửa sổ chat trên mobile**
 
  Cửa sổ Subiz chat sẽ mặc định hiển thị khoảng 90% màn hình điện thoại, để khách vẫn nhìn thấy link của website mua hàng.
 
-Bạn muốn hạ cửa sổ chat trên mobile sẽ hiển thị thấp hơn so với mặc định, hãy dùng mã CSS dưới đây, có thể thay tỷ lệ 90%`:`
+Bạn muốn hạ cửa sổ chat trên mobile sẽ hiển thị thấp hơn so với mặc định, hãy dùng mã CSS dưới đây, có thể thay tỷ lệ 90%:
 
- `.widget_mobile .widget_body {height: 90%;}`
+```csharp
+.widget_mobile .widget_body {height: 90%;}
+// Thay đổi tỷ lệ chiều cao 90%
+```
 
-### Tải lên chat button bản mobile
+### Tải lên chat button riêng bản mobile
 
-Website bản destop và bản mobile đang hiển thị chung một chat button. Để sử dụng riêng hình ảnh chat button trên bản mobile, bạn sẽ sử dụng CSS sau:  
-Trong đó:   
-_Thay đổi link ảnh chat button:_ [`https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png`](https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png)  
-_Thay đổi kích thước ảnh chat button:_`width: 81px; height: 31px`
+Website bản destop và bản mobile đang hiển thị chung một chat button. Để sử dụng riêng hình ảnh chat button trên bản mobile, bạn sẽ sử dụng CSS sau:
 
-```python
+```csharp
 .widget_mobile .button-chat { border-radius: 0; background-image: url(
 https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png
 ); background-repeat: no-repeat; } 
@@ -263,42 +237,49 @@ https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png
 // Thay đổi kích thước ảnh chat button width: 81px; height: 31px
 ```
 
- 
+### Ẩn cửa sổ chat
 
-### Tùy chỉnh vị trí chat button mobile
+{% tabs %}
+{% tab title="Trên website bản destop" %}
+```text
+.widget { display: none; }
+```
+{% endtab %}
 
-Bạn cần xác định [Cửa sổ chat đang cài đặt Vị trí Góc trí hay Góc phải](https://app.subiz.com/settings/widget-setting) để sử dụng mã CSS tùy chỉnh vị trí chat button trên website bản mobile.  
-_Vị trí thay đổi chat button từ 0 đến 40px_
+{% tab title="Trên website bản mobile" %}
+```csharp
+.widget_mobile {display: none; }
+```
+{% endtab %}
+{% endtabs %}
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">
-        <p>Cửa sổ chat</p>
-        <p>Vị trí - Góc phải</p>
-      </th>
-      <th style="text-align:left">
-        <p>Cửa sổ chat</p>
-        <p>Vị trí - Góc trái</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><code> .widget_mobile .widget-button <br />{bottom:40px;right:40px;}</code>
-      </td>
-      <td style="text-align:left"><code>.widget_mobile .widget-button <br />{ bottom:0;left:0;}</code>
-      </td>
-    </tr>
-  </tbody>
-</table>### Ẩn cửa sổ chat mobile
+### Ẩn chat button
 
- `.widget_mobile {display: none; }`
+{% tabs %}
+{% tab title="Trên website bạn destop" %}
+Kiểu cửa sổ chat THU GỌN:
 
-### Ẩn chat button mobile
+```csharp
+.widget-button {display:none;}
+.widget_mini .widget_body {bottom:0;}
+```
 
-`.widget_mobile .button-chat {  
-display: none; }`
+Kiểu cửa sổ chat MỞ RỘNG:
+
+```csharp
+.widget-button {display:none;}
+```
+{% endtab %}
+
+{% tab title="Trên website bản mobile" %}
+```csharp
+.widget_mobile .button-chat {
+display: none; }
+```
+{% endtab %}
+{% endtabs %}
+
+\`\`
 
 ### 
 

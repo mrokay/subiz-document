@@ -64,7 +64,15 @@ background-color: #0000;
 
 ### 2.2 CSS tùy chỉnh chat button trên điện thoại
 
-* **Thay đổi chat button trên bản điện thoại** Trong đó:    [https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button\_chat\_10.png](https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png): Bạn có thể thay đổi chọn link ảnh của bạn. 190px và 60 px: là kích thước chiều dài và chiều cao của hình ảnh chat button. `.widget_mobile .button-chat { border-radius: 0; background-image: url(`[`https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png`](https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png)`); background-repeat: no-repeat; } .widget_mobile .button-chat-icon { display: none; } @supports (-ms-ime-align:auto) { .widget_mobile .button-chat { border-radius: 50%; } .widget_mobile .button-chat-icon { display: inline-block; } } .widget_mobile .widget-button { width: 190px; height: 60px; } .widget_mobile .button-chat { border-radius: 0 !important; } .widget_mobile .widget-button:after { display: none; } .widget_mobile .widget_mini .close-widget-icon { display: none; } .widget_mobile .button-chat .avatar-preview img { display: none; } .widget_mobile .button-chat { box-shadow: none; background-color: transparent !important; }` ****
+* **Thay đổi chat button trên bản điện thoại**
+
+  
+Trong đó:    
+ [https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button\_chat\_10.png](https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png): Bạn có thể thay đổi chọn link ảnh của bạn.  
+190px và 60 px: là kích thước chiều dài và chiều cao của hình ảnh chat button.  
+`.widget_mobile .button-chat { border-radius: 0; background-image: url(`[`https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png`](https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png)`); background-repeat: no-repeat; } .widget_mobile .button-chat-icon { display: none; } @supports (-ms-ime-align:auto) { .widget_mobile .button-chat { border-radius: 50%; } .widget_mobile .button-chat-icon { display: inline-block; } } .widget_mobile .widget-button { width: 190px; height: 60px; } .widget_mobile .button-chat { border-radius: 0 !important; } .widget_mobile .widget-button:after { display: none; } .widget_mobile .widget_mini .close-widget-icon { display: none; } .widget_mobile .button-chat .avatar-preview img { display: none; } .widget_mobile .button-chat { box-shadow: none; background-color: transparent !important; }`  
+****
+
 * **Tùy chỉnh vị trí chat button so với chân màn hình điện thoại** Trong đó: 0 - 40px là vị trí của chat button so với chân màn hình \(buttom\), bên phải màn hình \(right\), bên trải màn hình \(left\) Nếu chọn vị trí cửa sổ chat là bên phải: `.widget_mobile .widget-button {bottom:40px;right:40px;}`  Nếu chọn vị trí cửa sổ chat là bên trái: .`widget_mobile .widget-button { bottom:0; left:0; }` 
 * **Ẩn chat button trên bản điện thoại**  
   `.widget_mobile .button-chat {`
