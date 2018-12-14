@@ -19,7 +19,7 @@ API cho phép cập nhật dữ liệu khách hàng ngay từ Website. Ví dụ 
 
 Bạn có thể tạo và lấy Attributes Key tại [trang cài đặt Thông tin khách hàng](https://app.subiz.com/settings/user-attributes).
 
-```javascript
+```c
 <script>
     subiz('updateUserAttributes', [{ key: 'so_thich',   list :['Máy ', 'EnglDu lịch']);
 </script>

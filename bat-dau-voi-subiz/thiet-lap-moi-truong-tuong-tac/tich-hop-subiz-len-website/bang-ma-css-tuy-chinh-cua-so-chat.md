@@ -12,11 +12,11 @@ Bạn cần xác định [KIỂU CỬA SỔ CHAT](https://app.subiz.com/settings
 
 {% tabs %}
 {% tab title="Kiểu cửa sổ chat THU GỌN" %}
-```python
+```csharp
 .widget_mini .widget_body 
 {height: 500px !important;
 max-height: 580px !important;}
-//_Thay đổi chiều cao 500px_
+//Thay đổi chiều cao 500px
 
 .widget_mini .widget_body 
 {width:360px;}
