@@ -6,7 +6,7 @@ Rule là tính năng giúp bạn có thể phân phối cuộc hội thoại c�
 
 Trong đó Rule có 5 cách thức phân phối hội thoại cho agent như sau:
 
-* **Phân phối tới tất cả available agents**: Available agent là những agent có kết nối trực tiếp với Subiz trên máy tính hoặc app mobile. Khi các agent không kết nối với Subiz, cuộc hội thoại của khách chuyển về Hội thoại chưa được phân phối. Agent có thể xem và trả lời khách hàng sau khi kết nối lại Subiz.
+* **Phân phối tới tất cả available agents**: Available agent là những agent online có kết nối trực tiếp với Subiz trên máy tính hoặc app mobile. Khi các agent offline, cuộc hội thoại của khách chuyển về Hội thoại chưa được phân phối. Agent có thể xem và trả lời khách hàng sau khi kết nối lại Subiz.
 * **Phân phối tới các agents**: Chọn cụ thể Agent bạn muốn phân phối hội thoại của khách hàng
 * **Phân phối tới các nhóm**: Chọn nhóm agent bạn đã tạo để phân phối hội thoại của khách hàng
 * **Phân phối tới agent có tương tác cuối cung với khách hàng**: Khi agent đã hỗ trợ khách hàng trước đó, bạn sẽ chọn chỉ định các cuộc hội thoại tiếp theo của khách cho agent tiếp tục chăm sóc và tư vấn.
