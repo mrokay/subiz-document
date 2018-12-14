@@ -16,7 +16,7 @@ Bạn cần xác định [KIỂU CỬA SỔ CHAT](https://app.subiz.com/settings
 .widget_mini .widget_body 
 {height: 500px !important;
 max-height: 580px !important;}
-//Thay đổi chiều cao 500px
+//_Thay đổi chiều cao 500px_
 
 .widget_mini .widget_body 
 {width:360px;}
