@@ -6,7 +6,7 @@ Bạn đang muốn tùy biến giao diện cửa sổ chat bắt mắt và riên
 
 ![T&#xF9;y ch&#x1EC9;nh CSS](../../../.gitbook/assets/tuy-chinh-css.jpg)
 
-###  Thay đổi chiều rộng, chiều cao cửa sổ chat
+### Kích thước chiều rộng, chiều cao cửa sổ chat
 
 Bạn cần xác định [KIỂU CỬA SỔ CHAT](https://app.subiz.com/settings/widget-setting) đang sử dụng là Thu gọn hay Mở rộng để chọn mã CSS tùy chỉnh kích thước cửa sổ chat đúng dưới đây.
 
@@ -185,7 +185,7 @@ _Lưu ý xem lại_ [_Cửa sổ chat cài đặt Kiểu Thu gọn hay Mở rộ
       </td>
     </tr>
   </tbody>
-</table>### Thay đổi màu sắc cửa sổ chat trên mobile
+</table>### Màu sắc cửa sổ chat trên bản mobile
 
 Trên cửa sổ chat bản mobile, bạn có thể thay đổi màu sắc chung cho toàn bộ cửa sổ chat hoặc màu sắc riêng của từng khung.
 
