@@ -8,9 +8,9 @@ description: >-
 
 CSS là chữ viết tắt của **Cascading Style Sheets**,  được dùng để miêu tả cách trình bày các tài liệu viết bằng ngôn ngữ HTML và XHTML.
 
-Đảm bảo sao chép đúng CSS và dán vào mục [Tùy chỉnh CSS trong cửa sổ Subiz chat](https://app.subiz.com/settings/widget-setting) &gt; Lưu thay đổi tại bảng tùy chỉnh CSS và Lưu thay đổi ở mục Cửa sổ Subiz chat
+Bạn cần sao chép đúng CSS bên dưới và dán vào mục [Tùy chỉnh CSS trong cửa sổ Subiz chat](https://app.subiz.com/settings/widget-setting) &gt; Lưu thay đổi tại bảng tùy chỉnh CSS và Lưu thay đổi ở mục Cửa sổ Subiz chat
 
-![T&#xF9;y ch&#x1EC9;nh CSS](../../../.gitbook/assets/tuy-chinh-css.jpg)
+![T&#xF9;y ch&#x1EC9;nh CSS c&#x1EED;a s&#x1ED5; Subiz chat](../../../.gitbook/assets/tuy-chinh-css.jpg)
 
 ### Kích thước chiều rộng, chiều cao cửa sổ chat
 
@@ -222,7 +222,7 @@ Bạn muốn hạ cửa sổ chat trên mobile sẽ hiển thị thấp hơn so 
 // Thay đổi tỷ lệ chiều cao 90%
 ```
 
-### Tải lên chat button riêng bản mobile
+### Tùy chỉnh chat button riêng bản mobile
 
 Website bản destop và bản mobile đang hiển thị chung một chat button. Để sử dụng riêng hình ảnh chat button trên bản mobile, bạn sẽ sử dụng CSS sau:
 
@@ -243,7 +243,7 @@ https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png
 
 // Thay đường link ảnh chat button của bạn: https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png
 // Thay đổi kích thước ảnh chat button width: 81px; height: 31px
-// Thay đổi vị trí chat button trên website khoảng 0 đến 40px {bottom:0;right:40px;}
+// Thay đổi vị trí chat button trên website khoảng 0 đến 40px trong {bottom:0;right:40px;}
 ```
 
 ### Ẩn cửa sổ chat
