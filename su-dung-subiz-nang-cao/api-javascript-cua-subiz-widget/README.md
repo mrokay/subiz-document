@@ -135,10 +135,7 @@ API cho phép bạn chủ động hỏi user đồng ý nhận thông báo qua t
 //API để kiểm tra tình trạng user đã đồng ý nhận thông báo chưa? 
 ```
 
-Bạn tham khảo thêm:
-
-* Một số mã [CSS sáng tạo cửa sổ trên bản destop](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/sang-tao-cua-so-chat-subiz#css-tuy-chinh-cua-so-chat-subiz-tren-ban-may-tinh)
-* Một số mã [CSS tùy chỉnh cửa sổ Subiz chat trên bản mobile](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-cua-so-chat-subiz-tren-dien-thoai#2-2-css-tuy-chinh-chat-button-tren-dien-thoai)
+Bạn tham khảo thêm [Bảng mã CSS tùy chỉnh cửa sổ Subiz chat](https://help.subiz.com/~/edit/drafts/-LTjgYqANhComlPE_azc/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/bang-ma-css-tuy-chinh-cua-so-chat)!
 
 
 

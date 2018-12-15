@@ -1,6 +1,12 @@
+---
+description: >-
+  Tài liệu này tổng hợp bảng CSS giúp bạn có thể sáng tạo giao diện cửa sổ chat
+  bắt mắt và riêng biệt trên website.
+---
+
 # Bảng CSS tùy chỉnh cửa sổ chat
 
-Bạn đang muốn tùy biến giao diện cửa sổ chat bắt mắt và riêng biệt trên website của mình, hãy tham khảo  các kiểu CSS dưới đây. 
+CSS là chữ viết tắt của **Cascading Style Sheets**,  được dùng để miêu tả cách trình bày các tài liệu viết bằng ngôn ngữ HTML và XHTML.
 
 Đảm bảo sao chép đúng CSS và dán vào mục [Tùy chỉnh CSS trong cửa sổ Subiz chat](https://app.subiz.com/settings/widget-setting) &gt; Lưu thay đổi tại bảng tùy chỉnh CSS và Lưu thay đổi ở mục Cửa sổ Subiz chat
 
@@ -233,8 +239,11 @@ https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png
 .widget_mobile .button-chat .avatar-preview img { display: none; } 
 .widget_mobile .button-chat { box-shadow: none; background-color: transparent !important; }
 
+.widget_mobile .widget-button {bottom:0;right:40px;}
+
 // Thay đường link ảnh chat button của bạn: https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png
 // Thay đổi kích thước ảnh chat button width: 81px; height: 31px
+// Thay đổi vị trí chat button trên website khoảng 0 đến 40px {bottom:0;right:40px;}
 ```
 
 ### Ẩn cửa sổ chat
