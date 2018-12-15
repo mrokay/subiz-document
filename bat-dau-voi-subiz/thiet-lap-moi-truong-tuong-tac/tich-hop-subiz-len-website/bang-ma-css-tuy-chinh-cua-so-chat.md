@@ -168,9 +168,9 @@ Cỡ chữ mặc định trong tin nhắn là 13px, bạn có thể thay đổi 
 //Thay đổi cỡ chữ 13px
 ```
 
-### Vị trí chat button trên website
+### Vị trí chat button, cửa sổ chat trên website
 
-Bạn muốn thay đổi vị trí chat button lên cao hay xuống thấp trên website , hãy sử dụng mã CSS dưới đây:  
+Bạn muốn thay đổi vị trí chat button và cửa sổ chat lên cao hay xuống thấp trên website , hãy sử dụng mã CSS dưới đây:  
 _Lưu ý xem lại_ [_Cửa sổ chat cài đặt Kiểu Thu gọn hay Mở rộng_ ](https://app.subiz.com/settings/widget-setting)_để dùng đúng CSS._
 
 {% tabs %}
