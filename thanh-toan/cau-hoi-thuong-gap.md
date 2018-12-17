@@ -89,7 +89,7 @@ Tài khoản Subiz 3.0 của bạn đang sử dụng gói trả phí, bạn cầ
 * **Subject**: Xác nhận chuyển đổi tài khoản Subiz 3.0 lên Subiz 4.0
 * **Nội dung**: Chuyển đổi sử dụng tài khoản Subiz 3.0 - ID ......... - sang tài khoản Subiz 4.0 ID.....  Subiz hỗ trợ chuyển đổi và hạ tài khoản 3.0 xuống gói miễn phí
 
-![](../.gitbook/assets/v3-v4.jpg)
+![V&#xED; d&#x1EE5; mail x&#xE1;c nh&#x1EAD;n chuy&#x1EC3;n l&#xEA;n Subiz 4.0](../.gitbook/assets/v3-v4.jpg)
 
 {% hint style="info" %}
 Bạn có băn khoăn và cần hỗ trợ, vui lòng gửi yêu cầu tới Support@subiz.com
