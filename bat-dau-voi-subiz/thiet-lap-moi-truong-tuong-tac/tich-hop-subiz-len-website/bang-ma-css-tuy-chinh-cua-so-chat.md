@@ -211,6 +211,8 @@ Trên mobile:
 {% endtab %}
 {% endtabs %}
 
+Xem thêm [Tùy chỉnh hình ảnh chat button bắt mắt, thu hút chat](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-cua-so-chat-subiz#tuy-chinh-chat-button)
+
 ###  Hạ thấp **chiều cao cửa sổ chat trên mobile**
 
  Cửa sổ Subiz chat sẽ mặc định hiển thị khoảng 90% màn hình điện thoại, để khách vẫn nhìn thấy link của website mua hàng.
