@@ -12,7 +12,7 @@ Tại trang [**HOẠT ĐỘNG**](https://app.subiz.com/activities), bạn có th
 
 **Danh sách user là các user có hội thoại trò chuyện trên các kênh và truy cập website.** Agent có thể tìm kiếm user theo các thông tin như Họ Tên, Địa chỉ email, Số điện thoại.
 
-Có 4 phân khúc user để agent theo dõi và quản lý danh sách user theo từng nhóm:
+Có 4 danh sách user được phân nhóm để agent theo dõi và quản lý user:
 
 * **User của tôi:** Mỗi agent sẽ có một danh sách "User của tôi**"** riêng, các user đã có hội thoại với agent. Agent sẽ chủ động theo dõi được các user mình đã chăm sóc tư vấn.
 * **Connected users**: Tất cả user đã có hội thoại trò chuyện với các agent trong tài khoản. Connected users giúp người quản lý có thể nắm bắt tình hình khách hàng liên hệ và cách chăm sóc tư vấn của các agent.
