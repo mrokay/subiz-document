@@ -1,4 +1,4 @@
-# Đặt button Subiz mọi nơi trên website với API
+# Đặt button Subiz mọi nơi trên website với API Js
 
 Button [Subiz](https://subiz.com/vi/) là hình ảnh logo của [Subiz](https://subiz.com/vi/), được hiển thị mặc định góc bên phải hoặc bên trái trên website sau khi tích hợp. Khách hàng click vào Button sẽ mở ra cửa sổ [Subiz chat](https://subiz.com/vi/live-chat.html).
 

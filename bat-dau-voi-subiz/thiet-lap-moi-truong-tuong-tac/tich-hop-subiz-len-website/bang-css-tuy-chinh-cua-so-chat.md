@@ -22,11 +22,11 @@ Bạn cần xác định [KIỂU CỬA SỔ CHAT](https://app.subiz.com/settings
 .widget_mini .widget_body 
 {height: 500px !important;
 max-height: 580px !important;}
-//Thay đổi chiều cao 500px
+/* Thay đổi chiều cao 500px */
 
 .widget_mini .widget_body 
 {width:360px;}
-//Thay đổi chiều rộng 360px
+/* Thay đổi chiều rộng 360px */
 ```
 {% endtab %}
 
@@ -35,20 +35,18 @@ max-height: 580px !important;}
 .widget_full .widget_body 
 {height: 700px !important;
 max-height: 800px !important;}
-//Thay đổi chiều cao 700px
+/* Thay đổi chiều cao 700px */
 
 .widget_full .widget_body 
 {width:400px;}
-//Thay đổi chiểu rộng 400px
+/* Thay đổi chiểu rộng 400px */
 ```
 {% endtab %}
 {% endtabs %}
 
 ### Tùy biến màu sắc trên cửa sổ chat
 
-Màu sắc cửa sổ chat sẽ đồng bộ trên cả bản destop và mobile, hoặc bạn có thể tùy chỉnh riêng trên bản mobile. 
-
-Bạn có thể sử dụng màu sắc đơn hoặc theo dải màu chuyển tiếp; chọn tùy chỉnh màu sắc chung cho toàn bộ cửa sổ chat hoặc màu sắc riêng của từng khung.
+Màu sắc cửa sổ chat sẽ đồng bộ trên cả bản destop và mobile. Bạn có thể sử dụng màu sắc đơn hoặc theo dải màu chuyển tiếp; chọn tùy chỉnh màu sắc chung cho toàn bộ cửa sổ chat hoặc màu sắc riêng của từng khung.
 
 <table>
   <thead>
@@ -56,7 +54,6 @@ Bạn có thể sử dụng màu sắc đơn hoặc theo dải màu chuyển ti�
       <th style="text-align:left">Ví trí thay đổi màu sắc</th>
       <th style="text-align:left">Màu sắc đơn</th>
       <th style="text-align:left">Dải màu chuyển tiếp</th>
-      <th style="text-align:left">Cửa sổ chat trên mobile</th>
     </tr>
   </thead>
   <tbody>
@@ -65,18 +62,14 @@ Bạn có thể sử dụng màu sắc đơn hoặc theo dải màu chuyển ti�
       <td style="text-align:left">
         <p><code>.color-theme-default <br />{background-color:#000000;}</code>
         </p>
-        <p><em><code>//Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u: #000000;}</code></em>
+        <p><em><code>/* Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u: #000000;} */</code></em>
         </p>
       </td>
       <td style="text-align:left">
         <p><code>.color-theme-default <br />{background-image: linear-gradient<br />(to right top, #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f);}</code>
         </p>
-        <p><em><code>//Thay &#x111;&#x1ED5;i d&#x1EA3;i m&#xE3; m&#xE0;u: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f</code></em>
+        <p><em><code>/* Thay &#x111;&#x1ED5;i d&#x1EA3;i m&#xE3; m&#xE0;u: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f */</code></em>
         </p>
-      </td>
-      <td style="text-align:left"><code>.widget_mobile .color_theme_default { background-color: #0000; } </code>
-        <br
-        /><em><code>//Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u #0000</code></em>
       </td>
     </tr>
     <tr>
@@ -84,19 +77,13 @@ Bạn có thể sử dụng màu sắc đơn hoặc theo dải màu chuyển ti�
       <td style="text-align:left">
         <p><code>.widget-header <br />{background-color:#00000;}</code>
         </p>
-        <p><em><code>//Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u: #000000;}</code></em>
+        <p><em><code>/* Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u: #000000;} */</code></em>
         </p>
       </td>
       <td style="text-align:left">
         <p><code>.widget-header <br />{background-image: linear-gradient<br />(to right top, #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f);}</code>
         </p>
-        <p><em><code>//Thay &#x111;&#x1ED5;i d&#x1EA3;i m&#xE3; m&#xE0;u: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f</code></em>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p><code>.widget_mobile .widget-header { background-color: #0000; } </code>
-        </p>
-        <p><em><code>//Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u #0000</code></em>
+        <p><em><code>/*  Thay &#x111;&#x1ED5;i d&#x1EA3;i m&#xE3; m&#xE0;u: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f */</code></em>
         </p>
       </td>
     </tr>
@@ -105,16 +92,14 @@ Bạn có thể sử dụng màu sắc đơn hoặc theo dải màu chuyển ti�
       <td style="text-align:left">
         <p><code>.message-body <br />{background-color:#00000;}</code>
         </p>
-        <p><em><code>//Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u: #000000;}</code></em>
+        <p><em><code>/* Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u: #000000;} */</code></em>
         </p>
       </td>
       <td style="text-align:left">
         <p><code>.message-body <br />{background-image: linear-gradient<br />(to right top, #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f);}</code>
         </p>
-        <p><em><code>//Thay &#x111;&#x1ED5;i d&#x1EA3;i m&#xE3; m&#xE0;u: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f</code></em>
+        <p><em><code>/* Thay &#x111;&#x1ED5;i d&#x1EA3;i m&#xE3; m&#xE0;u: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f */</code></em>
         </p>
-      </td>
-      <td style="text-align:left"><code>.widget_mobile .message-body { background-color: #0000; } </code><em><code>//Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u #0000</code></em>
       </td>
     </tr>
     <tr>
@@ -122,18 +107,14 @@ Bạn có thể sử dụng màu sắc đơn hoặc theo dải màu chuyển ti�
       <td style="text-align:left">
         <p><code>.add-new-conversation {background-color:#000000;}</code>
         </p>
-        <p><em><code>//Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u: #000000;}</code></em>
+        <p><em><code>/* Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u: #000000;} */</code></em>
         </p>
       </td>
       <td style="text-align:left">
         <p><code>.add-new-conversation <br />{background-image: linear-gradient(to right top, #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f);}</code>
         </p>
-        <p><em><code>//Thay &#x111;&#x1ED5;i d&#x1EA3;i m&#xE3; m&#xE0;u: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f</code></em>
+        <p><em><code>/* Thay &#x111;&#x1ED5;i d&#x1EA3;i m&#xE3; m&#xE0;u: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f */ </code></em>
         </p>
-      </td>
-      <td style="text-align:left"><code>.widget_mobile .add-new-conversation { background-color: #0000; }</code>
-        <br
-        /><em><code>//Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u #0000</code></em>
       </td>
     </tr>
   </tbody>
@@ -155,7 +136,7 @@ background-repeat: no-repeat; background-position: center; }
 .team-intro { width:55%; margin-bottom:12px; } 
 .team-intro p{ padding: 0 0 0 0; font-size:13px;}
 
-// Thay đường link ảnh của bạn tại: https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png
+/* Thay đường link ảnh của bạn tại: https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png */
 ```
 
 ### Tùy chỉnh cỡ chữ của tin nhắn
@@ -165,13 +146,14 @@ Cỡ chữ mặc định trong tin nhắn là 13px, bạn có thể thay đổi 
 ```csharp
  .message-content
 { font-size:13px;}
-//Thay đổi cỡ chữ 13px
+/* Thay đổi cỡ chữ 13px */
 ```
 
 ### Vị trí chat button, cửa sổ chat trên website
 
-Bạn muốn thay đổi vị trí chat button và cửa sổ chat lên cao hay xuống thấp trên website , hãy sử dụng mã CSS dưới đây:  
-_Lưu ý xem lại_ [_Cửa sổ chat cài đặt Kiểu Thu gọn hay Mở rộng_ ](https://app.subiz.com/settings/widget-setting)_để dùng đúng CSS._
+Bạn muốn thay đổi vị trí chat button và cửa sổ chat lên cao hay xuống thấp trên website , hãy sử dụng mã CSS dưới đây:
+
+* Kiểm tra cài đặt Cửa sổ chat [Kiểu Thu gọn hay Mở rộng](https://app.subiz.com/settings/widget-setting) để dùng đúng CSS. Xem thêm [Tùy chỉnh hình ảnh chat button thu hút](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-cua-so-chat-subiz#tuy-chinh-chat-button)
 
 {% tabs %}
 {% tab title="Cửa sổ chat THU GỌN" %}
@@ -180,7 +162,7 @@ Trên bản destop:
 ```csharp
  .widget-button {bottom:0;}
  .widget_mini .widget_body {bottom:0;}
- //Kích thước thay đổi khoảng 0 - 40px
+ /* Kích thước thay đổi khoảng 0 - 40px */
 ```
 
 Trên bản mobile
@@ -188,7 +170,7 @@ Trên bản mobile
 ```csharp
  .widget_mobile .widget-button 
 {bottom:40px;right:40px;}
-//Kích thước thay đổi khoảng 0 - 40px
+/* Kích thước thay đổi khoảng 0 - 40px */
 ```
 {% endtab %}
 
@@ -211,8 +193,6 @@ Trên mobile:
 {% endtab %}
 {% endtabs %}
 
-Xem thêm [Tùy chỉnh hình ảnh chat button bắt mắt, thu hút chat](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-cua-so-chat-subiz#tuy-chinh-chat-button)
-
 ###  Hạ thấp **chiều cao cửa sổ chat trên mobile**
 
  Cửa sổ Subiz chat sẽ mặc định hiển thị khoảng 90% màn hình điện thoại, để khách vẫn nhìn thấy link của website mua hàng.
@@ -221,7 +201,7 @@ Bạn muốn hạ cửa sổ chat trên mobile sẽ hiển thị thấp hơn so 
 
 ```csharp
 .widget_mobile .widget_body {height: 90%;}
-// Thay đổi tỷ lệ chiều cao 90%
+/* Thay đổi tỷ lệ chiều cao 90% */
 ```
 
 ### Tùy chỉnh chat button riêng bản mobile
@@ -243,9 +223,9 @@ https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png
 
 .widget_mobile .widget-button {bottom:0;right:40px;}
 
-// Thay đường link ảnh chat button của bạn: https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png
-// Thay đổi kích thước ảnh chat button width: 81px; height: 31px
-// Thay đổi vị trí chat button trên website khoảng 0 đến 40px trong {bottom:0;right:40px;}
+/* Thay đường link ảnh chat button của bạn: https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png
+Thay đổi kích thước ảnh chat button width: 81px; height: 31px
+Thay đổi vị trí chat button trên website khoảng 0 đến 40px trong {bottom:0;right:40px;} */
 ```
 
 ### Ẩn cửa sổ chat

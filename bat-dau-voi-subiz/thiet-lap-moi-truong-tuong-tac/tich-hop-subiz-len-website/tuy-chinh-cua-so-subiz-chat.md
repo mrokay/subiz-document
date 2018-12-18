@@ -1,265 +1,83 @@
-# Sáng tạo cửa sổ chat Subiz
+# Tùy chỉnh cửa sổ Subiz chat
 
-### Sáng tạo lời giới thiệu trên cửa sổ chat
+**Cửa sổ** [**Subiz**](https://subiz.com/vi/) **chat trên website là nơi khách truy cập trò chuyện với tư vấn viên của doanh nghiệp.** Không  đơn giản là nơi bạn tương tác tư vấn khách hàng, mà còn là nơi bạn khẳng định thương hiệu, chất lượng dịch vụ và tiếng nói của doanh nghiệp.
 
-Vào những dịp đặc biệt, hoặc khi có các chương trình khuyến mại, bạn nên thay đổi và sáng tạo lời giới thiệu về doanh nghiệp ngay trên cửa sổ chat để tăng sự thu hút và tạo sự ấn tượng với khách truy cập website.
+Để tùy chỉnh cửa sổ chat, bạn đăng nhập tài khoản [**Subiz &gt; Cài đặt &gt; Tài khoản &gt;  Cửa sổ Subiz chat**](https://app.subiz.com/settings/widget-setting)**.**  
+Bạn có thể tùy chỉnh giao diện và ngôn ngữ hiển thị trên cửa sổ chat cho phù hợp với hình ảnh thương hiệu quả website.
 
-{% tabs %}
-{% tab title="Gắn link trên lời giới thiệu" %}
-Đoạn mã giúp bạn gắn link trên lời giới thiệu
+![C&#xE0;i &#x111;&#x1EB7;t c&#x1EED;a s&#x1ED5; Subiz chat](../../../.gitbook/assets/widget-chat-copy.jpg)
 
-```text
-<p> Normal text <a href="http://example.com"> <font color="yellow">Linked text</font></a></p>
-```
+### **Tùy chỉnh chat button**
 
-Những thành phần bạn có thể thay đổi trong đoạn mã trên:
+Chat button là hình ảnh kêu gọi và thu hút khách hàng chat trực tuyến trên cửa sổ Subiz chat. Khi khách hàng click vào chat button sẽ mở ra cửa sổ chat.
 
-* **Normal text:** Là đoạn giới thiệu bạn muốn trình bày
-* [**http://example.com**](http://example.com)**:** Là đường link trang đích bạn muốn khách hàng xem sau khi bấm vào Linked text
-* **Yellow:** Là màu bạn muốn chọn cho Linked text
-* **Linked text:** Là đoạn chữ chứa đường link trang đích
+Bạn có thể chọn Thư viện button có sẵn hoặc thiết kế hình ảnh chat button riêng để truyền tải thông điệp và mang đến cho khách hàng những trải nghiệm thú vị khi truy cập website.
 
-**Ví dụ:** &lt;p&gt; Kỷ niệm sinh nhật lần thứ 5. Chúng tôi giảm giá 50% nhiều mặt hàng. Vui lòng xem chi tiết &lt;a href="http://example.com"&gt; &lt;font color="yellow"&gt;tại đây!&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+* [Thư viện button](https://app.subiz.com/settings/widget-setting?button=default): Màu sắc của button sẽ tự động thay đổi theo màu nền cửa sổ chat
+* [Button large](https://app.subiz.com/settings/widget-setting?button=library): Mẫu button bắt mắt, thu hút khách hàng. Màu sắc button không tự động thay đổi.
+* [Sử dụng button tùy chỉnh](https://app.subiz.com/settings/widget-setting?button=custom): Khi bạn muốn thiết kế mẫu button riêng. Lưu ý: + Button thiết kế cần định dạng Png, phông nền là transparent. + Kích thước chuẩn là 240 x 146 px.
 
-![S&#xE1;ng t&#x1EA1;o l&#x1EDD;i gi&#x1EDB;i thi&#x1EC7;u k&#xE8;m link](../../../.gitbook/assets/loi-gioi-thieu-1.png)
-{% endtab %}
+![T&#xF9;y ch&#x1EC9;nh chat button](../../../.gitbook/assets/button-large-copy.jpg)
 
-{% tab title="Xuống dòng trên lời giới thiệu" %}
-Đoạn mã giúp bạn xuống dòng trên lời giới thiệu
+Xem thêm:
 
-```text
-<br>Text
-```
+* [Tùy chỉnh vị trí chat button trên website với CSS](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/bang-ma-css-tuy-chinh-cua-so-chat#vi-tri-chat-button-cua-so-chat-tren-website)
+* [Đặt button Subiz mọi nơi trên website ](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-hinh-anh-button-subiz)
 
-Bạn đặt đoạn mã trên trước đoạn Text \(chữ\) mà bạn muốn nó xuống dòng.
+### **Kiểu cửa sổ chat Thu gọn hay Mở rộng**
 
-Ví dụ: &lt;p&gt; Kỷ niệm sinh nhật lần thứ 5. Chúng tôi giảm giá 50% nhiều mặt hàng cao cấp. &lt;br&gt;Vui lòng xem chi tiết &lt;a href="http://example.com"&gt; &lt;font color="yellow"&gt;tại đây!&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+[Subiz](https://subiz.com/vi/) đã tạo sẵn 2 kiểu kích thước **Thu gọn** hoặc **Mở rộng** cho cửa sổ chat trên website đáp ứng nhu cầu của từng người dùng.
 
-![Xu&#x1ED1;ng d&#xF2;ng tr&#xEA;n &#x111;o&#x1EA1;n gi&#x1EDB;i thi&#x1EC7;u](../../../.gitbook/assets/loi-gioi-thieu-2.png)
-{% endtab %}
-{% endtabs %}
+* **Thu gọn:** Kích thước tiêu chuẩn, chiều rộng  x chiều cao là 360px x 580px
+* **Mở rộng:** Chiều dài cửa sổ chat toàn màn hình, giúp khách hàng dễ theo dõi cuộc chat với agent.
 
-### Tùy chỉnh CSS cho cửa sổ chat Subiz
+[Xem thêm thay đổi kích thước chiều rộng, chiều cao cửa sổ chat với CSS](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/bang-ma-css-tuy-chinh-cua-so-chat#thay-doi-chieu-rong-chieu-cao-cua-so-chat).
 
-Bên cạnh việc sử dụng những cài đặt cửa sổ chat trên website mà Subiz đã cung cấp. Bạn có thể dễ dàng tùy chỉnh những thành phần khác trên cửa sổ chat bằng cách sử dụng mã CSS.
+![Ki&#x1EC3;u c&#x1EED;a s&#x1ED5; Subiz chat](../../../.gitbook/assets/kieu-full-copy.jpg)
 
-CSS là viết tắt của cụm từ “Cascading Style Sheet”, nó là một ngôn ngữ quy định cách trình bày của các thẻ html trên trang web. Với việc sử dụng CSS bạn có thể tùy chỉnh một số thành phần của cửa sổ Subiz chat theo ý muốn một cách dễ dàng và đơn giản.
+### Chọn v**ị trí cửa sổ chat**
 
-#### Tùy chỉnh CSS ở đâu? {#tuy-chinh-css-o-dau}
+Bạn có thể chọn vị trí cửa sổ chat xuất hiện trên website tại **Góc trái** hoặc **Góc phải**
 
-Bạn sẽ đăng nhập vào trang app.subiz.com, vào phần **Cài đặt &gt; Tài khoản &gt; Tin nhắn &gt; Cửa sổ hội thoại &gt; Tùy chỉnh CSS** để thực hiện những thay đổi về CSS này.
+Vị trị đặt cửa sổ Subiz cần phù hợp với thiết kế của website, sao cho dễ nhận biết, không đè lên các thiết kế hay ứng dụng khác của website. Hiện tại, một tỷ lệ lớn các doanh nghiệp đặt cửa sổ Subiz tại góc bên phải.
 
-![B&#x1EAF;t &#x111;&#x1EA7;u t&#xF9;y ch&#x1EC9;nh CSS](../../../.gitbook/assets/noi-tuy-chinh-css.png)
+![V&#x1ECB; tr&#xED; c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/vi-tri-cua-so-chat.png)
 
-Tiếp theo, **bạn Copy và paste đoạn css tương ứng** để tùy chỉnh thành phần bạn muốn, sau đó quay lại màn hình cài đặt cửa sổ chat và **Lưu thay đổi**
+### Chỉnh sửa **màu sắc**
 
-Dưới đây là một số tùy chỉnh css một số thành phần trên cửa sổ chat bạn có thể tham khảo.
+Chọn màu nền cho cửa sổ Subiz trong các màu được gợi ý, hoặc ****[tham khảo thêm tùy biến màu sắc riêng với CSS](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/bang-ma-css-tuy-chinh-cua-so-chat#tuy-bien-mau-sac-tren-cua-so-chat) để tương đồng với màu sắc của thương hiệu.
 
-#### Thay đổi kích thước cửa sổ chat
+![M&#xE0;u n&#x1EC1;n c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/mau-nen-copy.jpg)
 
-Bạn có thể thay đổi chiều cao và chiều rộng theo ý muốn:
+### **Thay đổi ngôn ngữ**
 
-{% tabs %}
-{% tab title="Loại cửa sổ Mở rộng" %}
-* Đoạn mã tùy chỉnh chiều cao cửa sổ chat Subiz
+Cửa sổ Subiz hỗ trợ 2 ngôn ngữ chính là Tiếng Việt và English. Tại mục NGÔN NGỮ, bạn có thể chọn Tự động hoặc Tiếng Việt hoặc English. Trong đó:
 
-```text
-.widget_full .widget_body
-{height: 750px !important;
-max-height: 800px !important;}
-```
+* **Tự động**: Cửa sổ [Subiz chat](https://subiz.com/vi/live-chat.html) tự động nhận diện và hiển thị ngôn ngữ English hoặc tiếng Việt theo địa chỉ IP của khách hàng.
+* **Tiếng Việt**: chọn khi doanh nghiệp chỉ phục vụ khách hàng Việt Nam và website hỗ trợ chỉ ngôn ngữ Việt Nam.
+* **English**: chọn khi doanh nghiệp phục vụ khách quốc tế và website chỉ hỗ trợ ngôn ngữ tiếng Anh.
 
-* Đoạn mã tùy chỉnh chiều rộng cửa sổ chat Subiz
+[Xem thêm sáng tạo lời  giới thiệu trên cửa sổ chat với mã HTML và tùy chỉnh nội dung cửa sổ chat theo ngôn ngữ khác](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/cac-ngon-ngu-ho-tro-tren-cua-so-subiz-chat).
 
-```text
-.widget_full .widget_body
-{width:600px;}
-```
+![Thay &#x111;&#x1ED5;i ng&#xF4;n ng&#x1EEF; c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/ngon-ngu-copy.jpg)
 
-Phần 750px, 600px bạn có thể điều chỉnh con số cho phù hợp với website.
+###  Quản lý domain whitelist
 
-![T&#xF9;y ch&#x1EC9;nh k&#xED;ch th&#x1B0;&#x1EDB;c c&#x1EED;a s&#x1ED5; chat M&#x1EDF; r&#x1ED9;ng](../../../.gitbook/assets/mo-rong-1.png)
-{% endtab %}
+Domains whitelist là danh sách các địa chỉ tên miền của website mà cửa sổ Subiz Chat được phép hiển thị. Các trang ngoài danh sách whitelist sẽ không thể hiển thị cửa sổ Subiz sau khi đặt mã nhúng.
 
-{% tab title="Loại cửa sổ Thu gon" %}
-* Đoạn mã tùy chỉnh chiều cao cửa sổ chat Subiz
+Ví dụ: Bạn nhập _**Subiz.com**_ ****và _**help.subiz.com**_ tại domains whitelist thì cửa sổ chat sẽ hiển thị trên 2 trang này sau khi tích hợp mã nhúng. Nếu bạn tích hợpmã nhúng tại trang _**docs.subiz.com**_ thì cửa sổ chat sẽ không hiển thị tại trang đó.
 
-```text
-.widget_mini .widget_body
-{height: 750px !important;
-max-height: 800px !important;}
-```
+{% hint style="info" %}
+ Nếu để trống danh sách Domians whitelist, cửa sổ chat sẽ được hiển thị trên tất cả các website được đặt mã nhúng Subiz.
 
-* Đoạn mã tùy chỉnh chiều rộng cửa sổ chat Subiz
-
-```text
-.widget_mini .widget_body
-{width:600px;}
-```
-
-Phần 750px, 600px bạn có thể điều chỉnh con số cho phù hợp với website.
-
-![T&#xF9;y ch&#x1EC9;nh c&#x1EED;a s&#x1ED5; chat Thu g&#x1ECD;n](../../../.gitbook/assets/thu-gon-1.png)
-{% endtab %}
-{% endtabs %}
-
-#### Tùy chỉnh cỡ chữ {#tuy-chinh-co-chu}
-
-Đoạn mã tùy chỉnh cỡ chữ trên cửa sổ chat Subiz
-
-```text
-.message-content{ font-size:20px;}
-```
-
-![Thay &#x111;&#x1ED5;i c&#x1EE1; ch&#x1EEF; tr&#xEA;n c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/css-size-font.png)
-
-#### Tùy chỉnh màu sắc trên cửa sổ chat Subiz {#tuy-chinh-mau-sac-tung-phan-tren-cua-so-chat}
-
-{% tabs %}
-{% tab title="Màu sắc toàn bộ cửa sổ chat" %}
-{% hint style="danger" %}
-Khi bạn chọn cách tùy chỉnh màu sắc toàn bộ cửa sổ chat, bạn sẽ **không thể** tùy chỉnh màu sắc cho từng phần riêng biệt như header, khung tin nhắn hay nút tạo mới được nữa
+Cài đặt Domains whitelist giúp bạn kiểm soát các website hiển thị cửa sổ Subiz, tránh trường hợp cửa sổ chat của bạn bị cài đặt trên các trang bạn không mong muốn.
 {% endhint %}
 
-Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp.
+Hướng dẫn quản lý domain whitelist**:** [**Vào cài đặt domains whitelist**](https://app.subiz.com/settings/whitelist-domain) **&gt; Thêm tên miền mới**
 
-* **Mã code tùy chỉnh toàn bộ cửa sổ chat theo màu sắc đơn**
+![Qu&#x1EA3;n l&#xFD; domains whitelist](../../../.gitbook/assets/whitelist-copy.jpg)
 
-```text
-.color-theme-default
-{background-color:#000000;}
-```
 
-Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
-
-* **Mã code tùy chỉnh toàn bộ cửa sổ chat theo dải màu chuyển tiếp**
-
-```text
-.color-theme-default
-{background-image: linear-gradient(to right top, #056587, #0085a3, #00a6ac, #00c59f, #0be17f);}
-```
-
-Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với website.
-
-![T&#xF9;y ch&#x1EC9;nh m&#xE0;u s&#x1EAF;c to&#xE0;n b&#x1ED9; c&#x1EED;a s&#x1ED5; chat theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p](../../../.gitbook/assets/css-mau-sac-toan-bo.png)
-{% endtab %}
-
-{% tab title="Màu sắc header" %}
-Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
-
-* **Mã code tùy chỉnh màu sắc đơn của header**
-
-```text
-.widget-header {background-color:#00000;}
-```
-
-Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
-
-* **Mã code tùy chỉnh dài màu chuyển tiếp của header**
-
-```text
-.widget-header
-{background-image: linear-gradient(to right top, #056587, #0085a3, #00a6ac, #00c59f, #0be17f);}
-```
-
-Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với website
-
-![T&#xF9;y ch&#x1EC9;nh m&#xE0;u s&#x1EAF;c header theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p](../../../.gitbook/assets/css-mau-header.png)
-{% endtab %}
-
-{% tab title="Màu sắc khung tin nhắn" %}
-Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
-
-* **Mã code tùy chỉnh theo màu sắc đơn cho khung tin nhắn**
-
-```text
-.message-body {background-color:#00000;}
-```
-
-Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
-
-* **Mã code tùy chỉnh theo dài màu chuyển tiếp cho khung tin nhắn**
-
-```text
-.message-body
-{background-image: linear-gradient(to right top, #056587, #0085a3, #00a6ac, #00c59f, #0be17f);}
-```
-
-Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với website
-
-![T&#xF9;y ch&#x1EC9;nh m&#xE0;u khung tin nh&#x1EAF;n theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p](../../../.gitbook/assets/css-khung-tin-nhan.png)
-{% endtab %}
-
-{% tab title="Màu sắc nút \"Tạo mới\"" %}
-Bạn có thể tùy chỉnh theo màu sắc đơn hoặc theo dải màu chuyển tiếp:
-
-* **Mã code tùy chỉnh theo màu sắc đơn cho nút "Tạo mới"**
-
-```text
-.add-new-conversation
-{background-color:#000000;}
-```
-
-Phần **\#00000** bạn có thể điều chỉnh cho phù hợp với website.
-
-* **Mã code tùy chỉnh theo dải màu chuyển tiếp cho nút "Tạo mới"**
-
-```text
-.add-new-conversation
-{background-image: linear-gradient(to right top, #056587, #0085a3, #00a6ac, #00c59f, #0be17f);}
-```
-
-Phần dải màu **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** bạn có thể điều chỉnh cho phù hợp với website.
-
-![T&#xF9;y ch&#x1EC9;nh m&#xE0;u n&#xFA;t &quot;T&#x1EA1;o m&#x1EDB;i&quot; theo d&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p](../../../.gitbook/assets/css-tao-moi.png)
-{% endtab %}
-{% endtabs %}
-
-### Tùy chỉnh ngôn ngữ cửa sổ Subiz chat qua file .Po
-
-Hiện tại, Subiz hỗ trợ 2 ngôn ngữ là Tiếng Việt và Tiếng Anh. Trên cửa sổ Subiz, bạn có thể **tùy chỉnh tiêu đề cửa sổ và lời giới thiệu theo từng ngôn ngữ**.
-
-Ngoài ra, nếu bạn muốn sử dụng một ngôn ngữ khác ngoài các ngôn ngữ được hỗ trợ. Giả sử bạn muốn thay ngôn ngữ Tiếng Anh bằng Tiếng Đức. Hoặc bạn có nhu cầu chỉnh sửa nhiều hơn ở phần ngôn ngữ trên cửa sổ, bạn có thể tùy chỉnh theo file ngôn ngữ .po theo các bước dưới đây:
-
-#### Bước 1: Tải file ngôn ngữ mẫu {#buoc-1-tai-file-ngon-ngu-mau}
-
-Đăng nhập tài khoản và vào [Cài đặt cửa sổ hội thoại](https://app.subiz.com/settings/widget-setting), phần **Ngôn ngữ**. Chọn 1 ngôn ngữ cụ thể và click vào “Tùy chỉnh ngôn ngữ”.
-
-![N&#x1A1;i b&#x1EAF;t &#x111;&#x1EA7;u th&#x1EF1;c hi&#x1EC7;n t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF;](../../../.gitbook/assets/tc-ngon-ngu-1.png)
-
-Chọn “Nhấn để tải xuống file tùy chỉnh ngôn ngữ cho widget” để tải về file .po mẫu.
-
-![T&#x1EA3;i xu&#x1ED1;ng file t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; cho widget](../../../.gitbook/assets/tai-file-tuy-chinh-ngon-ngu.png)
-
-#### Bước 2: Tùy chỉnh file ngôn ngữ {#buoc-2-tuy-chinh-file-ngon-ngu}
-
-* Truy cập [https://localise.biz/free/poeditor](https://localise.biz/free/poeditor), tải lên file mẫu mà bạn vừa tải về.
-
-![&#x110;&#x1B0;a file t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; l&#xEA;n](../../../.gitbook/assets/drop-a-file.png)
-
-* Tại **Source text** là phần ngôn ngữ gốc. Bạn có thể dịch ra các ngôn ngữ mà bạn muốn tại phần Translation. Ví dụ, dịch sang tiếng Đức: Email and Name = Email und Name.
-
-![D&#x1ECB;ch c&#xE1;c ng&#xF4;n ng&#x1EEF; b&#x1EA1;n mu&#x1ED1;n t&#xF9;y ch&#x1EC9;nh](../../../.gitbook/assets/edit-file.png)
-
-* Chọn **Save** để Lưu thay đổi sau khi hoàn tất.
-
-![L&#x1B0;u file &#x111;&#xE3; d&#x1ECB;ch](../../../.gitbook/assets/save-button.png)
-
-* Click vào file để tải về.
-
-![T&#x1EA3;i file &#x111;&#xE3; d&#x1ECB;ch v&#x1EC1; m&#xE1;y t&#xED;nh](../../../.gitbook/assets/save-file.png)
-
-#### Bước 3: Tải lên file .po đã chỉnh sửa và lưu thay đổi {#buoc-3-tai-len-file-po-da-chinh-sua-va-luu-thay-doi}
-
-Tại phần cài đặt Ngôn ngữ, bạn chọn 1 ngôn ngữ và chọn Tùy chỉnh ngôn ngữ. Sau khi tải file mới lên, ngôn ngữ mới sẽ được ghi đè lên ngôn ngữ bạn vừa chọn.
-
-![T&#x1EA3;i file &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; l&#xEA;n Subiz](../../../.gitbook/assets/upload-file.png)
-
-Sau khi có thông báo file tải lên thành công, bạn thoát ra ngoài và Lưu thay đổi.
-
-![Th&#xF4;ng b&#xE1;o t&#x1EA3;i file &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh ng&#xF4;n ng&#x1EEF; th&#xE0;nh c&#xF4;ng](../../../.gitbook/assets/upload-success.png)
-
-###  {#loi-khi-tich-hop-len-website}
 
 
 
