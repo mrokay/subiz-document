@@ -53,7 +53,7 @@ Chọn màu nền cho cửa sổ Subiz trong các màu được gợi ý, hoặc
 
 Cửa sổ Subiz hỗ trợ 2 ngôn ngữ chính là Tiếng Việt và English. Tại mục NGÔN NGỮ, bạn có thể chọn Tự động hoặc Tiếng Việt hoặc English. Trong đó:
 
-* **Tự động**: Cửa sổ [Subiz chat](https://subiz.com/vi/live-chat.html) tự động nhận diện và hiển thị ngôn ngữ English hoặc tiếng Việt theo địa chỉ IP của khách hàng.
+* **Tự động**: Cửa sổ Subiz chat tự động nhận diện và hiển thị ngôn ngữ English hoặc tiếng Việt theo địa chỉ IP của khách hàng.
 * **Tiếng Việt**: chọn khi doanh nghiệp chỉ phục vụ khách hàng Việt Nam và website hỗ trợ chỉ ngôn ngữ Việt Nam.
 * **English**: chọn khi doanh nghiệp phục vụ khách quốc tế và website chỉ hỗ trợ ngôn ngữ tiếng Anh.
 

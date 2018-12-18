@@ -120,7 +120,7 @@ Màu sắc cửa sổ chat sẽ đồng bộ trên cả bản destop và mobile.
   </tbody>
 </table>### Sáng tạo tiêu đề cửa sổ chat
 
-Thay đổi bố cục của cửa sổ chat gia tăng nhận diện hình ảnh thương hiệu của Doanh Nghiệp.
+Thay đổi bố cục tiêu đề  của cửa sổ chat gia tăng nhận diện hình ảnh thương hiệu của Doanh Nghiệp.
 
 ```csharp
 .color-theme-default {background-color:#f44336;} 
@@ -153,7 +153,8 @@ Cỡ chữ mặc định trong tin nhắn là 13px, bạn có thể thay đổi 
 
 Bạn muốn thay đổi vị trí chat button và cửa sổ chat lên cao hay xuống thấp trên website , hãy sử dụng mã CSS dưới đây:
 
-* Kiểm tra cài đặt Cửa sổ chat [Kiểu Thu gọn hay Mở rộng](https://app.subiz.com/settings/widget-setting) để dùng đúng CSS. Xem thêm [Tùy chỉnh hình ảnh chat button thu hút](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-cua-so-chat-subiz#tuy-chinh-chat-button)
+* Kiểm tra cài đặt Cửa sổ chat [Kiểu Thu gọn hay Mở rộng](https://app.subiz.com/settings/widget-setting) để dùng đúng CSS.
+* Xem thêm [Tùy chỉnh hình ảnh chat button thu hút](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/tuy-chinh-cua-so-chat-subiz#tuy-chinh-chat-button).
 
 {% tabs %}
 {% tab title="Cửa sổ chat THU GỌN" %}
