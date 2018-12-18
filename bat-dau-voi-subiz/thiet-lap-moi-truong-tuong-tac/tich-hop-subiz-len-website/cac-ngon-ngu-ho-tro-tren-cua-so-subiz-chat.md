@@ -36,12 +36,12 @@ Ngay trên cửa sổ Subiz chat, bạn có thể tùy chỉnh và sáng tạo l
 
   `<u>text`: Gạch chân chữ viết.  
 
-* HTML xuống dòng đoạn văn bản `<br>text`: ****Đặt mã &lt;br&gt; trước đoạn văn bản bạn muốn xuống dòng 
+* HTML xuống dòng đoạn văn bản `<br>text`: ****Đặt mã &lt;br&gt; trước đoạn văn bản bạn muốn xuống dòng. 
 * HTML thay đổi màu sắc chữ viết `<font color="yellow">text</font>`: Thay đổi màu sắc vào ô "yellow" như red, white, blue.... 
 * HTML gắn đường link URL vào chữ viết  
-  `<a href="http://example.com">Text</a>`: Thay link của bạn vào  http://example.com
+  `<a href="http://example.com">Text</a>`: Thay link của bạn vào  http://example.com.
 
-* HTML gắn link số điện thoại để có thể click số điện thoại và Gọi ngay trên điện thoại `<a href="tel:02473021368">02473021368</a>`: Thay số điện thoại của bạn vào 02473021368 
+* HTML gắn link số điện thoại để có thể click số điện thoại và Gọi ngay trên điện thoại `<a href="tel:02473021368">02473021368</a>`: Thay số điện thoại của bạn vào 02473021368. 
 
 #### **Ví dụ kết hợp HTML tùy chỉnh ngôn ngữ trên cửa sổ chat**
 
@@ -52,11 +52,11 @@ Ngay trên cửa sổ Subiz chat, bạn có thể tùy chỉnh và sáng tạo l
 
 Những thành phần bạn có thể thay đổi trong đoạn mã trên:
 
-* **http://example.com:** Là đường link trang đích bạn muốn khách hàng xem sau khi bấm vào đoạn chữ viết được gắn link
-* **Yellow:** Là màu bạn muốn chọn cho chữ viết được gắn link
-* **Text:** Là đoạn chữ viết được gắn link 
+* **http://example.com:** Là đường link trang đích bạn muốn khách hàng xem sau khi bấm vào đoạn chữ viết được gắn link.
+* **Yellow:** Là màu bạn muốn chọn cho chữ viết được gắn link.
+* **Text:** Là đoạn chữ viết được gắn link .
 
-**Ví dụ:**  Tưng bừng khuyến mãi tới 50%. Vui lòng xem chi tiết  &lt;a href="http://example.com"&gt; &lt;font color="yellow"&gt;TẠI ĐÂY!&lt;/font&gt;&lt;/a&gt;
+**Ví dụ:**  Tưng bừng khuyến mãi tới 50%. Vui lòng xem chi tiết  &lt;a href="http://example.com"&gt; &lt;font color="yellow"&gt;TẠI ĐÂY!&lt;/font&gt;&lt;/a&gt;.
 
 ![G&#x1EAF;n link trang &#x111;&#xED;ch tr&#xEA;n c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/1.-gan-link.jpg)
 {% endtab %}
@@ -125,26 +125,26 @@ Hiện tại, [Subiz](https://subiz.com/vi/) hỗ trợ 2 ngôn ngữ là Tiến
 **Bước 1: Tải xuống tệp tùy chỉnh nội dung cửa sổ chat**
 
 * [Đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ Subiz chat hội thoại ](https://app.subiz.com/settings/widget-setting)
-* Tại mục **NGÔN NGỮ** &gt; chọn **Tiếng Việt** &gt; chọn **Tùy chỉnh nội dung**
-* Chọn **Tải về tệp tùy chỉnh nội dung của widget &gt; Tệp định dạng .po** sẽ được lưu về máy tính
+* Tại mục NGÔN NGỮ &gt; chọn Tiếng Việt &gt; chọn Tùy chỉnh nội dung
+* Chọn **Tải về tệp nội dung gốc tại đây** **&gt;** Tệp định dạng .po sẽ được lưu về máy tính
 
-**Bước 2: Tùy chỉnh file ngôn ngữ .po**
+**Bước 2: Tùy chỉnh tệp nội dung gốc .po**
 
 *  Truy cập [https://localise.biz/free/poeditor](https://localise.biz/free/poeditor), tải lên tệp .po mà bạn vừa lưu trong máy tính
 
 ![T&#x1EA3;i l&#xEA;n t&#x1EC7;p t&#xF9;y ch&#x1EC9;nh n&#x1ED9;i dung](../../../.gitbook/assets/4.-tai-len-po.jpg)
 
-* Source text là phần ngôn ngữ gốc, **Translation là phần dịch để bạn tùy chỉnh ngôn ngữ theo nhu cầu.** Kéo chuột hoặc tìm kiếm nội dung cần thay đổi.
+* Source text là phần ngôn ngữ gốc, **Translation là phần dịch để bạn tùy chỉnh, thay đổi ngôn ngữ theo nhu cầu.** Kéo chuột hoặc tìm kiếm nội dung cần thay đổi.
 
 ![T&#xF9;y ch&#x1EC9;nh n&#x1ED9;i dung ng&#xF4;n ng&#x1EEF; theo nhu c&#x1EA7;u](../../../.gitbook/assets/5.-dich.jpg)
 
-* Chọn **Save** sau khi tùy chỉnh xong và chọn Tải file .po đã tùy chỉnh về máy tính
+* Chọn **Save** sau khi tùy chỉnh xong và chọn Save to your computer tải tệp .po đã tùy chỉnh về máy tính.
 
 ![L&#x1B0;u t&#x1EC7;p &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh v&#x1EC1; m&#xE1;y t&#xED;nh](../../../.gitbook/assets/6.-luu-ve-may.jpg)
 
 **Bước 3: Tải lên Subiz tệp nội dung đã tùy chỉnh** 
 
-* Tại bảng **Tùy chỉnh nội dung** của Subiz, bạn tải lên tệp nội dung đã tùy chỉnh
+* Tại bảng **Tùy chỉnh nội dung** của Subiz, bạn chọn tải lên tệp nội dung đã tùy chỉnh
 
 ![T&#x1EA3;i l&#xEA;n t&#x1EC7;p &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh n&#x1ED9;i dung](../../../.gitbook/assets/3.-copy.jpg)
 

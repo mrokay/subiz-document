@@ -8,7 +8,7 @@ description: >-
 
 CSS là chữ viết tắt của **Cascading Style Sheets**,  được dùng để miêu tả cách trình bày các tài liệu viết bằng ngôn ngữ HTML và XHTML.
 
-Bạn cần sao chép đúng CSS bên dưới và dán vào mục [Tùy chỉnh CSS trong cửa sổ Subiz chat](https://app.subiz.com/settings/widget-setting) &gt; Lưu thay đổi tại bảng tùy chỉnh CSS và Lưu thay đổi ở mục Cửa sổ Subiz chat
+Bạn cần sao chép đúng CSS bên dưới và dán vào mục [Tùy chỉnh CSS trong cửa sổ Subiz chat](https://app.subiz.com/settings/widget-setting) &gt; Lưu thay đổi tại bảng tùy chỉnh CSS và Lưu thay đổi ở mục Cửa sổ Subiz chat.
 
 ![T&#xF9;y ch&#x1EC9;nh CSS c&#x1EED;a s&#x1ED5; Subiz chat](../../../.gitbook/assets/tuy-chinh-css.jpg)
 

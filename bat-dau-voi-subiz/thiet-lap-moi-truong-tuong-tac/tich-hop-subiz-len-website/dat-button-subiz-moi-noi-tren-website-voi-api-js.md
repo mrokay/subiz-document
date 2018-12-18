@@ -10,7 +10,7 @@ Bạn cần thực hiện hai bước sau:
 
 ### Bước 1: Ẩn hình ảnh Button Subiz mặc định
 
-Bạn sẽ sử dụng mã CSS trong app.subiz.com để ẩn hình ảnh Button mặc định: [Đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ Subiz chat &gt; Tùy chỉnh CSS](https://app.subiz.com/settings/widget-setting)
+Bạn sẽ sử dụng mã CSS trong app.subiz.com để ẩn hình ảnh Button mặc định: [Đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ Subiz chat &gt; Tùy chỉnh CSS](https://app.subiz.com/settings/widget-setting).
 
 Cửa sổ hội thoại có hai kiểu: Thu gọn và Mở rộng. 
 
@@ -37,19 +37,19 @@ Khi cài đặt ẩn button Subiz, khách hàng sẽ không nhìn thấy hình �
 
 Sử dụng API Js trong code website sẽ giúp bạn gắn link cửa sổ chat Subiz vào hình ảnh hoặc đoạn text bất kỳ trên website và tự động mở cửa sổ chat.
 
-* API Js phổ thông đặt vào vùng chứa trong code website , vùng sẽ gắn link cửa sổ Subiz chat 
+* API Js phổ thông đặt vào vùng chứa trong code website , vùng sẽ gắn link cửa sổ Subiz chat.
 
 ```csharp
 <script type="text/javascript">window.subiz('expandWidget') </script>
 ```
 
-* API Js gắn link cửa sổ Subiz chat vào hình ảnh
+* API Js gắn link cửa sổ Subiz chat vào hình ảnh.
 
 ```csharp
 <a href="#nogo" onclick="subiz('expandWidget')"><img src="đường dẫn ảnh của bạn"></a>
 ```
 
-* API Js gắn link cửa sổ Subiz chat vào đoạn text
+* API Js gắn link cửa sổ Subiz chat vào đoạn text.
 
 ```csharp
 <a href="#nogo" onclick="subiz('expandWidget')">đoạn text của bạn</a>

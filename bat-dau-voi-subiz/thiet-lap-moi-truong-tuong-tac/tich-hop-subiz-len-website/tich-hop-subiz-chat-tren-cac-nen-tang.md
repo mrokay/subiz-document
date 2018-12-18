@@ -6,11 +6,11 @@ description: Tài liệu mô tả cách tích hợp Subiz trên các nền tản
 
 ### Subiz và Wordpress
 
-Bước 1: Mở trang quản lý WordPress Admin Panel &gt; Appearance &gt; Editor
+Bước 1: Mở trang quản lý WordPress Admin Panel &gt; Appearance &gt; Editor.
 
-Bước 2: Tìm file footer.php bên cột bên phải và mở file này
+Bước 2: Tìm file footer.php bên cột bên phải và mở file này.
 
-Bước 3: Đăng nhập Subiz &gt; Cài Đặt &gt; [Tích hợp](https://app.subiz.com/settings/install) , sao chép mã nhúng Subiz và dán mã nhúng Subiz vào ngay trước thẻ &lt;/body&gt; trong file footer.php
+Bước 3: Đăng nhập Subiz &gt; Cài Đặt &gt; [Tích hợp](https://app.subiz.com/settings/install) , sao chép mã nhúng Subiz và dán mã nhúng Subiz vào ngay trước thẻ &lt;/body&gt; trong file footer.php.
 
 ![T&#xED;ch h&#x1EE3;p Subiz tr&#xEA;n Wordpress](../../../.gitbook/assets/cai-subiz-wordpress.png)
 
@@ -36,9 +36,9 @@ Ngoài ra, bạn cũng có thể tuy chỉnh mầu riêng, button đặc biệt 
 
 Bước 1: Đăng nhập tài khoản Shopify, tìm đến **Online Store** &gt; **Themes**.
 
-Bước 2: Sau đó nhấn vào nút **Action** và chọn **Edit code**
+Bước 2: Sau đó nhấn vào nút **Action** và chọn **Edit code.**
 
-Bước 3: ****Tìm file **theme.liquid** tại menu bên trái .
+Bước 3: ****Tìm file **theme.liquid** tại menu bên trái.
 
 Bước 4: Đăng nhập Subiz &gt; Cài Đặt &gt; [Tích hợp](https://app.subiz.com/settings/install) , sao chép mã nhúng Subiz và dán mã nhúng Subiz trước thẻ &lt;/body&gt; &gt; Chọn **Save**.
 
@@ -46,21 +46,21 @@ Bước 4: Đăng nhập Subiz &gt; Cài Đặt &gt; [Tích hợp](https://app.s
 
 ### Subiz và Joomla
 
-Bước 1: Vào Joomla Admin &gt; Template Manager &gt; Chọn mục Template và Filter theo Site
+Bước 1: Vào Joomla Admin &gt; Template Manager &gt; Chọn mục Template và Filter theo Site.
 
-Bước 2: Chọn Template đang sử dụng &gt; Click vào file Index.php
+Bước 2: Chọn Template đang sử dụng &gt; Click vào file Index.php.
 
-Bước 3: Đăng nhập Subiz &gt; Cài Đặt &gt; [Tích hợp](https://app.subiz.com/settings/install) , sao chép mã nhúng Subiz và dán mã nhúng Subiz trước thẻ &lt;/body&gt;
+Bước 3: Đăng nhập Subiz &gt; Cài Đặt &gt; [Tích hợp](https://app.subiz.com/settings/install) , sao chép mã nhúng Subiz và dán mã nhúng Subiz trước thẻ &lt;/body&gt;.
 
 ![](../../../.gitbook/assets/joomla2.gif)
 
 ### Subiz và Wix
 
-Bước 1: Đăng nhập màn hình Dashboard của Wix, chọn Manage & Edit Site
+Bước 1: Đăng nhập màn hình Dashboard của Wix, chọn Manage & Edit Site.
 
-Bước 2: Click vào Edit Site &gt; Add button &gt; More &gt; HTML iframe. Kéo phần iframe vừa được chọn xuống dưới footer \(có thể điều chỉnh vị trí của iframe\)
+Bước 2: Click vào Edit Site &gt; Add button &gt; More &gt; HTML iframe. Kéo phần iframe vừa được chọn xuống dưới footer \(có thể điều chỉnh vị trí của iframe\).
 
-Bước 3: Đăng nhập Subiz &gt; Cài Đặt &gt; [Tích hợp](https://app.subiz.com/settings/install) , sao chép mã nhúng Subiz và dán mã nhúng Subiz vào Add code &gt; Chọn Save 
+Bước 3: Đăng nhập Subiz &gt; Cài Đặt &gt; [Tích hợp](https://app.subiz.com/settings/install) , sao chép mã nhúng Subiz và dán mã nhúng Subiz vào Add code &gt; Chọn Save.
 
 ### Subiz và Magento
 
@@ -76,19 +76,19 @@ Bước 3: Đăng nhập Subiz &gt; Cài Đặt &gt; [Tích hợp](https://app.s
 Bạn chỉ cần thực hiện theo lựa chọn này nếu các tệp mẫu được mô tả trong Lựa chọn 1 không tồn tại. Có trường hợp này do một số mẫu Magento có thể không có tệp head.phtml và sử dụng tệp mẫu cơ sở.
 
 * Bước 1: Sao chép tệp ứng dụng app/design/frontend/default/page/html/head.phtml từ mẫu cơ sở mặc địch vào thư mục tùy chỉnh tại app/design/frontend/{template}/page/html/head.phtml.
-* Bước 2: Mở tệp, [sao chép mã nhúng Subiz](https://app.subiz.com/settings/install) và dán trước thẻ &lt;/head&gt;
+* Bước 2: Mở tệp, [sao chép mã nhúng Subiz](https://app.subiz.com/settings/install) và dán trước thẻ &lt;/head&gt;.
 
 ### Subiz và Sapo Web
 
-Bước 1: Đăng nhập trang quản trị website của Sapo &gt; Chọn Website
+Bước 1: Đăng nhập trang quản trị website của Sapo &gt; Chọn Website.
 
 ![](../../../.gitbook/assets/1-sapo-copy.jpg)
 
-Bước 2: Chọn **Giao diện &gt; Thao tác &gt; Chỉnh sửa HTML/CSS**
+Bước 2: Chọn **Giao diện &gt; Thao tác &gt; Chỉnh sửa HTML/CSS.**
 
 ![](../../../.gitbook/assets/2.-sapo-copy.jpg)
 
-Bước 3: Chọn **Them.bwt** &gt; Tìm thẻ **&lt;/body&gt;** &gt; [Sao chép mã nhúng Subiz](https://app.subiz.com/settings/install) và dán **trước thẻ body** &gt; **Lưu**
+Bước 3: Chọn **Them.bwt** &gt; Tìm thẻ **&lt;/body&gt;** &gt; [Sao chép mã nhúng Subiz](https://app.subiz.com/settings/install) và dán **trước thẻ body** &gt; **Lưu.**
 
 ![](../../../.gitbook/assets/3.-sapo-copy.jpg)
 

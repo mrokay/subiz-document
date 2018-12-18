@@ -13,7 +13,7 @@ Chat button là hình ảnh kêu gọi và thu hút khách hàng chat trực tuy
 
 Bạn có thể chọn Thư viện button có sẵn hoặc thiết kế hình ảnh chat button riêng để truyền tải thông điệp và mang đến cho khách hàng những trải nghiệm thú vị khi truy cập website.
 
-* [Thư viện button](https://app.subiz.com/settings/widget-setting?button=default): Màu sắc của button sẽ tự động thay đổi theo màu nền cửa sổ chat
+* [Thư viện button](https://app.subiz.com/settings/widget-setting?button=default): Màu sắc của button sẽ tự động thay đổi theo màu nền cửa sổ chat.
 * [Button large](https://app.subiz.com/settings/widget-setting?button=library): Mẫu button bắt mắt, thu hút khách hàng. Màu sắc button không tự động thay đổi.
 * [Sử dụng button tùy chỉnh](https://app.subiz.com/settings/widget-setting?button=custom): Khi bạn muốn thiết kế mẫu button riêng. Lưu ý: + Button thiết kế cần định dạng Png, phông nền là transparent. + Kích thước chuẩn là 240 x 146 px.
 
@@ -28,7 +28,7 @@ Xem thêm:
 
 [Subiz](https://subiz.com/vi/) đã tạo sẵn 2 kiểu kích thước **Thu gọn** hoặc **Mở rộng** cho cửa sổ chat trên website đáp ứng nhu cầu của từng người dùng.
 
-* **Thu gọn:** Kích thước tiêu chuẩn, chiều rộng  x chiều cao là 360px x 580px
+* **Thu gọn:** Kích thước tiêu chuẩn, chiều rộng  x chiều cao là 360px x 580px.
 * **Mở rộng:** Chiều dài cửa sổ chat toàn màn hình, giúp khách hàng dễ theo dõi cuộc chat với agent.
 
 [Xem thêm thay đổi kích thước chiều rộng, chiều cao cửa sổ chat với CSS](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/bang-ma-css-tuy-chinh-cua-so-chat#thay-doi-chieu-rong-chieu-cao-cua-so-chat).
@@ -37,7 +37,7 @@ Xem thêm:
 
 ### Chọn v**ị trí cửa sổ chat**
 
-Bạn có thể chọn vị trí cửa sổ chat xuất hiện trên website tại **Góc trái** hoặc **Góc phải**
+Bạn có thể chọn vị trí cửa sổ chat xuất hiện trên website tại **Góc trái** hoặc **Góc phải.**
 
 Vị trị đặt cửa sổ Subiz cần phù hợp với thiết kế của website, sao cho dễ nhận biết, không đè lên các thiết kế hay ứng dụng khác của website. Hiện tại, một tỷ lệ lớn các doanh nghiệp đặt cửa sổ Subiz tại góc bên phải.
 
@@ -57,7 +57,7 @@ Cửa sổ Subiz hỗ trợ 2 ngôn ngữ chính là Tiếng Việt và English.
 * **Tiếng Việt**: chọn khi doanh nghiệp chỉ phục vụ khách hàng Việt Nam và website hỗ trợ chỉ ngôn ngữ Việt Nam.
 * **English**: chọn khi doanh nghiệp phục vụ khách quốc tế và website chỉ hỗ trợ ngôn ngữ tiếng Anh.
 
-[Xem thêm sáng tạo lời  giới thiệu trên cửa sổ chat với mã HTML và tùy chỉnh nội dung cửa sổ chat theo ngôn ngữ khác](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/cac-ngon-ngu-ho-tro-tren-cua-so-subiz-chat).
+[Xem thêm sáng tạo lời  giới thiệu trên cửa sổ chat với mã HTML và tùy chỉnh nội dung cửa sổ chat theo ngôn ngữ khác](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/cac-ngon-ngu-ho-tro-tren-cua-so-subiz-chat)
 
 ![Thay &#x111;&#x1ED5;i ng&#xF4;n ng&#x1EEF; c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/ngon-ngu-copy.jpg)
 
