@@ -10,15 +10,28 @@ Tại trang [**HOẠT ĐỘNG**](https://app.subiz.com/activities), bạn có th
 
 ### **Danh sách User** <a id="danhsachuser"></a>
 
-**Danh sách user là các user có hội thoại trò chuyện trên các kênh và tương tác trên website.** Agent có thể xem các phân khúc user như User của tôi, Connected user, Hội thoại chưa được phân phối, Tickets.
+**Danh sách user là các user có hội thoại trò chuyện trên các kênh và tương tác trên website.** Agent có thể tìm kiếm user theo các thông tin như Họ Tên, Địa chỉ email, Số điện thoại
 
-Và tìm kiếm user theo các thông tin như Họ Tên, Địa chỉ email, Số điện thoại,...
+Có 4 phân khúc user để agent theo dõi và quản lý danh sách user theo từng nhóm:
 
-**User mới sẽ được phân biệt theo địa chỉ Thành phố + mã user và Quốc gia**. Agent có thể click chọn user và thay đổi các thông tin user như Họ tên, Địa chỉ email, Số điện thoại.....
+* **User của tôi:** Mỗi agent sẽ có một danh sách "User của tôi**"** riêng, các user đã có hội thoại với agent. Agent sẽ chủ động theo dõi được các user mình đã chăm sóc tư vấn.
+* **Conntected users**: Tất cả user đã có hội thoại trò chuyện với các agent trong tài khoản. Connected users giúp người quản lý có thể nắm bắt tình hình khách hàng liên hệ và cách chăm sóc tư vấn của các agent.
+* **Hội thoại chưa được phân phối:** Các cuộc hội thoại của khách hàng chưa được chỉ định cho agent sẽ được tự động chuyển về "Hội thoại chưa được phân phối". Agent có thể vào kiểm tra và trả lời khách hàng. Xem thêm [cài đặt Rule phân phối hội thoại cho agen](https://help.subiz.com/bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/rule-phan-phoi-cuoc-hoi-thoai)t.
+* **Tickets** : Danh sách các user có Ticket cần theo dõi và xử lý.
 
 **Tin nhắn mới của user hiển thị thông báo số màu đỏ để agent nhận biết và trả lời**. Tại ảnh đại diện của user có trạng thái online \(màu xanh\) hoặc offline \(màu xám\). 
 
+
+
 ![Danh s&#xE1;ch user](../../.gitbook/assets/user-info-1-copy.jpg)
+
+### Thông tin user
+
+**User mới sẽ được phân biệt theo địa chỉ Thành phố + mã user và Quốc gia**. Agent có thể click chọn user và thay đổi các thông tin user như Họ tên, Địa chỉ email, Số điện thoại.....
+
+![](../../.gitbook/assets/user-info-1-copy.jpg)
+
+
 
 ### Danh sách hoạt động user <a id="listactivities"></a>
 
