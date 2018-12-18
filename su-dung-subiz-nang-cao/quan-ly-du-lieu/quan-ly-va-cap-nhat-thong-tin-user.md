@@ -15,9 +15,9 @@ Tại trang [**HOẠT ĐỘNG**](https://app.subiz.com/activities), bạn có th
 Có 4 phân khúc user để agent theo dõi và quản lý danh sách user theo từng nhóm:
 
 * **User của tôi:** Mỗi agent sẽ có một danh sách "User của tôi**"** riêng, các user đã có hội thoại với agent. Agent sẽ chủ động theo dõi được các user mình đã chăm sóc tư vấn.
-* **Conntected users**: Tất cả user đã có hội thoại trò chuyện với các agent trong tài khoản. Connected users giúp người quản lý có thể nắm bắt tình hình khách hàng liên hệ và cách chăm sóc tư vấn của các agent.
+* **Connected users**: Tất cả user đã có hội thoại trò chuyện với các agent trong tài khoản. Connected users giúp người quản lý có thể nắm bắt tình hình khách hàng liên hệ và cách chăm sóc tư vấn của các agent.
 * **Hội thoại chưa được phân phối:** Các cuộc hội thoại của khách hàng chưa được chỉ định cho agent sẽ được tự động chuyển về "Hội thoại chưa được phân phối". Agent có thể vào kiểm tra và trả lời khách hàng. Xem thêm [cài đặt Rule phân phối hội thoại cho agen](https://help.subiz.com/bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/rule-phan-phoi-cuoc-hoi-thoai)t.
-* **Tickets** : Danh sách các user có Ticket cần theo dõi và xử lý.  Xem thêm [hướng dẫn sử dụng Ticket quản lý chăm sóc khách hàng](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/ticket-quan-ly-cham-soc-khach-hang).
+* **Tickets** : Danh sách các user có ticket cần theo dõi và xử lý.  Xem thêm [hướng dẫn sử dụng Ticket quản lý chăm sóc khách hàng](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/ticket-quan-ly-cham-soc-khach-hang).
 
 ![Danh s&#xE1;ch user](../../.gitbook/assets/phan-khuc-user-copy.jpg)
 
