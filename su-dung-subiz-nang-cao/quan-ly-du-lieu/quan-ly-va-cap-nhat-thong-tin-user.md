@@ -6,7 +6,7 @@ description: 'Cách quản lý và tùy chỉnh, cập nhật thông tin user (k
 
 **User là khách hàng có tương tác với bạn qua** [**Subiz**](https://subiz.com/vi/)**,** bao gồm các khách hàng có hội thoại trò chuyện với agent từ website, Fanpage Messenger và Email. Danh sách user được hiển thị bên trái trên trang [**HOẠT ĐỘNG**](https://app.subiz.com/activities)**.**
 
-Tại trang [**HOẠT ĐỘNG**](https://app.subiz.com/activities), bạn có thể quản lý danh sách user đã tương tác, danh sách hoạt động của từng user và lịch cuộc hội thoại trực tiếp với họ.
+Tại trang [**HOẠT ĐỘNG**](https://app.subiz.com/activities), bạn có thể quản lý danh sách user đã tương tác, danh sách hoạt động của từng user và lịch sử các cuộc hội thoại trực tiếp với user.
 
 ### **Danh sách User** <a id="danhsachuser"></a>
 
@@ -19,9 +19,9 @@ Có 4 phân khúc user để agent theo dõi và quản lý danh sách user theo
 * **Hội thoại chưa được phân phối:** Các cuộc hội thoại của khách hàng chưa được chỉ định cho agent sẽ được tự động chuyển về "Hội thoại chưa được phân phối". Agent có thể vào kiểm tra và trả lời khách hàng. Xem thêm [cài đặt Rule phân phối hội thoại cho agen](https://help.subiz.com/bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/rule-phan-phoi-cuoc-hoi-thoai)t.
 * **Tickets** : Danh sách các user có Ticket cần theo dõi và xử lý.  Xem thêm [hướng dẫn sử dụng Ticket quản lý chăm sóc khách hàng](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/ticket-quan-ly-cham-soc-khach-hang).
 
-**Tin nhắn mới của user hiển thị thông báo số màu đỏ để agent nhận biết và trả lời**. Tại ảnh đại diện của user có trạng thái online \(màu xanh\), ngược lại là user offline.
+![Danh s&#xE1;ch user](../../.gitbook/assets/phan-khuc-user-copy.jpg)
 
-![Danh s&#xE1;ch user](../../.gitbook/assets/user-info-1-copy.jpg)
+**Tin nhắn mới của user hiển thị thông báo số màu đỏ để agent nhận biết và trả lời**. Tại ảnh đại diện của user có trạng thái online \(màu xanh\), ngược lại là user offline.
 
 ### Thông tin user
 
