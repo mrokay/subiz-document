@@ -221,7 +221,6 @@ https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png
 .widget_mobile .widget_mini .close-widget-icon { display: none; } 
 .widget_mobile .button-chat .avatar-preview img { display: none; } 
 .widget_mobile .button-chat { box-shadow: none; background-color: transparent !important; }
-
 .widget_mobile .widget-button {bottom:0;right:40px;}
 
 /* Thay đường link ảnh chat button của bạn: https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png
