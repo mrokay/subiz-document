@@ -18,7 +18,7 @@ Agent sẽ thiết lập và phân loại ticket theo các dữ liệu sau:
 
 * **Mức ưu tiên**: Khẩn cấp, Cao, Trung Bình, Thấp
 * **Trạng thái**: Đang mở, Chờ xử lý, Đã giải quyết, Đóng
-* **Hạn xử lý**: Ticket mới tạo sẽ mặc định chọn Hạn xử lý theo thời gian SLA hoặc bạn có thể tùy chỉnh thời gian hạn xử lý.
+* **Hạn xử lý**: Ticket mới tạo sẽ mặc định chọn Hạn xử lý theo thời gian [ticket SLA](https://app.subiz.com/settings/ticket-list) hoặc bạn có thể tùy chỉnh thời gian hạn xử lý.
 * **Agent**: Agent xử lý ticket chính là Agent được chỉ định cuộc hội thoại
 * **Ghi chú**: Tóm tắt ngắn gọn vấn đề hay yêu cầu của khách hàng
 
