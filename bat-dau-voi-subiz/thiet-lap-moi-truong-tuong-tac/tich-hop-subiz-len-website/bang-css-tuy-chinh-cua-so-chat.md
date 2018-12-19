@@ -211,21 +211,24 @@ Website bản destop và bản mobile đang hiển thị chung một chat button
 
 ```csharp
 .widget_mobile .button-chat { border-radius: 0; background-image: url(
-https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png
+https://filev4.subiz.com/fiqezwgriaddsetqxoig-button_mobile_3.png
 ); background-repeat: no-repeat; } 
 .widget_mobile .button-chat-icon { display: none; } @supports (-ms-ime-align:auto) { .widget_mobile .button-chat { border-radius: 50%; } 
 .widget_mobile .button-chat-icon { display: inline-block; } } 
-.widget_mobile .widget-button { width: 81px; height: 31px; } 
+.widget_mobile .widget-button { width: 120px; height: 100px; } 
 .widget_mobile .button-chat { border-radius: 0 !important; } 
 .widget_mobile .widget-button:after { display: none; } 
 .widget_mobile .widget_mini .close-widget-icon { display: none; } 
 .widget_mobile .button-chat .avatar-preview img { display: none; } 
 .widget_mobile .button-chat { box-shadow: none; background-color: transparent !important; }
-.widget_mobile .widget-button {bottom:0;right:40px;}
+.widget_mobile .widget-button {bottom:0;right:10px;}
 
-/* Thay đường link ảnh chat button của bạn: https://filev4.subiz.com/fiqeoiwaoownfszxoyju-button_chat_10.png
-Thay đổi kích thước ảnh chat button width: 81px; height: 31px
-Thay đổi vị trí chat button trên website khoảng 0 đến 40px trong {bottom:0;right:40px;} */
+/* Thay đường link ảnh chat button khác như:
+https://filev4.subiz.com/fiqezwgrhzzwishdocxj-button_mobile_1.png
+https://filev4.subiz.com/fiqezwgriaaqusgqymat-button_mobile_2.png
+Thay đổi kích thước ảnh chat button width: 120px; height: 100px
+Thay đổi vị trí chat button trên website: left hay right, từ 0 đến 40px trong
+{bottom:0;right:10px;} */
 ```
 
 ### Ẩn cửa sổ chat
