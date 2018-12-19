@@ -227,7 +227,7 @@ https://filev4.subiz.com/fiqezwgriaddsetqxoig-button_mobile_3.png
 https://filev4.subiz.com/fiqezwgrhzzwishdocxj-button_mobile_1.png
 https://filev4.subiz.com/fiqezwgriaaqusgqymat-button_mobile_2.png
 Thay đổi kích thước ảnh chat button width: 120px; height: 100px
-Thay đổi vị trí chat button trên website: left hay right, từ 0 đến 40px trong
+Tùy chỉnh vị trí chat button trên website: left hay right, từ 0 đến 40px trong
 {bottom:0;right:10px;} */
 ```
 
