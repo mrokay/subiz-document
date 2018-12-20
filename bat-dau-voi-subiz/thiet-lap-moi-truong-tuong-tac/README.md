@@ -1,6 +1,6 @@
-# Thiết lập môi trường tương tác
+# Thiết lập kênh tương tác
 
-Việc đầu tiên bạn cần thực hiện sau khi đăng ký tài khoản [Subiz](https://subiz.com/vi/) là thiết lập môi trường tương tác bằng cách tích hợp các kênh tương tác hiện tại của doanh nghiệp vào [Subiz](https://subiz.com/vi/).
+Việc đầu tiên bạn cần thực hiện sau khi đăng ký tài khoản [Subiz](https://subiz.com/vi/) là thiết lập kênh tương tác bằng cách tích hợp các kênh tương tác hiện tại của doanh nghiệp vào [Subiz](https://subiz.com/vi/).
 
 [Subiz](https://subiz.com/vi/) hỗ trợ doanh nghiệp tương tác với khách hàng đến từ nhiều[ website](https://subiz.com/vi/live-chat.html%20), [fanpage](https://subiz.com/vi/facebook-messenger.html%20), [email](https://subiz.com/vi/email.html%20),… Trong mỗi kênh tương tác bạn có thể thực hiện những cài đặt và tùy chỉnh cho phù hợp với nhu cầu của doanh nghiệp.
 
