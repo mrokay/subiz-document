@@ -1,3 +1,7 @@
+---
+description: Tài liệu hướng dẫn đọc thống kê users (khách hàng) trên Subiz
+---
+
 # Thống kê Users
 
 [Thống kê Users](https://app.subiz.com/reports/user) là thống kê số lượng khách hàng mới đã truy cập website, có tương tác qua Subiz trong một khoảng thời gian. Đây cũng là cơ sở giúp các Marketing, nhà quản lý đánh giá được tổng quan khách hàng và tỷ lệ chuyển đổi của doanh nghiệp.

@@ -1,3 +1,7 @@
+---
+description: Tài liệu hướng dẫn cách đọc thống kê hội thoại được gắn tag.
+---
+
 # Thống kê hội thoại được gắn tag
 
 Subiz Tag là [tính năng](https://subiz.com/vi/feature.html) cho phép người dùng gắn thẻ tag cho các hội thoại trò chuyện trên tất cả các kênh tích hợp [Subiz](https://subiz.com/vi/). Mục đích của tính năng này để hỗ trợ viên dễ dàng phân loại cuộc trò chuyện theo những vấn đề của khách hàng: Tư vấn sản phẩm, Mua hàng, Phàn nàn,…
