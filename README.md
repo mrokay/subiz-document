@@ -1,6 +1,6 @@
 # Xin chào, làm thế nào để chúng tôi hỗ trợ bạn?
 
-{% embed url="https://www.youtube.com/watch?v=6OCPryufRhw&index=7&list=PLsIvqjI-DtcENvSxIf6Pohqg8oa3PGtVO" %}
+{% embed url="https://www.youtube.com/watch?v=6OCPryufRhw&index=7&list=PLsIvqjI-DtcENvSxIf6Pohqg8oa3PGtVO" caption="Video hướng dẫn sử dụng Subiz" %}
 
 Đây là trang hướng dẫn sử dụng [Subiz](https://subiz.com/vi/) với các hướng dẫn chi tiết, giúp bạn tìm hiểu, cài đặt và sử dụng [Subiz](https://subiz.com/vi/) một cách hiệu quả. 
 
