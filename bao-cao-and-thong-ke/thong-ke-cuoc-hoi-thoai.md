@@ -1,3 +1,7 @@
+---
+description: Bài viết hio
+---
+
 # Thống kê hội thoại
 
 [Thống kê hội thoại](https://app.subiz.com/reports) giúp đánh giá tổng quan về số lượng cuộc tương tác trò chuyện của khách hàng trên [Subiz](https://subiz.com/vi/). Đặc biệt, [Subiz](https://subiz.com/vi/) có thống kê hội thoại theo nhiều thông số khác nhau.

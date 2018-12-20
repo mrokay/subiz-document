@@ -108,6 +108,8 @@ API cho phép bạn truyền một đoạn mã CSS để thay đổi lại Subiz
 </script>
 ```
 
+Bạn tham khảo thêm [Bảng CSS tùy chỉnh cửa sổ Subiz chat](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/bang-css-tuy-chinh-cua-so-chat)!
+
 ### API Subscribe Push Notification
 
 API cho phép bạn chủ động hỏi user đồng ý nhận thông báo qua trình duyệt khi cửa sổ Subiz của họ có tin nhắn mới. Bạn có thể đặt vào một nút trên trang web hay một link bất kỳ để có thể gia tăng số người đồng ý nhận thông báo.
@@ -135,7 +137,7 @@ API cho phép bạn chủ động hỏi user đồng ý nhận thông báo qua t
 //API để kiểm tra tình trạng user đã đồng ý nhận thông báo chưa? 
 ```
 
-Bạn tham khảo thêm [Bảng mã CSS tùy chỉnh cửa sổ Subiz chat](https://help.subiz.com/~/edit/drafts/-LTjgYqANhComlPE_azc/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/bang-ma-css-tuy-chinh-cua-so-chat)!
+
 
 
 
