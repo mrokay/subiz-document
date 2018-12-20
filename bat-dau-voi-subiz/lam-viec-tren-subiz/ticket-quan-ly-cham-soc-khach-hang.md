@@ -28,13 +28,20 @@ Agent sẽ thiết lập và phân loại ticket theo các dữ liệu sau:
 
 Ticket được tạo thành công sẽ hiển thị thông báo ngay trên cuộc hội thoại. 
 
-Agent sẽ vào phân khúc Ticket để theo dõi danh sách ticket đang có và lọc ticket theo NHÓM, TRẠNG THÁI, ... để ưu tiên xử lý các yêu cầu của khách hàng.
+Agent sẽ vào danh sách Ticket để theo dõi các ticket đang có và lọc ticket theo NHÓM, TRẠNG THÁI, ... để ưu tiên xử lý các yêu cầu của khách hàng.
 
 ![Qu&#x1EA3;n l&#xFD; danh s&#xE1;ch ticket](../../.gitbook/assets/quan-ly-ticket-copy.jpg)
 
 Agent có thể tùy chỉnh các dữ liệu của ticket và cập nhật Trạng thái kết quả xử lý ticket.
 
 ![C&#x1EAD;p nh&#x1EAD;t d&#x1EEF; li&#x1EC7;u Ticket](../../.gitbook/assets/cap-nhat-ticket-copy.jpg)
+
+## Một số lưu ý khi sử dụng ticket 
+
+* Người quản lý cần có quy định chung cho các agent về nghiệp vụ sử dụng ticket như: Khi nào cần tạo Ticket, Gắn Tag hội thoại để thống kê Tag ticket,  Phân loại mức độ ưu tiên của ticket,...
+* Cài đặt [Giờ làm việc](https://app.subiz.com/settings/business-hours) và thiết lập [Ticket SLA](https://app.subiz.com/settings/ticket-edit?sid=saqesmawfkrzwfcksgty) xác định mục tiêu hạn xử lý ticket.
+* Agent cần thường xuyên theo dõi danh sách Ticket để kịp thời xử lý và cập nhật thông tin hỗ trợ khách hàng.
+* Xem thêm thống kê ticket.
 
 ###  
 
