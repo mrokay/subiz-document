@@ -34,9 +34,11 @@ Thống kê Ticket sẽ tính 5 chỉ số sau theo đơn vị thời gian.
 Sau khi chọn các tiêu chí để thống kê, bạn có thể quan sát dữ liệu được thống kê dưới dạng biểu đồ. 
 
 * **Trục dọc:** Số lượng ticket
-* **Trục ngang:** Trục thời gian \(đơn vị thời gian nhỏ nhất là giờ\)
+* **Trục ngang:** Trục thời gian 
 
 #### Ticket Hiệu suất của Agent
+
+Bảng thống kê liệt kê đầy đủ danh sách agent của tài khoản và số lượng ticket của từng agent theo thời gian. Từ đó, bạn sẽ có đánh giá, so sánh đối chiếu kết quả của agent trong việc tiếp nhận và giải quyết các vấn đề của khách hàng.
 
 
 
