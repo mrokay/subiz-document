@@ -8,7 +8,7 @@ description: >-
 
 [Thông báo trên trình duyệt User](http://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/thong-bao-tren-trinh-duyet-users) là một tính năng mạnh giúp bạn kèo User quay lại web dựa vào tin nhắn tương tác trên cửa sổ Subiz. Trong tài liệu này,  chúng tôi đưa ra ví dụ để giúp bạn thu hút được nhiều User đồng ý nhận thông báo trên màn hình.
 
-### Kịch bản thực 
+### Kịch bản thực hiện  
 
 Kịch bản là thiết lập một popup hỏi khách truy cập có đồng ý nhận thông báo. Khi khách click đồng ý,  sẽ gọi đển [Subiz API Javascript đăng ký nhận thông báo](http://help.subiz.com/su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget#api-subscribe-push-notification) để kích hoạt setting.
 
