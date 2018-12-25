@@ -26,7 +26,7 @@ Cửa sổ Subiz đã được thiết kế sẵn tính năng **Thông báo** đ
 
 ![User c&#xF3; th&#x1EC3; b&#x1EAD;t ch&#x1EE9;c n&#x103;ng Th&#xF4;ng b&#xE1;o.](../../../.gitbook/assets/screenshot-from-2018-12-11-13-35-57.png)
 
-Ngoài ra, bạn có thể sử dụng Subiz API Javascript để kêu gọi users. [Đây là Hướng dẫn về API.](http://help.subiz.com/su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget#api-subscribe-push-notification) Bạn có thể tùy ý đặt ở Menu hay ngay khi khách vào website để hỏi user đồng ý nhận thông báo. 
+Ngoài ra, bạn có thể sử dụng Subiz API Javascript để kêu gọi users. [Đây là Hướng dẫn về API.](http://help.subiz.com/su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget#api-subscribe-push-notification) Bạn có thể tùy ý đặt ở Menu hay ngay khi khách vào website để hỏi user đồng ý nhận thông báo. [Ví dụ về mời khách đồng ý nhận thông báo](http://help.subiz.com/su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget/ma-nhung-hoi-khach-nhan-thong-bao). 
 
 **Cách gửi thông báo tới users**
 
