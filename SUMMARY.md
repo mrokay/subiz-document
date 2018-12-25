@@ -60,6 +60,7 @@
     * [API Javascript đồng bộ dữ liệu website và Subiz](su-dung-subiz-nang-cao/quan-ly-du-lieu/api-dong-bo-du-lieu-website-va-subiz.md)
   * [API Javascript của Subiz Widget](su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget/README.md)
     * [Sử dụng API Js với Google Tag](su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget/su-dung-api-js-voi-google-tag.md)
+    * [Mã nhúng Mời khách nhận thông báo](su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget/ma-nhung-hoi-khach-nhan-thong-bao.md)
   * [Sản phẩm](su-dung-subiz-nang-cao/content.md)
   * [Tích hợp với bên thứ 3](su-dung-subiz-nang-cao/tich-hop-voi-ben-thu-3/README.md)
     * [Subiz và Google Analytics](su-dung-subiz-nang-cao/tich-hop-voi-ben-thu-3/subiz-va-google-analytics.md)
