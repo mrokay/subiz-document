@@ -41,7 +41,7 @@ Agent có thể tùy chỉnh các dữ liệu của ticket và cập nhật Tr�
 * Người quản lý cần có quy định chung cho các agent về nghiệp vụ sử dụng ticket như: Khi nào cần tạo Ticket, Gắn Tag hội thoại để thống kê Tag ticket,  Phân loại mức độ ưu tiên của ticket,...
 * Cài đặt [Giờ làm việc](https://app.subiz.com/settings/business-hours) và thiết lập [Ticket SLA](https://app.subiz.com/settings/ticket-edit?sid=saqesmawfkrzwfcksgty) xác định mục tiêu hạn xử lý ticket.
 * Agent cần thường xuyên theo dõi danh sách Ticket để kịp thời xử lý và cập nhật thông tin hỗ trợ khách hàng.
-* Xem thêm thống kê ticket.
+* Xem thêm [thống kê ticket](https://help.subiz.com/bao-cao-and-thong-ke/thong-ke-tickets).
 
 ###  
 
