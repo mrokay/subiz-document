@@ -10,13 +10,13 @@ description: >-
 
 ### Kịch bản thực hiện  
 
-Kịch bản là thiết lập một popup hỏi khách truy cập có đồng ý nhận thông báo. Khi khách click đồng ý,  sẽ gọi đển [Subiz API Javascript đăng ký nhận thông báo](http://help.subiz.com/su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget#api-subscribe-push-notification) để kích hoạt setting.
+Kịch bản là thiết lập một popup hỏi khách truy cập có đồng ý nhận thông báo. Khi khách click đồng ý,  sẽ gọi đến [Subiz API Javascript đăng ký nhận thông báo](http://help.subiz.com/su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget#api-subscribe-push-notification) để kích hoạt cài đặt.
 
 ![M&#xE0;n h&#xEC;nh h&#x1ECF;i kh&#xE1;ch h&#xE0;ng &#x111;&#x1ED3;ng &#xFD; nh&#x1EAD;n th&#xF4;ng b&#xE1;o.](../../.gitbook/assets/screenshot-from-2018-12-25-16-50-08.png)
 
 ### Cách triển khai
 
-Bạn copy đoạn mã html sau vào nhúng vào website ngay dưới thẻ &lt;body&gt;. 
+Bạn sao chép đoạn mã html sau để nhúng vào website ngay dưới thẻ &lt;body&gt;. 
 
 ```markup
 <style type="text/css">
