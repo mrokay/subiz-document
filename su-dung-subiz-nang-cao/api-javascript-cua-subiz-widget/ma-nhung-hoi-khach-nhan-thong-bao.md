@@ -18,12 +18,12 @@ Kịch bản là thiết lập một popup hỏi khách truy cập có đồng �
 
 Bạn sao chép đoạn mã html sau để nhúng vào website ngay dưới thẻ &lt;body&gt;. 
 
-```markup
+```csharp
 <style type="text/css">
 @import url('https://fonts.googleapis.com/css?family=Muli:300,400,700&subset=latin-ext,vietnamese');
 body{margin:0px; padding: 0px;font-family: 'Muli', sans-serif; font-weight: 400; font-size: 16px; color: #4a4a4a; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;}
 *{box-sizing: border-box;}
-.popup-subscribire{position: fixed; width:500px; left: 50%; margin-left:-250px; padding: 18px; border-radius: 3px; background: #FFF; box-shadow: 0px 0px 20px rgba(5,25,62, .15);z-index:100;display: none;}
+.popup-subscribire{position: fixed; top: 20px; width:500px; left: 50%; margin-left:-250px; padding: 18px; border-radius: 3px; background: #FFF; box-shadow: 0px 0px 20px rgba(5,25,62, .15);z-index:100;display: none;}
 .popup-logo{ display: inline-block; vertical-align: top; width:80px; margin-right:20px;}
 .popup-logo img{max-width:100%;}
 .popup-summary{display: inline-block; width:calc(100% - 80px - 25px); line-height: 21px;}
@@ -31,7 +31,7 @@ body{margin:0px; padding: 0px;font-family: 'Muli', sans-serif; font-weight: 400;
 .popup-bottom a{ display: inline-block;vertical-align: middle; margin:0 3px; height: 40px; line-height: 38px; padding: 0 25px; color: #1890ff; font-size: 16px; font-weight:500; text-transform: uppercase; text-decoration: none; border-radius: 3px;}
 .popup-bottom a.ok{ color: #FFF; background-color: #1890ff;}
 </style>
-
+​
 <div class="popup-subscribire">
   <div class="popup-logo"><img src="logo.png" alt=""></div>
   <div class="popup-summary">Click vào ĐỒNG Ý để nhận được các thông tin hữu ích từ Subiz.</div>
@@ -40,7 +40,7 @@ body{margin:0px; padding: 0px;font-family: 'Muli', sans-serif; font-weight: 400;
     <a href="#" class="ok" onclick="subiz('subscribePushNotification');closePopUp()">Đồng ý</a>
   </div>
 </div>
-
+​
 <script type="text/javascript">
   function closePopUp(e) {
     document.querySelector('.popup-subscribire').style.display = 'none'
@@ -66,7 +66,7 @@ body{margin:0px; padding: 0px;font-family: 'Muli', sans-serif; font-weight: 400;
 
 Bạn chú ý: 
 
-* Thay đường dẫn logo.png bằng đường dẫn logo của bạn.
+* Thay đường dẫn **logo.png** bằng đường dẫn logo của bạn.
 * Sửa lại phong cách và mầu sắc để phù hợp bằng cách sửa từ CSS. Ghép đoạn CSS với file css của web để cho gọn gàng.
 * Popup hỏi sẽ hiển thị đến khi khách Đóng lại. 
 
