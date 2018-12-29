@@ -4,20 +4,20 @@
 
 Bạn \(Agent\) cần đăng nhập [App.subiz.com](https://app.subiz.com) để bắt đầu online và sẵn sàng  tư vấn khách hàng.
 
-### Tạo cuộc tương tác mới 
+### Tạo hội thoại mới với khách hàng
 
-Có hai hình thức khởi tạo một cuộc tương tác với khách hàng:  
-**1. Khách hàng chủ động khởi tạo cuộc tương tác  
-2. Agent chủ động khởi tạo cuộc tương tác**
+Có hai hình thức khởi tạo một cuộc hội thoại với khách hàng:  
+**1. Khách hàng nhắn tin trước và tạo hội thoại mới  
+2. Agent chủ động nhắn tin và tạo hội thoại mới**
 
 {% tabs %}
-{% tab title="Khách hàng khởi tạo cuộc tương tác" %}
+{% tab title="Khách hàng tạo cuộc hội thoại mới" %}
 **Khách hàng chủ động khởi tạo cuộc tương tác**  
 Khi truy cập website của bạn, khách hàng sẽ gửi tin nhắn yêu cầu hỗ trợ ngay trên[ cửa sổ chat Subiz.](https://subiz.com/vi/live-chat.html)
 
 ![C&#x1EED;a s&#x1ED5; chat Subiz tr&#xEA;n website](../../.gitbook/assets/cua-so-chat-tren-website-3.jpg)
 
-Để xem được tin nhắn từ khách hàng, bạn thao tác như sau: Vào mục **HÀNH ĐỘNG &gt;** Chọn **Khách hàng**  &gt; Chọn tương tác chưa đọc trong **LIST ACTIVITIES**  &gt; **Cửa sổ chat** mở và trả lời tại đây.
+Để xem được tin nhắn từ khách hàng, bạn thao tác như sau: Vào trang[ **HOẠT ĐỘNG**](https://app.subiz.com/activities) **&gt;** Chọn **Khách hàng**  &gt; Chọn hội thoại chưa đọc &gt; **Cửa sổ chat** mở và trả lời tại đây.
 
 ![Xem n&#x1ED9;i dung tin nh&#x1EAF;n c&#x1EE7;a kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/chat-3.jpg)
 
@@ -34,20 +34,12 @@ _**Lưu ý**_: Khi không nhận được thông báo, hãy kiểm tra lại má
 {% endhint %}
 {% endtab %}
 
-{% tab title=" Agent khởi tạo cuộc tương tác" %}
-**Agent chủ động khởi tạo cuộc tương tác**
+{% tab title=" Agent tạo cuộc hội thoại mới" %}
+**Agent chủ động khởi tạo cuộc hội thoại**
 
-Nếu khách hàng không chủ động tương tác trước, thì bạn cần quan sát trên trang **KHÁCH** để biết khách hàng đang quan tâm điều gì và chủ động tương tác hỗ trợ khách hàng.
+Agent có thể quan sát khách hàng trên trang **KHÁCH** để biết khách hàng đang quan tâm thông tin gì và chủ động trò truyện tư vấn khách hàng. Click **Say hello** và bắt đầu cuộc hội thoại mới
 
-![Quan s&#xE1;t kh&#xE1;ch truy c&#x1EAD;p website](../../.gitbook/assets/9.-khach-truy-cap.jpg)
-
-Để tạo cuộc hội thoại với khách truy cập website, bạn vào thao tác như sau:
-
-1. [Vào mục **KHÁCH**  &gt; Chọn **Khách hàng** ](https://app.subiz.com/visitors)
-2. Chọn **Tạo hội thoại mới**  &gt; Chọn[ **Subiz Chat**](https://subiz.com/vi/live-chat.html)\*\*\*\*
-3.  **Cửa sổ chat mở** và bạn gửi tin nhắn tại đây.
-
-![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i v&#x1EDB;i kh&#xE1;ch truy c&#x1EAD;p](../../.gitbook/assets/10.-new-chat-subiz.jpg)
+![](../../.gitbook/assets/visitor-copy.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -91,7 +83,7 @@ Tại vùng nhập tin nhắn, bạn có thể lựa chọn gửi kèm biểu t�
 
 ![S&#x1EED; d&#x1EE5;ng Emoji c&#x1EA3;m x&#xFA;c v&#xE0; file &#x111;&#xED;nh k&#xE8;m](../../.gitbook/assets/6.-emoji%20%281%29.jpg)
 
-### Gắn Tag
+### Gắn Tag hội thoại
 
 Subiz Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp Agent dễ dàng phân loại và quản lý các tương tác của khách hàng.
 
@@ -148,6 +140,14 @@ _**Lưu ý**_: Khi cuộc hội thoại kết thúc sẽ có thông báo trên c
 {% endhint %}
 
 ![H&#x1ED9;i tho&#x1EA1;i &#x111;&#xE3; k&#x1EBF;t th&#xFA;c](../../.gitbook/assets/13.-end-chat.jpg)
+
+### Tạo ticket chăm sóc khách hàng
+
+Từ một hội thoại của khách hàng trên bất kỳ kênh tương tác nào như Subiz chat, Email, Messenger,..., agent có thể chuyển thành [Ticket](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/ticket-quan-ly-cham-soc-khach-hang) để ghi nhận và theo dõi kết quả giải quyết yêu cầu của khách hàng
+
+Xem thêm [cách quản lý và thống kê ticket](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/ticket-quan-ly-cham-soc-khach-hang)
+
+![Chuy&#x1EC3;n th&#xE0;nh ticket](../../.gitbook/assets/1-chuyen-ticket.jpg)
 
 ### Chặn khách hàng
 
