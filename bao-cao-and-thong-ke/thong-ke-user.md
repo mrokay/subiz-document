@@ -16,8 +16,8 @@ Phân khúc user là nhóm khách hàng đã được phân chia. Gồm 3 phân 
 \([Xem thêm về phân khúc user](https://help.subiz.com/su-dung-subiz-nang-cao/quan-ly-du-lieu/phan-khuc-khach-hang/su-dung-phan-khuc-khach-hang-mac-dinh)\)
 
 * **User của tôi:** là khách hàng đã có tương tác trò chuyện với bạn.
-* **Contacted users:** là khách hàng đã có tương tác trò chuyện với tất cả các agent.
-* **Tất cả user**: là khách hàng đã truy cập vào website
+* **Contacted users:** là khách hàng đã có hội thoại trò chuyện với tất cả các agent.
+* **Tất cả user**: là khách hàng đã truy cập vào website hoặc có hội thoại trên Subiz
 
 ![Ch&#x1ECD;n ph&#xE2;n kh&#xFA;c user th&#x1ED1;ng k&#xEA;](../.gitbook/assets/1.-user-copy.jpg)
 {% endtab %}
