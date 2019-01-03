@@ -23,7 +23,7 @@ Bạn sao chép đoạn mã html sau đặt dưới mã nhúng Subiz trên code 
 @import url('https://fonts.googleapis.com/css?family=Muli:300,400,700&subset=latin-ext,vietnamese');
 body{margin:0px; padding: 0px;font-family: 'Muli', sans-serif; font-weight: 400; font-size: 16px; color: #4a4a4a; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;}
 *{box-sizing: border-box;}
-.popup-subscribire{position: fixed; top: 20px; width:500px; left: 50%; margin-left:-250px; padding: 18px; border-radius: 3px; background: #FFF; box-shadow: 0px 0px 20px rgba(5,25,62, .15);z-index:100;display: none;}
+.popup-subscribire{position: fixed; top: 20px; width:500px; left: 50%; margin-left:-250px; padding: 18px; border-radius: 3px; background: #FFF; box-shadow: 0px 0px 20px rgba(5,25,62, .15);z-index:99999;display: none;}
 .popup-logo{ display: inline-block; vertical-align: top; width:80px; margin-right:20px;}
 .popup-logo img{max-width:100%;}
 .popup-summary{display: inline-block; width:calc(100% - 80px - 25px); line-height: 21px;}
