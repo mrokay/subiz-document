@@ -9,7 +9,11 @@ Hóa đơn gia hạn cũng sẽ tự động sinh ra để bạn thực hiện t
 Bạn có thể xem chi tiết gói dịch vụ và hóa đơn thanh toán tại trang [THANH TOÁN](https://app.subiz.com/payment-home) của Subiz.
 
 {% hint style="info" %}
-Lưu ý: Để thay đổi gói dịch vụ gia hạn, bạn cần thay đổi gói dịch vụ trước khi kết thúc chu kỳ thanh toán đang có, [xem chi tiết](https://help.subiz.com/thanh-toan/thay-doi-goi-dich-vu).
+Lưu ý:
+
+* Hóa đơn gia hạn sinh ra thể hiện cam kết Subiz cung cấp dịch vụ và Doanh nghiệp thanh toán chi phí. 
+* Hóa đơn tự động của hệ thống không thể tùy chỉnh hay xóa đi.
+* Bạn muốn thay đổi gói dịch vụ gia hạn \(hạ gói, giảm agent, giảm chu kỳ thanh toán\), bạn cần thay đổi gói dịch vụ trước khi kết thúc chu kỳ thanh toán đang có, [xem chi tiết](https://help.subiz.com/thanh-toan/thay-doi-goi-dich-vu).
 {% endhint %}
 
 ### Thông báo hóa đơn gia hạn
@@ -19,7 +23,7 @@ Subiz sẽ thông báo hóa đơn gia hạn cần thanh toán trên 2 kênh chí
 1. Thông báo ngay trên trang quản trị [App.subiz.com](https://app.subiz.com), bạn có thể xem chi tiết hóa đơn gia hạn tại trang [THANH TOÁN](https://app.subiz.com/payment-home)
 2. Thông báo hóa đơn gia hạn qua email phụ trách tài khoản Subiz hoặc email của bạn yêu cầu nhận thông báo hóa đơn 
 
-### Phương thức thanh toán gia hạn Subiz
+### Thanh toán gia hạn Subiz
 
 Subiz hỗ trợ 2 phương thức thanh toán là Thẻ tín dụng và Chuyển khoản. Dưới đây là hướng dẫn các bước thanh toán như sau:
 
