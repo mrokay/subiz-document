@@ -16,7 +16,7 @@ Kịch bản là thiết lập một popup hỏi khách truy cập có đồng �
 
 ### Cách triển khai
 
-Bạn sao chép đoạn mã html sau đặt dưới mã nhúng tích hợp Subiz trên code website trước thẻ &lt;body&gt;. 
+Bạn sao chép đoạn mã html sau đặt dưới mã nhúng Subiz trên code website trước thẻ &lt;body&gt;. 
 
 ```csharp
 <style type="text/css">

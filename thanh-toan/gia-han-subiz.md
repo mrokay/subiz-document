@@ -8,6 +8,10 @@ Hóa đơn gia hạn cũng sẽ tự động sinh ra để bạn thực hiện t
 
 Bạn có thể xem chi tiết gói dịch vụ và hóa đơn thanh toán tại trang [THANH TOÁN](https://app.subiz.com/payment-home) của Subiz.
 
+{% hint style="info" %}
+Lưu ý: Để thay đổi gói dịch vụ gia hạn, bạn cần thay đổi gói dịch vụ trước khi kết thúc chu kỳ thanh toán đang có, [xem chi tiết](https://help.subiz.com/thanh-toan/thay-doi-goi-dich-vu).
+{% endhint %}
+
 ### Thông báo hóa đơn gia hạn
 
 Subiz sẽ thông báo hóa đơn gia hạn cần thanh toán trên 2 kênh chính:

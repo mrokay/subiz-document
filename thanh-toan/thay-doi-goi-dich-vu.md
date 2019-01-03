@@ -6,7 +6,7 @@ Trong quá trình sử dụng Subiz, tùy vào tình hình kinh doanh và chiế
 
 * **Tài khoản ở gói miễn phí**
 
-Khi tài khoản của bạn ở gói miễn phí và muốn nâng cấp lên gói trả phí, bạn cần đăng nhập vào trang [Thanh toán](https://app.subiz.com/payment-home) sau đó lựa chọn số lượng Agent và chu kỳ phù hợp rồi click vào **ĐĂNG KÝ NGAY**.
+Khi tài khoản của bạn ở gói miễn phí và muốn nâng cấp lên gói trả phí, bạn cần đăng nhập vào trang [THANH TOÁN](https://app.subiz.com/payment-home), sau đó chọn gói dịch vụ **ĐĂNG KÝ NGAY** và trả phí ****[theo hướng dẫn này](https://help.subiz.com/thanh-toan/tra-phi-dich-vu-subiz)**.**
 
 ![N&#xE2;ng c&#x1EA5;p g&#xF3;i t&#xE0;i kho&#x1EA3;n](../.gitbook/assets/nang-cap-goi-tai-khoan.png)
 
@@ -21,7 +21,7 @@ Sau đó lựa chọn gói Nâng cao và tiến hành nâng cấp tài khoản:
 ![N&#xE2;ng c&#x1EA5;p l&#xEA;n g&#xF3;i n&#xE2;ng cao](../.gitbook/assets/nang-cap-len-goi-nang-cao.png)
 
 {% hint style="info" %}
-Sau khi nâng cấp tài khoản, hệ thống sẽ phát sinh hóa đơn trong tài khoản của bạn. Bạn có thể lựa chọn thanh toán qua Thẻ tín dụng hoặc Chuyển khoản theo [**Hướng dẫn thanh toán**](https://subiz.gitbook.io/subiz-document/untitled/thanh-toan/untitled)
+Sau khi nâng cấp tài khoản, hệ thống sẽ phát sinh hóa đơn trong tài khoản của bạn. Bạn có thể lựa chọn thanh toán qua Thẻ tín dụng hoặc Chuyển khoản theo [**Hướng dẫn thanh toán**](https://help.subiz.com/thanh-toan/tra-phi-dich-vu-subiz)**.**
 {% endhint %}
 
 ### Hạ cấp tài khoản
@@ -38,7 +38,7 @@ Bạn đang sử dụng gói Nâng cao và muốn hạ cấp tài khoản xuốn
 
 #### Mua thêm Agent
 
-Để tăng Agent bạn Click vào mục **Mua thêm Agent** sau đó lựa chọn số lượng Agent phù hợp:
+Để tăng Agent bạn click vào mục **Mua thêm Agent** sau đó lựa chọn số lượng Agent phù hợp:
 
 ![Mua th&#xEA;m Agent](../.gitbook/assets/mua-them-agents%20%281%29.png)
 
@@ -65,7 +65,7 @@ Bạn đang sử dụng gói Nâng cao và muốn hạ cấp tài khoản xuốn
 ### Hạ tài khoản xuống gói miễn phí
 
 Tùy vào nhu cầu sử dụng và hoạt động kinh doanh, bạn có thể lựa chọn Hạ tài khoản xuống gói miễn phí và nâng cấp lại bất cứ khi nào  
-[Xem thêm chính sách chấm dứt tài khoản](https://subiz.com/vi/terms-of-service.html)
+Xem thêm [chính sách hạ cấp tài khoản xuống gói miễn phí](https://help.subiz.com/thanh-toan/chinh-sach-hoan-tien)
 
 ![H&#x1EA1; t&#xE0;i kho&#x1EA3;n xu&#x1ED1;ng g&#xF3;i mi&#x1EC5;n ph&#xED;](../.gitbook/assets/ha-tai-khoan-xuong-goi-mien-phi%20%281%29.png)
 
