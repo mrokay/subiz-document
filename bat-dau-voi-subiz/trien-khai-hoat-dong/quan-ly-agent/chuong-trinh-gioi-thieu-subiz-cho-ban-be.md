@@ -8,7 +8,7 @@ description: >-
 
 ### Tổng quan  
 
-[Chương trình giới thiệu Subiz](https://app.subiz.com/referral) cho bạn bè là cách bạn giúp Subiz phát triển và kiếm thêm thu nhập từ Subiz. Bạn sẽ được Subiz cập một đường dẫn riêng, gửi đường dẫn này cho bạn bè của bạn bằng bất kể cách nào: Facebook, Email, message... Nếu họ chưa đăng ký ngay, một cookie lưu trữ 120 ngày sẽ ghi trên máy họ và trong khoảng thời gian này nếu họ quay lại đăng ký thì bạn vẫn được tính là người giới thiệu. Subiz cũng có những chương trình quảng cáo để kéo họ quay lại website Subiz để đăng ký.
+[Chương trình giới thiệu Subiz](https://app.subiz.com/referral) cho bạn bè là cách bạn giúp Subiz phát triển và kiếm thêm thu nhập từ Subiz. Bạn sẽ được Subiz lập một đường dẫn riêng, gửi đường dẫn này cho bạn bè của bạn bằng bất kể cách nào: Facebook, Email, message... Nếu họ chưa đăng ký ngay, một cookie lưu trữ 120 ngày sẽ ghi trên máy họ và trong khoảng thời gian này nếu họ quay lại đăng ký thì bạn vẫn được tính là người giới thiệu. Subiz cũng có những chương trình quảng cáo để kéo họ quay lại website Subiz để đăng ký.
 
 Việc tiếp sau khi họ đăng ký sẽ do các chuyên viên Subiz lo. Chúng tôi giúp họ sử dụng Subiz hiệu quả và tiến tới trả phí. Trên mỗi hóa đơn họ thanh toán, bạn sẽ nhận được tiền hoa hồng - như một lời cảm ơn của Subiz dành cho bạn vì tham gia chương trình. Không chỉ hóa đơn đầu tiên, các hóa đơn sau bạn cũng sẽ nhận được tiền hoa hồng. Vì khách hàng Subiz là khách thuê bao và sử dụng dài hạn.
 
@@ -18,8 +18,8 @@ Bạn cần biết, chương trình này áp dụng cho riêng từng agent và 
 
 Subiz có ba mức hoa hồng như sau:
 
-* Silver: 0 - 50 account giới thiệu. 10%
-* Gold: 51 - 150 khách giới thiệu. 20%
+* Silver: 0 - 50 Khách giới thiệu. 10%
+* Gold: 51 - 150 Khách giới thiệu. 20%
 * Diamond: Từ 151 Khách giới thiệu trở lên. 25%
 
 Trong đó, Silver là mức mặc định. Subiz sẽ tự chuyển mức khi bạn đạt ngưỡng.
@@ -39,7 +39,7 @@ Subiz cung cấp đầy đủ thông tin tại [Menu agent của bạn](https://
 ### Các quy định của chúng tôi.
 
 * Khi bạn tham gia chương trình, là bạn đã đồng ý với những nội dung trong Tài liệu này.
-* Bạn sẽ chỉ được trả hoa hồng khi tài khoản agent của bạn có thể login vào Subiz và truy cập được chương trình này trong tài khoản của bạn.
+* Bạn sẽ chỉ được trả hoa hồng khi tài khoản agent của bạn có thể đăng nhập vào Subiz và truy cập được chương trình này trong tài khoản của bạn.
 * Bạn không được chạy quảng cáo cạnh tranh trực tiếp với Subiz. Nếu bạn vi phạm, chúng tôi sẽ khóa chương trình này trong tài khoản của bạn.
 
 ### Các câu hỏi thường gặp
@@ -48,7 +48,7 @@ Subiz cung cấp đầy đủ thông tin tại [Menu agent của bạn](https://
 * Tài khoản agent của tôi bị xóa, tôi có nhận được tiền hoa hồng không? Không, vì lúc đó tất cả dữ liệu của bạn đã không còn. Chúng tôi sẽ không có cơ sở để làm việc này. Hãy giữ tài khoản của bạn luôn hoạt động.
 * Những tài khoản tôi đã giới thiệu, họ mua thêm các dịch vụ trong tương lai của Subiz thì tôi có được nhận tiền hoa hồng? Có, bạn sẽ được tính trên hóa đơn thanh toán của bất kỳ dịch vụ nào của Subiz.
 * Có cách nào để tôi giới thiệu bạn bè Offline không? Có, Subiz có mã promotion để bạn có thể làm điều này. Ví dụ như tặng trong lớp học, hội thảo... Hãy liên hệ support@subiz.com và yêu cầu cấp Referral Promotion code.
-* Nếu có thắc mắc, tôi cần liên hệ với ai: Liên hệ với chúng tôi bất cứ kênh nào email, Subiz chat, hay Facebook Messenger.
+* Nếu có thắc mắc, tôi cần liên hệ với ai: Liên hệ với chúng tôi bất cứ kênh nào email Support@Subiz.com, Subiz chat, hay Facebook Messenger.
 
 _Cảm ơn bạn đã hợp tác và đồng hành cùng Subiz!_
 
