@@ -73,29 +73,11 @@ Ví dụ trên kênh Subiz chat, Agent có 2 cách sử dụng mẫu tin nhắn:
 
 ### Một số lưu ý sử dụng mẫu tin nhắn 
 
-#### **1.**  Mẫu Email có thể tạo dạng văn bản hoặc HTML
-
-Sử dụng mã HTML để tạo những mẫu email sáng tạo và ấn tượng.
-
-**2. Mẫu tin nhắn ngắn gọn và đi thẳng vào vấn đề**
-
-Khách hàng luôn muốn được nhanh chóng hỗ trợ giải quyết vấn đề của mình. Hãy gửi tin nhắn ngắn gọn. và trả lời đúng vấn đề của khách hàng.
-
-#### 3. Cá nhân hóa tin nhắn mẫu tới Trường thông tin khách hàng 
-
-Với chức năng thêm Trường thông tin, bạn có thể cá nhân hóa tin nhắn như gọi tên riêng của khách hàng.
-
-#### 4. **Sử dụng Ký tự tắt ngắn và dễ nhớ**
-
-Thư viện câu trả lời thường được sử dụng trong một số trường hợp nhất định như lời chào, cảm ơn, báo giá, thông tin khuyến mãi, thông tin liên hệ,...
-
-Tạo phím tắt ngắn và dễ nhớ giúp bạn dễ dàng tim kiếm sử dụng khi cần thiết.
-
-**5. Thường xuyên cập nhật mới cho Mẫu tin nhắn**
-
-Thay đổi để phát triển. Với mỗi ****mẫu tin nhắn, bạn hãy thường xuyên tùy chỉnh làm mới câu chữ và cách diễn đạt hay hơn khi gửi tới khách hàng của mình.
-
-Bạn có thể vào Mẫu tin nhắn và tùy chỉnh trực tiếp mẫu tin nhắn đã có hoặc xóa đi để  tạo mẫu tin nhắn mới.
+* **Mẫu Email có thể tạo dạng văn bản hoặc HTML**: Sử dụng mã HTML để tạo những mẫu email sáng tạo và ấn tượng.
+* **Mẫu tin nhắn ngắn gọn và đi thẳng vào vấn đề:** Khách hàng luôn muốn được nhanh chóng hỗ trợ giải quyết vấn đề của mình. Hãy gửi tin nhắn ngắn gọn. và trả lời đúng vấn đề của khách hàng.
+* **Cá nhân hóa tin nhắn mẫu tới Trường thông tin khách hàng**: Với chức năng thêm Trường thông tin, bạn có thể cá nhân hóa tin nhắn như gọi tên riêng của khách hàng.
+* **Sử dụng Ký tự tắt ngắn và dễ nhớ:** Tạo phím tắt ngắn và dễ nhớ giúp bạn dễ dàng tim kiếm sử dụng khi cần thiết, tránh viết hoa chữ cái đầu.
+* **Thường xuyên cập nhật mới cho Mẫu tin nhắn:** Thay đổi để phát triển. Bạn có thể vào Mẫu tin nhắn và tùy chỉnh trực tiếp mẫu tin nhắn đã có hoặc xóa đi để  tạo mẫu tin nhắn mới.
 
 \*\*\*\*
 
