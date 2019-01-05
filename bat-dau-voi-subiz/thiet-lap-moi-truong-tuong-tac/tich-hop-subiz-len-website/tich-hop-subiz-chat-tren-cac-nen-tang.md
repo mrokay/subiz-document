@@ -4,6 +4,8 @@ description: Tài liệu mô tả cách tích hợp Subiz trên các nền tản
 
 # Tích hợp Subiz Chat trên các nền tảng
 
+### Subiz plugin trên Wordpress
+
 ### Subiz và Wordpress
 
 Bước 1: Mở trang quản lý WordPress Admin Panel &gt; Appearance &gt; Editor.
