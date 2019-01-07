@@ -20,6 +20,10 @@ Tại đây bạn có thể thống kê tương tác online theo các danh mục
 
 * Thống kê hội thoại được gắn tag sẽ giúp phân loại và quản lý nội dung các cuộc tương tác một cách dễ dàng.
 
+{% page-ref page="thong-ke-tickets.md" %}
+
+* Thống kê ticket quản lý các vấn đề chăm sóc khách hàng và hiệu suất của agent trong xử lý các vấn đề của khách hàng.
+
 {% page-ref page="thong-ke-subiz-chat-tren-google-analytics.md" %}
 
 * Dữ liệu Subiz chat được tự động chuyển sang GA giúp nhà quản trị Marketing thống kê dữ liệu và thông số theo từng nhu cầu riêng của doanh nghiệp
