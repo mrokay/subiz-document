@@ -1,3 +1,9 @@
+---
+description: >-
+  Bài viết hướng dẫn cách tạo thêm, cập nhật và lưu trữ thông tin khách hàng
+  trên Subiz
+---
+
 # Tùy chỉnh thông tin khách hàng
 
 Quản lý hệ thống thông tin khách hàng là phương pháp giúp doanh nghiệp được tiếp cận, giao tiếp với khách hàng một cách có hệ thống và hiệu quả dựa trên việc quản lý các thông tin của khách hàng như: liên lạc, nhu cầu, tài khoản… nhằm phục vụ khách hàng tốt hơn.
@@ -10,11 +16,7 @@ Từ những thông tin của khách hàng được cập nhật và lưu trữ 
 
 Một tài khoản[ Subiz ](https://subiz.com/vi/)sẽ có 4 trường thông tin mặc định: Địa chỉ, Tên, Email và Số điện thoại
 
-![Tr&#x1B0;&#x1EDD;ng th&#xF4;ng tin m&#x1EB7;c &#x111;&#x1ECB;nh](../../.gitbook/assets/thong-tin-khach-hang%20%281%29.png)
-
-Những trường thông tin này sẽ được hiển thị trong phần thông tin của User trong mục Hoạt động như sau:
-
-![Hi&#x1EC3;n th&#x1ECB; tr&#x1B0;&#x1EDD;ng th&#xF4;ng tin m&#x1EB7;c &#x111;&#x1ECB;nh](../../.gitbook/assets/hien-thi-thong-tin-khach-hang.png)
+![Th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/thong-tin-khach-hang%20%281%29.png)
 
 ### Tùy chỉnh thông tin khách hàng
 
@@ -92,7 +94,9 @@ Những trường thông tin này sẽ được hiển thị trong phần thông
 
 * Bạn được cài đặt tối đa 20 trường dữ liệu thông tin khách hàng
 * Giới hạn về Giá trị dữ liệu lưu trữ của 1 trường dữ liệu: 500 ký tự
-* Bạn có thể chỉnh sửa hoặc xóa các trường dữ liệu đã được tạo. Tuy nhiên khi xóa 1 trường dữ liệu, toàn bộ thông tin đã được lưu sẽ bị xóa và không thể khôi phục lại 
+* Bạn có thể chỉnh sửa hoặc xóa các trường dữ liệu đã được tạo. Tuy nhiên khi xóa 1 trường dữ liệu, toàn bộ thông tin đã được lưu sẽ bị xóa và không thể khôi phục lại.
+* Tự động cập nhật thông tin khách hàng với Automation hỏi thông tin, [Xem thêm](https://help.subiz.com/su-dung-subiz-nang-cao/tuong-tac-tu-dong/nam-bat-khach-hang-tiem-nang)
+* Tự động cập nhật thông tin khách hàng với Google Tag Manager, [Xem thêm](https://help.subiz.com/su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget#update-user-attributes) 
 
 
 
