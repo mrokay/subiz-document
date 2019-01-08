@@ -6,21 +6,25 @@ description: Tài liệu mô tả cách tích hợp Subiz trên các nền tản
 
 ### Subiz plugin trên Wordpress \(đang cập nhật\)
 
-**Bước 1**: Cài đặt plug in Subiz  
-[Đăng nhập](https://login.wordpress.org/?locale=en_US) tài khoản Wordpress &gt; Mở trang quản lý Admin Panel &gt; Plugins &gt; Tìm kiếm và cài đặt plugin SUBIZ
+Hướng dẫn 4 bước cài đặt Subiz qua plugin trên website Wordpress
 
-**Bước 2**: Nhập License ID \(Xem [Mã tài khoản Subiz](https://app.subiz.com/settings/)\) &gt; Lưu 
+![](../../../.gitbook/assets/plugin-subiz-copy.jpg)
 
-**Bước 3**: Tùy chỉnh cửa sổ Subiz chat  
+**Bước 1: Cài đặt Plugin Subiz**  
+[Đăng nhập](https://login.wordpress.org/?locale=en_US) tài khoản Wordpress &gt; Mở Admin Panel &gt; Plugins &gt; Tìm kiếm và cài đặt plugin SUBIZ
+
+**Bước 2: Tích hợp cửa sổ Subiz chat**   
+Sau khi cài đặt và kích hoạt plugin Subiz &gt; Vào mục Settings &gt; Subiz &gt; Installations &gt; Nhập License ID \([Xem mã tài khoản Subiz của bạn](https://app.subiz.com/settings/)\)  &gt; Lưu
+
+**Bước 3: Tùy chỉnh cửa sổ Subiz chat**  
 Bạn lựa chọn màu sắc cửa sổ chat và button chat phù hợp với website và thương hiệu của bạn &gt; Lưu thay đổi
 
-**Bước 4**: Thông báo trên trình duyệt của khách hàng  
-Chọn kiểu mời khách hàng đăng ký nhận thông báo trên trình duyệt, có 3 kiểu cho bạn lựa chọn &gt; Chọn kiểu thông báo &gt; Lưu thay đổi
-
+**Bước 4: Cài đặt thông báo trên trình duyệt của user**  
+Chọn kiểu mời user nhận thông báo trên trình duyệt, có 3 kiểu cho bạn lựa chọn &gt; Chọn kiểu thông báo &gt; Lưu thay đổi  
 Lưu ý:
 
-* Kiểu 1 bạn có thể thay đổi ảnh logo công ty và nội dung tin nhắn mời nhận khách nhận thông báo.
-* Kiểu 2 và 3 bạn có thể chọn các kiểu hình ảnh \(CTA notification\) kêu gọi nhận thông báo phù hợp với website và theo ý bạn muốn.
+* Kiểu 1 bạn có thể thay đổi ảnh logo và nội dung mời user nhận thông báo.
+* Kiểu 2 và 3 bạn có thể chọn các button Thông báo \(CTA notification button\) kêu gọi user nhận thông báo phù hợp với website.
 
 ### Tích hợp mã nhúng Subiz trên Wordpress
 
@@ -28,7 +32,7 @@ Lưu ý:
 
 **Bước 2**: Tìm file footer.php bên cột bên phải và mở file này.
 
-**Bước 3**: Đăng nhập Subiz &gt; Cài Đặt &gt; [Tích hợp](https://app.subiz.com/settings/install) , sao chép mã nhúng Subiz và dán mã nhúng Subiz vào ngay trước thẻ &lt;/body&gt; trong file footer.php.
+**Bước 3**: Sao chép [mã nhúng Subiz](https://app.subiz.com/settings/install) và dán vào ngay trước thẻ &lt;/body&gt; trong file footer.php.
 
 ![T&#xED;ch h&#x1EE3;p Subiz tr&#xEA;n Wordpress](../../../.gitbook/assets/cai-subiz-wordpress.png)
 
@@ -40,7 +44,7 @@ Lưu ý:
 
 ![V&#x1ECB; tr&#xED; Menu C&#xE0;i &#x110;&#x1EB7;t Trang c&#x1EE7;a Ladipage.](../../../.gitbook/assets/screen-shot-2018-11-30-at-00.39.56.png)
 
-**Bước 3**: Bạn đăng nhập Subiz &gt; Cài Đặt &gt; [Tích hợp](https://app.subiz.com/settings/install) , sao chép mã nhúng Subiz và dán vào tab "Mã theo dõi tuỳ chỉnh" nói ở bước 2. Bạn chọn vị trí đặt là "Thêm vào trước thẻ &lt;/body&gt;" . Sau đó Save lại.
+**Bước 3**: Sao chép [mã nhúng Subiz](https://app.subiz.com/settings/install) và dán vào tab "Mã theo dõi tuỳ chỉnh" nói ở bước 2. Bạn chọn vị trí đặt là "Thêm vào trước thẻ &lt;/body&gt;" . Sau đó Save lại.
 
 ![M&#xE3; nh&#xFA;ng Subiz &#x111;&#x1B0;&#x1EE3;c d&#xE1;n v&#xE0;o Tab M&#xE3; theo d&#xF5;i tu&#x1EF3; ch&#x1EC9;nh.](../../../.gitbook/assets/screen-shot-2018-11-30-at-00.38.27.png)
 
@@ -58,7 +62,7 @@ Ngoài ra, bạn cũng có thể tuy chỉnh mầu riêng, button đặc biệt 
 
 **Bước 3**: ****Tìm file **theme.liquid** tại menu bên trái.
 
-**Bước 4**: Đăng nhập Subiz &gt; Cài Đặt &gt; [Tích hợp](https://app.subiz.com/settings/install) , sao chép mã nhúng Subiz và dán mã nhúng Subiz trước thẻ &lt;/body&gt; &gt; Chọn **Save**.
+**Bước 4**: Sao chép [mã nhúng Subiz](https://app.subiz.com/settings/install) và dán trước thẻ &lt;/body&gt; &gt; Chọn **Save**.
 
 ![T&#xED;ch h&#x1EE3;p Subiz tr&#xEA;n web Shopify](../../../.gitbook/assets/spotify-1.gif)
 
@@ -68,7 +72,7 @@ Ngoài ra, bạn cũng có thể tuy chỉnh mầu riêng, button đặc biệt 
 
 **Bước 2**: Chọn Template đang sử dụng &gt; Click vào file Index.php.
 
-**Bước 3**: Đăng nhập Subiz &gt; Cài Đặt &gt; [Tích hợp](https://app.subiz.com/settings/install) , sao chép mã nhúng Subiz và dán mã nhúng Subiz trước thẻ &lt;/body&gt;.
+**Bước 3**: Sao chép[ mã nhúng Subiz](https://app.subiz.com/settings/install) và dán trước thẻ &lt;/body&gt;.
 
 ![](../../../.gitbook/assets/joomla2.gif)
 
@@ -78,7 +82,7 @@ Ngoài ra, bạn cũng có thể tuy chỉnh mầu riêng, button đặc biệt 
 
 **Bước 2**: Click vào Edit Site &gt; Add button &gt; More &gt; HTML iframe. Kéo phần iframe vừa được chọn xuống dưới footer \(có thể điều chỉnh vị trí của iframe\).
 
-**Bước 3**: Đăng nhập Subiz &gt; Cài Đặt &gt; [Tích hợp](https://app.subiz.com/settings/install) , sao chép mã nhúng Subiz và dán mã nhúng Subiz vào Add code &gt; Chọn Save.
+**Bước 3**: Sao chép [mã nhúng Subiz ](https://app.subiz.com/settings/install)và dán vào Add code &gt; Chọn Save.
 
 ### Subiz và Magento
 
