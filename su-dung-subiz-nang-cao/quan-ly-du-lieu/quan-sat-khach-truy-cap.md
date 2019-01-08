@@ -8,7 +8,9 @@ description: >-
 
 ### Làm thế nào để quan sát khách truy cập website?
 
-Ngay trên trang [KHÁCH](https://app.subiz.com/visitors), bạn có thể quan sát và theo dõi được tất cả khách hàng đang viếng thăm trang web của bạn. Họ là ai, đến từ đâu, đang xem trang nào trên website, khách mới hay khách cũ có hội thoại trò chuyện chưa?
+Ngay trên trang [KHÁCH](https://app.subiz.com/visitors), bạn có thể quan sát và theo dõi được danh sách khách hàng đang viếng thăm trang web của bạn. 
+
+Có bao nhiêu khách đang trực tuyến online, trong đó có bao nhiêu khách đã có thông tin. Họ là ai, đến từ đâu, đang xem trang nào trên website, khách mới hay khách cũ có hội thoại trò chuyện chưa?
 
 ![Quan s&#xE1;ch kh&#xE1;ch truy c&#x1EAD;p website](../../.gitbook/assets/live-1-copy.jpg)
 
