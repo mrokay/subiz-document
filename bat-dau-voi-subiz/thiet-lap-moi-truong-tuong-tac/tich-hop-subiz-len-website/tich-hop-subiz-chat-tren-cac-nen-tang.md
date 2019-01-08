@@ -19,7 +19,7 @@ Sau khi cài đặt và kích hoạt plugin Subiz &gt; Vào mục Settings &gt; 
 **Bước 3: Tùy chỉnh cửa sổ Subiz chat**  
 Bạn lựa chọn màu sắc cửa sổ chat và button chat phù hợp với website và thương hiệu của bạn &gt; Lưu thay đổi
 
-**Bước 4: Cài đặt thông báo trên trình duyệt của user**  
+**Bước 4: Cài đặt thông báo trên trình duyệt**  
 Chọn kiểu mời user nhận thông báo trên trình duyệt, có 3 kiểu cho bạn lựa chọn &gt; Chọn kiểu thông báo &gt; Lưu thay đổi  
 Lưu ý:
 
