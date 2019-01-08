@@ -1,27 +1,30 @@
 ---
-description: Quan sát danh sách khách đang truy cập trên website của bạn
+description: >-
+  Bài viết này hướng dẫn quan sát và tiếp cận khách đang truy cập website của
+  bạn
 ---
 
 # Quan sát khách truy cập
 
-### Làm thế nào để quan sát khách truy cập?
+### Làm thế nào để quan sát khách truy cập website?
 
-Doanh nghiệp có thể quan sát khách truy cập website của mình, nắm rõ nhu cầu thông tin, sản phẩm và dịch vụ mà khách hàng mong muốn, từ đó chủ động tiếp cận hỗ trợ họ. 
+Ngay trên trang [KHÁCH](https://app.subiz.com/visitors), bạn có thể quan sát và theo dõi được tất cả khách hàng đang viếng thăm trang web của bạn. Họ là ai, đến từ đâu, đang xem trang nào trên website, khách mới hay khách cũ có hội thoại trò chuyện chưa?
 
-**Bạn có thể theo dõi các khách đang truy cập website của bạn** tại trang [**KHÁCH**](https://app.subiz.com/visitors). Mỗi khách truy cập được nhận diện bằng [cookie](http://vi.wikipedia.org/wiki/Cookie) trên trình duyệt của họ.
-
-![Quan s&#xE1;t kh&#xE1;ch truy c&#x1EAD;p Website t&#x1EA1;i trang Kh&#xE1;ch](../../.gitbook/assets/visitor.png)
+![Quan s&#xE1;ch kh&#xE1;ch truy c&#x1EAD;p website](../../.gitbook/assets/live-1-copy.jpg)
 
 Với mỗi khách truy cập, bạn sẽ biết được những thông tin sau:
 
-* **Ảnh đại diện:** Hiển thị hình ảnh mặc định của [Subiz](https://subiz.com/vi/)
-* **Họ tên, Email**: Hiển thị thành phố/ tỉnh hoặc họ tên và địa chỉ email của khách hàng đã được lưu thông trước đây.
-* **Vị trí địa lý**:  Hiển thị thành phố/ tình được xác định thông qua địa chỉ IP
-* **Trang đang xem**: Địa chỉ trang mà khách đang xem trên website của bạn
+* **TÊN**: Mặc định theo mã khách truy cập hoặc hiển thị họ tên khách nếu đã cập nhật thông tin.
+* **VỊ TRÍ**:  Thành phố/ tỉnh được xác định thông qua địa chỉ IP.
+* **TRANG**: Tiêu đề và đường link dẫn trang khách đang xem trên website của bạn.
+* **REFER/ CAMPAIGN**: Nguồn khách truy cập như Direct truy cập trực tiếp trang web, Organics vào web từ kết quả tìm kiếm tự nhiên trên trình duyệt, Referring truy cập web từ các trang giới thiệu, Advertising truy cập web từ link quảng cáo,... Subiz tự động nhận biết được link UTM campaign và khách đến từ chiến dịch nào.
+* **HỘI THOẠI**: Tổng số cuộc hội thoại với khách hàng gồm cả Automation tự động gửi tin nhắn 
+* **SỐ PHIÊN**: Số phiên khách truy cập website
 
-Khi click vào từng khách truy cập trên trang [**KHÁCH**](https://app.subiz.com/visitors), bạn sẽ bắt đầu để tương tác trực tiếp với khách hàng đó trên mục **HOẠT ĐỘNG**
+Bạn xác định được khách hàng tiềm năng và chủ động Say hello nhắn tin tư vấn khách hàng. Tiếp cận khách hàng đúng lúc và đúng thời điểm sẽ tăng cơ hội bán hàng hiệu quả.   
+Sử dụng [Mẫu tin nhắn](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/mau-tin-nhan) để nhanh chóng gửi lời chào tới khách hàng.
 
-![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i v&#xE0; chat v&#x1EDB;i kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/assets2f-lcrbjdxgv2cwmzzedgk2f-lccwktkrblkqygrim-l2f-lccwuvt7zd7uvvi3suq2fagent-chu-dong-tao-tuong-t.png)
+![Say hello kh&#xE1;ch h&#xE0;ng ti&#x1EC1;m n&#x103;ng](../../.gitbook/assets/hello-1-copy.jpg)
 
 ### [Subiz](https://subiz.com/vi/) xác định thông tin vị trí khách truy cập dựa vào đâu?
 
