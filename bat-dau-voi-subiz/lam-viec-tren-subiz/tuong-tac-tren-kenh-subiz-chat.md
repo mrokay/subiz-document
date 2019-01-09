@@ -1,28 +1,27 @@
 # Tương tác trên kênh Subiz chat
 
-**Tương tác trên kênh**[ **Subiz chat**](https://subiz.com/vi/live-chat.html) **là khởi tạo cuộc hội thoại để bắt đầu trò chuyện tư vấn khách truy cập website**. Đây là những khách hàng đang có nhu cầu tìm hiểu về sản phẩm, dịch vụ và thông tin của doanh nghiệp.
+**Tương tác trên kênh**[ **Subiz chat**](https://subiz.com/vi/live-chat.html) **là cuộc hội thoại nhắn tin và trò chuyện tư vấn khách truy cập website**. Đây là những khách hàng tiềm năng đang có nhu cầu tìm hiểu về sản phẩm, dịch vụ và thông tin của doanh nghiệp.
 
-Bạn \(Agent\) cần đăng nhập [App.subiz.com](https://app.subiz.com) để bắt đầu online và sẵn sàng  tư vấn khách hàng.
+Bạn \(Agent\) cần đăng nhập [App.subiz.com](https://app.subiz.com) để bắt đầu online và sẵn sàng tư vấn khách hàng.
 
 ### Tạo hội thoại mới với khách hàng
 
-Có hai hình thức khởi tạo một cuộc hội thoại với khách hàng:  
-**1. Khách hàng nhắn tin trước và tạo hội thoại mới  
-2. Agent chủ động nhắn tin và tạo hội thoại mới**
+Có hai hình thức tạo một cuộc hội thoại với khách hàng:  
+**1. Trả lời tin nhắn của khách hàng  
+2. Chủ động nhắn tin tới khách truy cập website**
 
 {% tabs %}
-{% tab title="Khách hàng tạo cuộc hội thoại mới" %}
-**Khách hàng chủ động khởi tạo cuộc tương tác**  
-Khi truy cập website của bạn, khách hàng sẽ gửi tin nhắn yêu cầu hỗ trợ ngay trên[ cửa sổ chat Subiz.](https://subiz.com/vi/live-chat.html)
+{% tab title="Trả lời tin nhắn của khách hàng " %}
+Khi truy cập website của bạn, khách hàng có thể gửi tin nhắn yêu cầu hỗ trợ ngay trên[ cửa sổ chat Subiz.](https://subiz.com/vi/live-chat.html)
 
 ![C&#x1EED;a s&#x1ED5; chat Subiz tr&#xEA;n website](../../.gitbook/assets/cua-so-chat-tren-website-3.jpg)
 
-Để xem được tin nhắn từ khách hàng, bạn thao tác như sau: Vào trang[ **HOẠT ĐỘNG**](https://app.subiz.com/activities) **&gt;** Chọn **Khách hàng**  &gt; Chọn hội thoại chưa đọc &gt; **Cửa sổ chat** mở và trả lời tại đây.
+Để xem được tin nhắn mới từ khách hàng, bạn vào trang[ **HOẠT ĐỘNG**](https://app.subiz.com/activities) **&gt; chọn User của tôi để xem các hội thoại mới của khách hàng**  &gt; Chọn hội thoại chưa đọc &gt; **Cửa sổ chat** mở, hãy nhập tin nhắn gửi khách
 
 ![Xem n&#x1ED9;i dung tin nh&#x1EAF;n c&#x1EE7;a kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/chat-3.jpg)
 
 {% hint style="info" %}
- _**Lưu ý**_: Nếu bạn không nhận được tin nhắn từ khách hàng, hãy xem lại [cài đặt tính năng RULE ](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/untitled/untitled/untitled)tự động phân phối cuộc hội thoại cho bạn \(Agent\) hay chưa?
+ _**Lưu ý**_: Nếu bạn không nhận được tin nhắn từ khách hàng, hãy xem lại [cài đặt tính năng RULE ](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/untitled/untitled/untitled)tự động phân phối cuộc hội thoại của khách hàng cho bạn hay chưa?
 {% endhint %}
 
 [Subiz](https://subiz.com/vi/live-chat.html) sẽ thông báo âm thanh và thông báo màn hình khi có tin nhắn mới của khách hàng.
@@ -30,11 +29,11 @@ Khi truy cập website của bạn, khách hàng sẽ gửi tin nhắn yêu cầ
 ![Subiz th&#xF4;ng b&#xE1;o m&#xE0;n h&#xEC;nh](../../.gitbook/assets/3.-noti-destop.png)
 
 {% hint style="info" %}
-_**Lưu ý**_: Khi không nhận được thông báo, hãy kiểm tra lại máy tính của bạn, thiết lập trình duyệt cho phép [Subiz](https://subiz.com/vi/) thông báo âm thanh và màn hình.
+_**Lưu ý**_: Khi không nhận được thông báo, hãy kiểm tra lại đã cho phép Subiz thông báo màn hình chưa? Xem thêm Cài đặt thông báo.
 {% endhint %}
 {% endtab %}
 
-{% tab title=" Agent tạo cuộc hội thoại mới" %}
+{% tab title=" Chủ động nhắn tin tới khách truy cập website" %}
 **Agent chủ động khởi tạo cuộc hội thoại**
 
 Agent có thể quan sát khách hàng trên trang **KHÁCH** để biết khách hàng đang quan tâm thông tin gì và chủ động trò truyện tư vấn khách hàng. Click **Say hello** và bắt đầu cuộc hội thoại mới
