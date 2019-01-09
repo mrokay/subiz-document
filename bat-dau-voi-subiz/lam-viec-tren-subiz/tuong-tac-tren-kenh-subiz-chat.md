@@ -12,31 +12,32 @@ Có hai hình thức tạo một cuộc hội thoại với khách hàng:
 
 {% tabs %}
 {% tab title="Trả lời tin nhắn của khách hàng " %}
-Khi truy cập website của bạn, khách hàng có thể gửi tin nhắn yêu cầu hỗ trợ ngay trên[ cửa sổ chat Subiz.](https://subiz.com/vi/live-chat.html)
+Khi truy cập website của bạn, khách hàng có thể gửi tin nhắn yêu cầu hỗ trợ ngay trên[ cửa sổ Subiz chat](https://subiz.com/vi/live-chat.html).
 
 ![C&#x1EED;a s&#x1ED5; chat Subiz tr&#xEA;n website](../../.gitbook/assets/cua-so-chat-tren-website-3.jpg)
 
-Để xem được tin nhắn mới từ khách hàng, bạn vào trang[ **HOẠT ĐỘNG**](https://app.subiz.com/activities) **&gt; chọn User của tôi để xem các hội thoại mới của khách hàng**  &gt; Chọn hội thoại chưa đọc &gt; **Cửa sổ chat** mở, hãy nhập tin nhắn gửi khách
+Để xem được tin nhắn mới từ khách hàng, bạn vào trang[ **HOẠT ĐỘNG**](https://app.subiz.com/activities) &gt; chọn **User của tôi** để xem các hội thoại mới chưa đọc &gt; Chọn hội thoại chưa đọc &gt; Cửa sổ chat mở, hãy nhập tin nhắn gửi khách.
+
+{% hint style="info" %}
+**Lưu ý**: Nếu bạn không nhận được tin nhắn từ khách hàng, hãy xem lại [cài đặt tính năng RULE ](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/untitled/untitled/untitled)đã phân phối cuộc hội thoại của khách hàng cho bạn hay chưa?
+{% endhint %}
 
 ![Xem n&#x1ED9;i dung tin nh&#x1EAF;n c&#x1EE7;a kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/chat-3.jpg)
 
-{% hint style="info" %}
- _**Lưu ý**_: Nếu bạn không nhận được tin nhắn từ khách hàng, hãy xem lại [cài đặt tính năng RULE ](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/untitled/untitled/untitled)tự động phân phối cuộc hội thoại của khách hàng cho bạn hay chưa?
-{% endhint %}
-
 [Subiz](https://subiz.com/vi/live-chat.html) sẽ thông báo âm thanh và thông báo màn hình khi có tin nhắn mới của khách hàng.
 
-![Subiz th&#xF4;ng b&#xE1;o m&#xE0;n h&#xEC;nh](../../.gitbook/assets/3.-noti-destop.png)
-
 {% hint style="info" %}
-_**Lưu ý**_: Khi không nhận được thông báo, hãy kiểm tra lại đã cho phép Subiz thông báo màn hình chưa? Xem thêm Cài đặt thông báo.
+_**Lưu ý**_: Khi không nhận được thông báo tin nhắn mới, hãy kiểm tra lại đã cho phép Subiz thông báo màn hình chưa? Xem thêm [Cài đặt thông báo](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/toi-uu-moi-truong-tuong-tac/cai-dat-thong-bao-tin-nhan-moi).
 {% endhint %}
+
+![Subiz th&#xF4;ng b&#xE1;o m&#xE0;n h&#xEC;nh](../../.gitbook/assets/3.-noti-destop.png)
 {% endtab %}
 
 {% tab title=" Chủ động nhắn tin tới khách truy cập website" %}
 **Agent chủ động khởi tạo cuộc hội thoại**
 
-Agent có thể quan sát khách hàng trên trang **KHÁCH** để biết khách hàng đang quan tâm thông tin gì và chủ động trò truyện tư vấn khách hàng. Click **Say hello** và bắt đầu cuộc hội thoại mới
+Agent có thể quan sát khách hàng trên trang [**KHÁCH**](https://app.subiz.com/visitors) để biết khách hàng đang quan tâm thông tin gì và nhận diện khách hàng tiềm năng. Click **Say hello** và nhắn tin trò chuyện với khách hàng.  
+Sử dụng [Mẫu tin nhắn](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/mau-tin-nhan) để nhanh chóng gửi tin nhắn tới khách của bạn.
 
 ![](../../.gitbook/assets/visitor-copy.jpg)
 {% endtab %}
