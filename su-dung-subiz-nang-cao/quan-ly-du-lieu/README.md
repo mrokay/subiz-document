@@ -6,7 +6,7 @@ Tại mục Quản lý dữ liệu, [Subiz](https://subiz.com/vi/) có các hư�
 
 * Phân nhóm khách hàng từ đó dễ dàng tiếp cận và gia tăng cơ hội chuyển đổi khách hàng.
 
-{% page-ref page="phan-khuc-khach-hang/" %}
+{% page-ref page="phan-khuc-khach-hang.md" %}
 
 * Cập nhật và tùy chỉnh các thông tin khách hàng của bạn.
 
