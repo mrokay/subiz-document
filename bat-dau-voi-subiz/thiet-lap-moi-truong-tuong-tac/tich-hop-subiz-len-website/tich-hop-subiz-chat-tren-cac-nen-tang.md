@@ -8,19 +8,20 @@ description: Tài liệu mô tả cách tích hợp Subiz trên các nền tản
 
 Hướng dẫn 4 bước cài đặt Subiz qua plugin trên website Wordpress
 
-![](../../../.gitbook/assets/plugin-subiz-copy.jpg)
+![4 b&#x1B0;&#x1EDB;c c&#xE0;i &#x111;&#x1EB7;t Subiz Plugin tr&#xEA;n WordPress](../../../.gitbook/assets/subizplugin_3s_vn.gif)
 
+  
 **Bước 1: Cài đặt Plugin Subiz**  
 [Đăng nhập](https://login.wordpress.org/?locale=en_US) tài khoản Wordpress &gt; Mở Admin Panel &gt; Plugins &gt; Tìm kiếm và cài đặt plugin SUBIZ
 
-**Bước 2: Tích hợp cửa sổ Subiz chat**   
-Sau khi cài đặt và kích hoạt plugin Subiz &gt; Vào mục Settings &gt; Subiz &gt; Installations &gt; Nhập License ID \([Xem mã tài khoản Subiz của bạn](https://app.subiz.com/settings/)\)  &gt; Lưu
+**Bước 2: Cài đặt cửa sổ Subiz chat**   
+Sau khi cài đặt và kích hoạt plugin Subiz &gt; Vào mục Cài đặt &gt; Subiz &gt; Cài đặt &gt; Nhập ID giấy phép, [Xem mã tài khoản Subiz của bạn](https://app.subiz.com/settings/) &gt; Chọn Cài đặt Subiz Widget &gt; Lưu thay đổi
 
-**Bước 3: Tùy chỉnh cửa sổ Subiz chat**  
-Bạn lựa chọn màu sắc cửa sổ chat và button chat phù hợp với website và thương hiệu của bạn &gt; Lưu thay đổi
+**Bước 3: Tùy chỉnh widget**   
+Widget là Cửa sổ Subiz chat hiển thị trên website của bạn. Bạn lựa chọn màu sắc cửa sổ chat và button chat phù hợp với website và thương hiệu của bạn &gt; Lưu thay đổi
 
-**Bước 4: Cài đặt thông báo trên trình duyệt**  
-Chọn kiểu mời user nhận thông báo trên trình duyệt, có 3 kiểu cho bạn lựa chọn &gt; Chọn kiểu thông báo &gt; Lưu thay đổi  
+**Bước 4: Tùy chỉnh Notification**   
+Đây là chức năng [thông báo trên trình duyệt của user](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/thong-bao-tren-trinh-duyet-users). Chọn kiểu mời user nhận thông báo trên trình duyệt, có 3 kiểu thông báo cho bạn lựa chọn &gt; Chọn kiểu thông báo &gt; Lưu thay đổi   
 Lưu ý:
 
 * Kiểu 1 bạn có thể thay đổi ảnh logo và nội dung mời user nhận thông báo.
