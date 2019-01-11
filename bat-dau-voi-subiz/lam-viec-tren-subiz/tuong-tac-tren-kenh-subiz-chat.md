@@ -1,14 +1,10 @@
 # Tương tác trên kênh Subiz chat
 
-**Tương tác trên kênh**[ **Subiz chat**](https://subiz.com/vi/live-chat.html) **là cuộc hội thoại nhắn tin và trò chuyện tư vấn khách truy cập website**. Đây là những khách hàng tiềm năng đang có nhu cầu tìm hiểu về sản phẩm, dịch vụ và thông tin của doanh nghiệp.
+**Tương tác trên kênh**[ **Subiz chat**](https://subiz.com/vi/live-chat.html) **là cuộc hội thoại trò chuyện và tư vấn khách truy cập website**. Đây là những khách hàng tiềm năng đang có nhu cầu tìm hiểu về sản phẩm, dịch vụ và thông tin của doanh nghiệp.
 
-Bạn \(Agent\) cần đăng nhập [App.subiz.com](https://app.subiz.com) để bắt đầu online và sẵn sàng tư vấn khách hàng.
+Bắt đầu vào giờ làm việc, bạn cần đăng nhập trang quản lý Subiz qua đường link [App.subiz.com](https://app.subiz.com) để trả lời những tin nhắn khách đã gửi đến và kết nối với khách đang trực tuyến trên trang web.
 
-### Tạo hội thoại mới với khách hàng
-
-Có hai hình thức tạo một cuộc hội thoại với khách hàng:  
-**1. Trả lời tin nhắn của khách hàng  
-2. Chủ động nhắn tin tới khách truy cập website**
+### Nhận và trả lời tin nhắn của khách hàng
 
 {% tabs %}
 {% tab title="Trả lời tin nhắn của khách hàng " %}
