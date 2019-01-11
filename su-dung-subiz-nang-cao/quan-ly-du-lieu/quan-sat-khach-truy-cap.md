@@ -19,9 +19,9 @@ Với mỗi khách truy cập, bạn sẽ biết được những thông tin sau
 * **TÊN**: Mặc định theo mã khách truy cập hoặc hiển thị họ tên khách nếu đã cập nhật thông tin.
 * **VỊ TRÍ**:  Thành phố/ tỉnh được xác định thông qua địa chỉ IP.
 * **TRANG**: Tiêu đề và đường link dẫn trang khách đang xem trên website của bạn.
-* **REFER/ CAMPAIGN**: Nguồn khách truy cập như Direct truy cập trực tiếp trang web, Organics vào web từ kết quả tìm kiếm tự nhiên trên trình duyệt, Referring truy cập web từ các trang giới thiệu, Advertising truy cập web từ link quảng cáo,... Subiz tự động nhận biết được link UTM campaign và khách đến từ chiến dịch nào.
+* **REFER/ CAMPAIGN**: Nguồn khách truy cập như Direct truy cập trực tiếp trang web, Organic vào web từ kết quả tìm kiếm tự nhiên trên trình duyệt, Referring truy cập web từ các trang giới thiệu, Social là khách truy cập từ các trang mạng xã hội, Advertising truy cập web từ link quảng cáo,... Subiz tự động nhận biết được link UTM campaign và khách đến từ chiến dịch nào.
 * **HỘI THOẠI**: Tổng số cuộc hội thoại với khách hàng gồm cả Automation tự động gửi tin nhắn 
-* **SỐ PHIÊN**: Số phiên khách truy cập website
+* **SỐ PHIÊN**: Khách Mới hay khách Quay lại
 
 Bạn xác định được khách hàng tiềm năng và chủ động Say hello nhắn tin tư vấn khách hàng. Tiếp cận khách hàng đúng lúc và đúng thời điểm sẽ tăng cơ hội bán hàng hiệu quả.   
 Sử dụng [Mẫu tin nhắn](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/mau-tin-nhan) để nhanh chóng gửi lời chào tới khách hàng.
