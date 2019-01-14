@@ -78,6 +78,7 @@ Ví dụ trên kênh Subiz chat, Agent có 2 cách sử dụng mẫu tin nhắn:
 * **Cá nhân hóa tin nhắn mẫu tới Trường thông tin khách hàng**: Với chức năng thêm Trường thông tin, bạn có thể cá nhân hóa tin nhắn như gọi tên riêng của khách hàng.
 * **Sử dụng Ký tự tắt ngắn và dễ nhớ:** Tạo phím tắt ngắn và dễ nhớ giúp bạn dễ dàng tim kiếm sử dụng khi cần thiết, tránh viết hoa chữ cái đầu.
 * **Thường xuyên cập nhật mới cho Mẫu tin nhắn:** Thay đổi để phát triển. Bạn có thể vào Mẫu tin nhắn và tùy chỉnh trực tiếp mẫu tin nhắn đã có hoặc xóa đi để  tạo mẫu tin nhắn mới.
+* **Tạo mẫu tin nhắn với ký tự tắt "hello" để Say hello** nhanh chóng khách truy cập tại trang [KHÁCH](https://app.subiz.com/visitors).
 
 \*\*\*\*
 
