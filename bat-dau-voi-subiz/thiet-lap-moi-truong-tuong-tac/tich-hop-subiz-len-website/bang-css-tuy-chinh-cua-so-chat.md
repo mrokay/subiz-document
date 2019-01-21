@@ -19,12 +19,12 @@ Bạn cần xác định [KIỂU CỬA SỔ CHAT](https://app.subiz.com/settings
 {% tabs %}
 {% tab title="Kiểu cửa sổ chat THU GỌN" %}
 ```csharp
-.widget-desktop .widget_mini .widget_body 
+.widget_mini .widget_body 
 {height: 500px !important;
 max-height: 580px !important;}
 /* Thay đổi chiều cao 500px */
 
-.widget-desktop .widget_mini .widget_body 
+.widget_mini .widget_body 
 {width:360px;}
 /* Thay đổi chiều rộng 360px */
 ```
@@ -32,12 +32,12 @@ max-height: 580px !important;}
 
 {% tab title="Kiểu cửa sổ chat MỞ RỘNG" %}
 ```csharp
-.widget-desktop .widget_full .widget_body 
+.widget_full .widget_body 
 {height: 700px !important;
 max-height: 800px !important;}
 /* Thay đổi chiều cao 700px */
 
-.widget-desktop .widget_full .widget_body 
+.widget_full .widget_body 
 {width:400px;}
 /* Thay đổi chiểu rộng 400px */
 ```
@@ -161,7 +161,7 @@ Bạn muốn thay đổi vị trí chat button và cửa sổ chat lên cao hay 
 Trên bản destop:
 
 ```csharp
- .widget-desktop .widget-button {bottom:0;}
+.widget-button {bottom:0;}
  .widget-desktop .widget_mini .widget_body {bottom:0;}
  /* Kích thước thay đổi khoảng 0 - 40px */
 ```
@@ -179,8 +179,8 @@ Trên bản mobile
 Trên destop:
 
 ```csharp
- .widget-desktop .widget-button {bottom:0;}
- .widget-desktop .widget_full .widget_body {bottom:0;}
+.widget-button {bottom:0;}
+.widget_full .widget_body {bottom:0;}
  //Kích thước thay đổi khoảng 0 - 40px
 ```
 
@@ -254,14 +254,14 @@ Tùy chỉnh vị trí chat button trên website: left hay right, từ 0 đến 
 Kiểu cửa sổ chat THU GỌN:
 
 ```csharp
-.widget-desktop .widget-button {display:none;}
-.widget-desktop .widget_mini .widget_body {bottom:0;}
+.widget-button {display:none;}
+.widget_mini .widget_body {bottom:0;}
 ```
 
 Kiểu cửa sổ chat MỞ RỘNG:
 
 ```csharp
-.widget-desktop .widget-button {display:none;}
+.widget-button {display:none;}
 ```
 {% endtab %}
 
