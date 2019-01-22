@@ -4,9 +4,9 @@ description: Tài liệu mô tả cách tích hợp Subiz trên các nền tản
 
 # Tích hợp Subiz Chat trên các nền tảng
 
-### Subiz plugin trên Wordpress \(đang cập nhật\)
+### Subiz plugin trên Wordpress.org 
 
-Hướng dẫn 4 bước cài đặt Subiz qua plugin trên website Wordpress
+Hướng dẫn 4 bước cài đặt Subiz qua plugin trên website Wordpress.org
 
 ![4 b&#x1B0;&#x1EDB;c c&#xE0;i &#x111;&#x1EB7;t Subiz Plugin tr&#xEA;n WordPress](../../../.gitbook/assets/subizplugin_3s_vn.gif)
 
