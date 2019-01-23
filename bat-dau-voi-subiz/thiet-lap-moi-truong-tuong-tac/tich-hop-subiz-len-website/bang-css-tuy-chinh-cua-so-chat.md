@@ -161,8 +161,8 @@ Bạn muốn thay đổi vị trí chat button và cửa sổ chat lên cao hay 
 Trên bản destop:
 
 ```csharp
-.widget-button {bottom:0;}
- .widget-desktop .widget_mini .widget_body {bottom:0;}
+.widget_desktop .widget-button {bottom:0;}
+.widget_desktop .widget_mini .widget_body {bottom:0;}
  /* Kích thước thay đổi khoảng 0 - 40px */
 ```
 
@@ -179,8 +179,8 @@ Trên bản mobile
 Trên destop:
 
 ```csharp
-.widget-button {bottom:0;}
-.widget_full .widget_body {bottom:0;}
+.widget_desktop .widget-button {bottom:0;}
+.widget_desktop .widget_full .widget_body {bottom:0;}
  //Kích thước thay đổi khoảng 0 - 40px
 ```
 
@@ -236,7 +236,7 @@ Tùy chỉnh vị trí chat button trên website: left hay right, từ 0 đến 
 {% tabs %}
 {% tab title="Trên website bản destop" %}
 ```text
-.widget-desktop .widget { display: none; }
+.widget_desktop .widget { display: none; }
 ```
 {% endtab %}
 
@@ -255,13 +255,13 @@ Kiểu cửa sổ chat THU GỌN:
 
 ```csharp
 .widget-button {display:none;}
-.widget_mini .widget_body {bottom:0;}
+.widget_desktop .widget_mini .widget_body {bottom:0;}
 ```
 
 Kiểu cửa sổ chat MỞ RỘNG:
 
 ```csharp
-.widget-button {display:none;}
+.widget_desktop .widget-button {display:none;}
 ```
 {% endtab %}
 
