@@ -179,8 +179,8 @@ Trên bản mobile
 Trên destop:
 
 ```csharp
-.widget_desktop .widget-button {bottom:0;}
-.widget_desktop .widget_full .widget_body {bottom:0;}
+.widget-button {bottom:0;}
+.widget_full .widget_body {bottom:0;}
  //Kích thước thay đổi khoảng 0 - 40px
 ```
 
