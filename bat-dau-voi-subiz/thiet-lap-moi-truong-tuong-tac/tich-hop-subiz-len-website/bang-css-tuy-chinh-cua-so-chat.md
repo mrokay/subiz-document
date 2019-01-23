@@ -161,8 +161,8 @@ Bạn muốn thay đổi vị trí chat button và cửa sổ chat lên cao hay 
 Trên bản destop:
 
 ```csharp
-.widget_desktop .widget-button {bottom:0;}
-.widget_desktop .widget_mini .widget_body {bottom:0;}
+.widget-button {bottom:0;}
+.widget_mini .widget_body {bottom:0;}
  /* Kích thước thay đổi khoảng 0 - 40px */
 ```
 
@@ -236,7 +236,7 @@ Tùy chỉnh vị trí chat button trên website: left hay right, từ 0 đến 
 {% tabs %}
 {% tab title="Trên website bản destop" %}
 ```text
-.widget_desktop .widget { display: none; }
+.widget_desktop { display: none; }
 ```
 {% endtab %}
 
