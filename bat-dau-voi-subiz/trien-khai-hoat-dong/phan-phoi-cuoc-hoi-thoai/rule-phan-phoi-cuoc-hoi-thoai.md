@@ -2,9 +2,9 @@
 
 ### Rule là gì?
 
-Rule là tính năng giúp bạn có thể phân phối cuộc hội thoại của khách hàng tới đúng agent phụ trách. Tại [Subiz](https://subiz.com/), bạn có thể cài đặt Rule phân phối tự động tới một agent hay nhiều agent cùng lúc. 
+[Rule](https://app.subiz.com/settings/rule-setting) là tính năng giúp bạn có thể phân phối cuộc hội thoại của khách hàng tới đúng agent phụ trách. Tại [Subiz](https://subiz.com/), bạn có thể cài đặt Rule phân phối tự động tới một agent hay nhiều agent cùng lúc. 
 
-Trong đó Rule có 5 cách thức phân phối hội thoại cho agent như sau:
+Trong đó [Rule](https://app.subiz.com/settings/rule-setting) có 5 cách thức phân phối hội thoại cho agent như sau:
 
 * **Phân phối tới tất cả available agents**: Available agent là những agent online có kết nối trực tiếp với Subiz trên máy tính hoặc app mobile. Khi các agent offline, cuộc hội thoại của khách chuyển về Hội thoại chưa được phân phối. Agent có thể xem và trả lời khách hàng sau khi kết nối lại Subiz.
 * **Phân phối tới các agents**: Chọn cụ thể Agent bạn muốn phân phối hội thoại của khách hàng
@@ -16,7 +16,7 @@ Trong đó Rule có 5 cách thức phân phối hội thoại cho agent như sau
 
 ### Default to owner - Rule mặc định
 
-Với các tài khoản mới, Subiz đã thiết lập sẵn **Rule mặc định - Default to owner**. Rule này phân phối tất cả các cuộc hội thoại của khách hàng cho Agent tài khoản chính \(Agent owner\).
+Với các tài khoản mới, Subiz đã thiết lập sẵn **Rule mặc định -** [**Default to owner**](https://app.subiz.com/settings/rule-setting). Rule này phân phối tất cả các cuộc hội thoại của khách hàng cho Agent tài khoản chính \(Agent owner\).
 
 ![Default to owner - Rule m&#x1EB7;c &#x111;&#x1ECB;nh](../../../.gitbook/assets/rule.jpg)
 
