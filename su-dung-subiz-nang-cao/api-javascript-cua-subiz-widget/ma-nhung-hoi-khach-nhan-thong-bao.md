@@ -36,8 +36,8 @@ body{margin:0px; padding: 0px;font-family: 'Muli', sans-serif; font-weight: 400;
   <div class="popup-logo"><img src="logo.png" alt=""></div>
   <div class="popup-summary">Click vào ĐỒNG Ý để nhận được các thông tin hữu ích từ Subiz.</div>
   <div class="popup-bottom">
-    <a href="#" onclick="closePopUp();">Không, cảm ơn</a>
-    <a href="#" class="ok" onclick="subiz('subscribePushNotification');closePopUp()">Đồng ý</a>
+    <a href="javascript:void(0);" onclick="closePopUp();">Không, cảm ơn</a>
+    <a href="javascript:void(0);" class="ok" onclick="subiz('subscribePushNotification');closePopUp()">Đồng ý</a>
   </div>
 </div>
 ​
