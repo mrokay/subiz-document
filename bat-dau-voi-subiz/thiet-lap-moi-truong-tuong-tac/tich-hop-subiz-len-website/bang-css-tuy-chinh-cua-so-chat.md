@@ -139,6 +139,20 @@ background-repeat: no-repeat; background-position: center; }
 /* Thay đường link ảnh của bạn tại: https://filev4.subiz.com/fiqbqxbalnpxeeandtdr-image.png */
 ```
 
+### Thay đổi ảnh tiêu đề cửa sổ chat
+
+Bước 1: Kiểm tra đúng kích thước tiêu đề cửa sổ chat trên website của bạn.
+
+Bước 2: Tải ảnh lên Subiz để lấy link ảnh, ví dụ: http://example.com
+
+Bước 3: Sử dụng mã CSS dưới đây để cập nhật ảnh cho tiêu đề cửa sổ chat
+
+```css
+.widget-header {
+background :url
+(http://example.com)}
+```
+
 ### Tùy chỉnh cỡ chữ của tin nhắn
 
 Cỡ chữ mặc định trong tin nhắn là 13px, bạn có thể thay đổi cỡ chữ nhỏ hơn hoặc lớn hơn:
