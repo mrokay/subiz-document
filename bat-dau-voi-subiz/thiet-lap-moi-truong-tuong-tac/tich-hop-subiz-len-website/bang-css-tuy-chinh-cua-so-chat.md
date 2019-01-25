@@ -120,7 +120,8 @@ Màu sắc cửa sổ chat sẽ đồng bộ trên cả bản destop và mobile.
   </tbody>
 </table>### Sáng tạo tiêu đề cửa sổ chat
 
-Thay đổi bố cục tiêu đề  của cửa sổ chat gia tăng nhận diện hình ảnh thương hiệu của Doanh Nghiệp.
+Thay đổi bố cục tiêu đề  của cửa sổ chat gia tăng nhận diện hình ảnh thương hiệu của Doanh Nghiệp.  
+Lưu ý: Ảnh logo là ảnh .png trong suốt \(background transparent\), kích thước dài x cao: 160px x 100px
 
 ```csharp
 .color-theme-default {background-color:#f44336;} 
