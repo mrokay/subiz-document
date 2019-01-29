@@ -150,8 +150,7 @@ Bước 3: Sử dụng mã CSS dưới đây để cập nhật ảnh cho tiêu 
 
 ```css
 .widget-header {
-background :url
-(http://example.com)}
+background :url(http://example.com)}
 ```
 
 ### Tùy chỉnh cỡ chữ của tin nhắn
