@@ -30,7 +30,7 @@
       * [Tạo thêm và quản lý Agent](bat-dau-voi-subiz/trien-khai-hoat-dong/quan-ly-agent/tao-them-va-quan-ly-agent.md)
       * [Quản lý nhóm Agent](bat-dau-voi-subiz/trien-khai-hoat-dong/quan-ly-agent/quan-ly-nhom-agent.md)
       * [Chương trình giới thiệu Subiz cho Bạn bè](bat-dau-voi-subiz/trien-khai-hoat-dong/quan-ly-agent/chuong-trinh-gioi-thieu-subiz-cho-ban-be.md)
-    * [Subot - Bot tự động tương tác](bat-dau-voi-subiz/trien-khai-hoat-dong/subot-bot-tu-dong-tuong-tac.md)
+    * [Subot - Bot tự động Trả lời và Hỏi thông tin](bat-dau-voi-subiz/trien-khai-hoat-dong/subot-bot-tu-dong-tuong-tac.md)
     * [Phân phối cuộc hội thoại](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/README.md)
       * [Rule phân phối cuộc hội thoại](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/rule-phan-phoi-cuoc-hoi-thoai.md)
       * [Tạo Rule mới](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/tao-rule-moi.md)
