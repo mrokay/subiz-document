@@ -65,7 +65,7 @@ Ngoài ra, bạn cũng có thể tuy chỉnh mầu riêng, button đặc biệt 
 
 **Bước 4**: Sao chép [mã nhúng Subiz](https://app.subiz.com/settings/install) và dán trước thẻ &lt;/body&gt; &gt; Chọn **Save**.
 
-![T&#xED;ch h&#x1EE3;p Subiz tr&#xEA;n web Shopify](../../../.gitbook/assets/spotify-1.gif)
+![](../../../.gitbook/assets/spotify-1.gif)
 
 ### Subiz và Joomla
 
@@ -101,7 +101,7 @@ Bạn chỉ cần thực hiện theo lựa chọn này nếu các tệp mẫu đ
 * Bước 1: Sao chép tệp ứng dụng app/design/frontend/default/page/html/head.phtml từ mẫu cơ sở mặc địch vào thư mục tùy chỉnh tại app/design/frontend/{template}/page/html/head.phtml.
 * Bước 2: Mở tệp, [sao chép mã nhúng Subiz](https://app.subiz.com/settings/install) và dán trước thẻ &lt;/head&gt;.
 
-### Subiz và Sapo Web
+### Subiz và Sapo web
 
 **Bước 1**: Đăng nhập trang quản trị website của Sapo &gt; Chọn Website.
 
@@ -111,7 +111,19 @@ Bạn chỉ cần thực hiện theo lựa chọn này nếu các tệp mẫu đ
 
 ![](../../../.gitbook/assets/2.-sapo-copy.jpg)
 
-**Bước 3**: Chọn **Them.bwt** &gt; Tìm thẻ **&lt;/body&gt;** &gt; [Sao chép mã nhúng Subiz](https://app.subiz.com/settings/install) và dán **trước thẻ body** &gt; **Lưu.**
+**Bước 3**: Chọn **Them.bwt** &gt; Tìm thẻ **&lt;/body&gt;** &gt; [Sao chép mã nhúng Subiz](https://app.subiz.com/settings/install) và dán **trước thẻ body** &gt; **Lưu** để hoàn thành
 
 ![](../../../.gitbook/assets/3.-sapo-copy.jpg)
+
+### Subiz và Haravan web
+
+**Bước 1**: [**Đăng nhập**](https://myharavan.com/admin/auth/login) trang quản lý website của Haravan
+
+**Bước 2**: Chọn **Website** &gt; chọn **Giao diện** &gt; chọn **Hiệu chỉnh theme**
+
+![Trang qu&#x1EA3;n l&#xFD; Haravan web](../../../.gitbook/assets/hara-1.jpg)
+
+Bước 3: Chọn **theme.liquid** trong Layouts &gt; Tìm thẻ **&lt;/head&gt;** &gt; [Sao chép mã nhúng Subiz](https://app.subiz.com/settings/install) và dán ngay sau thẻ &lt;/head&gt; &gt; chọn **Lưu** để hoàn thành
+
+![&#x110;&#x1EB7;t m&#xE3; nh&#xFA;ng Subiz v&#xE0;o Haravan web](../../../.gitbook/assets/hara-2.jpg)
 
