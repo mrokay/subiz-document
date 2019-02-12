@@ -26,7 +26,14 @@ Bạn \(Agents\) có thể xây dựng những kịch bản có sẵn cho Subot 
 
 ![K&#x1ECB;ch b&#x1EA3;n Subiz khi agent offline](../../.gitbook/assets/screen-shot-2019-02-11-at-2.14.46-pm.png)
 
-* **Bước 3: Phân phối cuộc hội thoại cho Subot** Bạn vào cài đặt Rule qua link [https://app.subiz.com/settings/rule-setting](https://app.subiz.com/settings/rule-setting) để thêm Subot vào nhận hội thoại. Subot được thiết kế như một agent, chỉ khi nào hội thoại của khách hàng được phân phối cho Subot thì Subot mới hoạt động. Lưu ý: Bạn có thể cài đặt Rule phân phối hội thoại cho Subot hoặc thêm agent Subot thủ công vào hội thoại.
+* **Bước 3: Phân phối cuộc hội thoại cho Subot** Bạn vào cài đặt Rule qua link [https://app.subiz.com/settings/rule-setting](https://app.subiz.com/settings/rule-setting) để thêm Subot vào nhận hội thoại. Subot được thiết kế như một agent, chỉ khi nào hội thoại của khách hàng được phân phối cho Subot thì Subot mới hoạt động.
+
+{% hint style="info" %}
+Lưu ý:   
++ Subot là một agent, có thể tích hợp miễn phí.  
++ Subot có thể thay đổi tên và ảnh đại diện tại link [https://app.subiz.com/settings/agents-list](https://app.subiz.com/settings/agents-list)   
++ Subot chỉ hoạt động khi bạn cài đặt Rule phân phối hội thoại cho Subot hoặc thêm agent Subot một cách thủ công vào hội thoại.
+{% endhint %}
 
 ![Rule h&#x1ED9;i tho&#x1EA1;i cho Subot v&#xE0; agent](../../.gitbook/assets/screen-shot-2019-02-11-at-2.39.23-pm%20%281%29.png)
 
