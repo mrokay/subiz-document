@@ -123,7 +123,7 @@ Bạn chỉ cần thực hiện theo lựa chọn này nếu các tệp mẫu đ
 
 ![Trang qu&#x1EA3;n l&#xFD; Haravan web](../../../.gitbook/assets/hara-1.jpg)
 
-Bước 3: Chọn **theme.liquid** trong Layouts &gt; Tìm thẻ **&lt;/head&gt;** &gt; [Sao chép mã nhúng Subiz](https://app.subiz.com/settings/install) và dán ngay sau thẻ &lt;/head&gt; &gt; chọn **Lưu** để hoàn thành
+**Bước 3**: Chọn **theme.liquid** trong Layouts &gt; Tìm thẻ **&lt;/head&gt;** &gt; [Sao chép mã nhúng Subiz](https://app.subiz.com/settings/install) và dán ngay sau thẻ &lt;/head&gt; &gt; chọn **Lưu** để hoàn thành
 
 ![&#x110;&#x1EB7;t m&#xE3; nh&#xFA;ng Subiz v&#xE0;o Haravan web](../../../.gitbook/assets/hara-2.jpg)
 
