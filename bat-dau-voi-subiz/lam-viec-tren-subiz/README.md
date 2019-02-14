@@ -14,7 +14,11 @@ Hãy đăng nhập [App.subiz.com](https://app.subiz.com/activities) và lưu ý
 
 {% page-ref page="tuong-tac-qua-kenh-messenger.md" %}
 
+{% page-ref page="mau-tin-nhan.md" %}
 
+{% page-ref page="gan-tag-cuoc-hoi-thoai.md" %}
+
+{% page-ref page="ticket-quan-ly-cham-soc-khach-hang.md" %}
 
 ###  
 
