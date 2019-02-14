@@ -10,5 +10,7 @@ Tất cả các hướng dẫn chi tiết về cách thiết lập Agent và Rul
 
 {% page-ref page="quan-ly-agent/" %}
 
+{% page-ref page="subot-bot-tu-dong-tra-loi-va-hoi-thong-tin.md" %}
+
 {% page-ref page="phan-phoi-cuoc-hoi-thoai/" %}
 
