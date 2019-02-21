@@ -22,9 +22,17 @@ Lưu ý: Bạn có thể chọn đăng nhập Subiz với tài khoản Google tr
 
 Những tin nhắn mới của khách hàng được thông báo tức thời trên màn hình điện thoại của bạn. Bạn sẽ kiểm soát và trả lời các yêu cầu tư vấn kịp thời để không bỏ sót bất cứ cơ hội tương tác khách hàng nào.
 
+* Cài đặt thông báo trên App Subiz: Đăng nhập, chọn phần cài đặt thông báo -&gt; Tin nhắn mới.  Bạn có thể lựa chọn nhận thông báo khi có tin nhắn mới hay cuộc hội thoại mới. Hoặc khi đang bận và chỉ muốn theo dõi và quản lý các cuộc trò chuyện của nhân viên với khách hàng, bạn có thể lựa chọn Không nhận thông báo từ Subiz.
+
 ![C&#xE0;i &#x111;&#x1EB7;t th&#xF4;ng b&#xE1;o tr&#xEA;n Subiz app](../../../.gitbook/assets/2.-phone-noti.png)
 
-Bạn có thể lựa chọn nhận thông báo khi có tin nhắn mới hay cuộc hội thoại mới. Hoặc khi đang bận và chỉ muốn theo dõi và quản lý các cuộc trò chuyện của nhân viên với khách hàng, bạn có thể lựa chọn Không nhận thông báo từ Subiz.
+* Cài đặt thông báo trên điện thoại: Trong quá trình cài đặt thông báo trên App Subiz, có thể điện thoại bạn chặn thông báo từ Subiz. Vậy nên, bạn cần cài đặt cho phép nhận thông báo từ App Subiz trên điện thoại như sau: Cài đặt chung -&gt; Ứng dụng -&gt; Subiz -&gt; Thông báo -&gt; chọn Cho phép. 
+
+![C&#xE0;i &#x111;&#x1EB7;t th&#xF4;ng b&#xE1;o tr&#xEA;n &#x111;i&#x1EC7;n tho&#x1EA1;i](../../../.gitbook/assets/52602479_389818681583439_3283353071584804864_n.jpg)
+
+{% hint style="info" %}
+**Lưu ý:** Nếu cài đặt 2 bước trên như vẫn chưa nhận được thông báo, bạn kiểm tra và tắt chế độ Silent \(Do not disturb\) trên điện thoại.
+{% endhint %}
 
 ### **2. Quản lý thông tin cá nhân khách hàng**
 
