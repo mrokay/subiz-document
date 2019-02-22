@@ -1,4 +1,4 @@
-# Ứng dụng Subiz trên điện thoại
+# App Subiz trên điện thoại
 
  Bạn có thể sử dụng Subiz để luôn kết nối với khách hàng trên thiết bị di động bao gồm Iphone, Android. 
 
