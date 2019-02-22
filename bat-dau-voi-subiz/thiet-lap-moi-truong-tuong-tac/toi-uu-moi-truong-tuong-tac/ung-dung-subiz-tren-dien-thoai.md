@@ -26,12 +26,12 @@ Những tin nhắn mới của khách hàng được thông báo tức thời tr
 
 ![C&#xE0;i &#x111;&#x1EB7;t th&#xF4;ng b&#xE1;o tr&#xEA;n Subiz app](../../../.gitbook/assets/2.-phone-noti.png)
 
-* Cài đặt thông báo trên điện thoại: Trong quá trình cài đặt thông báo trên App Subiz, có thể điện thoại bạn chặn thông báo từ Subiz. Vậy nên, bạn cần cài đặt cho phép nhận thông báo từ App Subiz trên điện thoại như sau: Cài đặt chung -&gt; Ứng dụng -&gt; Subiz -&gt; Thông báo -&gt; chọn Cho phép. 
+* Cài đặt thông báo trên điện thoại: Trong quá trình cài đặt thông báo trên App Subiz, có thể điện thoại bạn chặn thông báo từ Subiz. Vậy nên, bạn cần cài đặt cho phép nhận thông báo từ App Subiz trên điện thoại như sau: Cài đặt chung -&gt; Thông báo -&gt; Subiz -&gt; chọn Bật/Cho phép thông báo. 
 
 ![C&#xE0;i &#x111;&#x1EB7;t th&#xF4;ng b&#xE1;o tr&#xEA;n &#x111;i&#x1EC7;n tho&#x1EA1;i](../../../.gitbook/assets/52602479_389818681583439_3283353071584804864_n.jpg)
 
 {% hint style="info" %}
-**Lưu ý:** Nếu cài đặt 2 bước trên như vẫn chưa nhận được thông báo, bạn kiểm tra và tắt chế độ Silent \(Do not disturb\) trên điện thoại.
+**Lưu ý:** Nếu cài đặt 2 bước trên như vẫn chưa nhận được thông báo âm thanh, bạn kiểm tra và tắt chế độ Silent \(Do not disturb\) trên điện thoại.
 {% endhint %}
 
 ### **2. Quản lý thông tin cá nhân khách hàng**
