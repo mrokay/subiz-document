@@ -33,20 +33,21 @@ Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>CÁC ĐIỀU KIỆN</b>
+      <th style="text-align:left"><b>C&#xC1;C &#x110;I&#x1EC0;U KI&#x1EC6;N</b>
       </th>
-      <th style="text-align:left"><b>CÁCH SỬ DỤNG</b>
+      <th style="text-align:left"><b>C&#xC1;CH S&#x1EEC; D&#x1EE4;NG</b>
       </th>
-      <th style="text-align:left"><b>VÍ DỤ</b>
+      <th style="text-align:left"><b>V&#xCD; D&#x1EE4;</b>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Bất kì điều kiện nào</td>
-      <td style="text-align:left">Khi lựa chọn điều kiện này, tất cả cuộc hội thoại sẽ luôn được phân phối
-        tới các agent.</td>
-      <td style="text-align:left">Điều kiện:<em>Bất kì điều kiện nào</em>
+      <td style="text-align:left">B&#x1EA5;t k&#xEC; &#x111;i&#x1EC1;u ki&#x1EC7;n n&#xE0;o</td>
+      <td style="text-align:left">Khi l&#x1EF1;a ch&#x1ECD;n &#x111;i&#x1EC1;u ki&#x1EC7;n n&#xE0;y, t&#x1EA5;t
+        c&#x1EA3; cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i s&#x1EBD; lu&#xF4;n &#x111;&#x1B0;&#x1EE3;c
+        ph&#xE2;n ph&#x1ED1;i t&#x1EDB;i c&#xE1;c agent.</td>
+      <td style="text-align:left">&#x110;i&#x1EC1;u ki&#x1EC7;n:<em>B&#x1EA5;t k&#xEC; &#x111;i&#x1EC1;u ki&#x1EC7;n n&#xE0;o</em>
       </td>
     </tr>
     <tr>
@@ -56,96 +57,115 @@ Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Giờ trong ngày</td>
-      <td style="text-align:left">Dùng khi bạn muốn phân chia cuộc thoại theo các khung giờ trong ngày.
-        Giờ trong ngày từ 0 - 23.</td>
+      <td style="text-align:left">Gi&#x1EDD; trong ng&#xE0;y</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n ph&#xE2;n chia cu&#x1ED9;c tho&#x1EA1;i
+        theo c&#xE1;c khung gi&#x1EDD; trong ng&#xE0;y. Gi&#x1EDD; trong ng&#xE0;y
+        t&#x1EEB; 0 - 23.</td>
       <td style="text-align:left">
-        <p>Bạn cài đăt 3 rule tương ứng: Ca sáng cho Agent A - Ca chiều cho Agent
-          B - Ca tối cho Agent C.</p>
-        <p>Điều kiện:
-          <br /><em>Giờ trong ngày - lớn hơn hoặc bằng - 7<br />Và<br />Giờ trong ngày - nhỏ hơn - 12</em>
+        <p>B&#x1EA1;n c&#xE0;i &#x111;&#x103;t 3 rule t&#x1B0;&#x1A1;ng &#x1EE9;ng:
+          Ca s&#xE1;ng cho Agent A - Ca chi&#x1EC1;u cho Agent B - Ca t&#x1ED1;i
+          cho Agent C.</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n:
+          <br /><em>Gi&#x1EDD; trong ng&#xE0;y - l&#x1EDB;n h&#x1A1;n ho&#x1EB7;c b&#x1EB1;ng - 7<br />V&#xE0;<br />Gi&#x1EDD; trong ng&#xE0;y - nh&#x1ECF; h&#x1A1;n - 12</em>
         </p>
         <p></p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Ngày trong tuần</td>
-      <td style="text-align:left">Dùng khi bạn muốn phân chia cuộc thoại theo ngày trong tuần.
-        <br />Lưu ý: Ngày trong tuần được ghi nhận theo số thứ tự từ 2-8. Thứ Hai =
-        2, Thứ Ba = 3… , Chủ nhật = 8.</td>
-      <td style="text-align:left">
-        <p>Bạn cài đặt 2 Rule: 3 ngày đầu tuần cho Agent A và 3 ngày cuối tuần cho
-          Agent B</p>
-        <p>Điều kiện:
-          <br /><em>Ngày trong tuần - bằng - 2<br />Hoặc <br />Ngày trong tuần - bằng - 3<br />Hoặc <br />Ngày trong tuần - bằng - 4</em>
-        </p>
-        <p></p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Hội thoại</b>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Kênh</td>
-      <td style="text-align:left">Dùng khi bạn muốn phân phối hội thoại theo kênh tương tác khách hàng.
-        Ví dụ kênh Subiz chat trên website, Kênh Fanpage, kênh Subiz Email</td>
+      <td style="text-align:left">Ng&#xE0;y trong tu&#x1EA7;n</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n ph&#xE2;n chia cu&#x1ED9;c tho&#x1EA1;i
+        theo ng&#xE0;y trong tu&#x1EA7;n.
+        <br />L&#x1B0;u &#xFD;: Ng&#xE0;y trong tu&#x1EA7;n &#x111;&#x1B0;&#x1EE3;c
+        ghi nh&#x1EAD;n theo s&#x1ED1; th&#x1EE9; t&#x1EF1; t&#x1EEB; 2-8. Th&#x1EE9;
+        Hai = 2, Th&#x1EE9; Ba = 3&#x2026; , Ch&#x1EE7; nh&#x1EAD;t = 8.</td>
       <td
       style="text-align:left">
-        <p>Bạn tạo 3 Rule phân chai hội thoại trên 3 kênh Subiz chat, Fanpage, Email
-          như sau:</p>
-        <p>Điều kiện:
-          <br /><em>1.  Kênh - bằng - Subiz chat</em>
+        <p>B&#x1EA1;n c&#xE0;i &#x111;&#x1EB7;t 2 Rule: 3 ng&#xE0;y &#x111;&#x1EA7;u
+          tu&#x1EA7;n cho Agent A v&#xE0; 3 ng&#xE0;y cu&#x1ED1;i tu&#x1EA7;n cho
+          Agent B</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n:
+          <br /><em>Ng&#xE0;y trong tu&#x1EA7;n - b&#x1EB1;ng - 2<br />Ho&#x1EB7;c <br />Ng&#xE0;y trong tu&#x1EA7;n - b&#x1EB1;ng - 3<br />Ho&#x1EB7;c <br />Ng&#xE0;y trong tu&#x1EA7;n - b&#x1EB1;ng - 4</em>
         </p>
-        <p><em>2. Kênh - bằng - Subiz Email</em>
+        <p></p>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>H&#x1ED9;i tho&#x1EA1;i</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">K&#xEA;nh</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i
+        tho&#x1EA1;i theo k&#xEA;nh t&#x1B0;&#x1A1;ng t&#xE1;c kh&#xE1;ch h&#xE0;ng.
+        V&#xED; d&#x1EE5; k&#xEA;nh Subiz chat tr&#xEA;n website, K&#xEA;nh Fanpage,
+        k&#xEA;nh Subiz Email</td>
+      <td style="text-align:left">
+        <p>B&#x1EA1;n t&#x1EA1;o 3 Rule ph&#xE2;n chai h&#x1ED9;i tho&#x1EA1;i tr&#xEA;n
+          3 k&#xEA;nh Subiz chat, Fanpage, Email nh&#x1B0; sau:</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n:
+          <br /><em>1.  K&#xEA;nh - b&#x1EB1;ng - Subiz chat</em>
         </p>
-        <p><em>3. Kênh - bằng - Fanpage</em>
+        <p><em>2. K&#xEA;nh - b&#x1EB1;ng - Subiz Email</em>
+        </p>
+        <p><em>3. K&#xEA;nh - b&#x1EB1;ng - Fanpage</em>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">URL c&#x1EE7;a trang</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n ph&#xE2;n chia cu&#x1ED9;c h&#x1ED9;i
+        tho&#x1EA1;i theo t&#x1EEB;ng URL website ri&#xEA;ng hay URL page s&#x1EA3;n
+        ph&#x1EA9;m/ d&#x1ECB;ch v&#x1EE5; tr&#xEA;n 1 website</td>
+      <td style="text-align:left">
+        <p>Kh&#xE1;ch v&#xE0;o website c&#x1EE7;a Subiz s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c
+          ph&#xE2;n ph&#x1ED1;i cho Agent A</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>URL c&#x1EE7;a trang - ch&#x1EE9;a - Subiz.com</em>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Ti&#xEA;u &#x111;&#x1EC1; trang</td>
+      <td style="text-align:left">Ti&#xEA;u &#x111;&#x1EC1; trang g&#x1EA7;n gi&#x1ED1;ng URL trang, d&#xF9;ng
+        &#x111;&#x1EC3; ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i theo t&#x1EEB;ng
+        ti&#xEA;u &#x111;&#x1EC1; c&#x1EE7;a trang s&#x1EA3;n ph&#x1EA9;m/ d&#x1ECB;ch
+        v&#x1EE5;</td>
+      <td style="text-align:left">
+        <p>Kh&#xE1;ch v&#xE0;o trang c&#xF3; ti&#xEA;u &#x111;&#x1EC1; ch&#x1EE9;a
+          t&#x1EEB; kh&#xF3;a &#x201C;M&#xE1;y &#x1EA2;nh&#x201D; ph&#xE2;n ph&#x1ED1;i
+          cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i cho Agent A.</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>Ti&#xEA;u &#x111;&#x1EC1; trang - ch&#x1EE9;a - m&#xE1;y &#x1EA3;nh</em>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">N&#x1ED9;i dung tin nh&#x1EAF;n</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o n&#x1ED9;i dung
+        tin nh&#x1EAF;n &#x111;&#x1EA7;u ti&#xEA;n c&#x1EE7;a kh&#xE1;ch g&#x1EED;i
+        &#x111;&#x1EC3; ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho agent</td>
+      <td
+      style="text-align:left">
+        <p>Khi tin nh&#x1EAF;n &#x111;&#x1EA7;u ti&#xEA;n c&#x1EE7;a kh&#xE1;ch h&#xE0;ng
+          c&#xF3; ch&#x1EE9;a t&#x1EEB; &#x201C;gi&#xE1;&#x201D;, cu&#x1ED9;c h&#x1ED9;i
+          tho&#x1EA1;i n&#xE0;y s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c ph&#xE2;n ph&#x1ED1;i
+          cho Agent A.</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>N&#x1ED9;i dung tin nh&#x1EAF;n - ch&#x1EE9;a - gi&#xE1;</em>
         </p>
         </td>
     </tr>
     <tr>
-      <td style="text-align:left">URL của trang</td>
-      <td style="text-align:left">Dùng khi bạn muốn phân chia cuộc hội thoại theo từng URL website riêng
-        hay URL page sản phẩm/ dịch vụ trên 1 website</td>
+      <td style="text-align:left">Ng&#xF4;n ng&#x1EEF; tr&#xEA;n tr&#xEC;nh duy&#x1EC7;t</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o ng&#xF4;n ng&#x1EEF;
+        tr&#xEC;nh duy&#x1EC7;t c&#x1EE7;a kh&#xE1;ch &#x111;&#x1EC3; ph&#xE2;n
+        ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i. Ng&#xF4;n ng&#x1EEF; tr&#xEA;n tr&#xEC;nh
+        duy&#x1EC7;t theo chu&#x1EA9;n <a href="http://www.lingoes.net/en/translator/langcode.htm">ISO Language Code</a>,
+        v&#xED; d&#x1EE5;: vi- VN, en - US.</td>
       <td style="text-align:left">
-        <p>Khách vào website của Subiz sẽ được phân phối cho Agent A</p>
-        <p>Điều kiện: <em>URL của trang - chứa - Subiz.com</em>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Tiêu đề trang</td>
-      <td style="text-align:left">Tiêu đề trang gần giống URL trang, dùng để phân phối hội thoại theo từng
-        tiêu đề của trang sản phẩm/ dịch vụ</td>
-      <td style="text-align:left">
-        <p>Khách vào trang có tiêu đề chứa từ khóa “Máy Ảnh” phân phối cuộc hội thoại
-          cho Agent A.</p>
-        <p>Điều kiện: <em>Tiêu đề trang - chứa - máy ảnh</em>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Nội dung tin nhắn</td>
-      <td style="text-align:left">Dùng khi bạn muốn dựa vào nội dung tin nhắn đầu tiên của khách gửi để
-        phân phối hội thoại cho agent</td>
-      <td style="text-align:left">
-        <p>Khi tin nhắn đầu tiên của khách hàng có chứa từ “giá”, cuộc hội thoại
-          này sẽ được phân phối cho Agent A.</p>
-        <p>Điều kiện: <em>Nội dung tin nhắn - chứa - giá</em>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Ngôn ngữ trên trình duyệt</td>
-      <td style="text-align:left">Dùng khi bạn muốn dựa vào ngôn ngữ trình duyệt của khách để phân phối
-        hội thoại. Ngôn ngữ trên trình duyệt theo chuẩn <a href="http://www.lingoes.net/en/translator/langcode.htm">ISO Language Code</a>,
-        ví dụ: vi- VN, en - US.</td>
-      <td style="text-align:left">
-        <p>Khách hàng sử dụng ngôn ngữ English trên trình sẽ phân phối hội thoại
-          cho nhóm agent quốc tế.</p>
-        <p>Điều kiện: <em>Ngôn ngữ trên trình duyệt - bằng - en- US</em>
+        <p>Kh&#xE1;ch h&#xE0;ng s&#x1EED; d&#x1EE5;ng ng&#xF4;n ng&#x1EEF; English
+          tr&#xEA;n tr&#xEC;nh s&#x1EBD; ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i
+          cho nh&#xF3;m agent qu&#x1ED1;c t&#x1EBF;.</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>Ng&#xF4;n ng&#x1EEF; tr&#xEA;n tr&#xEC;nh duy&#x1EC7;t - b&#x1EB1;ng - en- US</em>
         </p>
       </td>
     </tr>
@@ -156,93 +176,114 @@ Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Quốc gia</td>
-      <td style="text-align:left">Dùng khi bạn muốn dựa vào Quốc gia của khách hàng để phân phối hội thoại
-        cho agent. Tên Quốc gia theo chuẩn quốc tế, <a href="https://countrycode.org/">tham khảo danh sách quốc gia.</a>
+      <td style="text-align:left">Qu&#x1ED1;c gia</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o Qu&#x1ED1;c gia
+        c&#x1EE7;a kh&#xE1;ch h&#xE0;ng &#x111;&#x1EC3; ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i
+        tho&#x1EA1;i cho agent. T&#xEA;n Qu&#x1ED1;c gia theo chu&#x1EA9;n qu&#x1ED1;c
+        t&#x1EBF;, <a href="https://countrycode.org/">tham kh&#x1EA3;o danh s&#xE1;ch qu&#x1ED1;c gia.</a>
         <br
-        />Ví dụ: Vietnam, United States</td>
+        />V&#xED; d&#x1EE5;: Vietnam, United States</td>
       <td style="text-align:left">
-        <p>Khách hàng ở Việt Nam sẽ phân phối hội thoại cho các agent nội địa</p>
-        <p>Điều kiện: <em>Quốc gia - bằng - Vietnam </em>
+        <p>Kh&#xE1;ch h&#xE0;ng &#x1EDF; Vi&#x1EC7;t Nam s&#x1EBD; ph&#xE2;n ph&#x1ED1;i
+          h&#x1ED9;i tho&#x1EA1;i cho c&#xE1;c agent n&#x1ED9;i &#x111;&#x1ECB;a</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>Qu&#x1ED1;c gia - b&#x1EB1;ng - Vietnam </em>
         </p>
-        <p><em></em>
+        <p>&lt;em&gt;&lt;/em&gt;</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">M&#xE3; qu&#x1ED1;c gia</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o M&#xE3; Qu&#x1ED1;c
+        gia c&#x1EE7;a kh&#xE1;ch &#x111;&#x1EC3; ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i
+        tho&#x1EA1;i. M&#xE3; qu&#x1ED1;c gia c&#x103;n c&#x1EE9; theo ISO Code
+        (2 k&#xFD; t&#x1EF1;), vi&#x1EBF;t hoa c&#x1EA3; 2 ch&#x1EEF; c&#xE1;i.
+        <a
+        href="https://en.wikipedia.org/wiki/ISO_3166-2">Tham kh&#x1EA3;o danh s&#xE1;ch m&#xE3; qu&#x1ED1;c gia</a>
+          <br />V&#xED; d&#x1EE5;: Vi&#x1EC7;t Nam = VN, M&#x1EF9; = US, Trung Qu&#x1ED1;c
+          = CN, H&#xE0;n Qu&#x1ED1;c = KR, Nh&#x1EAD;t B&#x1EA3;n = JP.</td>
+      <td style="text-align:left">
+        <p>Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i kh&#xE1;ch h&#xE0;ng n&#x1B0;&#x1EDB;c
+          ngo&#xE0;i cho c&#xE1;c agent qu&#x1ED1;c t&#x1EBF;</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>M&#xE3; qu&#x1ED1;c gia - kh&#xF4;ng ph&#x1EA3;i l&#xE0; - VN</em>
         </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Mã quốc gia</td>
-      <td style="text-align:left">Dùng khi bạn muốn dựa vào Mã Quốc gia của khách để phân phối hội thoại.
-        Mã quốc gia căn cứ theo ISO Code (2 ký tự), viết hoa cả 2 chữ cái. <a href="https://en.wikipedia.org/wiki/ISO_3166-2">Tham khảo danh sách mã quốc gia</a>
-        <br
-        />Ví dụ: Việt Nam = VN, Mỹ = US, Trung Quốc = CN, Hàn Quốc = KR, Nhật Bản
-        = JP.</td>
+      <td style="text-align:left">Th&#xE0;nh ph&#x1ED1;</td>
       <td style="text-align:left">
-        <p>Phân phối hội thoại khách hàng nước ngoài cho các agent quốc tế</p>
-        <p>Điều kiện: <em>Mã quốc gia - không phải là - VN</em>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Thành phố</td>
-      <td style="text-align:left">
-        <p>Dùng khi bạn muốn dựa vào địa chỉ Thành phố của khách để phân phối hội
-          thoại. Là tên tiếng Anh của các thành phố, chỉ viết hoa các chữ cái đầu
-          tiên của từ. <a href="https://countrycode.org/vietnam">Tham khảo tên Thành phố từng quốc gia</a>
-          <br
-          />Ví dụ: Hanoi, Ho Chi Minh City, New York, Hong Kong.</p>
+        <p>D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o &#x111;&#x1ECB;a
+          ch&#x1EC9; Th&#xE0;nh ph&#x1ED1; c&#x1EE7;a kh&#xE1;ch &#x111;&#x1EC3;
+          ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i. L&#xE0; t&#xEA;n ti&#x1EBF;ng
+          Anh c&#x1EE7;a c&#xE1;c th&#xE0;nh ph&#x1ED1;, ch&#x1EC9; vi&#x1EBF;t hoa
+          c&#xE1;c ch&#x1EEF; c&#xE1;i &#x111;&#x1EA7;u ti&#xEA;n c&#x1EE7;a t&#x1EEB;.
+          <a
+          href="https://countrycode.org/vietnam">Tham kh&#x1EA3;o t&#xEA;n Th&#xE0;nh ph&#x1ED1; t&#x1EEB;ng qu&#x1ED1;c
+            gia</a>
+            <br />V&#xED; d&#x1EE5;: Hanoi, Ho Chi Minh City, New York, Hong Kong.</p>
         <p></p>
       </td>
       <td style="text-align:left">
-        <p>Phân phối hội thoại cho khách hàng đến từ Hà Nội cho agent Hà Nội</p>
-        <p>Điều kiện : <em>Thành phố - bằng - Hanoi</em>
+        <p>Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho kh&#xE1;ch h&#xE0;ng
+          &#x111;&#x1EBF;n t&#x1EEB; H&#xE0; N&#x1ED9;i cho agent H&#xE0; N&#x1ED9;i</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n : <em>Th&#xE0;nh ph&#x1ED1; - b&#x1EB1;ng - Hanoi</em>
         </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Múi giờ</td>
+      <td style="text-align:left">M&#xFA;i gi&#x1EDD;</td>
       <td style="text-align:left">
-        <p>Thực hiện phân phối hội thoại dựa trên múi giờ của user. Mã múi giờ được
-          căn cứ theo giờ UTC. <a href="https://vi.wikipedia.org/wiki/M%C3%BAi_gi%E1%BB%9D">Tham khảo danh sách múi giờ các khu vực</a>
+        <p>Th&#x1EF1;c hi&#x1EC7;n ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i
+          d&#x1EF1;a tr&#xEA;n m&#xFA;i gi&#x1EDD; c&#x1EE7;a user. M&#xE3; m&#xFA;i
+          gi&#x1EDD; &#x111;&#x1B0;&#x1EE3;c c&#x103;n c&#x1EE9; theo gi&#x1EDD;
+          UTC. <a href="https://vi.wikipedia.org/wiki/M%C3%BAi_gi%E1%BB%9D">Tham kh&#x1EA3;o danh s&#xE1;ch m&#xFA;i gi&#x1EDD; c&#xE1;c khu v&#x1EF1;c</a>
         </p>
-        <p>Ví dụ: Việt Nam và khu vực Đông Nam Á - UTC +7 G</p>
+        <p>V&#xED; d&#x1EE5;: Vi&#x1EC7;t Nam v&#xE0; khu v&#x1EF1;c &#x110;&#xF4;ng
+          Nam &#xC1; - UTC +7 G</p>
       </td>
       <td style="text-align:left">
-        <p>Phân phối hội thoại cho khách hàng đến từ khu vực Đông Nam Á cho agent
-          A Đông Nam Á.</p>
-        <p>Điều kiện: <em>Múi giờ - bằng - UTC +7 G</em>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Tên</td>
-      <td style="text-align:left">Dùng khi bạn muốn dựa vào thông tin Họ tên của khách để phân phối hội
-        thoại cho agent.</td>
-      <td style="text-align:left">
-        <p>Phân phối cuộc hội thoại của khách hàng đã có thông tin Họ tên cho Agent
-          Dịch vụ</p>
-        <p>Điều kiện: <em>Tên  - Không trống</em>
+        <p>Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho kh&#xE1;ch h&#xE0;ng
+          &#x111;&#x1EBF;n t&#x1EEB; khu v&#x1EF1;c &#x110;&#xF4;ng Nam &#xC1; cho
+          agent A &#x110;&#xF4;ng Nam &#xC1;.</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>M&#xFA;i gi&#x1EDD; - b&#x1EB1;ng - UTC +7 G</em>
         </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Địa chỉ email</td>
-      <td style="text-align:left">Dùng khi bạn muốn dựa vào thông tin địa chỉ email của khách để phân phối
-        hội thoại cho agent.</td>
+      <td style="text-align:left">T&#xEA;n</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o th&#xF4;ng tin
+        H&#x1ECD; t&#xEA;n c&#x1EE7;a kh&#xE1;ch &#x111;&#x1EC3; ph&#xE2;n ph&#x1ED1;i
+        h&#x1ED9;i tho&#x1EA1;i cho agent.</td>
       <td style="text-align:left">
-        <p>Phân phối cuộc hội thoại của khách hàng đã có địa chỉ email cho Agent
+        <p>Ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#x1EE7;a kh&#xE1;ch
+          h&#xE0;ng &#x111;&#xE3; c&#xF3; th&#xF4;ng tin H&#x1ECD; t&#xEA;n cho Agent
+          D&#x1ECB;ch v&#x1EE5;</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>T&#xEA;n  - Kh&#xF4;ng tr&#x1ED1;ng</em>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x110;&#x1ECB;a ch&#x1EC9; email</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o th&#xF4;ng tin
+        &#x111;&#x1ECB;a ch&#x1EC9; email c&#x1EE7;a kh&#xE1;ch &#x111;&#x1EC3;
+        ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho agent.</td>
+      <td style="text-align:left">
+        <p>Ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#x1EE7;a kh&#xE1;ch
+          h&#xE0;ng &#x111;&#xE3; c&#xF3; &#x111;&#x1ECB;a ch&#x1EC9; email cho Agent
           Kinh doanh</p>
-        <p>Điều kiện:<em> Địa chỉ email  - Không trống</em>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n:<em> &#x110;&#x1ECB;a ch&#x1EC9; email  - Kh&#xF4;ng tr&#x1ED1;ng</em>
         </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Số điện thoại</td>
-      <td style="text-align:left">Dùng khi bạn muốn dựa vào thông tin số điện thoại của khách để phân phối
-        hội thoại cho agent.</td>
+      <td style="text-align:left">S&#x1ED1; &#x111;i&#x1EC7;n tho&#x1EA1;i</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o th&#xF4;ng tin
+        s&#x1ED1; &#x111;i&#x1EC7;n tho&#x1EA1;i c&#x1EE7;a kh&#xE1;ch &#x111;&#x1EC3;
+        ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho agent.</td>
       <td style="text-align:left">
-        <p>Phân phối cuộc hội thoại của khách hàng đã có địa chỉ email cho Agent
-          Tổng đài</p>
-        <p>Điều kiện: <em>Số điện thoại  - Không trống</em>
+        <p>Ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#x1EE7;a kh&#xE1;ch
+          h&#xE0;ng &#x111;&#xE3; c&#xF3; &#x111;&#x1ECB;a ch&#x1EC9; email cho Agent
+          T&#x1ED5;ng &#x111;&#xE0;i</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>S&#x1ED1; &#x111;i&#x1EC7;n tho&#x1EA1;i  - Kh&#xF4;ng tr&#x1ED1;ng</em>
         </p>
       </td>
     </tr>

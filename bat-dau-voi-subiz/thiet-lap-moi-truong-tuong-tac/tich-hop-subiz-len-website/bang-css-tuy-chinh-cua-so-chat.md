@@ -51,14 +51,14 @@ Màu sắc cửa sổ chat sẽ đồng bộ trên cả bản destop và mobile.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Ví trí thay đổi màu sắc</th>
-      <th style="text-align:left">Màu sắc đơn</th>
-      <th style="text-align:left">Dải màu chuyển tiếp</th>
+      <th style="text-align:left">V&#xED; tr&#xED; thay &#x111;&#x1ED5;i m&#xE0;u s&#x1EAF;c</th>
+      <th style="text-align:left">M&#xE0;u s&#x1EAF;c &#x111;&#x1A1;n</th>
+      <th style="text-align:left">D&#x1EA3;i m&#xE0;u chuy&#x1EC3;n ti&#x1EBF;p</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Toàn bộ cửa sổ chat</td>
+      <td style="text-align:left">To&#xE0;n b&#x1ED9; c&#x1EED;a s&#x1ED5; chat</td>
       <td style="text-align:left">
         <p><code>.color-theme-default <br />{background-color:#000000;}</code>
         </p>
@@ -73,7 +73,7 @@ Màu sắc cửa sổ chat sẽ đồng bộ trên cả bản destop và mobile.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Khung tiêu đề</td>
+      <td style="text-align:left">Khung ti&#xEA;u &#x111;&#x1EC1;</td>
       <td style="text-align:left">
         <p><code>.widget-header <br />{background-color:#00000;}</code>
         </p>
@@ -88,7 +88,7 @@ Màu sắc cửa sổ chat sẽ đồng bộ trên cả bản destop và mobile.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Khung tin nhắn</td>
+      <td style="text-align:left">Khung tin nh&#x1EAF;n</td>
       <td style="text-align:left">
         <p><code>.message-body <br />{background-color:#00000;}</code>
         </p>
@@ -103,19 +103,20 @@ Màu sắc cửa sổ chat sẽ đồng bộ trên cả bản destop và mobile.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Nút "Bắt đầu trò chuyện"</td>
-      <td style="text-align:left">
+      <td style="text-align:left">N&#xFA;t &quot;B&#x1EAF;t &#x111;&#x1EA7;u tr&#xF2; chuy&#x1EC7;n&quot;</td>
+      <td
+      style="text-align:left">
         <p><code>.add-new-conversation {background-color:#000000;}</code>
         </p>
         <p><em><code>/* Thay &#x111;&#x1ED5;i m&#xE3; m&#xE0;u: #000000;} */</code></em>
         </p>
-      </td>
-      <td style="text-align:left">
-        <p><code>.add-new-conversation <br />{background-image: linear-gradient(to right top, #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f);}</code>
-        </p>
-        <p><em><code>/* Thay &#x111;&#x1ED5;i d&#x1EA3;i m&#xE3; m&#xE0;u: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f */ </code></em>
-        </p>
-      </td>
+        </td>
+        <td style="text-align:left">
+          <p><code>.add-new-conversation <br />{background-image: linear-gradient(to right top, #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f);}</code>
+          </p>
+          <p><em><code>/* Thay &#x111;&#x1ED5;i d&#x1EA3;i m&#xE3; m&#xE0;u: #056587, #0085a3, <br />#00a6ac, #00c59f, #0be17f */ </code></em>
+          </p>
+        </td>
     </tr>
   </tbody>
 </table>### Sáng tạo tiêu đề cửa sổ chat

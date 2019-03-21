@@ -44,8 +44,8 @@ Các trường dữ liệu Subiz như sau:
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Tên trường</th>
-      <th style="text-align:left">Mô tả</th>
+      <th style="text-align:left">T&#xEA;n tr&#x1B0;&#x1EDD;ng</th>
+      <th style="text-align:left">M&#xF4; t&#x1EA3;</th>
     </tr>
   </thead>
   <tbody>
@@ -53,60 +53,69 @@ Các trường dữ liệu Subiz như sau:
       <td style="text-align:left"><em>ID</em>
       </td>
       <td style="text-align:left">
-        <p>Là mã của sản phẩm do bạn tự đặt. Subiz sử dụng để nhận diện</p>
-        <p>sản phẩm. Ví dụ: 12456</p>
+        <p>L&#xE0; m&#xE3; c&#x1EE7;a s&#x1EA3;n ph&#x1EA9;m do b&#x1EA1;n t&#x1EF1;
+          &#x111;&#x1EB7;t. Subiz s&#x1EED; d&#x1EE5;ng &#x111;&#x1EC3; nh&#x1EAD;n
+          di&#x1EC7;n</p>
+        <p>s&#x1EA3;n ph&#x1EA9;m. V&#xED; d&#x1EE5;: 12456</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><em>Tên sản ph</em>
+      <td style="text-align:left"><em>T&#xEA;n s&#x1EA3;n ph</em>
       </td>
-      <td style="text-align:left">Tên của sản phẩm.</td>
+      <td style="text-align:left">T&#xEA;n c&#x1EE7;a s&#x1EA3;n ph&#x1EA9;m.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><em>Mô tả</em>
+      <td style="text-align:left"><em>M&#xF4; t&#x1EA3;</em>
       </td>
-      <td style="text-align:left">Mô tả ngắn về sản phẩm.</td>
+      <td style="text-align:left">M&#xF4; t&#x1EA3; ng&#x1EAF;n v&#x1EC1; s&#x1EA3;n ph&#x1EA9;m.</td>
     </tr>
     <tr>
       <td style="text-align:left"><em>URL</em>
       </td>
       <td style="text-align:left">
-        <p>Đường dẫn về sản phẩm, có thể là trang chi tiết một sản phẩm</p>
-        <p>trên website.</p>
+        <p>&#x110;&#x1B0;&#x1EDD;ng d&#x1EAB;n v&#x1EC1; s&#x1EA3;n ph&#x1EA9;m,
+          c&#xF3; th&#x1EC3; l&#xE0; trang chi ti&#x1EBF;t m&#x1ED9;t s&#x1EA3;n
+          ph&#x1EA9;m</p>
+        <p>tr&#xEA;n website.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><em>Ảnh</em>
+      <td style="text-align:left"><em>&#x1EA2;nh</em>
       </td>
-      <td style="text-align:left">Là đường dẫn tới ảnh của Sản phẩm.</td>
+      <td style="text-align:left">L&#xE0; &#x111;&#x1B0;&#x1EDD;ng d&#x1EAB;n t&#x1EDB;i &#x1EA3;nh c&#x1EE7;a
+        S&#x1EA3;n ph&#x1EA9;m.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><em>Tình trạng</em>
+      <td style="text-align:left"><em>T&#xEC;nh tr&#x1EA1;ng</em>
       </td>
       <td style="text-align:left">
-        <p>Là tình trạng sản phẩm còn hàng hay không.</p>
-        <p>Ví dụ: in stock; out of stock; preorder; discontinued...</p>
+        <p>L&#xE0; t&#xEC;nh tr&#x1EA1;ng s&#x1EA3;n ph&#x1EA9;m c&#xF2;n h&#xE0;ng
+          hay kh&#xF4;ng.</p>
+        <p>V&#xED; d&#x1EE5;: in stock; out of stock; preorder; discontinued...</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><em>Giá</em>
+      <td style="text-align:left"><em>Gi&#xE1;</em>
       </td>
-      <td style="text-align:left">Giá của sản phẩm. Ví dụ: 1,000,000.</td>
+      <td style="text-align:left">Gi&#xE1; c&#x1EE7;a s&#x1EA3;n ph&#x1EA9;m. V&#xED; d&#x1EE5;: 1,000,000.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><em>Đơn vị tiền tệ</em>
+      <td style="text-align:left"><em>&#x110;&#x1A1;n v&#x1ECB; ti&#x1EC1;n t&#x1EC7;</em>
       </td>
-      <td style="text-align:left">Là đơn vị tiền tệ cho giá. Ví dụ $ hoặc VNĐ.</td>
+      <td style="text-align:left">L&#xE0; &#x111;&#x1A1;n v&#x1ECB; ti&#x1EC1;n t&#x1EC7; cho gi&#xE1;.
+        V&#xED; d&#x1EE5; $ ho&#x1EB7;c VN&#x110;.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><em>Giá khuyến mại</em>
+      <td style="text-align:left"><em>Gi&#xE1; khuy&#x1EBF;n m&#x1EA1;i</em>
       </td>
-      <td style="text-align:left">Là giá đã giảm giá. ví dụ 980,000.</td>
+      <td style="text-align:left">L&#xE0; gi&#xE1; &#x111;&#xE3; gi&#x1EA3;m gi&#xE1;. v&#xED; d&#x1EE5;
+        980,000.</td>
     </tr>
     <tr>
       <td style="text-align:left"><em>Fields</em>
       </td>
-      <td style="text-align:left">Là những dữ liệu tùy biến khác bạn muốn đưa lên.</td>
+      <td style="text-align:left">L&#xE0; nh&#x1EEF;ng d&#x1EEF; li&#x1EC7;u t&#xF9;y bi&#x1EBF;n kh&#xE1;c
+        b&#x1EA1;n mu&#x1ED1;n &#x111;&#x1B0;a l&#xEA;n.</td>
     </tr>
   </tbody>
 </table>### Câu hỏi thường gặp về Sản phẩm. 

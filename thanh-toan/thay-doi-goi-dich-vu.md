@@ -21,7 +21,7 @@ Sau đó lựa chọn gói Nâng cao và tiến hành nâng cấp tài khoản:
 ![N&#xE2;ng c&#x1EA5;p l&#xEA;n g&#xF3;i n&#xE2;ng cao](../.gitbook/assets/nang-cap-len-goi-nang-cao.png)
 
 {% hint style="info" %}
-Sau khi nâng cấp tài khoản, hệ thống sẽ phát sinh hóa đơn trong tài khoản của bạn. Bạn có thể lựa chọn thanh toán qua Thẻ tín dụng hoặc Chuyển khoản theo [**Hướng dẫn thanh toán**](https://help.subiz.com/thanh-toan/tra-phi-dich-vu-subiz)**.**
+Lưu ý: Sau khi Nâng cấp tài khoản, hệ thống sẽ phát sinh hóa đơn trong tài khoản của bạn. Bạn có thể lựa chọn thanh toán qua Thẻ tín dụng hoặc Chuyển khoản theo [**Hướng dẫn thanh toán**](https://help.subiz.com/thanh-toan/tra-phi-dich-vu-subiz)**.**
 {% endhint %}
 
 ### Hạ cấp tài khoản
@@ -29,7 +29,7 @@ Sau khi nâng cấp tài khoản, hệ thống sẽ phát sinh hóa đơn trong 
 Bạn đang sử dụng gói Nâng cao và muốn hạ cấp tài khoản xuống gói cơ bản, bạn vào mục **Gói cước hiện tại** và tiến hành hạ cấp tài khoản.
 
 {% hint style="info" %}
- Lưu ý: Với việc hạ cấp gói dịch vụ, hệ thống sẽ không sinh hóa đơn, và bạn cũng không được hoàn lại số tiền đã thanh toán cho gói dịch vụ hiện tại. **Hãy cân nhắc!**
+ Lưu ý: Với việc hạ cấp gói dịch vụ, hệ thống sẽ không sinh hóa đơn, và bạn sẽ được bảo lưu thanh toán của gói dịch vụ chưa sử dụng đến. Hãy gửi mail xác nhận hạ cấp tài khoản tới **Support@Subiz.com** để đảm bảo quyền lợi bảo lưu thanh toán của bạn!
 {% endhint %}
 
 ![H&#x1EA1; c&#x1EA5;p t&#xE0;i kho&#x1EA3;n](../.gitbook/assets/ha-tai-khoan%20%281%29.png)
@@ -42,12 +42,16 @@ Bạn đang sử dụng gói Nâng cao và muốn hạ cấp tài khoản xuốn
 
 ![Mua th&#xEA;m Agent](../.gitbook/assets/mua-them-agents%20%281%29.png)
 
+{% hint style="info" %}
+Lưu ý: Sau khi bạn Mua thêm Agent, hệ thống sẽ phát sinh hóa đơn trong tài khoản của bạn. Bạn có thể lựa chọn thanh toán qua Thẻ tín dụng hoặc Chuyển khoản theo [**Hướng dẫn thanh toán**](https://help.subiz.com/thanh-toan/tra-phi-dich-vu-subiz)**.**
+{% endhint %}
+
 **Giảm số lượng Agent**
 
 Để giảm số lượng Agent, bạn vào mục **Xem thêm** sau đó thay đổi số lượng Agent phù hợp.
 
 {% hint style="info" %}
- Lưu ý: Việc giảm agent sẽ không sinh hóa đơn, và bạn cũng không được giảm trừ số tiền đã thanh toán. **Hãy cân nhắc!**
+ Lưu ý: Việc giảm agent sẽ không sinh hóa đơn. Bạn sẽ được bảo lưu thanh toán của agent chưa sử dụng đến. Hãy gửi mail xác nhận giảm agent tới **Support@Subiz.com** để đảm bảo quyền lợi bảo lưu thanh toán của bạn!
 {% endhint %}
 
 ![Gi&#x1EA3;m Agent](../.gitbook/assets/giam-agent.png)
