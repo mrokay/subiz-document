@@ -1,21 +1,23 @@
 # FAQs
 
-### Tôi có thể thay đổi gói dịch vụ Subiz bất cứ lúc nào?
+### Tôi có thể tự thay đổi gói dịch vụ Subiz bất cứ lúc nào?
 
-Đúng vậy, bạn có thể thay đổi gói dịch vụ của mình bất cứ khi nào để phù hợp nhất với tình hình kinh doanh và hoạt động của công ty. Bạn có thể Nâng cấp/ Hạ cấp tài khoản, Mua thêm/ Giảm số lượng Agent, Thay đổi chu kỳ thanh toán phù hợp tại trang [THANH TOÁN](https://app.subiz.com/payment-home) của Subiz.
+Đúng vậy, bạn có thể chủ động thay đổi gói dịch vụ của mình bất cứ khi nào để phù hợp nhất với tình hình kinh doanh và hoạt động của công ty. Bạn có thể Nâng cấp/ Hạ cấp tài khoản, Mua thêm/ Giảm số lượng Agent, Thay đổi chu kỳ thanh toán phù hợp tại trang [THANH TOÁN](https://app.subiz.com/payment-home) của Subiz.
 
-Xem thêm hướng dẫn thay đổi gói dịch vụ Subiz.
+Xem chi tiết hướng dẫn [Thay đổi gói dịch vụ Subiz](https://help.subiz.com/thanh-toan/thay-doi-goi-dich-vu).
 
-### Tôi thay đổi phương thức thanh toán như thế nào?
+### Tôi muốn thay đổi thông tin thanh toán như thẻ tín dụng hoặc chuyển khoản?
 
+Hoàn toàn được. Bạn có thể truy cập vào trang [THANH TOÁN](https://app.subiz.com/payment-home) của Subiz để thay đổi thông tin thanh toán như thêm thẻ tín dụng khác, chuyển phương thức thanh toán qua thẻ tín dụng hoặc chuyển khoản,...
 
+Xem hướng dẫn chi tiết [Thay đổi thông tin thanh toán](https://help.subiz.com/thanh-toan/thay-doi-goi-dich-vu#thay-doi-phuong-thuc-thanh-toan).
 
 ### Tôi đã thanh toán rồi mà hệ thống vẫn hiển thị thông báo hóa đơn chờ thanh toán? 
 
 Tình trạng này xảy ra với những trường hợp thanh toán thiếu do chênh lệch số dư khi thực hiện chuyển khoản. Việc này đã được lưu ý ngay tại email xác nhận thanh toán từ hệ thống khi thực hiện cập nhật thanh toán cho tài khoản bạn. Bạn vui lòng thanh toán chính xác số tiền hệ thống cung cấp.
 
 {% hint style="info" %}
-Nếu có bất kỳ câu hỏi nào liên quan đến hóa đơn phát sinh và việc thực hiện thanh toán, vui lòng gửi phản hồi đến email [billing@subiz.com](mailto:billing@subiz.com) để được hỗ trợ.
+Nếu có bất kỳ câu hỏi nào liên quan đến hóa đơn phát sinh và việc thực hiện thanh toán, vui lòng gửi phản hồi đến email [Billing@subiz.com](mailto:billing@subiz.com) để được hỗ trợ.
 {% endhint %}
 
 ### Tại sao thanh toán thẻ không thành công? 

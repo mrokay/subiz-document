@@ -4,9 +4,9 @@ description: Bài viết hướng dẫn bạn thay đổi gói dịch vụ của
 
 # Thay đổi gói dịch vụ
 
-Trong quá trình sử dụng Subiz, tùy vào tình hình kinh doanh và chiến lược phát triển, bạn có thay đổi gói dịch vụ của tài khoản bất cứ khi nào để phù hợp với nhu cầu của doanh nghiệp như Nâng cấp tài khoản, Hạ cấp tài khoản, Mua thêm agent, Giảm agent, Thay đổi chu kỳ thanh toán.
+Trong quá trình sử dụng Subiz, tùy vào tình hình kinh doanh và chiến lược phát triển, bạn có thể chủ động thay đổi gói dịch vụ của tài khoản bất cứ khi nào để phù hợp với nhu cầu của doanh nghiệp như Nâng cấp tài khoản, Hạ cấp tài khoản, Mua thêm agent, Giảm agent, Thay đổi chu kỳ thanh toán.
 
-Chi tiết như sau:
+Chi tiết hướng dẫn như sau:
 
 ### Nâng cấp tài khoản
 
@@ -78,6 +78,22 @@ Tùy vào nhu cầu sử dụng và hoạt động kinh doanh, bạn có thể l
 Xem thêm [chính sách hạ cấp tài khoản xuống gói miễn phí](https://help.subiz.com/thanh-toan/chinh-sach-hoan-tien)
 
 ![H&#x1EA1; t&#xE0;i kho&#x1EA3;n xu&#x1ED1;ng g&#xF3;i mi&#x1EC5;n ph&#xED;](../.gitbook/assets/ha-tai-khoan-xuong-goi-mien-phi%20%281%29.png)
+
+### Thay đổi phương thức thanh toán
+
+Bạn có thể thay đổi thông tin thanh toán như thêm thẻ tín dụng khác, chuyển phương thức thanh toán qua thẻ tín dụng hoặc chuyển khoản,... ngay trên trang [**THANH TOÁN**](https://app.subiz.com/payment-home) của Subiz.
+
+Hướng dẫn chi tiết như sau:
+
+* Thêm thẻ tín dụng khác để thanh toán hoặc chuyển từ phương thanh thanh toán Chuyển khoản sang Thẻ tín dụng như sau:  Bạn vào trang [**THANH TOÁN**](https://app.subiz.com/payment-home\) &gt;  chọn **Thêm thẻ** &gt; **Điền thông tin Thẻ ghi nợ hoặc Thẻ tín dụng** &gt; **Chọn Make Primary** để chọn Thẻ tín dụng này là thẻ chính mặc định thanh toán sau này &gt; **Hoàn thành**
+
+![Th&#xEA;m th&#x1EBB; t&#xED;n d&#x1EE5;ng ](../.gitbook/assets/2-them-the%20%281%29.jpg)
+
+* Thay đổi Phương thức thanh toán từ Thẻ tín dụng sang Chuyển khoản. Bạn click **Thay đổi phương thức thanh toán** &gt; Click **Sửa Thẻ tín dụng** &gt; **Bỏ chọn Make Primary** để bỏ chọn mặc định thanh toán bằng thẻ tín dụng &gt; Mở **Hóa đơn CHỜ THANH TOÁN** và **Chuyển khoản** vào số tài khoản của Subiz.
+
+![Chuy&#x1EC3;n thanh to&#xE1;n t&#x1EEB; Th&#x1EBB; t&#xED;n d&#x1EE5;ng qua Chuy&#x1EC3;n kho&#x1EA3;n](../.gitbook/assets/payment-1.jpg)
+
+Xem thêm hướng dẫn [Gia hạn dịch vụ Subiz](https://help.subiz.com/thanh-toan/gia-han-subiz).
 
 {% hint style="info" %}
 Bạn có thắc mắc hoặc cần hỗ trợ, vui lòng gửi yêu cầu tới email Support@subiz.com.
