@@ -12,7 +12,7 @@ Các thông tin và hướng dẫn trong mục Thanh toán sẽ giúp bạn hi�
 
 {% page-ref page="gia-han-subiz.md" %}
 
-{% page-ref page="thay-doi-goi-dich-vu.md" %}
+{% page-ref page="quan-ly-thong-tin-goi-dich-vu.md" %}
 
 {% page-ref page="chinh-sach-hoan-tien.md" %}
 

@@ -2,9 +2,9 @@
 description: Bài viết hướng dẫn bạn thay đổi gói dịch vụ của tài khoản Subiz.
 ---
 
-# Thay đổi gói dịch vụ
+# Quản lý thông tin gói dịch vụ
 
-Trong quá trình sử dụng Subiz, tùy vào tình hình kinh doanh và chiến lược phát triển, bạn có thể chủ động thay đổi gói dịch vụ của tài khoản bất cứ khi nào để phù hợp với nhu cầu của doanh nghiệp như Nâng cấp tài khoản, Hạ cấp tài khoản, Mua thêm agent, Giảm agent, Thay đổi chu kỳ thanh toán.
+Trong quá trình sử dụng Subiz, tùy vào tình hình kinh doanh và chiến lược phát triển, bạn có thể chủ động thay đổi gói dịch vụ của tài khoản bất cứ khi nào để phù hợp với nhu cầu của doanh nghiệp như Nâng cấp tài khoản, Hạ cấp tài khoản, Mua thêm agent, Giảm agent, Thay đổi chu kỳ thanh toán, Thay đổi phương thức thanh toán.
 
 Chi tiết hướng dẫn như sau:
 

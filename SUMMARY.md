@@ -72,7 +72,7 @@
   * [Trả phí dịch vụ Subiz](thanh-toan/tra-phi-dich-vu-subiz.md)
   * [Hợp đồng và hóa đơn dành cho Doanh Nghiệp](thanh-toan/hop-dong-hoa-don-subiz.md)
   * [Gia hạn Subiz](thanh-toan/gia-han-subiz.md)
-  * [Thay đổi gói dịch vụ](thanh-toan/thay-doi-goi-dich-vu.md)
+  * [Quản lý thông tin gói dịch vụ](thanh-toan/quan-ly-thong-tin-goi-dich-vu.md)
   * [Chính sách hoàn tiền](thanh-toan/chinh-sach-hoan-tien.md)
   * [FAQs](thanh-toan/cau-hoi-thuong-gap.md)
   * [Quản lý email tài khoản chính](thanh-toan/quan-ly-tai-khoan-email-owner.md)
