@@ -11,12 +11,12 @@ Subiz hỗ trợ 2 phương thức thanh toán là Thẻ tín dụng và Chuyể
 
 ![Ch&#x1ECD;n g&#xF3;i d&#x1ECB;ch v&#x1EE5; tr&#x1EA3; ph&#xED;](../.gitbook/assets/1-chon-goi-copy.jpg)
 
-* Bước 3: chọn ĐĂNG KÝ NGAY. Tài khoản sẽ được nâng cấp và tự sinh ra hóa đơn 
-* Bước 4: Để thanh toán qua thẻ tín dụng chọn Thêm thẻ &gt; Điền thông tin thẻ tín dụng hoăc thẻ ghi nợ &gt; Chọn Make Primary &gt; Hoàn thành
+* Bước 3: chọn **ĐĂNG KÝ NGAY**. Tài khoản sẽ được nâng cấp và tự sinh ra hóa đơn 
+* Bước 4: Để thanh toán qua thẻ tín dụng chọn **Thêm thẻ** &gt; **Điền thông tin thẻ tín dụng hoăc thẻ ghi nợ** &gt; **Chọn Make Primary** để mặc định thanh toán qua thẻ tín dụng &gt; **Hoàn thành**
 
 ![&#x110;i&#x1EC3;n th&#xF4;ng tin th&#x1EBB; t&#xED;n d&#x1EE5;ng ho&#x1EB7;c th&#x1EBB; ghi n&#x1EE3;](../.gitbook/assets/2-them-the.jpg)
 
-* Bước 5: Bật - Tự động trả tiền
+* Bước 5: **Bật** - **Tự động trả tiền** cho phép Subiz sẽ thu tiền trong vòng 24h hóa đơn dịch vụ phát sinh.
 
 ![B&#x1EAD;t T&#x1EF1; &#x111;&#x1ED9;ng tr&#x1EA3; ti&#x1EC1;n](../.gitbook/assets/3-bat-tu-dong-copy.jpg)
 
@@ -34,13 +34,13 @@ Lưu ý:
 
 ![Ch&#x1ECD;n g&#xF3;i d&#x1ECB;ch v&#x1EE5; tr&#x1EA3; ph&#xED;](../.gitbook/assets/1-chon-goi-copy.jpg)
 
-* Bước 3: chọn ĐĂNG KÝ NGAY. Tài khoản sẽ được nâng cấp và tự sinh ra hóa đơn 
-* Bước 4: Mở Hóa đơn CHỜ THANH TOÁN để xem thông tin thanh toán và chuyển khoản tới:                Tài khoản số: 0451001477880                Tại Ngân hàng: TMCP Ngoại thương Việt Nam- Chi nhánh Thành Công - Hà Nội                Chủ tài khoản: Công ty cổ phần giải pháp trực tuyến VietnamBIZ                                Nội dung chuyển khoản: Mua dịch vụ cho "Mã tài khoản" hoặc "website" hoặc "email                            đăng nhập Subiz"
+* Bước 3: chọn **ĐĂNG KÝ NGAY**. Tài khoản sẽ được nâng cấp và tự sinh ra hóa đơn 
+* Bước 4: Mở **Hóa đơn CHỜ THANH TOÁN** để xem thông tin thanh toán và chuyển khoản tới:                Tài khoản số: 0451001477880                Tại Ngân hàng: TMCP Ngoại thương Việt Nam- Chi nhánh Thành Công - Hà Nội                Chủ tài khoản: Công ty cổ phần giải pháp trực tuyến VietnamBIZ                                Nội dung chuyển khoản: **Mua dịch vụ cho "Mã tài khoản" hoặc "website" hoặc "email                            đăng nhập Subiz"** để Subiz nhận biết nguồn thanh toán.
 
 {% hint style="info" %}
 Lưu ý:
 
-* Hóa đơn đã được thanh toán thành công sẽ tự động cập nhật trạng thái ĐÃ THANH TOÁN
+* Hóa đơn đã được thanh toán thành công sẽ tự động cập nhật trạng thái ĐÃ THANH TOÁN.
 * Cần hỗ trợ thêm từ Subiz, bạn vui lòng liên hệ tư vấn viên qua email Support@subiz.com hoặc chat online tại Subiz.com.
 {% endhint %}
 

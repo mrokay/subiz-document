@@ -13,15 +13,15 @@ Lưu ý:
 
 * Hóa đơn gia hạn sinh ra thể hiện cam kết Subiz cung cấp dịch vụ và Doanh nghiệp thanh toán chi phí. 
 * Hóa đơn tự động của hệ thống không thể tùy chỉnh hay xóa đi.
-* Bạn muốn thay đổi gói dịch vụ gia hạn \(hạ gói, giảm agent, giảm chu kỳ thanh toán\), bạn cần thay đổi gói dịch vụ trước khi kết thúc chu kỳ thanh toán đang có, [xem chi tiết](https://help.subiz.com/thanh-toan/thay-doi-goi-dich-vu).
+* Bạn muốn thay đổi gói dịch vụ gia hạn \(hạ gói, giảm số lượng agent, giảm chu kỳ thanh toán\), bạn cần thay đổi gói dịch vụ trước khi kết thúc chu kỳ thanh toán đang có, [xem chi tiết](https://help.subiz.com/thanh-toan/thay-doi-goi-dich-vu).
 {% endhint %}
 
 ### Thông báo hóa đơn gia hạn
 
 Subiz sẽ thông báo hóa đơn gia hạn cần thanh toán trên 2 kênh chính:
 
-1. Thông báo ngay trên trang quản trị [App.subiz.com](https://app.subiz.com), bạn có thể xem chi tiết hóa đơn gia hạn tại trang [THANH TOÁN](https://app.subiz.com/payment-home)
-2. Thông báo hóa đơn gia hạn qua email phụ trách tài khoản Subiz hoặc email của bạn yêu cầu nhận thông báo hóa đơn 
+1. Thông báo ngay trên trang quản trị [App.subiz.com](https://app.subiz.com), bạn có thể xem chi tiết hóa đơn gia hạn tại trang [THANH TOÁN](https://app.subiz.com/payment-home).
+2. Thông báo hóa đơn gia hạn qua email phụ trách tài khoản Subiz hoặc email của bạn yêu cầu nhận thông báo hóa đơn.
 
 ### Thanh toán gia hạn Subiz
 
@@ -34,11 +34,11 @@ Nếu bạn đã chọn Phương thức thanh toán là Thẻ tín dụng và b�
 Nếu bạn chưa chọn Phương thức thanh toán là thẻ tín dụng, bạn cần thao tác 3 bước sau:
 
 * Bước 1: Vào trang [THANH TOÁN](https://app.subiz.com/payment-home) của Subiz để xem Hóa đơn chờ thanh toán
-* Bước 2: Tại mục PHƯƠNG THỨC THANH TOÁN &gt; chọn Thêm thẻ &gt; Điền thông tin thẻ tín dụng hoặc thẻ ghi nợ &gt; Chọn Make Primary &gt; Hoàn thành
+* Bước 2: Tại mục **PHƯƠNG THỨC THANH TOÁN** &gt; chọn **Thêm thẻ** &gt; **Điền thông tin thẻ tín dụng hoặc thẻ ghi nợ** &gt; Chọn **Make Primary** &gt; **Hoàn thành**
 
 ![](../.gitbook/assets/2-them-the.jpg)
 
-* Bước 3: Bật - Tự động trả tiền
+* Bước 3: **Bật - Tự động trả tiền**
 
 ![](../.gitbook/assets/3-bat-tu-dong-copy.jpg)
 
