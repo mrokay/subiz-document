@@ -1,5 +1,15 @@
 # FAQs
 
+### Tôi có thể thay đổi gói dịch vụ Subiz bất cứ lúc nào?
+
+Đúng vậy, bạn có thể thay đổi gói dịch vụ của mình bất cứ khi nào để phù hợp nhất với tình hình kinh doanh và hoạt động của công ty. Bạn có thể Nâng cấp/ Hạ cấp tài khoản, Mua thêm/ Giảm số lượng Agent, Thay đổi chu kỳ thanh toán phù hợp tại trang [THANH TOÁN](https://app.subiz.com/payment-home) của Subiz.
+
+Xem thêm hướng dẫn thay đổi gói dịch vụ Subiz.
+
+### Tôi thay đổi phương thức thanh toán như thế nào?
+
+
+
 ### Tôi đã thanh toán rồi mà hệ thống vẫn hiển thị thông báo hóa đơn chờ thanh toán? 
 
 Tình trạng này xảy ra với những trường hợp thanh toán thiếu do chênh lệch số dư khi thực hiện chuyển khoản. Việc này đã được lưu ý ngay tại email xác nhận thanh toán từ hệ thống khi thực hiện cập nhật thanh toán cho tài khoản bạn. Bạn vui lòng thanh toán chính xác số tiền hệ thống cung cấp.
@@ -37,10 +47,6 @@ Nếu tất cả các thông tin bạn điền là chính xác, bạn có thể 
 1. Sử dụng thẻ tín dụng khác \(nếu có\)
 2. Liên hệ với ngân hàng phát hành thẻ và yêu cầu mở thanh toán
 
-### Tôi có thể thay đổi gói dịch vụ Subiz bất cứ lúc nào?
-
-Đúng vậy, bạn có thể thay đổi gói dịch vụ của mình bất cứ khi nào để phù hợp nhất với tình hình kinh doanh và hoạt động của công ty. Bạn có thể thêm/bớt Agent, tăng/giảm chu kỳ thanh toán hoặc thay đổi phương thức thanh toán phù hợp tại trang [THANH TOÁN](https://app.subiz.com/payment-home) của Subiz.
-
 ### Tại sao hệ thống hiển thị thông báo về hóa đơn quá hạn?
 
 Khi tài khoản của bạn phát sinh hóa đơn dưới dạng **CHỜ THANH TOÁN**  \(Open\), hệ thống sẽ hiển thị thông báo cho đến khi bạn hoàn tất thanh toán.
@@ -58,7 +64,7 @@ Do đó, ngày thanh toán kế tiếp sẽ hiển thị ngày kết thúc của
 ![Ng&#xE0;y thanh to&#xE1;n h&#xF3;a &#x111;&#x1A1;n](../.gitbook/assets/thanh-toan.png)
 
 {% hint style="info" %}
-**Lưu ý**: Trường hợp hóa đơn phát sinh do thao tác không mong muốn, bạn cần gửi xác nhận tới Support@subiz.com, chúng tôi sẽ giúp bạn hủy hóa đơn.
+**Lưu ý**: Trường hợp hóa đơn phát sinh do thao tác không mong muốn, bạn cần gửi xác nhận tới Support@subiz.com để được hỗ trợ chi tiết.
 {% endhint %}
 
 ### Hướng dẫn đọc thông tin trên hóa đơn?
@@ -76,13 +82,13 @@ Bạn đang có tài khoản Subiz phiên bản 3.0 và muốn sử dụng Subiz
 **1.Cài đặt triển khai tài khoản Subiz 4.0:**
 
 * Đăng nhập trang quản lý Subiz 4.0 qua link [app.subiz.com](https://app.subiz.com) bằng email và mật khẩu tài khoản bạn đang sở hữu. Lưu ý: Nếu bạn muốn sử dụng tài khoản Subiz 4.0 mới, bạn cần [đăng ký tài khoản mới tại đây](https://app.subiz.com/register).
-* Tích hợp cửa sổ chat Subiz 4.0 lên website, kết nối Fanpage \(nếu có\) vào Subiz \([Xem chi tiết](https://app.subiz.com/settings/install)\)
-* Cập nhật sử dụng Automation tự động chào mừng khách vào website \([Xem chi tiết](https://app.subiz.com/settings/automation-add?atmlibrary=3)\)
-* Trò chuyện và quản lý danh sách khách hàng trên Subiz \([Xem chi tiết](https://subiz.com/blog/tuong-tac-khach-hang-hieu-qua-voi-subiz.html)\) 
+* Tích hợp cửa sổ chat Subiz 4.0 lên website, kết nối Fanpage \(nếu có\) vào Subiz, [Xem chi tiết](https://app.subiz.com/settings/install).
+* Cập nhật sử dụng Automation tự động chào mừng khách vào website, [Xem chi tiết](https://app.subiz.com/settings/automation-add?atmlibrary=3).
+* Trò chuyện và quản lý danh sách khách hàng trên Subiz, [Xem chi tiế](https://subiz.com/blog/tuong-tac-khach-hang-hieu-qua-voi-subiz.html)t.
 
 **2. Xác nhận chuyển đổi lên Subiz 4.0**
 
-Tài khoản Subiz 3.0 của bạn đang sử dụng gói trả phí, bạn cần gửi tới email Support@subiz.com xác nhận chuyển đổi tài khoản từ Subiz 3.0 lên Subiz 4.0 nhằm đảm bảo đầy đủ quyền lợi sử dụng gói dịch vụ trả phí của mình.
+Nhằm đảm bảo đầy đủ quyền lợi sử dụng gói dịch vụ trả phí của tài khoản Subiz 3.0 của bạn, bạn cần gửi tới email Support@subiz.com xác nhận chuyển đổi sử dụng tài khoản từ Subiz 3.0 lên Subiz 4.0 
 
 * **Email người gửi**: Địa chỉ email quản lý tài khoản Subiz 3.0
 * **Email người nhận**: Support@Subiz.com
