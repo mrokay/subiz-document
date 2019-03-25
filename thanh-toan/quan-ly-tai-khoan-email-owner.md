@@ -54,3 +54,7 @@ Khi bạn đăng ký tài khoản Subiz, email đăng ký sẽ được gọi l�
 Ngoài các trường hợp trên Subiz sẽ không hỗ trợ việc thay đổi email owner nhằm đảm bảo quyền lợi sử dụng và  tính bảo mật thông tin của doanh nghiệp. Vì vậy, các doanh nghiệp cần lưu ý để có thể quản lý tài khoản Subiz một cách có hệ thống để tránh việc gián đoạn trong quá trình xác minh tài khoản và nâng cao bảo mật thông tin.  
 ****
 
+{% hint style="info" %}
+Bạn cần hỗ trợ chi tiết, vui lòng gửi yêu cầu tới Support@Subiz.com
+{% endhint %}
+
