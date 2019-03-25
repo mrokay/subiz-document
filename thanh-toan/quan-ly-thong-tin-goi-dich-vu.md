@@ -89,7 +89,9 @@ Hướng dẫn chi tiết như sau:
 
 ![](../.gitbook/assets/payment-vn-2.png)
 
-* Thay đổi Phương thức thanh toán từ Thẻ tín dụng sang Chuyển khoản. Vào trang [**THANH TOÁN**](https://app.subiz.com/payment-home) &gt; Click **Thay đổi phương thức thanh toán** &gt; Click **Sửa Thẻ tín dụng** &gt; **Bỏ chọn Make Primary** để bỏ chọn mặc định thanh toán bằng thẻ tín dụng &gt; Mở **Hóa đơn CHỜ THANH TOÁN** và **Chuyển khoản** vào số tài khoản của Subiz.
+
+
+* Thay đổi Phương thức thanh toán từ Thẻ tín dụng sang Chuyển khoản. 1. Vào trang [**THANH TOÁN**](https://app.subiz.com/payment-home) &gt; Click **Thay đổi phương thức thanh toán** &gt; Click **Sửa Thẻ tín dụng** &gt; **Bỏ chọn Make Primary** để bỏ chọn mặc định thanh toán bằng thẻ tín dụng. 2. Mở **Hóa đơn CHỜ THANH TOÁN** và **Chuyển khoản** vào số tài khoản của Subiz.
 
 ![Chuy&#x1EC3;n thanh to&#xE1;n t&#x1EEB; Th&#x1EBB; t&#xED;n d&#x1EE5;ng qua Chuy&#x1EC3;n kho&#x1EA3;n](../.gitbook/assets/payment-1.jpg)
 
