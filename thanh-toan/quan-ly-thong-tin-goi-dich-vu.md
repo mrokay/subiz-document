@@ -85,11 +85,11 @@ Bạn có thể thay đổi thông tin thanh toán như thêm thẻ tín dụng 
 
 Hướng dẫn chi tiết như sau:
 
-* Thêm thẻ tín dụng khác để thanh toán hoặc chuyển từ phương thanh thanh toán Chuyển khoản sang Thẻ tín dụng như sau:  Bạn vào trang [**THANH TOÁN**](https://app.subiz.com/payment-home\) &gt;  chọn **Thêm thẻ** &gt; **Điền thông tin Thẻ ghi nợ hoặc Thẻ tín dụng** &gt; **Chọn Make Primary** để chọn Thẻ tín dụng này là thẻ chính mặc định thanh toán sau này &gt; **Hoàn thành**
+* Thêm thẻ tín dụng khác để thanh toán hoặc chuyển từ phương thanh thanh toán Chuyển khoản sang Thẻ tín dụng như sau:  1. Vào trang [**THANH TOÁN**](https://app.subiz.com/payment-home\) &gt;  chọn **Thêm thẻ** &gt; **Điền thông tin Thẻ ghi nợ hoặc Thẻ tín dụng** &gt; **Chọn Make Primary** để chọn Thẻ tín dụng này là thẻ chính mặc định thanh toán sau này &gt; **Hoàn thành** 2. ****Bật **ON - Tự động trả tiền**
 
-![Th&#xEA;m th&#x1EBB; t&#xED;n d&#x1EE5;ng ](../.gitbook/assets/2-them-the%20%281%29.jpg)
+![](../.gitbook/assets/payment-vn-2.png)
 
-* Thay đổi Phương thức thanh toán từ Thẻ tín dụng sang Chuyển khoản. Bạn click **Thay đổi phương thức thanh toán** &gt; Click **Sửa Thẻ tín dụng** &gt; **Bỏ chọn Make Primary** để bỏ chọn mặc định thanh toán bằng thẻ tín dụng &gt; Mở **Hóa đơn CHỜ THANH TOÁN** và **Chuyển khoản** vào số tài khoản của Subiz.
+* Thay đổi Phương thức thanh toán từ Thẻ tín dụng sang Chuyển khoản. Vào trang [**THANH TOÁN**](https://app.subiz.com/payment-home) &gt; Click **Thay đổi phương thức thanh toán** &gt; Click **Sửa Thẻ tín dụng** &gt; **Bỏ chọn Make Primary** để bỏ chọn mặc định thanh toán bằng thẻ tín dụng &gt; Mở **Hóa đơn CHỜ THANH TOÁN** và **Chuyển khoản** vào số tài khoản của Subiz.
 
 ![Chuy&#x1EC3;n thanh to&#xE1;n t&#x1EEB; Th&#x1EBB; t&#xED;n d&#x1EE5;ng qua Chuy&#x1EC3;n kho&#x1EA3;n](../.gitbook/assets/payment-1.jpg)
 
