@@ -12,7 +12,7 @@ Biểu đồ thống kê được chia ra làm 2 dạng: Biểu đồ dạng c�
 
 * Agent
 * Thời gian thống kê
-* Tổng thời gian Available trong khung gian đo
+* Tổng thời gian online của Agent trong khung thời gian đo
 
 - Biểu đồ dạng bảng sẽ hiển thị thời gian online của toàn bộ danh sách Agent trong khoảng thời gian đo
 
