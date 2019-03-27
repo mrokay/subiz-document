@@ -13,46 +13,58 @@ description: Tài liệu hướng dẫn cách đọc thống kê hội thoại t
 Tại trang [THỐNG KÊ](https://app.subiz.com/reports) hội thoại, bạn có thể thống kê số lượng cuộc hội thoại theo **Kênh**, **Agent, Loại hội thoại** và **Thời gian**:
 
 {% tabs %}
+{% tab title="Loại hội thoại" %}
+Có 6 loại hội thoại:
+
+* **Tất cả cuộc hội thoại:** Bao gồm tất cả cuộc hội thoại khởi tạo bởi Automation, Agent nhắn tin chủ động, User nhắn tin chủ động.
+* **Hội thoại có User tham gia:** Cuộc hội thoại có ít nhất 1 tin nhắn được gửi từ User.
+* **Hội thoại đã trả lời:** Cuộc hội thoại có ít nhất 1 tin nhắn được gửi từ Agent
+* **Agent không trả lời trong 5 phút:** Agent được phân phối vào cuộc hội thoại nhưng không có tin nhắn phản hồi trong vòng 5 phút
+* **Agent không trả lời trong 15 phút:** Agent được phân phối vào cuộc hội thoại nhưng không có tin nhắn phản hồi trong vòng 15 phút.
+* **Agent không trả lời trong 24h:** Agent được phân phối vào cuộc hội thoại nhưng không có tin nhắn phản hồi trong vòng 24h
+
+**Lưu ý:** Agent Subot vẫn được tính như 1 Agent
+
+![Th&#x1ED1;ng k&#xEA; theo lo&#x1EA1;i h&#x1ED9;i tho&#x1EA1;i](../.gitbook/assets/loai-hoi-thoai%20%281%29.png)
+{% endtab %}
+
 {% tab title="Kênh" %}
 Bạn có thể chọn Tất cả các kênh hoặc chọn cụ thể kênh tương tác khách hàng như Email, Subiz chat trên website, Messenger Fanpage
 
-![Ch&#x1ECD;n k&#xEA;nh th&#x1ED1;ng k&#xEA;](../.gitbook/assets/1.-kenh-hoi-thoai-copy.jpg)
+![Th&#x1ED1;ng k&#xEA; h&#x1ED9;i tho&#x1EA1;i theo K&#xEA;nh](../.gitbook/assets/hoi-thoai_kenh%20%282%29.png)
 {% endtab %}
 
 {% tab title="Agent" %}
 Bạn có thể chọn Tất cả agent để thống kê chung hội thoại của doanh nghiệp hay Tên agent hoặc nhóm Agent cụ thể để thống kê công việc của từng cá nhân/ nhóm tư vấn viên.
 
-![Ch&#x1ECD;n Agent th&#x1ED1;ng k&#xEA;](../.gitbook/assets/2.-agent-hoi-thoai.jpg-copy.jpg)
-{% endtab %}
-
-{% tab title="Loại hội thoại" %}
-Có 2 loại hội thoại:
-
-* **Hội thoại có user tham gia**: Cuộc trò chuyện có khách hàng đã nhắn tin
-* **Tất cả cuộc hội thoại**: Cuộc hội thoại có khách đã nhắn tin và cuộc hội thoại khách chưa nhắn tin \(Cuộc hội thoại do Automation gửi tin nhắn hoặc hội thoại do agent gửi tin nhắn\)
-
-![Ch&#x1ECD;n lo&#x1EA1;i h&#x1ED9;i tho&#x1EA1;i th&#x1ED1;ng k&#xEA;](../.gitbook/assets/hoi-thoai.jpg)
+![Th&#x1ED1;ng k&#xEA; theo Agent](../.gitbook/assets/hoi-thoai_-agent.png)
 {% endtab %}
 
 {% tab title="Thời gian" %}
-Bạn có thể chọn một ngày cụ thể hoặc chọn một khoảng thời gian để thực hiện thống kê, so sánh sự biến động.
+Bạn có thể thống kê số cuộc hội thoại theo một giai đoạn cụ thể:
 
-![Ch&#x1ECD;n th&#x1EDD;i gian th&#x1ED1;ng k&#xEA;](../.gitbook/assets/3.-thoi-gian-hoi-thoai-copy.jpg)
+![Th&#x1ED1;ng k&#xEA; theo th&#x1EDD;i gian](../.gitbook/assets/thoi-gian.png)
 {% endtab %}
 {% endtabs %}
 
-### Cách đọc biểu đồ thống kê
+### Cách đọc thống kê
 
-Sau khi chọn các tiêu chí để thống kê, bạn có thể quan sát dữ liệu được thống kê dưới dạng biểu đồ.
+Thống kê hội thoại giúp doanh nghiệp có thể tổng quan tình hình tương tác với khách hàng, phân loại các cuộc hội thoại để đánh giá khách hàng cũng như thái độ, hiệu suất làm việc của nhân viên để từ đó xây dựng những chiến lược phù hợp.  
+Bạn có thể kết hợp các trường lọc để có được số liệu thống kê đúng tiêu chí và mục đích thống kê của doanh nghiệp.
 
-* **Trục dọc:** Số lượng cuộc hội thoại
-* **Trục ngang:** Trục thời gian \(đơn vị thời gian là ngày/ giờ tùy theo khoảng thời gian mà bạn chọn\)
+**Thống kê tình hình tương tác của khách hàng**
 
-Khi đặt con trỏ chuột vào các điểm giao, bạn sẽ thấy hiện thị số lượng cuộc hội thoại cụ thể tại thời điểm được chọn. Như vậy, khi nhìn vào biểu đồ, bạn vừa có thể đánh giá tổng quan sự biến động theo thời gian và xem chi tiết số lượng cuộc hội thoại trong một thời điểm cụ thể.
+![Th&#x1ED1;ng k&#xEA; cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#xF3; User tham gia](../.gitbook/assets/hoi-thoai-co-user-tham-gia.png)
 
-Ví dụ: Thống kê số lượng **Hội thoại có user tham gia** trên kênh **Subiz Chat** của **Tất cả agent** trong **30 ngày vừa qua**
+Trong ngày hôm nay doanh nghiệp nhận được 76 cuộc hội thoại có sự tham gia của khách hàng.
 
-![Th&#x1ED1;ng k&#xEA; s&#x1ED1; l&#x1B0;&#x1EE3;ng h&#x1ED9;i tho&#x1EA1;i](../.gitbook/assets/5.-doc-thong-ke-copy.jpg)
+**Thống kê hiệu suất làm việc Agent**
 
+![Th&#x1ED1;ng k&#xEA; hi&#x1EC7;u su&#x1EA5;t l&#xE0;m vi&#x1EC7;c c&#x1EE7;a Agent Linh L&#xEA; trong 7 ng&#xE0;y v&#x1EEB;a qua](../.gitbook/assets/linh-le.png)
 
+Trong 7 ngày vừa qua Agent Linh Lê đã chat 50 cuộc hội thoại
+
+![Th&#x1ED1;ng k&#xEA; s&#x1ED1; cu&#x1ED9;c chat kh&#xF4;ng tr&#x1EA3; l&#x1EDD;i sau 5 ph&#xFA;t c&#x1EE7;a Agent Hoa Ta](../.gitbook/assets/hoa-ta.png)
+
+Trong 7 ngày vừa qua, Agent Hoa Ta có 4 cuộc hội thoại không được trả lời sau 5 phút
 
