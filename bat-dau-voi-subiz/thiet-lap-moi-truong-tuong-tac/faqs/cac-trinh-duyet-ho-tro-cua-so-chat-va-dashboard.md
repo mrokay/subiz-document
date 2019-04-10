@@ -17,8 +17,8 @@ Hiện tại Subiz hỗ trợ hiển thị cửa sổ chat và trang quản tr�
 {% hint style="info" %}
 **Chú ý**:
 
-* Subiz chưa hỗ trợ trang quản trị và cửa sổ chat trên trình duyệt **IE** và **Safari on window.** Nguyên nhân: Do hai trình duyệt trên đều đã cũ, Microsoft không phát triển thêm và không hỗ trợ tính năng của Subiz. Đồng thời, thống kê tỷ lệ khách dùng 2 trình duyệt trên rất thấp. Nếu bạn có số liệu thống kê cụ thể nhu cầu khách dùng 2 trình duyệt trên, vui lòng liên hệ Subiz để được hỗ trợ tốt nhất.
-* Trang đăng nhập trên trình duyệt Egde không hỗ trợ xem danh sách hoạt động của khách hàng trên Subiz.
+* Subiz chưa hỗ trợ đăng nhập trang quản trị và hiển thị cửa sổ chat trên trình duyệt **Internet Explorer** và **Safari on window.**  Nguyên nhân: Do hai trình duyệt trên đều đã cũ, Microsoft không phát triển thêm và không hỗ trợ tính năng của Subiz. Đồng thời, thống kê tỷ lệ khách dùng 2 trình duyệt trên rất thấp. Nếu bạn có số liệu thống kê cụ thể nhu cầu khách dùng 2 trình duyệt trên, vui lòng liên hệ Subiz để được hỗ trợ tốt nhất.
+* Trình duyệt Egde không hỗ trợ xem danh sách hoạt động của khách hàng trên Subiz.
 {% endhint %}
 
 ### Cửa sổ chat 
