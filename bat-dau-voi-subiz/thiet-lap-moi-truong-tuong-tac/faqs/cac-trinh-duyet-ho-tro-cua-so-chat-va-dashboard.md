@@ -1,8 +1,8 @@
 # Các trình duyệt hỗ trợ cửa sổ chat và trang đăng nhập Subiz
 
-Hiện tại Subiz hỗ trợ hiển thị cửa sổ chat và trang quản trị trên hầu hết các trình duyệt như sau:
+Hiện tại Subiz hỗ trợ hiển thị cửa sổ chat và trang quản trị App.subiz.com trên hầu hết các trình duyệt như sau:
 
-### Trang quản trị Subiz
+### Trang quản trị App.Subiz.com
 
 | **Trình duyệt** | Phiên bản |
 | :--- | :--- |
@@ -18,8 +18,7 @@ Hiện tại Subiz hỗ trợ hiển thị cửa sổ chat và trang quản tr�
 **Chú ý**:
 
 * Subiz chưa hỗ trợ trang quản trị và cửa sổ chat trên trình duyệt **IE** và **Safari on window.** Nguyên nhân: Do hai trình duyệt trên đều đã cũ, Microsoft không phát triển thêm và không hỗ trợ tính năng của Subiz. Đồng thời, thống kê tỷ lệ khách dùng 2 trình duyệt trên rất thấp. Nếu bạn có số liệu thống kê cụ thể nhu cầu khách dùng 2 trình duyệt trên, vui lòng liên hệ Subiz để được hỗ trợ tốt nhất.
-* Subiz không hỗ trợ đăng nhập trang quản trị Subiz trên di động
-* Trang đăng nhập trên trình duyệt Egde không xem được danh sách hoạt động của khách hàng.
+* Trang đăng nhập trên trình duyệt Egde không hỗ trợ xem danh sách hoạt động của khách hàng trên Subiz.
 {% endhint %}
 
 ### Cửa sổ chat 
