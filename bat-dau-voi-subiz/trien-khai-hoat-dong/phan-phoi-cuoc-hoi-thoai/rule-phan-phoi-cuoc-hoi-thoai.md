@@ -23,7 +23,7 @@ Với các tài khoản mới, Subiz đã thiết lập sẵn **Rule mặc đị
 Bạn có thể xem chi tiết  Rule Default to owner và tùy chỉnh cài đặt  cho phù hợp như: Tên Rule để dễ hiểu ý nghĩa cài đặt Rule, chọn điều kiện và cách thức Phân phối hội thoại của khách cho Agent.  
 [Xem thêm hướng dẫn Tạo Rule mới](https://help.subiz.com/bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/tao-rule-moi)
 
-![Xem chi ti&#x1EBF;t c&#xE0;i &#x111;&#x1EB7;t Rule](../../../.gitbook/assets/rule-2%20%281%29.jpg)
+![Chi ti&#x1EBF;t c&#xE0;i &#x111;&#x1EB7;t Rule](../../../.gitbook/assets/rule-chung.png)
 
      
 
