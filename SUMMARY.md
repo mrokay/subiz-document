@@ -34,7 +34,7 @@
     * [Subot - Bot tự động Trả lời và Hỏi thông tin](bat-dau-voi-subiz/trien-khai-hoat-dong/subot-bot-tu-dong-tra-loi-va-hoi-thong-tin.md)
     * [Phân phối cuộc hội thoại](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/README.md)
       * [Rule phân phối cuộc hội thoại](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/rule-phan-phoi-cuoc-hoi-thoai.md)
-      * [Tạo Rule mới](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/tao-rule-moi.md)
+      * [Tạo Rule phân phối mới](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/tao-rule-moi.md)
       * [Một số ví dụ Rule phân phối hội thoại](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/untitled.md)
       * [Quản lý danh sách Rule](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/quan-ly-danh-sach-rule.md)
   * [Làm việc trên Subiz](bat-dau-voi-subiz/lam-viec-tren-subiz/README.md)

@@ -1,4 +1,10 @@
-# Tạo Rule mới
+---
+description: >-
+  Subiz đã cập nhật tính năng Rule phân phối mới giúp doanh nghiệp có thể phân
+  phối cuộc hội thoại cho Agent linh hoạt, dễ dàng hơn.
+---
+
+# Tạo Rule phân phối mới
 
 Rule là tính năng tự động phân phối cuộc hội thoại của khách hàng cho các agent theo điều kiện cài đặt.
 
@@ -6,7 +12,7 @@ Bạn có thể cân nhắc cách thức quản lý và  phân chia công việc
 
 Để tạo rule mới, bạn [đăng nhập Subiz](https://app.subiz.com/login) và vào phần[ **Cài đặt &gt; Tài khoản &gt; Rule &gt; Tạo Rule mới**](https://app.subiz.com/settings/add-rule)\*\*\*\*
 
-![T&#x1EA1;o Rule m&#x1EDB;i](../../../.gitbook/assets/tao-rule.jpg)
+![T&#x1EA1;o rule m&#x1EDB;i](../../../.gitbook/assets/tao-rule.png)
 
 ### Bước 1: Điền tên và mô tả Rule
 
@@ -24,9 +30,9 @@ Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
 * Click Thêm điều kiện để thêm điều kiện cài đặt Rule
 * Chọn Và / Hoặc để xác định mối quan hệ giữa các điều kiện.
 
-  **Ví dụ:** Rule cài đặt Phân phối hội thoại của khách Việt Nam và nhắn tin từ web Subiz.com 
+  **Ví dụ:** Rule phân phối cuộc hội thoại của khách hang đến từ Việt Nam hoặc truy cập vào trang Subiz.com
 
-![](../../../.gitbook/assets/dieu-kien-rule%20%281%29.jpg)
+![T&#x1EA1;o &#x111;i&#x1EC1;u ki&#x1EC7;n cho Rule](../../../.gitbook/assets/dieu-kien-rule.png)
 
 **Bạn có thể chọn một hay nhiều điều kiện trong danh sách các điều kiện trong Rule dưới đây:​**
 
@@ -39,82 +45,137 @@ Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
       </th>
       <th style="text-align:left"><b>V&#xCD; D&#x1EE4;</b>
       </th>
+      <th style="text-align:left"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">B&#x1EA5;t k&#xEC; &#x111;i&#x1EC1;u ki&#x1EC7;n n&#xE0;o</td>
+      <td style="text-align:left"><b>&#x110;i&#x1EC1;u ki&#x1EC7;n m&#x1EB7;c &#x111;&#x1ECB;nh</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Kh&#xF4;ng c&#xF3; &#x111;i&#x1EC1;u ki&#x1EC7;n</td>
       <td style="text-align:left">Khi l&#x1EF1;a ch&#x1ECD;n &#x111;i&#x1EC1;u ki&#x1EC7;n n&#xE0;y, t&#x1EA5;t
         c&#x1EA3; cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i s&#x1EBD; lu&#xF4;n &#x111;&#x1B0;&#x1EE3;c
         ph&#xE2;n ph&#x1ED1;i t&#x1EDB;i c&#xE1;c agent.</td>
-      <td style="text-align:left">&#x110;i&#x1EC1;u ki&#x1EC7;n:<em>B&#x1EA5;t k&#xEC; &#x111;i&#x1EC1;u ki&#x1EC7;n n&#xE0;o</em>
+      <td style="text-align:left">L&#x1EF1;a ch&#x1ECD;n: <em>Kh&#xF4;ng c&#xF3; &#x111;i&#x1EC1;u ki&#x1EC7;n</em>
       </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Date Time</b>
-      </td>
-      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Gi&#x1EDD; trong ng&#xE0;y</td>
+      <td style="text-align:left">Agent Offline</td>
+      <td style="text-align:left">B&#x1EA1;n c&#xF3; th&#x1EC3; s&#x1EED; d&#x1EE5;ng &#x111;i&#x1EC1;u
+        ki&#x1EC7;n n&#xE0;y &#x111;&#x1EC3; ph&#xE2;n cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i
+        khi kh&#xF4;ng c&#xF3; Agent n&#xE0;o online t&#xE0;i kho&#x1EA3;n.</td>
+      <td
+      style="text-align:left">L&#x1EF1;a ch&#x1ECD;n &#x111;i&#x1EC1;u ki&#x1EC7;n <em>Agent Offline</em>,
+        ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i cho Subot v&#xE0;
+        m&#x1ED9;t Agent ph&#x1EE5; tr&#xE1;ch &#x111;&#x1EC3; tr&#x1EA3; l&#x1EDD;i
+        kh&#xE1;ch khi online l&#x1EA1;i.</td>
+        <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>H&#x1ED9;i tho&#x1EA1;i di&#x1EC5;n ra</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Th&#x1EDD;i gian</td>
       <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n ph&#xE2;n chia cu&#x1ED9;c tho&#x1EA1;i
-        theo c&#xE1;c khung gi&#x1EDD; trong ng&#xE0;y. Gi&#x1EDD; trong ng&#xE0;y
-        t&#x1EEB; 0 - 23.</td>
+        theo th&#x1EDD;i gian, khung gi&#x1EDD; trong ng&#xE0;y, th&#x1EDD;i gian
+        l&#xE0;m vi&#x1EC7;c c&#x1EE7;a doanh nghi&#x1EC7;p</td>
       <td style="text-align:left">
-        <p>B&#x1EA1;n c&#xE0;i &#x111;&#x103;t 3 rule t&#x1B0;&#x1A1;ng &#x1EE9;ng:
-          Ca s&#xE1;ng cho Agent A - Ca chi&#x1EC1;u cho Agent B - Ca t&#x1ED1;i
-          cho Agent C.</p>
-        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n:
-          <br /><em>Gi&#x1EDD; trong ng&#xE0;y - l&#x1EDB;n h&#x1A1;n ho&#x1EB7;c b&#x1EB1;ng - 7<br />V&#xE0;<br />Gi&#x1EDD; trong ng&#xE0;y - nh&#x1ECF; h&#x1A1;n - 12</em>
+        <p>Sau khi &#x111;&#xE3; c&#xE0;i &#x111;&#x1EB7;t <a href="https://help.subiz.com/bat-dau-voi-subiz/trien-khai-hoat-dong/cai-dat-gio-lam-viec#cach-thiet-lap-gio-lam-viec">Gi&#x1EDD; l&#xE0;m vi&#x1EC7;c</a> c&#x1EE7;a
+          doanh nghi&#x1EC7;p, b&#x1EA1;n c&#xF3; th&#x1EC3; t&#x1EA1;o 2 rule nh&#x1B0;
+          sau:</p>
+        <p>Rule 1: <em>Th&#x1EDD;i gian - trong gi&#x1EDD; l&#xE0;m vi&#x1EC7;c</em>
+        </p>
+        <p>Rule 2:<em> Th&#x1EDD;i gian - ngo&#xE0;i gi&#x1EDD; l&#xE0;m vi&#x1EC7;c</em>
         </p>
         <p></p>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Ng&#xE0;y trong tu&#x1EA7;n</td>
       <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n ph&#xE2;n chia cu&#x1ED9;c tho&#x1EA1;i
-        theo ng&#xE0;y trong tu&#x1EA7;n.
-        <br />L&#x1B0;u &#xFD;: Ng&#xE0;y trong tu&#x1EA7;n &#x111;&#x1B0;&#x1EE3;c
-        ghi nh&#x1EAD;n theo s&#x1ED1; th&#x1EE9; t&#x1EF1; t&#x1EEB; 2-8. Th&#x1EE9;
-        Hai = 2, Th&#x1EE9; Ba = 3&#x2026; , Ch&#x1EE7; nh&#x1EAD;t = 8.</td>
-      <td
-      style="text-align:left">
-        <p>B&#x1EA1;n c&#xE0;i &#x111;&#x1EB7;t 2 Rule: 3 ng&#xE0;y &#x111;&#x1EA7;u
-          tu&#x1EA7;n cho Agent A v&#xE0; 3 ng&#xE0;y cu&#x1ED1;i tu&#x1EA7;n cho
-          Agent B</p>
-        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n:
-          <br /><em>Ng&#xE0;y trong tu&#x1EA7;n - b&#x1EB1;ng - 2<br />Ho&#x1EB7;c <br />Ng&#xE0;y trong tu&#x1EA7;n - b&#x1EB1;ng - 3<br />Ho&#x1EB7;c <br />Ng&#xE0;y trong tu&#x1EA7;n - b&#x1EB1;ng - 4</em>
+        theo ng&#xE0;y trong tu&#x1EA7;n.</td>
+      <td style="text-align:left">
+        <p>B&#x1EA1;n c&#xF3; th&#x1EC3; t&#x1EA1;o 2 Rule &#x111;&#x1EC3; ph&#xE2;n
+          ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i theo ng&#xE0;y l&#xE0;m
+          vi&#x1EC7;c c&#x1EE7;a Agent: Th&#x1EE9; 2,4,6, ch&#x1EE7; nh&#x1EAD;t
+          do Agent A ph&#x1EE5; tr&#xE1;ch v&#xE0; th&#x1EE9; 3, 5, 7 do Agent B
+          ph&#x1EE5; tr&#xE1;ch</p>
+        <p>Rule 1: <em>Ng&#xE0;y trong tu&#x1EA7;n - m&#x1ED9;t trong c&#xE1;c g&#xED;a tr&#x1ECB; sau - Th&#x1EE9; 2, Th&#x1EE9; 4, Th&#x1EE9; 6, Ch&#x1EE7; nh&#x1EAD;t.</em>
         </p>
-        <p></p>
-        </td>
+        <p>Rule 2: <em>Ng&#xE0;y trong tu&#x1EA7;n - m&#x1ED9;t trong c&#xE1;c g&#xED;a tr&#x1ECB; sau - Th&#x1EE9; 3, Th&#x1EE9; 5, Th&#x1EE9; 7.</em>
+        </p>
+      </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>H&#x1ED9;i tho&#x1EA1;i</b>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">K&#xEA;nh</td>
-      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i
-        tho&#x1EA1;i theo k&#xEA;nh t&#x1B0;&#x1A1;ng t&#xE1;c kh&#xE1;ch h&#xE0;ng.
-        V&#xED; d&#x1EE5; k&#xEA;nh Subiz chat tr&#xEA;n website, K&#xEA;nh Fanpage,
-        k&#xEA;nh Subiz Email</td>
+      <td style="text-align:left">Tin nh&#x1EAF;n &#x111;&#x1EA7;u ti&#xEA;n</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o n&#x1ED9;i dung
+        tin nh&#x1EAF;n &#x111;&#x1EA7;u ti&#xEA;n c&#x1EE7;a kh&#xE1;ch g&#x1EED;i
+        &#x111;&#x1EC3; ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho agent</td>
+      <td
+      style="text-align:left">
+        <p>Khi tin nh&#x1EAF;n &#x111;&#x1EA7;u ti&#xEA;n c&#x1EE7;a kh&#xE1;ch h&#xE0;ng
+          c&#xF3; ch&#x1EE9;a t&#x1EEB; &#x201C;gi&#xE1;&#x201D;, cu&#x1ED9;c h&#x1ED9;i
+          tho&#x1EA1;i n&#xE0;y s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c ph&#xE2;n ph&#x1ED1;i
+          cho Agent A.</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>Tin nh&#x1EAF;n &#x111;&#x1EA7;u ti&#xEA;n - ch&#x1EE9;a - gi&#xE1;</em>
+        </p>
+        </td>
+        <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>K&#xEA;nh t&#x1B0;&#x1A1;ng t&#xE1;c</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Ngu&#x1ED3;n h&#x1ED9;i tho&#x1EA1;i</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n ph&#xE2;n cho Agent cu&#x1ED9;c h&#x1ED9;i
+        tho&#x1EA1;i &#x111;&#x1EBF;n t&#x1EEB; c&#x1EE5; th&#x1EC3; Fanpage n&#xE0;o
+        ho&#x1EB7;c &#x111;&#x1ECB;a ch&#x1EC9; Email n&#xE0;o</td>
       <td style="text-align:left">
-        <p>B&#x1EA1;n t&#x1EA1;o 3 Rule ph&#xE2;n chai h&#x1ED9;i tho&#x1EA1;i tr&#xEA;n
-          3 k&#xEA;nh Subiz chat, Fanpage, Email nh&#x1B0; sau:</p>
-        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n:
-          <br /><em>1.  K&#xEA;nh - b&#x1EB1;ng - Subiz chat</em>
-        </p>
-        <p><em>2. K&#xEA;nh - b&#x1EB1;ng - Subiz Email</em>
-        </p>
-        <p><em>3. K&#xEA;nh - b&#x1EB1;ng - Fanpage</em>
+        <p>Ph&#xE2;n ph&#x1ED1;i cho Agent ph&#x1EE5; tr&#xE1;ch cu&#x1ED9;c h&#x1ED9;i
+          tho&#x1EA1;i &#x111;&#x1EBF;n t&#x1EEB; Fanpage Subiz v&#xE0; email support@subiz.com</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n:<em> Ngu&#x1ED3;n h&#x1ED9;i tho&#x1EA1;i - m&#x1ED9;t trong c&#xE1;c g&#xED;a tr&#x1ECB; sau - Subiz, support@subiz.com</em>
         </p>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">URL c&#x1EE7;a trang</td>
+      <td style="text-align:left">K&#xEA;nh t&#x1B0;&#x1A1;ng t&#xE1;c</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i
+        tho&#x1EA1;i theo k&#xEA;nh t&#x1B0;&#x1A1;ng t&#xE1;c kh&#xE1;ch h&#xE0;ng:
+        Website ( Subiz chat ), Messenger, Email</td>
+      <td style="text-align:left">
+        <p>Ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i tr&#xEA;n K&#xEA;nh
+          Website v&#xE0; Messenger cho Agent A</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>K&#xEA;nh t&#x1B0;&#x1A1;ng t&#xE1;c - m&#x1ED9;t trong c&#xE1;c g&#xED;a tr&#x1ECB; sau - Subiz Chat, Messenger</em>
+        </p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">URL trang web</td>
       <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n ph&#xE2;n chia cu&#x1ED9;c h&#x1ED9;i
         tho&#x1EA1;i theo t&#x1EEB;ng URL website ri&#xEA;ng hay URL page s&#x1EA3;n
         ph&#x1EA9;m/ d&#x1ECB;ch v&#x1EE5; tr&#xEA;n 1 website</td>
@@ -124,9 +185,10 @@ Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
         <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>URL c&#x1EE7;a trang - ch&#x1EE9;a - Subiz.com</em>
         </p>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Ti&#xEA;u &#x111;&#x1EC1; trang</td>
+      <td style="text-align:left">T&#xEA;n trang web</td>
       <td style="text-align:left">Ti&#xEA;u &#x111;&#x1EC1; trang g&#x1EA7;n gi&#x1ED1;ng URL trang, d&#xF9;ng
         &#x111;&#x1EC3; ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i theo t&#x1EEB;ng
         ti&#xEA;u &#x111;&#x1EC1; c&#x1EE7;a trang s&#x1EA3;n ph&#x1EA9;m/ d&#x1ECB;ch
@@ -138,58 +200,14 @@ Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
         <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>Ti&#xEA;u &#x111;&#x1EC1; trang - ch&#x1EE9;a - m&#xE1;y &#x1EA3;nh</em>
         </p>
       </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">N&#x1ED9;i dung tin nh&#x1EAF;n</td>
-      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o n&#x1ED9;i dung
-        tin nh&#x1EAF;n &#x111;&#x1EA7;u ti&#xEA;n c&#x1EE7;a kh&#xE1;ch g&#x1EED;i
-        &#x111;&#x1EC3; ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho agent</td>
-      <td
-      style="text-align:left">
-        <p>Khi tin nh&#x1EAF;n &#x111;&#x1EA7;u ti&#xEA;n c&#x1EE7;a kh&#xE1;ch h&#xE0;ng
-          c&#xF3; ch&#x1EE9;a t&#x1EEB; &#x201C;gi&#xE1;&#x201D;, cu&#x1ED9;c h&#x1ED9;i
-          tho&#x1EA1;i n&#xE0;y s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c ph&#xE2;n ph&#x1ED1;i
-          cho Agent A.</p>
-        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>N&#x1ED9;i dung tin nh&#x1EAF;n - ch&#x1EE9;a - gi&#xE1;</em>
-        </p>
-        </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Ng&#xF4;n ng&#x1EEF; tr&#xEA;n tr&#xEC;nh duy&#x1EC7;t</td>
-      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o ng&#xF4;n ng&#x1EEF;
-        tr&#xEC;nh duy&#x1EC7;t c&#x1EE7;a kh&#xE1;ch &#x111;&#x1EC3; ph&#xE2;n
-        ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i. Ng&#xF4;n ng&#x1EEF; tr&#xEA;n tr&#xEC;nh
-        duy&#x1EC7;t theo chu&#x1EA9;n <a href="http://www.lingoes.net/en/translator/langcode.htm">ISO Language Code</a>,
-        v&#xED; d&#x1EE5;: vi- VN, en - US.</td>
-      <td style="text-align:left">
-        <p>Kh&#xE1;ch h&#xE0;ng s&#x1EED; d&#x1EE5;ng ng&#xF4;n ng&#x1EEF; English
-          tr&#xEA;n tr&#xEC;nh s&#x1EBD; ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i
-          cho nh&#xF3;m agent qu&#x1ED1;c t&#x1EBF;.</p>
-        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>Ng&#xF4;n ng&#x1EEF; tr&#xEA;n tr&#xEC;nh duy&#x1EC7;t - b&#x1EB1;ng - en- US</em>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>User</b>
-      </td>
-      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Qu&#x1ED1;c gia</td>
-      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o Qu&#x1ED1;c gia
-        c&#x1EE7;a kh&#xE1;ch h&#xE0;ng &#x111;&#x1EC3; ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i
-        tho&#x1EA1;i cho agent. T&#xEA;n Qu&#x1ED1;c gia theo chu&#x1EA9;n qu&#x1ED1;c
-        t&#x1EBF;, <a href="https://countrycode.org/">tham kh&#x1EA3;o danh s&#xE1;ch qu&#x1ED1;c gia.</a>
-        <br
-        />V&#xED; d&#x1EE5;: Vietnam, United States</td>
-      <td style="text-align:left">
-        <p>Kh&#xE1;ch h&#xE0;ng &#x1EDF; Vi&#x1EC7;t Nam s&#x1EBD; ph&#xE2;n ph&#x1ED1;i
-          h&#x1ED9;i tho&#x1EA1;i cho c&#xE1;c agent n&#x1ED9;i &#x111;&#x1ECB;a</p>
-        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>Qu&#x1ED1;c gia - b&#x1EB1;ng - Vietnam </em>
-        </p>
-        <p>&lt;em&gt;&lt;/em&gt;</p>
+      <td style="text-align:left"><b>V&#x1ECB; tri v&#xE0; ng&#xF4;n ng&#x1EEF;</b>
       </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">M&#xE3; qu&#x1ED1;c gia</td>
@@ -206,7 +224,26 @@ Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
           ngo&#xE0;i cho c&#xE1;c agent qu&#x1ED1;c t&#x1EBF;</p>
         <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>M&#xE3; qu&#x1ED1;c gia - kh&#xF4;ng ph&#x1EA3;i l&#xE0; - VN</em>
         </p>
+        <p>&lt;em&gt;&lt;/em&gt;</p>
       </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Qu&#x1ED1;c gia</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o Qu&#x1ED1;c gia
+        c&#x1EE7;a kh&#xE1;ch h&#xE0;ng &#x111;&#x1EC3; ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i
+        tho&#x1EA1;i cho agent. T&#xEA;n Qu&#x1ED1;c gia theo chu&#x1EA9;n qu&#x1ED1;c
+        t&#x1EBF;, <a href="https://countrycode.org/">tham kh&#x1EA3;o danh s&#xE1;ch qu&#x1ED1;c gia.</a>
+        <br
+        />V&#xED; d&#x1EE5;: Vietnam, United States</td>
+      <td style="text-align:left">
+        <p>Kh&#xE1;ch h&#xE0;ng &#x1EDF; Vi&#x1EC7;t Nam s&#x1EBD; ph&#xE2;n ph&#x1ED1;i
+          h&#x1ED9;i tho&#x1EA1;i cho c&#xE1;c agent n&#x1ED9;i &#x111;&#x1ECB;a</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>Qu&#x1ED1;c gia - l&#xE0; - Vietnam </em>
+        </p>
+        <p>&lt;em&gt;&lt;/em&gt;</p>
+      </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Th&#xE0;nh ph&#x1ED1;</td>
@@ -223,11 +260,12 @@ Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
         <p></p>
       </td>
       <td style="text-align:left">
-        <p>Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho kh&#xE1;ch h&#xE0;ng
+        <p>Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i c&#x1EE7;a kh&#xE1;ch h&#xE0;ng
           &#x111;&#x1EBF;n t&#x1EEB; H&#xE0; N&#x1ED9;i cho agent H&#xE0; N&#x1ED9;i</p>
-        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n : <em>Th&#xE0;nh ph&#x1ED1; - b&#x1EB1;ng - Hanoi</em>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n : <em>Th&#xE0;nh ph&#x1ED1; - l&#xE0; - Hanoi</em>
         </p>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">M&#xFA;i gi&#x1EDD;</td>
@@ -241,25 +279,95 @@ Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
           Nam &#xC1; - UTC +7 G</p>
       </td>
       <td style="text-align:left">
-        <p>Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho kh&#xE1;ch h&#xE0;ng
+        <p>Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i c&#x1EE7;a kh&#xE1;ch h&#xE0;ng
           &#x111;&#x1EBF;n t&#x1EEB; khu v&#x1EF1;c &#x110;&#xF4;ng Nam &#xC1; cho
-          agent A &#x110;&#xF4;ng Nam &#xC1;.</p>
-        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>M&#xFA;i gi&#x1EDD; - b&#x1EB1;ng - UTC +7 G</em>
+          agent A.</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>M&#xFA;i gi&#x1EDD; - m&#x1ED9;t trong c&#xE1;c g&#xED;a tr&#x1ECB; sau - +7:00</em>
         </p>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">T&#xEA;n</td>
-      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o th&#xF4;ng tin
-        H&#x1ECD; t&#xEA;n c&#x1EE7;a kh&#xE1;ch &#x111;&#x1EC3; ph&#xE2;n ph&#x1ED1;i
-        h&#x1ED9;i tho&#x1EA1;i cho agent.</td>
+      <td style="text-align:left">Ng&#xF4;n ng&#x1EEF; tr&#xEA;n tr&#xEC;nh duy&#x1EC7;t</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o ng&#xF4;n ng&#x1EEF;
+        tr&#xEC;nh duy&#x1EC7;t c&#x1EE7;a kh&#xE1;ch &#x111;&#x1EC3; ph&#xE2;n
+        ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i. Ng&#xF4;n ng&#x1EEF; tr&#xEA;n tr&#xEC;nh
+        duy&#x1EC7;t theo chu&#x1EA9;n <a href="http://www.lingoes.net/en/translator/langcode.htm">ISO Language Code</a>,
+        v&#xED; d&#x1EE5;: vi- VN, en - US.</td>
       <td style="text-align:left">
-        <p>Ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#x1EE7;a kh&#xE1;ch
-          h&#xE0;ng &#x111;&#xE3; c&#xF3; th&#xF4;ng tin H&#x1ECD; t&#xEA;n cho Agent
-          D&#x1ECB;ch v&#x1EE5;</p>
-        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>T&#xEA;n  - Kh&#xF4;ng tr&#x1ED1;ng</em>
+        <p>Kh&#xE1;ch h&#xE0;ng s&#x1EED; d&#x1EE5;ng ng&#xF4;n ng&#x1EEF; English
+          tr&#xEA;n tr&#xEC;nh s&#x1EBD; ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i
+          cho nh&#xF3;m agent qu&#x1ED1;c t&#x1EBF;.</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>Ng&#xF4;n ng&#x1EEF; tr&#xEA;n tr&#xEC;nh duy&#x1EC7;t - kh&#xF4;ng ph&#x1EA3;i l&#xE0; - Vi</em>
         </p>
       </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Truy c&#x1EAD;p web</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Lo&#x1EA1;i thi&#x1EBF;t b&#x1ECB;</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o thi&#x1EBF;t
+        b&#x1ECB; truy c&#x1EAD;p c&#x1EE7;a kh&#xE1;ch h&#xE0;ng: M&#xE1;y t&#xED;nh
+        c&#xE1; nh&#xE2;n, &#x111;i&#x1EC7;n tho&#x1EA1;i, Tablet</td>
+      <td style="text-align:left">
+        <p>Ph&#xE2;n cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#x1EE7;a kh&#xE1;ch h&#xE0;ng
+          s&#x1EED; d&#x1EE5;ng m&#xE1;y t&#xED;nh c&#xE1; nh&#xE2;n</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>Lo&#x1EA1;i thi&#x1EBF;t b&#x1ECB; - m&#x1ED9;t trong c&#xE1;c gi&#xE1; trj sau - M&#xE1;y t&#xED;nh c&#xE1; nh&#xE2;n</em>
+        </p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">S&#x1ED1; l&#x1EA7;n vi&#x1EBF;ng th&#x103;m</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o s&#x1ED1; l&#x1EA7;n
+        gh&#xE9; th&#x103;m website c&#x1EE7;a kh&#xE1;ch.</td>
+      <td style="text-align:left">
+        <p>Ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#x1EE7;a kh&#xE1;ch
+          h&#xE0;ng &#x111;&#xE3; v&#xE0;o website l&#x1EDB;n h&#x1A1;n 3 l&#x1EA7;n</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>S&#x1ED1; l&#x1EA7;n vi&#x1EBF;ng th&#x103;m - l&#x1EDB;n h&#x1A1;n - 3</em>
+        </p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">T&#x1ED5;ng s&#x1ED1; h&#x1ED9;i tho&#x1EA1;i</td>
+      <td style="text-align:left">&#x110;i&#x1EC1;u ki&#x1EC7;n n&#x1EF3; s&#x1EBD; d&#x1EF1;a tr&#xEA;n
+        t&#x1ED5;ng s&#x1ED1; cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#x1EA3; kh&#xE1;ch
+        di&#x1EC5;n ra tr&#xEA;n Subiz</td>
+      <td style="text-align:left">
+        <p>B&#x1EA1;n mu&#x1ED1;n nh&#x1EEF;ng kh&#xE1;ch h&#xE0;ng &#x111;&#xE3;
+          chat &#x111;&#x1EBF;n tr&#xEA;n 3 l&#x1EA7;n s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c
+          b&#x1ED9; ph&#x1EAD;n support h&#x1ED7; tr&#x1EE3; ri&#xEA;ng</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>T&#x1ED5;ng s&#x1ED1; h&#x1ED9;i tho&#x1EA1;i - l&#x1EDB;n h&#x1A1;n - 3</em>
+        </p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x110;&#x1EA1;i ch&#x1EC9;</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a tr&#xEA;n &#x111;&#x1ECB;a
+        ch&#x1EC9; truy c&#x1EAD;p c&#x1EE7;a kh&#xE1;ch &#x111;&#x1EC3; ph&#xE2;n
+        ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i</td>
+      <td style="text-align:left">
+        <p>Ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#x1EE7;a kh&#xE1;ch
+          h&#xE0;ng H&#xE0; N&#x1ED9;i cho chi nh&#xE1;nh H&#xE0; N&#x1ED9;i</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>&#x110;&#x1ECB;a ch&#x1EC9; - ch&#x1EE9;a - Hanoi</em>
+        </p>
+      </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">&#x110;&#x1ECB;a ch&#x1EC9; email</td>
@@ -270,9 +378,23 @@ Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
         <p>Ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#x1EE7;a kh&#xE1;ch
           h&#xE0;ng &#x111;&#xE3; c&#xF3; &#x111;&#x1ECB;a ch&#x1EC9; email cho Agent
           Kinh doanh</p>
-        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n:<em> &#x110;&#x1ECB;a ch&#x1EC9; email  - Kh&#xF4;ng tr&#x1ED1;ng</em>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n:<em> &#x110;&#x1ECB;a ch&#x1EC9; email  - ch&#x1EE9;a - support@subiz.com</em>
         </p>
       </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">H&#x1ECD; v&#xE0; t&#xEA;n</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o th&#xF4;ng tin
+        H&#x1ECD; t&#xEA;n c&#x1EE7;a kh&#xE1;ch &#x111;&#x1EC3; ph&#xE2;n ph&#x1ED1;i
+        h&#x1ED9;i tho&#x1EA1;i cho agent.</td>
+      <td style="text-align:left">
+        <p>Ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#x1EE7;a kh&#xE1;ch
+          h&#xE0;ng c&#xF3; t&#xEA;n l&#xE0; Linh cho Agent A</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>T&#xEA;n  - ch&#x1EE9;a - Linh</em>
+        </p>
+      </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">S&#x1ED1; &#x111;i&#x1EC7;n tho&#x1EA1;i</td>
@@ -281,11 +403,41 @@ Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
         ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho agent.</td>
       <td style="text-align:left">
         <p>Ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#x1EE7;a kh&#xE1;ch
-          h&#xE0;ng &#x111;&#xE3; c&#xF3; &#x111;&#x1ECB;a ch&#x1EC9; email cho Agent
-          T&#x1ED5;ng &#x111;&#xE0;i</p>
-        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>S&#x1ED1; &#x111;i&#x1EC7;n tho&#x1EA1;i  - Kh&#xF4;ng tr&#x1ED1;ng</em>
+          h&#xE0;ng &#x111;&#xE3; c&#xF3; s&#x1ED1; &#x111;i&#x1EC7;n tho&#x1EA1;i
+          l&#xE0; 02473021368 cho Agent T&#x1ED5;ng &#x111;&#xE0;i</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>S&#x1ED1; &#x111;i&#x1EC7;n tho&#x1EA1;i  - ch&#x1EE9;a - 02473021368</em>
         </p>
       </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Time on page</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o th&#x1EDD;i gian
+        kh&#xE1;ch h&#xE0;ng tr&#xEA;n website c&#x1EE7;a b&#x1EA1;n</td>
+      <td style="text-align:left">
+        <p>Ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#x1EE7;a kh&#xE1;ch
+          h&#xE0;ng &#x111;&#xE3; &#x1EDF; tr&#xEA;n web h&#x1A1;n 15s cho Agent
+          Kinh doanh</p>
+        <p>&#x110;i&#x1EC1;u ki&#x1EC7;n: <em>Time on page - l&#x1EDB;n h&#x1A1;n - 15</em>
+        </p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Website</td>
+      <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a v&#xE0;o th&#xF4;ng tin
+        website c&#x1EE7;a kh&#xE1;ch &#x111;&#x1EC3; ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c
+        h&#x1ED9;i tho&#x1EA1;i</td>
+      <td style="text-align:left">
+        <p>Doanh nghi&#x1EC7;p b&#x1EA1;n qu&#x1EA3;n l&#xFD; kh&#xE1;ch h&#xE0;ng
+          d&#x1EF1;a v&#xE0;o website. &#x110;&#x1EC3; c&#xF3; th&#x1EC3; ph&#xE2;n
+          ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i theo th&#xF4;ng tin website
+          c&#x1EE7;a kh&#xE1;ch b&#x1EA1;n t&#x1EA1;o &#x111;i&#x1EC1;u ki&#x1EC7;n
+          nh&#x1B0; sau:</p>
+        <p><em>&#x110;i&#x1EC1;u ki&#x1EC7;n: Website - l&#xE0; - Subiz.com</em>
+        </p>
+      </td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>### Bước 3: Chọn cách thức phân phối tới Agent
@@ -298,7 +450,7 @@ Bây giờ, bạn chọn cách thức phân phối cuộc các cuộc hội tho�
 * **Phân phối tới agent có tương tác cuối cung với khách hàng**: Khi agent đã hỗ trợ khách hàng trước đó, bạn sẽ chọn chỉ định các cuộc hội thoại tiếp theo của khách cho agent tiếp tục chăm sóc và tư vấn.
 * **Phân phối cuộc hội thoại đồng đều theo vòng**: Bạn có nhiều agent và muốn chỉ định theo vòng chia đều cuộc hội thoại của khách cho các agent. 
 
-![Rule Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho available agent ](../../../.gitbook/assets/rule-moi.jpg)
+![T&#x1EA1;o Rule](../../../.gitbook/assets/phan-phoi.png)
 
 {% hint style="info" %}
 * Rule là cài đặt **bắt buộc** để agent nhận được cuộc chat. Khi bạn xóa Rule mặc định nhưng không tạo Rule mới, tất cả các agent sẽ không nhận tương tác của khách hàng. Lúc này, tất cả hội thoại sẽ nằm trong phân khúc **Hội thoại chưa phân phối** trong phần **Hoạt động**.
