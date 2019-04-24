@@ -1,60 +1,71 @@
 # Một số ví dụ Rule phân phối hội thoại
 
-### Phân phối tất cả hội thoại cho một Agent hoặc nhiều Agent
+### **Phân phối cuộc hội thoại  theo giờ làm việc**
 
-Bạn có thể sử dụng Rule mặc định ban đầu nếu muốn chuyển hội thoại cho agent owner \(chủ tài khoản\). Trong trường hợp bạn muốn chuyển cho agent khác tư vấn khách hàng, bạn thao tác như sau:
+Cùng với việc ứng dụng Subot và phân chia rule theo giờ làm việc của doanh nghiệp, bạn hoàn toàn có thể yên tâm khi ngoài giờ hành chính, bạn vẫn có thể tự động phản hồi tin nhắn của khách và thu thập thông tin khách hàng để hôm sau bạn có thể liên hệ lại khách.
 
-![Ch&#x1EC9; &#x111;&#x1ECB;nh t&#x1EA5;t c&#x1EA3; h&#x1ED9;i tho&#x1EA1;i cho m&#x1ED9;t t&#x1B0; v&#x1EA5;n vi&#xEA;n ](../../../.gitbook/assets/chi-dinh-hoi-thoai-den-mot-tu-van-vien.png)
+**Bước 1: Cài đặt Subot để phản hồi khách hàng ngoài giờ làm việc :** [**Hướng dẫn**](https://help.subiz.com/bat-dau-voi-subiz/trien-khai-hoat-dong/subot-bot-tu-dong-tra-loi-va-hoi-thong-tin#subot-la-gi)
 
-### Phân phối tới các Agent hoặc nhóm Agent
+![C&#xE0;i &#x111;&#x1EB7;t Subot ph&#x1EA3;n h&#x1ED3;i kh&#xE1;ch h&#xE0;ng](../../../.gitbook/assets/assets_-lcrbjdxgv2cwmzzedgk_-lyqpvvnll_qrefkfkt-_-lyqpblv570yd3zrzlpv_screen-shot-2019-02-11-at-2.14.png)
 
-Khi chọn cách phân phối tới các Agent hoặc nhóm Agent thì bất cứ Agent nào trong nhóm được phân phối đều có thể tham gia cùng lúc vào cuộc hội thoại.
+**Bước 2: Cài đặt giờ làm việc của doanh nghiệp:** [**Hướng dẫn**](https://help.subiz.com/bat-dau-voi-subiz/trien-khai-hoat-dong/cai-dat-gio-lam-viec)\*\*\*\*
 
-Bạn cần chọn một trong những kiểu phân phối sau:
+![C&#xE0;i &#x111;&#x1EB7;t gi&#x1EDD; l&#xE0;m vi&#x1EC7;c c&#x1EE7;a doanh nghi&#x1EC7;p](../../../.gitbook/assets/assets_-lcrbjdxgv2cwmzzedgk_-lyos43hszk6h4mbvjmm_-lyoz5v68mc1g5ed0y8e_business-hour-1.jpg)
 
-* _**Phân phối tới tất cả các available Agent:**_ phân phối cuộc hội thoại cho tất cả Agent đang log in tài khoản.
+**Bước 3: Cài đặt Rule theo giờ làm việc**
 
-![Ph&#xE2;n ph&#x1ED1;i t&#x1EDB;i t&#x1EA5;t c&#x1EA3; c&#xE1;c available Agent](../../../.gitbook/assets/phan-phoi-hoi-thoai-toi-cac-available-agent.png)
+Bạn cài đặt 2 Rule như sau:
 
-* _**Phân phối tới các agent:**_ Bạn muốn hội thoại đến các tư vấn viên sẽ đều nhận được hội thoại để cùng hỗ trợ khách hàng. Chọn điều kiện Phân phối tới các agent và chọn tư vấn viên bạn muốn phân phối hội thoại. 
+* **Rule 1:** Phân cuộc hội thoại cho Agent trong giờ làm việc
 
-![Ph&#xE2;n ph&#x1ED1;i t&#x1EDB;i c&#xE1;c agent](../../../.gitbook/assets/phan-phoi-hoi-thoai-toi-mot-vai-agent-nhat-dinh.png)
+![Trong gi&#x1EDD; l&#xE0;m vi&#x1EC7;c](../../../.gitbook/assets/trong-gio-lam-viec.png)
 
-* _**Phân phối tới các nhóm:**_ Khi bạn muốn phân phối hội thoại theo một nhóm nhất định, ví dụ: khách hỏi giá sản phẩm chuyển cho Sale, hỏi về bảo hành sản phẩm chuyển cho bộ phận kỹ thuật.
+* **Rule 2:** Phân cuộc hội thoại cho Agent ngoài giờ làm việc
 
-![Ph&#xE2;n ph&#x1ED1;i t&#x1EDB;i c&#xE1;c nh&#xF3;m](../../../.gitbook/assets/phan-phoi-hoi-thoai-toi-mot-nhom-agent.png)
+![Ngo&#xE0;i gi&#x1EDD; l&#xE0;m vi&#x1EC7;c](../../../.gitbook/assets/ngoai-gio-lam-viec.png)
 
-* _**Phân phối tới agent có tương tác cuối cùng với user:**_ Phân phối cuộc hội thoại cho Agent có tương tác gần nhất với user \(khách hàng\).
+### **Phân phối cuộc hội thoại theo ca trực của agent / ngày làm việc trong tuần.**
 
-![Ph&#xE2;n ph&#x1ED1;i t&#x1EDB;i agent c&#xF3; t&#x1B0;&#x1A1;ng t&#xE1;c cu&#x1ED1;i c&#xF9;ng v&#x1EDB;i user](../../../.gitbook/assets/phan-phoi-toi-agent-co-tuong-tac-cuoi-cung-voi-user.png)
+Bạn có nhiều Agent và phân chia theo ca làm việc khác nhau theo từng ngày làm việc trong tuần. Bạn hoàn toàn có thể cài đặt Rule để có thể phân phối tự động theo lịch làm việc cố định của Agent.
 
-### Phân phối hội thoại đồng đều theo vòng cho các agent
+**Ví dụ:** Agent Hoa Tạ nhận cuộc chat vào các ngày 2, 4, 6 và chủ nhật. Agent Linh Lê nhận cuộc chat vào các ngày 3, 5, 7. Bạn sẽ cài đặt 2 Rule như sau**:**
 
-Khi phân phối theo quy tắc này, hội thoại mới của khách hàng sẽ được phân bổ đều cho một vài agent hoặc một nhóm agent. Khi bạn có nhiều cuộc hội thoại, việc phân chia hội thoại sẽ giúp giảm áp lực và tăng tốc độ phản hồi của tư vấn viên. Bạn có thể cài đặt như sau:
+* **Rule 1:** Phân cuộc hội thoại cho Agent Hoa Ta
 
-![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i &#x111;&#x1ED3;ng &#x111;&#x1EC1;u cho c&#xE1;c t&#x1B0; v&#x1EA5;n vi&#xEA;n](../../../.gitbook/assets/phan-phoi-hoi-thoai-theo-vong.png)
+![Ph&#xE2;n cu&#x1ED9;c chat cho Agent Hoa Ta](../../../.gitbook/assets/ca-lam-viec-1.png)
 
-### Phân phối hội thoại cho agent theo kênh tương tác 
+* **Rule 2:** Phân cuộc hội thoại cho Agent Linh Lê
 
-Bạn có nhiều kênh tương tác: Website, Email, Fanpage và muốn phân phối hội thoại cho tư vấn viên theo từng kênh để phân loại khách hàng nhưng vẫn quản lý được dữ liệu tập trung. Bạn thao tác như sau:
+![Ph&#xE2;n cu&#x1ED9;c chat cho Agent Linh L&#xEA;](../../../.gitbook/assets/ca-lam-viec-2.png)
 
-![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i theo k&#xEA;nh t&#x1B0;&#x1A1;ng t&#xE1;c ](../../../.gitbook/assets/phan-phoi-hoi-thoai-theo-kenh-fanpage.png)
+### **Phân phối cuộc hội thoại theo ngôn ngữ website**
 
-### Phân phối hội thoại theo website cụ thể 
+Website bạn ngoài việc hỗ trợ khách hàng nội địa, còn có nhiều khách hàng quốc tế. Bạn có Agent phụ trách khách nước ngoài và khách Việt Nam riêng biệt. Cài đặt 2 rule sau để có thể phân cuộc hội thoại theo đúng Agent phụ trách theo ngôn ngữ trên website
 
-Bạn có nhiều website và muốn giao mỗi website cho một tư vấn viên phụ trách để quản lý đội ngũ tư vấn viên và theo dõi hiệu quả làm việc của từng người trên trang quản trị. Bạn cài đặt như sau:
+* **Rule 1**: Phân cuộc hội thoại web tiếng Việt cho Agent Hoa Ta
 
-![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i theo website c&#x1EE5; th&#x1EC3; ](../../../.gitbook/assets/phan-phoi-hoi-thoai-theo-url-cua-trang.png)
+![Cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i t&#x1EEB; web ti&#x1EBF;ng Vi&#x1EC7;t](../../../.gitbook/assets/tieng-viet-1.png)
 
-### Phân phối hội thoại theo trang sản phẩm 
+* **Rule 2**: Phân cuộc hội thoại web tiếng Anh cho Agent Linh Lê
 
-Bạn có website bán hàng kinh doanh nhiều sản phẩm, bạn có thể phân quyền cho các tư vấn viên theo từng mặt hàng. Điều này sẽ giúp các tư vấn viên dễ dàng nắm bắt được nhu cầu khách hàng và tư vấn hiệu quả hơn. Bạn cài đặt Rule như sau:
+![Cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i t&#x1EEB; web ti&#x1EBF;ng Anh](../../../.gitbook/assets/tieng-anh-1.png)
 
-![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i theo trang s&#x1EA3;n ph&#x1EA9;m ](../../../.gitbook/assets/rule_san-pham.png)
+### Phân phối cuộc hội thoại cho cuộc hội thoại từ các kênh khác nhau
+
+Bạn tích hợp cả Subiz lên Website, Fanpage và Email và có Agent để phụ trách riêng cho từng kênh. Bạn hoàn toàn có thể sử dụng chức năng Rule để phân phối cuộc hội thoại theo kênh:  
+**Rule 1**: Phân phối hội thoại từ kênh Website \( Subiz chat\)
+
+![Cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i t&#x1EEB; website](../../../.gitbook/assets/website.png)
+
+**Rule 2**: Phân phối hội thoại từ kênh Email và Messenger
+
+![Cu&#x1ED9;c h&#x1ED9;i th&#x1ECD;ai t&#x1EEB; Email v&#xE0; Messenger](../../../.gitbook/assets/email-va-messenger.png)
 
 ### Phân phối hội thoại theo vùng địa lý khách hàng 
 
 Khi doanh nghiệp của bạn có chi nhánh ở các tỉnh thành khác nhau và muốn phân chia hội thoại cho tư vấn viên ở địa phương đó hỗ trợ khách hàng, Subiz sẽ giúp bạn nhận diện và chuyển hội thoại đến đúng tư vấn viên khách cần gặp.
 
-![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i theo v&#xF9;ng &#x111;&#x1ECB;a l&#xFD; kh&#xE1;ch h&#xE0;ng ](../../../.gitbook/assets/rule_thanh-pho.png)
+![Ph&#xE2;n cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i theo khu v&#x1EF1;c &#x111;&#x1ECB;a l&#xFD;](../../../.gitbook/assets/hanoi.png)
+
+Tương tự bạn sẽ cài đặt Rule cho các thành phố còn lại.
 
