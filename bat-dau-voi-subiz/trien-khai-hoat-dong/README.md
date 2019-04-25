@@ -14,3 +14,7 @@ Tất cả các hướng dẫn chi tiết về cách thiết lập Agent và Rul
 
 {% page-ref page="phan-phoi-cuoc-hoi-thoai/" %}
 
+{% page-ref page="endchat-bot.md" %}
+
+{% page-ref page="cai-dat-gio-lam-viec.md" %}
+
