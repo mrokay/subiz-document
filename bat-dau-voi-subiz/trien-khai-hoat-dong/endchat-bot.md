@@ -64,7 +64,7 @@ Endchat Bot đã được cài đặt mặc định 4 kịch bản kết thúc h
 **Lưu ý:**
 
 * Endchat Bot là một agent, có thể tích hợp miễn phí.
-* EndChat bot không cần phải phân phối tham gia hội thoại như Subot, bạn chỉ cần bật Active agent và thiết lập điều kiện để agent hoạt động
+* EndChat bot không cần phải phân phối tham gia hội thoại như Subot, bạn chỉ cần Active và thiết lập điều kiện để EndChat bot hoạt động
 {% endhint %}
 
 
