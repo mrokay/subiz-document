@@ -282,13 +282,10 @@ Kiểu cửa sổ chat MỞ RỘNG:
 
 {% tab title="Trên website bản mobile" %}
 ```csharp
-.widget_mobile .button-chat {
-display: none; }
+.widget_mobile .widget-button { display: none; }
 ```
 {% endtab %}
 {% endtabs %}
-
-\`\`
 
 ### 
 

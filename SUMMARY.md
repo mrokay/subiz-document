@@ -86,4 +86,5 @@
   * [Thống kê Tickets](bao-cao-and-thong-ke/thong-ke-tickets.md)
   * [Thống kê Subiz chat trên Google Analytics](bao-cao-and-thong-ke/thong-ke-subiz-chat-tren-google-analytics.md)
   * [Thống kê Subiz chat theo nguồn khách truy cập](bao-cao-and-thong-ke/thong-ke-nguon-khach-truy-cap-ket-hop-voi-subiz-chat.md)
+  * [Thống kê tình hình tương tác khách hàng và hiệu quả làm việc của tư vấn viên](bao-cao-and-thong-ke/thong-ke-danh-gia-hoat-dong-kinh-doanh-online-voi-subiz.md)
 
