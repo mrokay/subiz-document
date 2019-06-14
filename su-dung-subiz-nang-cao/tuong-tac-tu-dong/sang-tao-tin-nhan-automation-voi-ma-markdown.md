@@ -8,13 +8,13 @@ Trước hết để có thể tạo tin nhắn tự động bạn cần thao t�
 
 ![T&#x1EA1;o tin nh&#x1EAF;n automation](../../.gitbook/assets/tao-automation%20%281%29.png)
 
-Cùng sự kết hợp với **Tùy chỉnh tin nhắn với Message Builder** bạn có thể tạo những mẫu tin nhắn đầy sáng tao.
+Cùng sự kết hợp với **Tùy chỉnh tin nhắn với Message Builder** bạn có thể tạo những mẫu tin nhắn đầy sáng tạo.
 
 ![Message Builder](../../.gitbook/assets/message-builder.png)
 
 ### Chào khách hàng bằng tên
 
-Đối với những khách hàng đã để lại thông tin, bạn hoàn toàn có thể tạo những trải nghiệm cá nhân cho khách khi chào khách hàng bằng tên họ đã lưu trước đó:
+Đối với những khách hàng đã để lại thông tin, bạn hoàn toàn có thể tạo những trải nghiệm cá nhân cho khách khi chào họ bằng tên đã lưu trước đó:
 
 ![](../../.gitbook/assets/chao-bang-ten.png)
 
@@ -32,7 +32,7 @@ Bạn có thể xác định được đối tượng khách hàng tiềm năng 
 
 ### **Câu trả lời nhanh**
 
-Với việc đặt ra câu hỏi với việc lựa chọn câu trả lời sẵn có, bạn sẽ tiết kiệm thời gian trong việc xác định vấn đề ban đầu của khách hàng và hỗ trợ khách hàng nhanh hơn:
+Với việc đặt ra câu hỏi và đưa ra câu trả lời sẵn có, bạn sẽ tiết kiệm thời gian trong việc xác định vấn đề ban đầu của khách hàng và hỗ trợ khách hàng nhanh hơn:
 
 ![T&#x1EA1;o c&#xE2;u tr&#x1EA3; l&#x1EDD;i nhanh](../../.gitbook/assets/button-hoi.png)
 
@@ -50,13 +50,13 @@ Bạn muốn khách hàng có thể gọi cho bạn ngay trên cửa sổ chat S
 
 ### **Gắn link vào hình ảnh**
 
-Khi khách hàng click vào hình ảnh, bạn hoàn toàn có thể dẫn khách hàng tới trang mà bạn mong muốn bằng cách gắn link vào hình ảnh này:
+Gắn hình ảnh vào tin nhắn sẽ tạo sự thu hút cho lời chào của bạn và truyền tải thông điệp bạn mong muốn tới khách hàng một cách nhanh chóng:
 
 ![&#x110;&#xED;nh k&#xE8;m h&#xEC;nh &#x1EA3;nh](../../.gitbook/assets/dinh-kem-anh.png)
 
 ### Gắn tệp 
 
-Chức năngnày sẽ giúp bạn có thể gắn những File Báo giá, giới thệu doanh nghiệp, sản phẩm đến khách hàng một cách nhanh nhất
+Chức năng này sẽ giúp bạn có thể gắn những File Báo giá, giới thệu doanh nghiệp, sản phẩm đến khách hàng một cách nhanh nhất:
 
 ![G&#x1EAF;n t&#x1EC7;p](../../.gitbook/assets/gan-tep.png)
 
