@@ -50,7 +50,7 @@
     * [Tạo Automation mới](su-dung-subiz-nang-cao/tuong-tac-tu-dong/tao-automation.md)
     * [Sử dụng Thư viện Automation](su-dung-subiz-nang-cao/tuong-tac-tu-dong/su-dung-thu-vien-automation.md)
     * [Một số ví dụ Automation tự động gửi tin nhắn](su-dung-subiz-nang-cao/tuong-tac-tu-dong/tu-dong-gui-tin-nhan-toi-khach-truy-cap.md)
-    * [Sáng tạo tin nhắn Automation với mã Markdown](su-dung-subiz-nang-cao/tuong-tac-tu-dong/sang-tao-tin-nhan-automation-voi-ma-markdown.md)
+    * [Sáng tạo tin nhắn Automation](su-dung-subiz-nang-cao/tuong-tac-tu-dong/sang-tao-tin-nhan-automation-voi-ma-markdown.md)
     * [Automation gửi email tới khách hàng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/automation-gui-email-toi-khach-hang.md)
     * [Hỏi thông tin khách hàng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/nam-bat-khach-hang-tiem-nang.md)
     * [Tự động hỏi địa chỉ email của khách hàng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/tu-dong-hoi-dia-chi-email-cua-khach-hang.md)

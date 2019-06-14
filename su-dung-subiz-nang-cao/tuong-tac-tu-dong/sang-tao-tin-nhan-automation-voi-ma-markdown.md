@@ -1,114 +1,70 @@
-# Sáng tạo tin nhắn Automation với mã Markdown
+# Sáng tạo tin nhắn Automation
 
 Ngoài cài đặt Automation gửi tin nhắn tự động để thu hút sự chú ý của khách hàng vào website nhằm gia tăng lượng tương tác với khách hàng, việc thiết lập nội dung những tin nhắn tự động này cũng vô cùng quan trọng. 
 
-Một tin nhắn được trình bày rõ ràng,  ngắn gọn, nội dung đầy đủ với hình ảnh thiết kế bắt mắt chắc chắn sẽ gây được nhiều ấn tượng với khách hàng. Bài viết sau đây sẽ hướng dẫn việc sử dụng mã Markdown để thiết kế tin nhắn trong Automation.
+Một tin nhắn được trình bày rõ ràng,  ngắn gọn, nội dung đầy đủ với hình ảnh thiết kế bắt mắt chắc chắn sẽ gây được nhiều ấn tượng với khách hàng. Bài viết sau đây sẽ hướng dẫn việc sử dụng các mẫu đính kèm có sẵn của Automation để bạn có thể thu hút khách hàng tương tác nhiều hơn.
+
+Trước hết để có thể tạo tin nhắn tự động bạn cần thao tác theo các bước sau:[ Cài đặt/ Automation/ Tạo hội thoại mới](https://app.subiz.com/settings/automations)
+
+![T&#x1EA1;o tin nh&#x1EAF;n automation](../../.gitbook/assets/tao-automation%20%281%29.png)
+
+Cùng sự kết hợp với **Tùy chỉnh tin nhắn với Message Builder** bạn có thể tạo những mẫu tin nhắn đầy sáng tao.
+
+![Message Builder](../../.gitbook/assets/message-builder.png)
+
+### Chào khách hàng bằng tên
+
+Đối với những khách hàng đã để lại thông tin, bạn hoàn toàn có thể tạo những trải nghiệm cá nhân cho khách khi chào khách hàng bằng tên họ đã lưu trước đó:
+
+![](../../.gitbook/assets/chao-bang-ten.png)
 
 ### Thêm icon cảm xúc trong tin nhắn
 
 Việc thêm biểu tượng cảm xúc vào tin nhắn sẽ mang đến cho khách hàng của bạn nhiều trải nghiệm cảm xúc thú vị khi vào website của bạn và gia tăng tỷ lệ phản hồi của họ đối với thông điệp bạn gửi. Bạn có thể thêm biểu tượng cảm xúc theo ví dụ sau:
 
-![Ch&#xE8;n bi&#x1EC3;u t&#x1B0;&#x1EE3;ng c&#x1EA3;m x&#xFA;c v&#xE0;o tin nh&#x1EAF;n Automation](../../.gitbook/assets/subiz-3.png)
+![Th&#xEA;m bi&#x1EC3;u t&#x1B0;&#x1EE3;ng c&#x1EA3;m x&#xFA;c cho tin nh&#x1EAF;n](../../.gitbook/assets/emotion.png)
 
-![Tin nh&#x1EAF;n hi&#x1EC3;n th&#x1ECB; tr&#xEA;n c&#x1EED;a s&#x1ED5; chat](../../.gitbook/assets/subiz.png)
+### **Hỏi thông tin khách hàng**
 
-Bạn có thể tham khảo một số icon cảm xúc thông dụng
+Bạn có thể xác định được đối tượng khách hàng tiềm năng ngay khi họ vào website của bạn bằng việc hỏi thông tin khách hàng:
 
-* :like:
-* :heart\_eyes:
-* :tongue\_out:
-* :smiling:
-* :grinning:
-* :wink:
-* :sleepy:
+![H&#x1ECF;i th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/hoi-thong-tin-khach-hang.png)
 
-**In đậm và in nghiêng font chữ**
+### **Câu trả lời nhanh**
 
-Để tạo sự chú ký của khách hàng tới nội dung quan trọng trong tin nhắn của bạn, bạn hoàn toàn có thể in đậm hoặc in nghiêng phông chữ theo hướng dẫn sau:
+Với việc đặt ra câu hỏi với việc lựa chọn câu trả lời sẵn có, bạn sẽ tiết kiệm thời gian trong việc xác định vấn đề ban đầu của khách hàng và hỗ trợ khách hàng nhanh hơn:
 
-* **In đậm**
+![T&#x1EA1;o c&#xE2;u tr&#x1EA3; l&#x1EDD;i nhanh](../../.gitbook/assets/button-hoi.png)
 
-```text
-**text**  hoặc __text__
-```
+### URL Button
 
-![In &#x111;&#x1EAD;m font ch&#x1EEF;](../../.gitbook/assets/in-dam.png)
+Tạo button kêu gọi khách hàng và điều hướng khách vào trang bạn mong muốn sẽ tăng cơ hội để bạn giới thiệu các chương trình ưu đãi và thu hút khách hàng hơn:
 
-* **In nghiêng**
+![G&#x1EAF;n URL cho Button](../../.gitbook/assets/url-button.png)
 
-```text
-*text* hoặc _text_
-```
+### Call Button
 
-![In nghi&#xEA;ng font ch&#x1EEF;](../../.gitbook/assets/in-nghieng.png)
+Bạn muốn khách hàng có thể gọi cho bạn ngay trên cửa sổ chat Subiz, việc gắn link số điện thoại vào Button sẽ gúp cho việc này thật đơn giản:
 
-### **Tùy chỉnh font chữ**
+![G&#x1EAF;n Button Call](../../.gitbook/assets/gan-button-call.png)
 
-Bạn sử dụng đoạn mã sau để tùy chỉnh font chữ phù hợp:
-
-```text
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6
-```
-
-![T&#xF9;y ch&#x1EC9;nh font ch&#x1EEF;](../../.gitbook/assets/screenshot_3.png)
-
-### **Gắn link vào đoạn text**
-
-Bạn có thể gắn link vào đoạn text, để dẫn khách hàng tới trang mà bạn muốn giới thiệu:
-
-```text
-[Đoạn text được gắn link](link muốn gắn)
-```
-
-![G&#x1EAF;n link v&#xE0;o &#x111;o&#x1EA1;n text](../../.gitbook/assets/gan-link.png)
-
-### **Gắn hình ảnh vào tin nhắn**
-
-Sử dụng hình ảnh sẽ làm nội dung tin nhắn của bạn thêm phần thú vị và thu hút khách hàng tới cửa sổ chat. Bạn hoàn toàn có thể gắn hình ảnh vào tin nhắn theo hướng dẫn sau:
-
-```text
-![alttext](link hình ảnh)
-```
-
-![G&#x1EAF;n h&#xEC;nh &#x1EA3;nh v&#xE0;o tin nh&#x1EAF;n.](../../.gitbook/assets/gan-hinh-anh.png)
-
-Bạn có thể tìm kiếm hình ảnh trên Google, và lấy link hình ảnh theo hướng dẫn:
-
-![](../../.gitbook/assets/screenshot_2%20%281%29.png)
-
-###  **Gắn link vào hình ảnh**
+### **Gắn link vào hình ảnh**
 
 Khi khách hàng click vào hình ảnh, bạn hoàn toàn có thể dẫn khách hàng tới trang mà bạn mong muốn bằng cách gắn link vào hình ảnh này:
 
-```text
-[![alttext](link hình ảnh)](link muốn gắn vào hình ảnh)
-```
+![&#x110;&#xED;nh k&#xE8;m h&#xEC;nh &#x1EA3;nh](../../.gitbook/assets/dinh-kem-anh.png)
 
-![G&#x1EAF;n link v&#xE0;o h&#xEC;nh &#x1EA3;nh](../../.gitbook/assets/screenshot_5.png)
+### Gắn tệp 
 
-### Chèn số điện thoại vào tin nhắn
+Chức năngnày sẽ giúp bạn có thể gắn những File Báo giá, giới thệu doanh nghiệp, sản phẩm đến khách hàng một cách nhanh nhất
 
-Bạn hoàn toàn có thể chèn số điện thoại vào tin nhắn Automation. Khi khách hàng click vào số điện thoại, họ hoàn toàn có thể gọi trực tiếp cho bạn nếu như đang online trên di động hoặc máy tính của họ có hỗ trợ phần mềm gọi điện.
+![G&#x1EAF;n t&#x1EC7;p](../../.gitbook/assets/gan-tep.png)
 
-```text
-[02473021368](tel:02473021368)
-```
+Sau khi đã hoàn tất bước tạo tin nhắn bạn có thể **Tiếp tục** đến bước thứ 2: **Tạo điều kiện**
 
-![G&#x1EAF;n s&#x1ED1; &#x111;i&#x1EC7;n tho&#x1EA1;i trong tin nh&#x1EAF;n Automation](../../.gitbook/assets/gan-so-dien-thoai.png)
+![T&#x1EA1;o &#x111;i&#x1EC1;u ki&#x1EC7;n Automtion](../../.gitbook/assets/dieu-kien-automation.png)
 
-### Kết hợp các mã markdown trong một tin nhắn
+Nhấn **Tiếp tục** để sang bước cuối cùng: **Đặt tên cho Automation** và **Lưu** 
 
-Hãy kết hợp các mã markdown để tạo một lời chào thu hút, hấp dẫn trên website của bạn!
-
-![](../../.gitbook/assets/screenshot_6.png)
-
-  
-
-
-###  
+![&#x110;&#x1EB7;t t&#xEA;n cho Automation ](../../.gitbook/assets/2019-06-14_11-52.png)
 
