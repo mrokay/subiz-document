@@ -53,6 +53,7 @@
     * [Sáng tạo tin nhắn Automation](su-dung-subiz-nang-cao/tuong-tac-tu-dong/sang-tao-tin-nhan-automation-voi-ma-markdown.md)
     * [Automation gửi email tới khách hàng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/automation-gui-email-toi-khach-hang.md)
     * [Hỏi thông tin khách hàng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/nam-bat-khach-hang-tiem-nang.md)
+    * [Hỏi thông tin khách hàng theo thời gian làm việc](su-dung-subiz-nang-cao/tuong-tac-tu-dong/hoi-thong-tin-khach-hang-theo-thoi-gian-lam-viec.md)
     * [Tự động hỏi địa chỉ email của khách hàng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/tu-dong-hoi-dia-chi-email-cua-khach-hang.md)
   * [Quản lý dữ liệu Khách hàng](su-dung-subiz-nang-cao/quan-ly-du-lieu/README.md)
     * [Quan sát khách truy cập](su-dung-subiz-nang-cao/quan-ly-du-lieu/quan-sat-khach-truy-cap.md)

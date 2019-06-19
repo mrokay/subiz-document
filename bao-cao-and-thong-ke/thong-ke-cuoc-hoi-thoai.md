@@ -43,7 +43,7 @@ Bạn có thể chọn Tất cả agent để thống kê chung hội thoại c�
 {% tab title="Thời gian" %}
 Bạn có thể thống kê số cuộc hội thoại theo một giai đoạn cụ thể:
 
-![Th&#x1ED1;ng k&#xEA; theo th&#x1EDD;i gian](../.gitbook/assets/thoi-gian.png)
+![Th&#x1ED1;ng k&#xEA; theo th&#x1EDD;i gian](../.gitbook/assets/thoi-gian%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 

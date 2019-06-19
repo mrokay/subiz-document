@@ -18,7 +18,7 @@ Bạn cài đặt 2 Rule như sau:
 
 * **Rule 1:** Phân cuộc hội thoại cho Agent trong giờ làm việc
 
-![Trong gi&#x1EDD; l&#xE0;m vi&#x1EC7;c](../../../.gitbook/assets/trong-gio-lam-viec.png)
+![Trong gi&#x1EDD; l&#xE0;m vi&#x1EC7;c](../../../.gitbook/assets/trong-gio-lam-viec%20%281%29.png)
 
 * **Rule 2:** Phân cuộc hội thoại cho Agent ngoài giờ làm việc
 
