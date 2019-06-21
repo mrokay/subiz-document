@@ -108,7 +108,7 @@ subiz('setLanguage', 'en');
 ```text
 <script>
 subiz('setLanguage', 'vi');
-
+</script>
 ```
 
 ### 3. Tùy chỉnh nội dung cửa sổ chat với file .po
