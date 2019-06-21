@@ -20,8 +20,6 @@ Tại mục hướng dẫn Tương tác tự động này, [Subiz](https://subiz
 
 * Một số ví dụ phổ biến thường cài đặt Automation gửi tin nhắn tới khách hàng
 
-{% page-ref page="tu-dong-gui-tin-nhan-toi-khach-truy-cap.md" %}
-
 * Hướng dẫn cài đặt Automation tự động hỏi thông tin khách hàng như hỏi họ tên, số điện thoại, email,...
 
 {% page-ref page="nam-bat-khach-hang-tiem-nang.md" %}
