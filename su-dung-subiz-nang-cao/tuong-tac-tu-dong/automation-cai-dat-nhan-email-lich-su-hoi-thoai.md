@@ -1,4 +1,4 @@
-# Automation cài đặt nhận email lịch sử hội thoại
+# Automation gửi email transcript
 
 Dữ liệu và lịch sử tương tác của khách hàng là thông tin quan trọng với doanh nghiệp. Ngoài việc giúp doanh nghiệp lưu giữ trên trang quản trị, Subiz còn giúp bạn gửi nội dung hội thoại đến email một cách hoàn toàn tự động bằng ứng dụng mạnh mẽ - Automation gửi email transcript.
 
