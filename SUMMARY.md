@@ -53,6 +53,7 @@
     * [Hỏi thông tin khách hàng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/nam-bat-khach-hang-tiem-nang.md)
     * [Hỏi thông tin khách hàng theo thời gian làm việc](su-dung-subiz-nang-cao/tuong-tac-tu-dong/hoi-thong-tin-khach-hang-theo-thoi-gian-lam-viec.md)
     * [Phân loại và theo đuổi khách hàng tiềm năng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/phan-loai-va-theo-duoi-khach-hang-tiem-nang.md)
+    * [Automation cài đặt nhận email lịch sử hội thoại](su-dung-subiz-nang-cao/tuong-tac-tu-dong/automation-cai-dat-nhan-email-lich-su-hoi-thoai.md)
     * [Sử dụng Thư viện Automation](su-dung-subiz-nang-cao/tuong-tac-tu-dong/su-dung-thu-vien-automation.md)
   * [Quản lý dữ liệu Khách hàng](su-dung-subiz-nang-cao/quan-ly-du-lieu/README.md)
     * [Quan sát khách truy cập](su-dung-subiz-nang-cao/quan-ly-du-lieu/quan-sat-khach-truy-cap.md)
