@@ -38,10 +38,6 @@ Trong trường hợp bạn muốn lựa chọn khung thời gian hỏi thông t
 
 * **Với cuộc hội thoại có các thông tin sau**: Điều kiện này không nhất thiết phải cài đặt. Đây là điều kiện bổ sung, giúp bạn có thể lựa chọn đối tượng cụ thể để gửi tin nhắn hỏi thông tin. Điều kiện này được hiểu như điều kiện cần có ban đầu.
 
-Ví dụ: Gửi Automation hỏi thông tin đối với cuộc hội thoại có trạng thái chưa chỉ định và diễn ra trên kênh Subiz chat \(website\)
-
-![H&#x1ECF;i th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng v&#x1EDB;i nhi&#x1EC1;u &#x111;i&#x1EC1;u ki&#x1EC7;n](../../.gitbook/assets/automation-them.png)
-
 Sau khi xong bước cài đặt điều kiện, bạn nhấn **Tiếp tục** để sang bước cuối cùng
 
 ### Bước 3: Đặt tên Automation
@@ -68,5 +64,5 @@ Ngoài những trường thông tin hỏi mặc định: Tên, Số điện tho�
 
 ![Y&#xEA;u c&#x1EA7;u nh&#x1EAD;p th&#xF4;ng tin](../../.gitbook/assets/2019-06-17_11-32.png)
 
- 
+ Để có thể tùy chỉnh phần cài đặt Hỏi thông tin theo thời gian làm việc của doanh nghiệp, bạn có thể tham khảo: [Tại đây](https://help.subiz.com/su-dung-subiz-nang-cao/tuong-tac-tu-dong/hoi-thong-tin-khach-hang-theo-thoi-gian-lam-viec)
 
