@@ -10,15 +10,15 @@ Bạn sẽ thao tác theo 3 bước cài đặt như sau:
 
 ### Bước 1: Tạo workflow
 
-![T&#x1EA1;o automation h&#x1ECF;i th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng](../../../.gitbook/assets/hoi-thong-tin-khach-png-1.png)
+![Automation h&#x1ECF;i th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng](../../../.gitbook/assets/hoi-thong-tin-khach-png-4.png)
 
 Sau khi lựa chọn **Thực hiện Automation với Hội thoại** và hành động **Hỏi thông tin khách hàng**, bạn **Chỉnh sửa nội dung** để tạo nội dung mẫu hỏi mong muốn.
 
-![Ch&#x1EC9;nh s&#x1EED;a n&#x1ED9;i dung](../../../.gitbook/assets/tuy-chinh-noi-dung.png)
+![T&#xF9;y ch&#x1EC9;nh n&#x1ED9;i dung h&#x1ECF;i](../../../.gitbook/assets/tuy-chinh-noi-dung-2.png)
 
 **Lưu ý:** Nếu bạn muốn tùy chỉnh nội dung tin nhắn hỏi, bạn có thể click vào phần chỉnh sửa để thay đổi
 
-![T&#xF9;y ch&#x1EC9;nh n&#x1ED9;i dung tin nh&#x1EAF;n](../../../.gitbook/assets/tuy-chinh.png)
+![T&#xF9;y ch&#x1EC9;nh n&#x1ED9;i dung tin nh&#x1EAF;n](../../../.gitbook/assets/tuy-chinh-1-1.png)
 
 Sau khi thực hiện xong việc cài đặt nội dung hỏi thông tin, bạn nhấn **Tiếp tục** để chuyển sang bước tiếp theo.
 
@@ -30,11 +30,11 @@ Trong phần điều kiện có 2 mục điều kiện bạn cần quan tâm:
 
  ​Ví dụ:  Gửi Automation hỏi thông tin khi khách hàng chat qua website
 
-![H&#x1ECF;i th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng chat qua website](../../../.gitbook/assets/dieu-kien-automation-1%20%281%29.png)
+![C&#xE0;i &#x111;&#x1EB7;t &#x111;i&#x1EC1;u ki&#x1EC7;n](../../../.gitbook/assets/dieu-kien-automation-2.png)
 
 Trong trường hợp bạn muốn lựa chọn khung thời gian hỏi thông tin khách hàng, bạn có thể lựa chọn **Thêm điều kiện về thời gian**:
 
-![Th&#xEA;m &#x111;i&#x1EC1;u ki&#x1EC7;n th&#x1EDD;i gian](../../../.gitbook/assets/dieu-kien-thoi-gian.png)
+![Th&#xEA;m &#x111;i&#x1EC1;u ki&#x1EC7;n th&#x1EDD;i gian](../../../.gitbook/assets/dieu-kien-thoi-gian-1.png)
 
 * **Với cuộc hội thoại có các thông tin sau**: Điều kiện này không nhất thiết phải cài đặt. Đây là điều kiện bổ sung, giúp bạn có thể lựa chọn đối tượng cụ thể để gửi tin nhắn hỏi thông tin. Điều kiện này được hiểu như điều kiện cần có ban đầu.
 
@@ -44,7 +44,7 @@ Sau khi xong bước cài đặt điều kiện, bạn nhấn **Tiếp tục** �
 
 Bạn đặt tên cho Automation và viết mô tả chi tiết để dễ quản lý, sau đó **Lưu cài đặt**.
 
-![&#x110;&#x1EB7;t t&#xEA;n Automation](../../../.gitbook/assets/luu-ten-automation.png)
+![L&#x1B0;u t&#xEA;n Automation](../../../.gitbook/assets/luu-ten-automation-2.png)
 
 ### **Một số lưu ý**
 
@@ -54,15 +54,15 @@ Ngoài những trường thông tin hỏi mặc định: Tên, Số điện tho�
 
 [Tài khoản &gt; Cài đặt &gt; Thông tin khách hàng &gt; Tạo trường dữ liệu mới](https://app.subiz.com/settings/user-attributes)
 
-![Th&#xEA;m tr&#x1B0;&#x1EDD;ng th&#xF4;ng tin ](../../../.gitbook/assets/atribute.png)
+![T&#x1EA1;o th&#xEA;m tr&#x1B0;&#x1EDD;ng th&#xF4;ng tin](../../../.gitbook/assets/atribute-3.png)
 
 * Automation hỏi thông tin sẽ hiển thị sau tin nhắn đầu tiên của khách hàng
 
-![Hi&#x1EC3;n th&#x1ECB; Automation h&#x1ECF;i th&#xF4;ng tin](../../../.gitbook/assets/2019-06-17_11-28.png)
+![Hi&#x1EC3;n th&#x1ECB; Automation h&#x1ECF;i th&#xF4;ng tin](../../../.gitbook/assets/2019-06-17_11-28-1.png)
 
 * Bạn có thể cài đặt 2 chế độ: _**Buộc khách hàng phải nhập thông tin mới có thể chat**_  hoặc _**Khách hàng nhập thông tin hay không đều chat được**_.
 
-![Y&#xEA;u c&#x1EA7;u nh&#x1EAD;p th&#xF4;ng tin](../../../.gitbook/assets/2019-06-17_11-32.png)
+![Y&#xEA;u c&#x1EA7;u nh&#x1EAD;p th&#xF4;ng tin](../../../.gitbook/assets/2019-06-17_11-32-2.png)
 
- Để có thể tùy chỉnh phần cài đặt Hỏi thông tin theo thời gian làm việc của doanh nghiệp, bạn có thể tham khảo: [Tại đây](https://help.subiz.com/su-dung-subiz-nang-cao/tuong-tac-tu-dong/hoi-thong-tin-khach-hang-theo-thoi-gian-lam-viec)
+Để có thể tùy chỉnh phần cài đặt Hỏi thông tin theo thời gian làm việc của doanh nghiệp, bạn có thể tham khảo: [Tại đây](https://help.subiz.com/su-dung-subiz-nang-cao/tuong-tac-tu-dong/hoi-thong-tin-khach-hang-theo-thoi-gian-lam-viec)
 
