@@ -1,4 +1,4 @@
-# Tạo Automation mới
+# Tổng quan về Automation
 
 Dựa trên các đối tượng khách hàng bạn có, cách thức bạn muốn chăm sóc và theo đuổi khách hàng, bạn  có thể thiết lập nhiều hành động Automation với các điều kiện nhất định để thực hiện các hành động tự động hóa tương tác với khách hàng vào những thời điểm khác nhau theo ý muốn của bạn.
 

@@ -8,11 +8,11 @@ Automation gửi email transcript là tính năng giúp bạn gửi email lịch
 
 **Ví dụ:** Gửi Email transcript với các khách hàng chat qua website.
 
-![G&#x1EED;i Email transcript v&#x1EDB;i c&#xE1;c kh&#xE1;ch h&#xE0;ng chat qua website](../../.gitbook/assets/gui-transcript-voi-cac-kh-chat-qua-websitepng.png)
+![G&#x1EED;i Email transcript v&#x1EDB;i c&#xE1;c kh&#xE1;ch h&#xE0;ng chat qua website](../../../.gitbook/assets/gui-transcript-voi-cac-kh-chat-qua-websitepng.png)
 
 Khi đó, bạn sẽ nhận được email transcript với nội dung như sau:
 
-![N&#x1ED9;i dung transcript g&#x1EED;i v&#x1EC1; email](../../.gitbook/assets/giao-dien-nhan-transcript-tren-email.png)
+![N&#x1ED9;i dung transcript g&#x1EED;i v&#x1EC1; email](../../../.gitbook/assets/giao-dien-nhan-transcript-tren-email.png)
 
 ### **Cài đặt Automation gửi email transcript** 
 
@@ -23,11 +23,11 @@ Bạn sẽ thao tác theo 3 bước cài đặt như sau:
 
 #### Bước 1: Tạo Workflow
 
-![T&#x1EA1;o Automation g&#x1EED;i email transcript](../../.gitbook/assets/tao-workflowpng.png)
+![T&#x1EA1;o Automation g&#x1EED;i email transcript](../../../.gitbook/assets/tao-workflowpng.png)
 
 Sau khi lựa chọn **Thực hiện Automation với Hội thoại** và hành động **Gửi email transcript**, bạn Chỉnh sửa nội dung để nhập email nhận lịch sử chat.
 
-![Nh&#x1EAD;p email nh&#x1EAD;n email transcript](../../.gitbook/assets/nhap-email-nhan-transcriptpng.png)
+![Nh&#x1EAD;p email nh&#x1EAD;n email transcript](../../../.gitbook/assets/nhap-email-nhan-transcriptpng.png)
 
 {% hint style="info" %}
 **Lưu ý:** Bạn có thể thêm nhiều email để cùng nhận hội thoại. Nhập thêm email mới bằng cách nhấn phím Enter sau email đã nhập. 
@@ -45,7 +45,7 @@ Trong phần điều kiện có 2 mục điều kiện bạn cần quan tâm:
 
 **Ví dụ:** Gửi Email transcript đối với cuộc hội thoại có trạng thái đã kết thúc và diễn ra trên kênh Subiz chat \(website\).
 
-![G&#x1EED;i Email transcript &#x111;&#x1ED1;i v&#x1EDB;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#xF3; tr&#x1EA1;ng th&#xE1;i &#x111;&#xE3; k&#x1EBF;t th&#xFA;c v&#xE0; di&#x1EC5;n ra tr&#xEA;n k&#xEA;nh Subiz chat](../../.gitbook/assets/gui-transcript-voi-hoi-thoai-da-ket-thucpng.png)
+![G&#x1EED;i Email transcript &#x111;&#x1ED1;i v&#x1EDB;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#xF3; tr&#x1EA1;ng th&#xE1;i &#x111;&#xE3; k&#x1EBF;t th&#xFA;c v&#xE0; di&#x1EC5;n ra tr&#xEA;n k&#xEA;nh Subiz chat](../../../.gitbook/assets/gui-transcript-voi-hoi-thoai-da-ket-thucpng.png)
 
 Sau khi xong bước cài đặt điều kiện, bạn nhấn **Tiếp tục** để sang bước cuối cùng 
 
@@ -53,7 +53,7 @@ Sau khi xong bước cài đặt điều kiện, bạn nhấn **Tiếp tục** �
 
 Bạn đặt tên cho Automation và viết mô tả chi tiết để dễ quản lý, sau đó Lưu cài đặt.
 
-![&#x110;&#x1EB7;t t&#xEA;n Automation](../../.gitbook/assets/luu-automationpng.jpg)
+![&#x110;&#x1EB7;t t&#xEA;n Automation](../../../.gitbook/assets/luu-automationpng.jpg)
 
 
 

@@ -14,19 +14,17 @@ Tại mục hướng dẫn Tương tác tự động này, [Subiz](https://subiz
 
 **Các hướng dẫn cụ thể sẽ có tại các trang:**
 
-* Hướng dẫn tạo mới các Automation, bao gồm các điều kiện và hành động
+* Tổng quan về Automation
 
 {% page-ref page="tao-automation.md" %}
 
-* Một số ví dụ phổ biến thường cài đặt Automation gửi tin nhắn tới khách hàng
+* Một số Automation thông dụng
 
-* Hướng dẫn cài đặt Automation tự động hỏi thông tin khách hàng như hỏi họ tên, số điện thoại, email,...
+{% page-ref page="mot-so-automation-thong-dung/" %}
 
-{% page-ref page="nam-bat-khach-hang-tiem-nang.md" %}
+* Một số Ứng dụng Automation
 
-* Hướng dẫn cài đặt Automation tự động gửi email tới khách hàng
-
-{% page-ref page="automation-gui-email-toi-khach-hang.md" %}
+{% page-ref page="mot-so-ung-dung-automation/" %}
 
 
 
