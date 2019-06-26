@@ -8,24 +8,18 @@ Automation gửi email transcript là tính năng giúp bạn gửi email lịch
 
 **Ví dụ:** Gửi Email transcript với các khách hàng chat qua website.
 
-![G&#x1EED;i Email transcript v&#x1EDB;i c&#xE1;c kh&#xE1;ch h&#xE0;ng chat qua website](../../../.gitbook/assets/gui-transcript-voi-cac-kh-chat-qua-websitepng.png)
-
-Khi đó, bạn sẽ nhận được email transcript với nội dung như sau:
-
-![N&#x1ED9;i dung transcript g&#x1EED;i v&#x1EC1; email](../../../.gitbook/assets/giao-dien-nhan-transcript-tren-email.png)
+![N&#x1ED9;i dung email transcript](../../../.gitbook/assets/noi-dung-email-transcriptpng.png)
 
 ### **Cài đặt Automation gửi email transcript** 
 
-[Đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Automation &gt; Workflow](https://app.subiz.com/settings/automation-workflow).
-
-**Ví dụ:** Gửi Email transcript đối với cuộc hội thoại có trạng thái đã kết thúc và diễn ra trên kênh Subiz chat \(website\).   
+[Đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Automation &gt; Workflow](https://app.subiz.com/settings/automation-workflow).  
 Bạn sẽ thao tác theo 3 bước cài đặt như sau: 
 
 #### Bước 1: Tạo Workflow
 
 ![T&#x1EA1;o Automation g&#x1EED;i email transcript](../../../.gitbook/assets/tao-workflowpng.png)
 
-Sau khi lựa chọn **Thực hiện Automation với Hội thoại** và hành động **Gửi email transcript**, bạn Chỉnh sửa nội dung để nhập email nhận lịch sử chat.
+Sau khi lựa chọn **Thực hiện Automation với Hội thoại** và hành động **Gửi email transcript**, bạn **Chỉnh sửa nội dung** để nhập email nhận lịch sử chat.
 
 ![Nh&#x1EAD;p email nh&#x1EAD;n email transcript](../../../.gitbook/assets/nhap-email-nhan-transcriptpng.png)
 
@@ -39,9 +33,13 @@ Sau khi thực hiện xong việc cài đặt nội dung hỏi thông tin, bạn
 
 Trong phần điều kiện có 2 mục điều kiện bạn cần quan tâm: 
 
-* **Chạy automation khi:** Điều kiện **CẦN** phải cài đặt để Automation hoạt động. Automation sẽ chỉ chạy khi cuộc hội thoại đáp ứng được điều kiện đã cài đặt. 
+* **Chạy automation khi:** Điều kiện **CẦN**  **- bắt buộc phải cài đặt để Automation hoạt động**. Automation sẽ chỉ chạy khi cuộc hội thoại đáp ứng được điều kiện đã cài đặt. 
 
-**Với cuộc hội thoại có các thông tin sau:** Điều kiện **ĐỦ**  - bổ sung các thông tin về đối tượng nhận email transcript.
+**Ví dụ:** Gửi Email transcript đối với tất cả cuộc hội thoại trên kênh Subiz chat.
+
+![G&#x1EED;i Email transcript &#x111;&#x1ED1;i v&#x1EDB;i t&#x1EA5;t c&#x1EA3; cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i tr&#xEA;n k&#xEA;nh Subiz chat](../../../.gitbook/assets/tao-workflowpng2png.jpg)
+
+* **Với cuộc hội thoại có các thông tin sau:** Điều kiện **ĐỦ**  - bổ sung các thông tin về đối tượng nhận email transcript.
 
 **Ví dụ:** Gửi Email transcript đối với cuộc hội thoại có trạng thái đã kết thúc và diễn ra trên kênh Subiz chat \(website\).
 
@@ -53,7 +51,7 @@ Sau khi xong bước cài đặt điều kiện, bạn nhấn **Tiếp tục** �
 
 Bạn đặt tên cho Automation và viết mô tả chi tiết để dễ quản lý, sau đó Lưu cài đặt.
 
-![&#x110;&#x1EB7;t t&#xEA;n Automation](../../../.gitbook/assets/luu-automationpng.jpg)
+![L&#x1B0;u t&#xEA;n Automation](../../../.gitbook/assets/luu-automationpng%20%281%29.png)
 
 
 
