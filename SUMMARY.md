@@ -56,6 +56,7 @@
     * [Một số Ứng dụng Automation](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/README.md)
       * [Hỏi thông tin khách hàng theo thời gian làm việc](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/hoi-thong-tin-khach-hang-theo-thoi-gian-lam-viec.md)
       * [Phân loại và theo đuổi khách hàng tiềm năng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/phan-loai-va-theo-duoi-khach-hang-tiem-nang.md)
+      * [Tự động hóa quy trình xử lý Ticket](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/tu-dong-hoa-quy-trinh-xu-ly-ticket.md)
   * [Quản lý dữ liệu Khách hàng](su-dung-subiz-nang-cao/quan-ly-du-lieu/README.md)
     * [Quan sát khách truy cập](su-dung-subiz-nang-cao/quan-ly-du-lieu/quan-sat-khach-truy-cap.md)
     * [Quản lý và cập nhật thông tin user](su-dung-subiz-nang-cao/quan-ly-du-lieu/quan-ly-va-cap-nhat-thong-tin-user.md)
