@@ -62,7 +62,7 @@ Sau khi đã hoàn thành xong các bước cài đặt Automation, từ những
 
 Khi đó Automation sẽ chạy, cuộc hội thoại của bạn sẽ tự động được gắn Ticket:
 
-![C&#x1EAD;p nh&#x1EAD;t Ticket](../../../.gitbook/assets/cap-nhat-t%20%281%29.png)
+![C&#x1EAD;p nh&#x1EAD;t Ticket](../../../.gitbook/assets/cap-nhat-t-1.png)
 
 Và bộ phận phụ trách sẽ đồng thời nhận được email nội dung cuộc hội thoại:
 
