@@ -27,7 +27,7 @@ Sau khi lựa chọn **Thực hiện Automation với Hội thoại** và hành 
 **Lưu ý:** Bạn có thể thêm nhiều email để cùng nhận hội thoại. Nhập thêm email mới bằng cách nhấn phím Enter sau email đã nhập. 
 {% endhint %}
 
-Sau khi thực hiện xong việc cài đặt nội dung hỏi thông tin, bạn nhấn **Tiếp tục** để chuyển sang bước tiếp theo.
+Sau khi thực hiện xong việc nhập email nhận lịch sử hội thoại, bạn nhấn **Tiếp tục** để chuyển sang bước tiếp theo.
 
 #### Bước 2: Điều kiện 
 
@@ -43,7 +43,7 @@ Trong phần điều kiện có 2 mục điều kiện bạn cần quan tâm:
 
 **Ví dụ:** Gửi Email transcript đối với cuộc hội thoại có trạng thái đã kết thúc và diễn ra trên kênh Subiz chat \(website\).
 
-![G&#x1EED;i Email transcript &#x111;&#x1ED1;i v&#x1EDB;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#xF3; tr&#x1EA1;ng th&#xE1;i &#x111;&#xE3; k&#x1EBF;t th&#xFA;c v&#xE0; di&#x1EC5;n ra tr&#xEA;n k&#xEA;nh Subiz chat](../../../.gitbook/assets/gui-transcript-voi-hoi-thoai-da-ket-thucpng.png)
+![G&#x1EED;i Email transcript &#x111;&#x1ED1;i v&#x1EDB;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#xF3; tr&#x1EA1;ng th&#xE1;i &#x111;&#xE3; k&#x1EBF;t th&#xFA;c v&#xE0; di&#x1EC5;n ra tr&#xEA;n k&#xEA;nh Subiz chat](../../../.gitbook/assets/gui-transcript-voi-hoi-thoai-da-ket-thucpng%20%281%29.png)
 
 Sau khi xong bước cài đặt điều kiện, bạn nhấn **Tiếp tục** để sang bước cuối cùng 
 
@@ -51,7 +51,7 @@ Sau khi xong bước cài đặt điều kiện, bạn nhấn **Tiếp tục** �
 
 Bạn đặt tên cho Automation và viết mô tả chi tiết để dễ quản lý, sau đó Lưu cài đặt.
 
-![L&#x1B0;u t&#xEA;n Automation](../../../.gitbook/assets/luu-automationpng%20%281%29.png)
+![L&#x1B0;u t&#xEA;n Automation](../../../.gitbook/assets/luu-automationpng%20%282%29.png)
 
 
 
