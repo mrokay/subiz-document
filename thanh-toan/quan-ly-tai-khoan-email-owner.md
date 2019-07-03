@@ -37,9 +37,7 @@ Khi bạn đăng ký tài khoản Subiz, email đăng ký sẽ được gọi l�
 
 **Trong quá trình làm việc, nếu bạn muốn thay đổi email owner bạn có thể thao tác như sau:**
 
-* Trường hợp email owner còn hoạt động và sử sử dụng được
-
-+  Tạo mới Agent trong tài khoản bằng email owner mới.
+* Trường hợp email owner còn hoạt động và sử dụng được
 
 +  Bạn đăng nhập email đăng ký ban đầu và gửi email tới Support để yêu cầu việc đổi email owner, cung cấp email owner mới. Subiz sẽ hỗ trợ bạn thao tác chuyển đổi.
 
