@@ -43,6 +43,13 @@ Khi bạn đăng ký tài khoản Subiz, email đăng ký sẽ được gọi l�
 
 ![Y&#xEA;u c&#x1EA7;u chuy&#x1EC3;n &#x111;&#x1ED5;i Email Owner](../.gitbook/assets/screenshot_3%20%281%29.png)
 
+{% hint style="info" %}
+Lưu ý:  
+
+* Email owner mới phải là email **mới hoàn toàn,** **chưa có tài khoản trên hệ thống.**
+* Sau khi chuyển đổi, mọi dữ liệu hay thông tin tài khoản \(bao gồm mật khẩu\) của email owner cũ sẽ được chuyển sang email owner mới.
+{% endhint %}
+
 * Trường hợp email không hoạt động, không sử dụng được
 
 +  Nếu doanh nghiệp đã ký hợp đồng với Subiz: Bạn gửi hợp đồng cùng với Phụ lục hơp đồng đề nghị thay đổi email owner có đóng dấu của doanh nghiệp.
