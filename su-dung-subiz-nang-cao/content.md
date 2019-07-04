@@ -18,11 +18,11 @@ Dưới đây là các ví dụ để bạn sử dụng chức năng Sản phẩ
 
 * Subiz nhận biết khách hàng xem sản phẩm gì và hiển thị lên trên màn hình của agent.
 
-![](../../.gitbook/assets/screenshot-from-2018-12-11-10-28-44.png)
+![](../.gitbook/assets/screenshot-from-2018-12-11-10-28-44.png)
 
 * Sử dụng Sản phẩm để tạo những Mẫu Tin nhắn từ đó gửi tới Khách hàng. 
 
-![](../../.gitbook/assets/screenshot-from-2018-12-11-10-32-43%20%281%29.png)
+![](../.gitbook/assets/screenshot-from-2018-12-11-10-32-43%20%281%29.png)
 
 * Sử dụng trong Automation.
 
@@ -30,14 +30,14 @@ Dưới đây là các ví dụ để bạn sử dụng chức năng Sản phẩ
 
 CSV \(Comma Separated Values\) là một loại định dạng văn bản đơn giản mà trong đó, các giá trị được ngăn cách với nhau bằng dấu phẩy. File CSV cũng mở được bằng Google Sheet hay Excel. Xem file [Google Sheet Demo](https://docs.google.com/spreadsheets/d/1yvMHsSmljV29gNQKdyRj-YMNn2rzeswVfzOTeUOiEAg/edit?usp=sharing), từ Google Sheet bạn có thể tải về file CSV.
 
-![S&#x1EED; d&#x1EE5;ng Googl Sheet &#x111;&#x1EC3; l&#x1B0;u d&#x1EEF; li&#x1EC7;u S&#x1EA3;n ph&#x1EA9;m v&#xE0; export ra File CSV ](../../.gitbook/assets/screenshot-from-2018-11-23-11-02-40.png)
+![S&#x1EED; d&#x1EE5;ng Googl Sheet &#x111;&#x1EC3; l&#x1B0;u d&#x1EEF; li&#x1EC7;u S&#x1EA3;n ph&#x1EA9;m v&#xE0; export ra File CSV ](../.gitbook/assets/screenshot-from-2018-11-23-11-02-40.png)
 
 Sau khi bạn đã chuẩn bị file CSV chứa dữ liệu sản phẩm. Bạn thực hiện các bước sau:
 
 * Bước 1: Truy cập Subiz Cài đặt &gt; [Sản phẩm](https://app.subiz.com/settings/content). Chọn nút "**Nhập sản phẩm**". Làm theo hướng dẫn để tải file CSV sản phẩm của bạn lên.
 * Bước 2: Khai báo các cột dữ liệu trong file CSV để khớp với các trường dữ liệu của Subiz cung cấp. Sau đó click nút "**Nhập sản phẩm**"  
 
-![Khai b&#xE1;o d&#x1EEF; li&#x1EC7;u &#x111;&#x1EC3; kh&#x1EDB;p v&#x1EDB;i c&#xE1;c tr&#x1B0;&#x1EDD;ng d&#x1EEF; li&#x1EC7;u Subiz cung c&#x1EA5;p.](../../.gitbook/assets/screenshot-from-2018-12-11-10-05-12.png)
+![Khai b&#xE1;o d&#x1EEF; li&#x1EC7;u &#x111;&#x1EC3; kh&#x1EDB;p v&#x1EDB;i c&#xE1;c tr&#x1B0;&#x1EDD;ng d&#x1EEF; li&#x1EC7;u Subiz cung c&#x1EA5;p.](../.gitbook/assets/screenshot-from-2018-12-11-10-05-12.png)
 
 Các trường dữ liệu Subiz như sau: 
 
