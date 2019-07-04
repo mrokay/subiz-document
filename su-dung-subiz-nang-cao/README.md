@@ -14,7 +14,7 @@ Các hướng dẫn cụ thể trong 2 mục sau, sẽ giúp bạn nâng cao hi�
 
 {% page-ref page="api-javascript-cua-subiz-widget/" %}
 
-{% page-ref page="content.md" %}
+{% page-ref page="content/" %}
 
 {% page-ref page="tich-hop-voi-ben-thu-3/" %}
 
