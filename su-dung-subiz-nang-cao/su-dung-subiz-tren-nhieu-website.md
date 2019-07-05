@@ -1,4 +1,4 @@
-# Sử dụng Subiz trên nhiều website
+# Tùy chỉnh cửa sổ chat riêng biệt trên từng website
 
 Thay vì sử dụng nhiều tài khoản Subiz để hỗ trợ khách hàng trên nhiều website , bạn hoàn toàn có thể chỉ sử dụng một tài khoản Subiz duy nhất để có thể quản lý toàn bộ tương tác của doanh nghiệp và lưu trữ dữ liệu khách hàng tập trung. Subiz sẽ được tùy chỉnh để phù hợp với giao diện từng web, đặc trưng của từng lĩnh vực và giúp bạn có thể quản trị riêng biệt từng website hiệu qủa.
 
