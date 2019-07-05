@@ -110,6 +110,28 @@ API cho phép bạn truyền một đoạn mã CSS để thay đổi lại Subiz
 
 Bạn tham khảo thêm [Bảng CSS tùy chỉnh cửa sổ Subiz chat](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/bang-css-tuy-chinh-cua-so-chat)!
 
+### Vị trí của cửa sổ sổ chat
+
+Bạn có thể tùy chỉnh vị trí cửa sổ chat sang bên trái hoặc bên phải
+
+```text
+subiz('setPosition', 'left') . giá trị left hoặc right
+```
+
+### Loại cửa sổ chat
+
+Bạn có thể lựa chọn loại cửa sổ chat mở rộng hoặc thu gọn
+
+```text
+subiz('setWindowMode', 'full') . giá trị full hoặc mini
+```
+
+### Thay đổi nội dung thanh tiêu đề
+
+```text
+subiz('setLanguageData', {}) . VD subiz('setLanguageData', {message_input_help: "Nhập tin", joined_the_conversation: "joined"})
+```
+
 ### API Subscribe Push Notification
 
 API cho phép bạn chủ động hỏi user đồng ý nhận thông báo qua trình duyệt khi cửa sổ Subiz của họ có tin nhắn mới. Bạn có thể đặt vào một nút trên trang web hay một link bất kỳ để có thể gia tăng số người đồng ý nhận thông báo.
