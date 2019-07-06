@@ -16,6 +16,10 @@ End chat bot là một trong các Trợ lý ảo trên Subiz, đây là ứng d�
 
 * **Bước 2: Thiết lập kịch bản cho Endchat Bot** 
 
+Để thiết lập kịch bản Endchat bot, bạn truy cập mục [Cài đặt -&gt; Agent -&gt; Trợ lý ảo](https://app.subiz.com/settings/bots) -&gt; Chọn tùy chỉnh agent Endchat Bot và thiết lập kịch bản như sau: 
+
+![T&#xF9;y ch&#x1EC9;nh Endchat Bot](../../.gitbook/assets/screenshot_1%20%281%29.png)
+
 Endchat bot hoạt động trên hai kênh chính là: Subiz chat và Messenger. Bạn có thể chọn một trong hai kênh trên hoặc đồng thời hai kênh như hình dưới đây:
 
 * Cài đặt trên Kênh được chọn: Cài đặt kết thúc hội thoại trên 1 trong hai kênh Messenger hay Subiz.
