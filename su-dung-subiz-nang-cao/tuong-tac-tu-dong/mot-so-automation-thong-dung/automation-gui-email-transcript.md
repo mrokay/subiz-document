@@ -34,11 +34,6 @@ Sau khi thực hiện xong việc nhập email nhận lịch sử hội thoại,
 Trong phần điều kiện có 2 mục điều kiện bạn cần quan tâm: 
 
 * **Chạy automation khi:** Điều kiện **CẦN**  **- bắt buộc phải cài đặt để Automation hoạt động**. Automation sẽ chỉ chạy khi cuộc hội thoại đáp ứng được điều kiện đã cài đặt. 
-
-**Ví dụ:** Gửi Email transcript đối với tất cả cuộc hội thoại trên kênh Subiz chat.
-
-![G&#x1EED;i Email transcript &#x111;&#x1ED1;i v&#x1EDB;i t&#x1EA5;t c&#x1EA3; cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i tr&#xEA;n k&#xEA;nh Subiz chat](../../../.gitbook/assets/tao-workflowpng2png.jpg)
-
 * **Với cuộc hội thoại có các thông tin sau:** Điều kiện **ĐỦ**  - bổ sung các thông tin về đối tượng nhận email transcript.
 
 **Ví dụ:** Gửi Email transcript đối với cuộc hội thoại có trạng thái đã kết thúc và diễn ra trên kênh Subiz chat \(website\).
