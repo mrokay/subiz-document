@@ -28,13 +28,13 @@ Việc thêm biểu tượng cảm xúc vào tin nhắn sẽ mang đến cho kh�
 
 Bạn có thể xác định được đối tượng khách hàng tiềm năng ngay khi họ vào website của bạn bằng việc hỏi thông tin khách hàng:
 
-![H&#x1ECF;i th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng](../../../.gitbook/assets/hoi-thong-tin-khach-hang-1.png)
+![H&#x1ECF;i th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng](../../../.gitbook/assets/sendcaptureleads.png)
 
 #### **Câu trả lời nhanh**
 
 Với việc đặt ra câu hỏi và đưa ra câu trả lời sẵn có, bạn sẽ tiết kiệm thời gian trong việc xác định vấn đề ban đầu của khách hàng và hỗ trợ khách hàng nhanh hơn:
 
-![T&#x1EA1;o c&#xE2;u tr&#x1EA3; l&#x1EDD;i nhanh](../../../.gitbook/assets/button-hoi-1.png)
+![T&#x1EA1;o c&#xE2;u tr&#x1EA3; l&#x1EDD;i nhanh](../../../.gitbook/assets/quickreply.gif)
 
 #### URL Button
 
@@ -46,7 +46,7 @@ Tạo button kêu gọi khách hàng và điều hướng khách vào trang bạ
 
 Bạn muốn khách hàng có thể gọi cho bạn ngay trên cửa sổ chat Subiz, việc gắn link số điện thoại vào Button sẽ gúp cho việc này thật đơn giản:
 
-![G&#x1EAF;n button call](../../../.gitbook/assets/gan-button-call-1.png)
+![](../../../.gitbook/assets/callbutton.png)
 
 #### **Gắn kèm hình ảnh**
 

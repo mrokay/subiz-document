@@ -58,7 +58,7 @@ Ngoài những trường thông tin hỏi mặc định: Tên, Số điện tho�
 
 * Automation hỏi thông tin sẽ hiển thị sau tin nhắn đầu tiên của khách hàng
 
-![Hi&#x1EC3;n th&#x1ECB; Automation h&#x1ECF;i th&#xF4;ng tin](../../../.gitbook/assets/2019-06-17_11-28-1.png)
+![](../../../.gitbook/assets/replycaptureleads.png)
 
 * Bạn có thể cài đặt 2 chế độ: _**Buộc khách hàng phải nhập thông tin mới có thể chat**_  hoặc _**Khách hàng nhập thông tin hay không đều chat được**_.
 
