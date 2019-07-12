@@ -10,3 +10,11 @@ Cùng với sự kết hợp giữa các Automation và những tính năng khá
 
 {% page-ref page="phan-loai-va-theo-duoi-khach-hang-tiem-nang.md" %}
 
+* Tự động hóa quy trình xử lý Ticket
+
+{% page-ref page="tu-dong-hoa-quy-trinh-xu-ly-ticket.md" %}
+
+* Quản lý tình hình hỗ trợ khách hàng với email Transcript
+
+{% page-ref page="quan-ly-tinh-hinh-ho-tro-khach-hang-voi-email-transcript.md" %}
+
