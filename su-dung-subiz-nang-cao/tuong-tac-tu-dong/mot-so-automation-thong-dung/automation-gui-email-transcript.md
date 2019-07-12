@@ -8,7 +8,7 @@ Automation gửi email transcript là tính năng giúp bạn gửi email lịch
 
 **Ví dụ:** Gửi Email transcript với các khách hàng chat qua website.
 
-![N&#x1ED9;i dung email transcript](../../../.gitbook/assets/noi-dung-email-transcriptpng.png)
+![N&#x1ED9;i dung email transcript](../../../.gitbook/assets/noi-dung-email-transcriptpng%20%281%29.png)
 
 ### **Cài đặt Automation gửi email transcript** 
 
@@ -21,7 +21,7 @@ Bạn sẽ thao tác theo 3 bước cài đặt như sau:
 
 Sau khi lựa chọn **Thực hiện Automation với Hội thoại** và hành động **Gửi email transcript**, bạn **Chỉnh sửa nội dung** để nhập email nhận lịch sử chat.
 
-![Nh&#x1EAD;p email nh&#x1EAD;n email transcript](../../../.gitbook/assets/nhap-email-nhan-transcriptpng.png)
+![Nh&#x1EAD;p email nh&#x1EAD;n email transcript](../../../.gitbook/assets/nhap-email-nhan-transcriptpng%20%281%29.png)
 
 {% hint style="info" %}
 **Lưu ý:** Bạn có thể thêm nhiều email để cùng nhận hội thoại. Nhập thêm email mới bằng cách nhấn phím Enter sau email đã nhập. 

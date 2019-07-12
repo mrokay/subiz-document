@@ -12,7 +12,7 @@ Tag là những vẫn đề khách hàng quan tâm, thường xuyên trao đổi
 
 Để tạo Tag bạn vào mục: [Tài khoản &gt; Cài đặt &gt; Tags ](https://app.subiz.com/settings/tags)
 
-![T&#x1EA1;o Tag ](../../../.gitbook/assets/gan-tag.png)
+![T&#x1EA1;o Tag ](../../../.gitbook/assets/gan-tag%20%281%29.png)
 
 ### Bước 2: Tạo Automation tự động gắn Ticket và gửi email Transcript
 

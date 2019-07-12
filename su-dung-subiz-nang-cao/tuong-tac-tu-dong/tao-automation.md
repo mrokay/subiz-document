@@ -32,7 +32,9 @@ Dựa vào tính chất của việc tương tác tự động với khách hàn
 
 ### Lựa chọn đối tượng/hành động gửi Automation
 
-* Hành động gửi Automation: Sử dụng trong Automation tạo hội thoại mới. Cụ thể, bạn sẽ chọn Kênh áp dụng Automation để thực hiện hành động gửi tin nhắn tự động \(Subiz chat\), gửi email tự động \(Subiz Email\).
+#### 1. [Tạo Automation mới](https://app.subiz.com/settings/automations/add-conversation)
+
+Hành động gửi Automation: Sử dụng trong Automation tạo hội thoại mới. Cụ thể, bạn sẽ chọn Kênh áp dụng Automation để thực hiện hành động gửi tin nhắn tự động \(Subiz chat\), gửi email tự động \(Subiz Email\).
 
 1. [x] Gửi tin nhắn chào tự động cho khách hàng. Xem hướng dẫn cách tạo Automation chào khách truy cập [TẠI ĐÂY](https://help.subiz.com/su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-automation-thong-dung/automation-gui-tin-nhan-tu-dong).
 
@@ -42,28 +44,31 @@ Dựa vào tính chất của việc tương tác tự động với khách hàn
 
 ![H&#xE0;nh &#x111;&#x1ED9;ng t&#x1EF1; &#x111;&#x1ED9;ng g&#x1EED;i tin nh&#x1EAF;n cho kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/automation-gui-email-tu-dong.png)
 
-* Lựa chọn đối tượng: Sử dụng trong Automation tạo Workflow. Cụ thể, bạn sẽ chọn Đối tượng Áp dụng Automation \(User, hội thoại, Tickets\) và hành động để thực hiện Automation.  Ví dụ: Gửi email transcript lịch sử hội thoại trên kênh Subiz chat. Khi đó, bạn sẽ tạo Workflow với đối tượng và hành động tương ứng như sau:
+#### 2.[Tạo Workflow](https://app.subiz.com/settings/automation-workflow)
+
+Lựa chọn đối tượng: Sử dụng trong Automation tạo Workflow. Cụ thể, bạn sẽ chọn Đối tượng Áp dụng Automation \(User, hội thoại, Tickets\) và hành động để thực hiện Automation.   
+Ví dụ: Gửi email transcript lịch sử hội thoại trên kênh Subiz chat. Khi đó, bạn sẽ tạo Workflow với đối tượng và hành động tương ứng như sau:
 
 ![](../../.gitbook/assets/tao-workflow-gui-email-transcript.png)
 
 Bạn tham khảo danh sách các đối tượng, Hành động và hướng dẫn áp dụng với việc Tạo Workflow theo bảng sau:
 
-| **Hành động** | **Cách sử dụng** | **Ví dụ** |
-| :--- | :--- | :--- |
-| **User** |  |  |
-| Gửi Email thông báo | Thực hiện Automation với các user thực hiện hành động xem trang hoặc được cập nhật thông tin như: tên, email, số điện thoại... | Gửi Email thông báo tới user khi có bất kỳ khách hàng nào để lại thông tin số điện thoại. |
-| Gửi webhook | Thực hiện Automation cho phép cập nhật dữ liệu đính kèm thông tin khách hàng, cuộc hội thoại hoặc ghi chú vào dữ liệu CRM của doanh nghiệp. | Cập nhật dữ liệu khách hàng về CRM với tất cả khách hàng tương tác qua kênh Subiz chat. |
-| Cập nhật thông tin khách hàng | Thực hiện cập nhật thông tin với một nhóm khách hàng có đặc điểm chung. | Cập nhật thông tin khách hàng là khách hàng tiềm năng với bất kỳ khách hàng nào để lại Email. |
-| **Hội thoại** |  |  |
-| Cập nhật Conversation | Thực hiện Automation cho hành động cập nhật hội thoại theo các hành động như: Add agent, Add Tag, Cập nhật trạng thái hội thoại. | Tự động cập nhật Tag cho hội thoại là Khách hàng tiềm năng khi khách truy cập trang Báo giá. |
-| Gửi Email transcript | Thực hiện Automation tự động gửi lịch sử hội thoại về email bạn chỉ định. | Gửi Email transcript đối với cuộc hội thoại có trạng thái đã kết thúc và diễn ra trên kênh Subiz chat |
-| Hỏi thông tin khách hàng | Thực hiện Automation tự động hỏi thông tin khách hàng. Automation này sẽ hoạt động sau tin nhắn đầu tiên của khách hàng. | Hỏi thông tin khách hàng trên kênh Subiz chat |
-| Gửi Email thông báo | Thực hiện Automation gửi thông báo cho agent theo kênh tương tác của user hoặc khi hội thoại được cập nhật thông tin như: Add Tag, Add agent hay cập nhật trạng thái hội thoại \(pending, đã kết thúc, hoạt động, chưa chỉ định\). | Gửi email thông báo cho agent khi cuộc hội thoại được gắn Tag Khách hàng tiềm năng. |
-| Gửi webhook | Thực hiện Automation cho phép cập nhật cuộc hội thoại vào dữ liệu CRM của doanh nghiệp. | Cập nhật dữ liệu hội thoại về CRM với tất cả khách hàng tương tác qua kênh Subiz chat. |
-| **Ticket** |  |  |
-| Cập nhật Ticket | Thực hiện Automation tự động cập nhật trạng thái Ticket cho hội thoại. | Cập nhật Ticket với trạng thái Chờ xử lý với mức ưu tiên Cao khi cuộc hội thoại được gắn Tag là Phàn nàn. |
-| Gửi webhook | Thực hiện Automation cho phép cập nhật Ticket vào dữ liệu CRM của doanh nghiệp. | Cập nhật dữ liệu Ticket về CRM với tất cả khách hàng tương tác qua kênh Subiz chat. |
-| Gửi Email thông báo | Thực hiện Automation gửi thông báo cho agent khi Ticket được cập nhật. | Ví dụ, gửi email thông báo cho agent khi Ticket được cập nhật trạng thái là Chờ xử lý |
+| Đối tượng | **Hành động** | **Cách sử dụng** | **Ví dụ** |
+| :--- | :--- | :--- | :--- |
+| **User** | \*\*\*\* |  |  |
+|  | Gửi Email thông báo | Thực hiện Automation gửi email tự động tới agent khi user thực hiện hành động xem trang hoặc được cập nhật thông tin như: tên, email, số điện thoại... | Gửi Email thông báo tới agent khi có bất kỳ khách hàng nào để lại thông tin số điện thoại. |
+|  | Gửi webhook | Thực hiện Automation chuyển dữ liệu là thông tin user về dữ liệu CRM của doanh nghiệp. | Cập nhật dữ liệu khách hàng về CRM với tất cả khách hàng tương tác qua kênh Subiz chat. |
+|  | Cập nhật thông tin user | Thực hiện cập nhật thông tin user với các user thỏa mãn một trong các điều kiện. | Cập nhật thông tin user là khách hàng tiềm năng với bất kỳ user nào để lại Email. |
+| **Hội thoại** | \*\*\*\* |  |  |
+|  | Cập nhật Conversation | Thực hiện cập nhật trạng thái hội thoại khi user thực hiện một số hành động như: Add agent, Add Tag, Cập nhật trạng thái hội thoại. | Tự động cập nhật Tag cho hội thoại là Khách hàng tiềm năng khi khách truy cập trang Báo giá. |
+|  | Gửi Email transcript | Thực hiện Automation tự động gửi email lịch sử hội thoại về email bạn chỉ định. | Gửi Email transcript đối với cuộc hội thoại có trạng thái đã kết thúc và diễn ra trên kênh Subiz chat |
+|  | Hỏi thông tin khách hàng | Thực hiện Automation tự động hỏi thông tin sau tin nhắn đầu tiên của khách hàng. | Hỏi thông tin khách hàng trên kênh Subiz chat |
+|  | Gửi Email thông báo | Thực hiện Automation gửi email thông báo cho agent theo kênh tương tác của user hoặc khi hội thoại được cập nhật thông tin như: Add Tag, Add agent hay cập nhật trạng thái hội thoại \(pending, đã kết thúc, hoạt động, chưa chỉ định\). | Gửi email thông báo cho agent khi cuộc hội thoại được gắn Tag Khách hàng tiềm năng. |
+|  | Gửi webhook | Thực hiện Automation chuyển dữ liệu là lịch sử hội thoại về dữ liệu CRM của doanh nghiệp. | Cập nhật dữ liệu hội thoại về CRM với tất cả khách hàng tương tác qua kênh Subiz chat. |
+| **Ticket** | \*\*\*\* |  |  |
+|  | Cập nhật Ticket | Thực hiện Automation tự động cập nhật trạng thái Ticket cho hội thoại. | Cập nhật Ticket với trạng thái Chờ xử lý với mức ưu tiên Cao khi cuộc hội thoại được gắn Tag là Phàn nàn. |
+|  | Gửi webhook | Thực hiện Automation cho phép cập nhật Ticket vào dữ liệu CRM của doanh nghiệp. | Cập nhật dữ liệu Ticket về CRM với tất cả khách hàng tương tác qua kênh Subiz chat. |
+|  | Gửi Email thông báo | Thực hiện Automation gửi thông báo cho agent khi Ticket được cập nhật. | Ví dụ, gửi email thông báo cho agent khi Ticket được cập nhật trạng thái là Chờ xử lý |
 
 Sau khi thực hiện xong, bạn nhấn **Sau khi thực hiện xong, bạn nhấn Tiếp tục để chuyển sang điều kiện tiếp theo.**
 
@@ -98,6 +103,7 @@ Bạn nên tham khảo danh sách các điều kiện, với những hướng d�
 <table>
   <thead>
     <tr>
+      <th style="text-align:left"></th>
       <th style="text-align:left"><b><br /></b>C&#xC1;C &#x110;I&#x1EC0;U KI&#x1EC6;N<b><br /></b>
       </th>
       <th style="text-align:left">C&#xC1;CH S&#x1EEC; D&#x1EE4;NG</th>
@@ -108,10 +114,12 @@ Bạn nên tham khảo danh sách các điều kiện, với những hướng d�
     <tr>
       <td style="text-align:left"><b>Ch&#x1EA1;y automation khi</b>
       </td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
       <td style="text-align:left">User xem trang</td>
       <td style="text-align:left">Th&#x1EF1;c hi&#x1EC7;n automation khi kh&#xE1;ch h&#xE0;ng truy c&#x1EAD;p
         v&#xE0;o website ho&#x1EB7;c m&#x1ED9;t trang c&#x1EE5; th&#x1EC3;.</td>
@@ -122,13 +130,15 @@ Bạn nên tham khảo danh sách các điều kiện, với những hướng d�
         &#x2013; https://subiz.com</td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
       <td style="text-align:left">Ti&#xEA;u &#x111;&#x1EC1; trang</td>
       <td style="text-align:left">C&#xE1;c website th&#x1B0;&#x1EDD;ng &#x111;&#x1EB7;t ti&#xEA;u &#x111;&#x1EC1;
         trang li&#xEA;n quan &#x111;&#x1EBF;n m&#x1ED9;t ch&#x1EE7; &#x111;&#x1EC1;
         nh&#x1EA5;t &#x111;&#x1ECB;nh, v&#x1EDB;i m&#x1ED7;i ch&#x1EE7; &#x111;&#x1EC1;,
-        b&#x1EA1;n c&#xF3; th&#x1EC3; &#x111;&#x1EB7;t m&#x1ED9;t automation &#x111;&#x1EC3;
-        h&#x1ED7; tr&#x1EE3; v&#xE0; h&#x1B0;&#x1EDB;ng d&#x1EAB;n kh&#xE1;ch h&#xE0;ng
-        &#x111;&#xFA;ng th&#x1EDD;i &#x111;i&#x1EC3;m</td>
+        b&#x1EA1;n c&#xF3; th&#x1EC3; t&#x1EA1;o m&#x1ED9;t Automation - tin nh&#x1EAF;n
+        t&#x1EF1; &#x111;&#x1ED9;ng &#x111;&#x1EC3; h&#x1ED7; tr&#x1EE3; v&#xE0;
+        h&#x1B0;&#x1EDB;ng d&#x1EAB;n kh&#xE1;ch h&#xE0;ng &#x111;&#xFA;ng th&#x1EDD;i
+        &#x111;i&#x1EC3;m.</td>
       <td style="text-align:left">G&#x1EED;i l&#x1EDD;i ch&#xE0;o t&#x1EDB;i c&#xE1;c kh&#xE1;ch h&#xE0;ng
         v&#xE0;o xem c&#xE1;c trang c&#xF3; ti&#xEA;u &#x111;&#x1EC1; ch&#x1EE9;a
         t&#x1EEB; &#x201C;m&#xE1;y &#x1EA3;nh&#x201D;. &#x110;i&#x1EC1;u ki&#x1EC7;n:
@@ -136,6 +146,7 @@ Bạn nên tham khảo danh sách các điều kiện, với những hướng d�
         &#x1EA3;nh.</td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
       <td style="text-align:left">K&#xEA;nh t&#x1B0;&#x1A1;ng t&#xE1;c</td>
       <td style="text-align:left">Th&#x1EF1;c hi&#x1EC7;n automation theo k&#xEA;nh t&#x1B0;&#x1A1;ng t&#xE1;c:
         Subiz chat, Messenger, Email.</td>
@@ -145,6 +156,7 @@ Bạn nên tham khảo danh sách các điều kiện, với những hướng d�
         tr&#x1ECB; - Subiz chat</td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
       <td style="text-align:left">Ngu&#x1ED3;n h&#x1ED9;i tho&#x1EA1;i</td>
       <td style="text-align:left">Th&#x1EF1;c hi&#x1EC7;n automation theo ngu&#x1ED3;n c&#x1EE5; th&#x1EC3;
         l&#xE0; Fanpage ho&#x1EB7;c &#x111;&#x1ECB;a ch&#x1EC9; Email n&#xE0;o.</td>
@@ -155,6 +167,7 @@ Bạn nên tham khảo danh sách các điều kiện, với những hướng d�
         - t&#xEA;n Fanpage</td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
       <td style="text-align:left">Ticket &#x111;&#x1B0;&#x1EE3;c c&#x1EAD;p nh&#x1EAD;t</td>
       <td style="text-align:left">Th&#x1EF1;c hi&#x1EC7;n automation theo tr&#x1EA1;ng th&#xE1;i ho&#x1EB7;c
         m&#x1EE9;c &#x1B0;u ti&#xEA;n c&#x1EE7;a Ticket.</td>
@@ -166,6 +179,7 @@ Bạn nên tham khảo danh sách các điều kiện, với những hướng d�
         c&#xE1;c gi&#xE1; tr&#x1ECB; - Cao.</td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
       <td style="text-align:left">H&#x1ED9;i tho&#x1EA1;i &#x111;&#x1B0;&#x1EE3;c c&#x1EAD;p nh&#x1EAD;t</td>
       <td
       style="text-align:left">
@@ -203,9 +217,10 @@ Bạn nên tham khảo danh sách các điều kiện, với những hướng d�
         </td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
       <td style="text-align:left">Th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng &#x111;&#x1B0;&#x1EE3;c c&#x1EAD;p
         nh&#x1EAD;t</td>
-      <td style="text-align:left">Th&#x1EF1;c hi&#x1EC7;n automation khi Automation &#x111;&#x1B0;&#x1EE3;c
+      <td style="text-align:left">Th&#x1EF1;c hi&#x1EC7;n automation g&#x1EED;i email khi user &#x111;&#x1B0;&#x1EE3;c
         c&#x1EAD;p nh&#x1EAD;t th&#xF4;ng tin (h&#x1ECD; t&#xEA;n, email, s&#x1ED1;
         &#x111;i&#x1EC7;n tho&#x1EA1;i,...)</td>
       <td style="text-align:left">T&#x1EF1; &#x111;&#x1ED9;ng g&#x1EED;i email th&#xF4;ng b&#xE1;o cho agent
@@ -217,16 +232,19 @@ Bạn nên tham khảo danh sách các điều kiện, với những hướng d�
     <tr>
       <td style="text-align:left"><b>V&#x1EDB;i user c&#xF3; c&#xE1;c th&#xF4;ng tin sau</b>
       </td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
       <td style="text-align:left">&#x110;i&#x1EC1;u ki&#x1EC7;n b&#x1ED5; sung &#x111;&#x1EC3; x&#xE1;c
         &#x111;&#x1ECB;nh &#x111;&#x1ED1;i t&#x1B0;&#x1EE3;ng nh&#x1EAD;n Automation</td>
       <td
       style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
       <td style="text-align:left">Thu&#x1ED9;c t&#xED;nh</td>
-      <td style="text-align:left">Th&#x1EF1;c hi&#x1EC7;n automation khi user &#x111;&#x1B0;&#x1EE3;c c&#x1EAD;p
-        nh&#x1EAD;t c&#xE1;c thu&#x1ED9;c t&#xED;nh (t&#xEA;n, s&#x1ED1; &#x111;i&#x1EC7;n
-        tho&#x1EA1;i,...)</td>
+      <td style="text-align:left">Th&#x1EF1;c hi&#x1EC7;n h&#xE0;nh &#x111;&#x1ED9;ng automation g&#x1EED;i
+        email, tin nh&#x1EAF;n t&#x1EF1; &#x111;&#x1ED9;ng khi user &#x111;&#x1B0;&#x1EE3;c
+        c&#x1EAD;p nh&#x1EAD;t c&#xE1;c thu&#x1ED9;c t&#xED;nh (t&#xEA;n, s&#x1ED1;
+        &#x111;i&#x1EC7;n tho&#x1EA1;i,...)</td>
       <td style="text-align:left">G&#x1EED;i Email transcript &#x111;&#x1ED1;i v&#x1EDB;i cu&#x1ED9;c h&#x1ED9;i
         tho&#x1EA1;i c&#xF3; tr&#x1EA1;ng th&#xE1;i &#x111;&#xE3; k&#x1EBF;t th&#xFA;c
         v&#xE0; di&#x1EC5;n ra tr&#xEA;n k&#xEA;nh Subiz chat (website).
@@ -237,6 +255,7 @@ Bạn nên tham khảo danh sách các điều kiện, với những hướng d�
         gi&#xE1; tr&#x1ECB; - Subiz.</td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
       <td style="text-align:left">Trace</td>
       <td style="text-align:left">Th&#x1EF1;c hi&#x1EC7;n automation khi user &#x111;&#x1B0;&#x1EE3;c c&#x1EAD;p
         nh&#x1EAD;t tr&#x1B0;&#x1EDD;ng d&#x1EEF; li&#x1EC7;u Trace (Th&#xE0;nh
@@ -245,6 +264,7 @@ Bạn nên tham khảo danh sách các điều kiện, với những hướng d�
       style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
       <td style="text-align:left">Th&#xE0;nh ph&#x1ED1;</td>
       <td style="text-align:left">Th&#x1EF1;c hi&#x1EC7;n automation v&#x1EDB;i c&#xE1;c user &#x111;&#x1EBF;n
         t&#x1EEB; m&#x1ED9;t th&#xE0;nh ph&#x1ED1; c&#x1EE5; th&#x1EC3;. L&#xE0;
@@ -265,6 +285,7 @@ Bạn nên tham khảo danh sách các điều kiện, với những hướng d�
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
       <td style="text-align:left">M&#xE3; qu&#x1ED1;c gia</td>
       <td style="text-align:left">Th&#x1EF1;c hi&#x1EC7;n automation d&#x1EF1;a tr&#xEA;n m&#xE3; qu&#x1ED1;c
         gia. M&#xE3; qu&#x1ED1;c gia c&#x103;n c&#x1EE9; theo ISO Code (2 k&#xFD;
@@ -284,6 +305,7 @@ Bạn nên tham khảo danh sách các điều kiện, với những hướng d�
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
       <td style="text-align:left">&#x110;&#x1ECB;a ch&#x1EC9; IP</td>
       <td style="text-align:left">Th&#x1EF1;c hi&#x1EC7;n automation d&#x1EF1;a tr&#xEA;n &#x111;&#x1ECB;a
         ch&#x1EC9; IP c&#x1EE7;a kh&#xE1;ch h&#xE0;ng. &#x110;&#x1ECB;a ch&#x1EC9;
