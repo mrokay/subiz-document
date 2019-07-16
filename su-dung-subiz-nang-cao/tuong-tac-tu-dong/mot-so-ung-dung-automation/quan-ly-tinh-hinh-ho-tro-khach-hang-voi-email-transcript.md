@@ -34,10 +34,6 @@ Ví dụ: Gửi email transcript tất cả các hội thoại được gắn Ta
 
 ![G&#x1EED;i email transcript cho c&#xE1;c kh&#xE1;ch h&#xE0;ng b&#xE1;o gi&#xE1;](../../../.gitbook/assets/gui-transcript-voi-cac-kh-bao-gia.png)
 
-Thêm vào đó, để có thể nhận được nội dung toàn bộ cuộc hội thoại, bạn tạo điều kiện như sau:
-
-![G&#x1EED;i email transcript khi h&#x1ED9;i tho&#x1EA1;i &#x111;&#xE3; k&#x1EBF;t th&#xFA;c](../../../.gitbook/assets/gui-transcript-voi-cac-kh-bao-gia1png.png)
-
 **3. Lưu tên Automation**
 
 Bạn đặt tên cho Automation và viết mô tả chi tiết để dễ quản lý, sau đó Lưu cài đặt.
@@ -48,9 +44,9 @@ Bạn đặt tên cho Automation và viết mô tả chi tiết để dễ quả
 
 Sau khi hoàn tất các bước cài đặt Automation, để nhận được email transcript, bạn lưu ý cần gắn tag với mỗi hội thoại.
 
-![G&#x1EAF;n Tag h&#x1ED9;i tho&#x1EA1;i](../../../.gitbook/assets/gan-tag-hoi-thoai.png)
+![G&#x1EAF;n Tag h&#x1ED9;i tho&#x1EA1;i](../../../.gitbook/assets/transcript.png)
 
 Khi đó, bạn sẽ nhận được lịch sử hội thoại qua email như sau:
 
-![N&#x1ED9;i dung email transcript](../../../.gitbook/assets/noi-dung-email-transcriptpng.png)
+![N&#x1ED9;i dung email transcript](../../../.gitbook/assets/transcript1.png)
 
