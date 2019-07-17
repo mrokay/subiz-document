@@ -112,7 +112,7 @@ Bạn tham khảo thêm [Bảng CSS tùy chỉnh cửa sổ Subiz chat](https://
 
 ### Vị trí của cửa sổ sổ chat
 
-Bạn có thể tùy chỉnh vị trí cửa sổ chat sang bên trái:
+Bạn có thể tùy chỉnh vị trí cửa sổ chat trên website  sang bên trái:
 
 ```text
 subiz('setPosition', 'left') 
@@ -121,7 +121,7 @@ subiz('setPosition', 'left')
 Hoặc bên phải:
 
 ```text
-subiz('setPosition', 'r') 
+subiz('setPosition', 'right') 
 ```
 
 ### Loại cửa sổ chat
@@ -135,7 +135,7 @@ subiz('setWindowMode', 'full')
 Hoặc thu gọn:
 
 ```text
-subiz('setWindowMode', 'm') 
+subiz('setWindowMode', 'mini') 
 ```
 
 ### Thay đổi nội dung trên cửa sổ chat 
