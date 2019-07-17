@@ -155,9 +155,11 @@ Trước hết bạn cần tải file ngôn ngữ của Subiz để biết mục
 Chẳng hạn bạn muốn thay đổi nội dung lời giới thiệu trên thanh tiêu đề, bạn tìm kiếm phần giới thiệu đó trong file ngôn ngữ đã tải và thay đổi trên web bằng cách gắn API như sau:
 
 ```csharp
-subiz('setLanguageData', {team_intro: "Chào mừng bạn đã đến với website Subiz.com"})
+subiz('setLanguageData', {team_intro: "Muahanggiare.com - website cung cấp dịch vụ tốt nhất tại Hà Nội"})
 Tùy chỉnh nội dung thanh tiêu đề 
 ```
+
+![Thay &#x111;&#x1ED5;i n&#x1ED9;i dung thanh ti&#xEA;u &#x111;&#x1EC1;](../../.gitbook/assets/2019-07-17_14-02.png)
 
 ### API Subscribe Push Notification
 
