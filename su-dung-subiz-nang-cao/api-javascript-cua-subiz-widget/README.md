@@ -112,36 +112,37 @@ Bạn tham khảo thêm [Bảng CSS tùy chỉnh cửa sổ Subiz chat](https://
 
 ### Vị trí của cửa sổ sổ chat
 
-Bạn có thể tùy chỉnh vị trí cửa sổ chat trên website  sang bên trái:
+Bạn có thể tùy chỉnh vị trí cửa sổ chat trên website sang bên trái hoặc phải để phù hợp với thiết kế web và tối ưu hiển thị:
 
-```text
+```csharp
 subiz('setPosition', 'left') 
+// Tùy chỉnh cửa sổ chat sang bên trái 
 ```
 
-Hoặc bên phải:
-
-```text
+```csharp
 subiz('setPosition', 'right') 
+// Tùy chỉnh cửa sổ chat sang bên phải 
 ```
 
 ### Loại cửa sổ chat
 
-Bạn có thể lựa chọn loại cửa sổ chat mở rộng:
+Bạn có thể lựa chọn loại cửa sổ chat mở rộng hoặc thu nhỏ:
 
-```text
+```csharp
 subiz('setWindowMode', 'full') 
+// Tùy chỉnh loại cửa sổ chat mở rộng 
 ```
 
-Hoặc thu gọn:
-
-```text
+```csharp
 subiz('setWindowMode', 'mini') 
+// Tùy chỉnh loại cửa sổ chat thu nhỏ 
 ```
 
 ### Thay đổi nội dung trên cửa sổ chat 
 
-```text
+```csharp
 subiz('setLanguageData', {}) . VD subiz('setLanguageData', {message_input_help: "Nhập tin", joined_the_conversation: "joined"})
+Tùy chỉnh cùng lúc nội dung nhập tin và tham gia hội thoại 
 ```
 
 Trước hết bạn cần tải file ngôn ngữ của Subiz để biết mục nào mình muốn thay 
@@ -153,8 +154,9 @@ Trước hết bạn cần tải file ngôn ngữ của Subiz để biết mục
 
 Chẳng hạn bạn muốn thay đổi nội dung lời giới thiệu trên thanh tiêu đề, bạn tìm kiếm phần giới thiệu đó trong file ngôn ngữ đã tải và thay đổi trên web bằng cách gắn API như sau:
 
-```text
+```csharp
 subiz('setLanguageData', {team_intro: "Chào mừng bạn đã đến với website Subiz.com"})
+Tùy chỉnh nội dung thanh tiêu đề 
 ```
 
 ### API Subscribe Push Notification
