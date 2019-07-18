@@ -6,6 +6,8 @@ description: >-
 
 # API Javascript của Subiz Widget
 
+Để có thể hiển thị thành công những tùy chỉnh, bạn cần đặt các mã API này ngay phía sau của mã nhúng Subiz trên website. 
+
 ### Update User Attributes
 
 API cho phép cập nhật dữ liệu khách hàng ngay từ Website. Ví dụ khi khách truy cập đăng nhập trên web, bạn có thể cập nhật email, họ tên...  lên Subiz để quản lý cũng như tương tác.  
@@ -140,17 +142,19 @@ subiz('setWindowMode', 'mini')
 
 ### Thay đổi nội dung trên cửa sổ chat 
 
-```csharp
-subiz('setLanguageData', {}) . VD subiz('setLanguageData', {message_input_help: "Nhập tin", joined_the_conversation: "joined"})
-Tùy chỉnh cùng lúc nội dung nhập tin và tham gia hội thoại 
-```
-
 Trước hết bạn cần tải file ngôn ngữ của Subiz để biết mục nào mình muốn thay 
 
 [Đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ Subiz chat hội thoại ](https://app.subiz.com/settings/widget-setting)
 
 * Tại mục NGÔN NGỮ &gt; chọn Tiếng Việt &gt; chọn Tùy chỉnh nội dung
 * Chọn **Tải về tệp nội dung gốc tại đây** **&gt;** Tệp định dạng .po sẽ được lưu về máy tính
+
+Sau đó sử dụng đoạn mã API sau:
+
+```csharp
+subiz('setLanguageData', {}) . VD subiz('setLanguageData', {message_input_help: "Nhập tin", joined_the_conversation: "joined"})
+Tùy chỉnh cùng lúc nội dung nhập tin và tham gia hội thoại 
+```
 
 Chẳng hạn bạn muốn thay đổi nội dung lời giới thiệu trên thanh tiêu đề, bạn tìm kiếm phần giới thiệu đó trong file ngôn ngữ đã tải và thay đổi trên web bằng cách gắn API như sau:
 

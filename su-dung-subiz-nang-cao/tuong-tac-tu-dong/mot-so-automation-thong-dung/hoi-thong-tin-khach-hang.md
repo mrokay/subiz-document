@@ -64,5 +64,5 @@ Ngoài những trường thông tin hỏi mặc định: Tên, Số điện tho�
 
 ![Y&#xEA;u c&#x1EA7;u nh&#x1EAD;p th&#xF4;ng tin](../../../.gitbook/assets/2019-06-17_11-32-2.png)
 
-Để có thể tùy chỉnh phần cài đặt Hỏi thông tin theo thời gian làm việc của doanh nghiệp, bạn có thể tham khảo: [Tại đây](https://help.subiz.com/su-dung-subiz-nang-cao/tuong-tac-tu-dong/hoi-thong-tin-khach-hang-theo-thoi-gian-lam-viec)
+Để có thể tùy chỉnh phần cài đặt Hỏi thông tin theo thời gian làm việc của doanh nghiệp, bạn có thể tham khảo: [Tại đây](https://help.subiz.com/su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/hoi-thong-tin-khach-hang-theo-thoi-gian-lam-viec)
 

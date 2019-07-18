@@ -8,7 +8,7 @@ Cùng với sự kết hợp với mã API Javascript, bạn có thể tùy ch�
 
 * _**Tùy chỉnh mẫu button Subiz riêng biệt**_
 
-Bước 1: Copy và paste đoạn code sau vào code html của website, tương tự như cách đặt mã nhúng widget:
+Bước 1: Copy và paste đoạn code sau đoạn code Subiz và trước thẻ &lt;/body&gt; 
 
 ```text
 <script type="text/javascript">window.subiz(‘changeCss’, ‘[css_custom]’)</script>
