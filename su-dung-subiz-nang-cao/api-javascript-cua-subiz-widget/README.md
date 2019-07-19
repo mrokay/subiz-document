@@ -153,8 +153,16 @@ Sau đó sử dụng đoạn mã API sau:
 
 ```csharp
 subiz('setLanguageData', {}) . VD subiz('setLanguageData', {message_input_help: "Nhập tin", joined_the_conversation: "joined"})
-Tùy chỉnh cùng lúc nội dung nhập tin và tham gia hội thoại 
+// Tùy chỉnh cùng lúc nội dung nhập tin và tham gia hội thoại 
 ```
+
+Trong đó:
+
+*  Message\_input\_help: Là key language và được lấy từ File Po.
+
+![Key language trong file Po](../../.gitbook/assets/nhap-tin.png)
+
+* Nhập tin: là nội dung language bạn muốn thay đổi
 
 Chẳng hạn bạn muốn thay đổi nội dung lời giới thiệu trên thanh tiêu đề, bạn tìm kiếm phần giới thiệu đó trong file ngôn ngữ đã tải và thay đổi trên web bằng cách gắn API như sau:
 
