@@ -16,5 +16,5 @@ Cùng với sự kết hợp giữa các Automation và những tính năng khá
 
 * Quản lý tình hình hỗ trợ khách hàng với email Transcript
 
-{% page-ref page="quan-ly-tinh-hinh-ho-tro-khach-hang-voi-email-transcript.md" %}
+{% page-ref page="quan-ly-tinh-hinh-ho-tro-khach-hang-voi-email-transcript/" %}
 

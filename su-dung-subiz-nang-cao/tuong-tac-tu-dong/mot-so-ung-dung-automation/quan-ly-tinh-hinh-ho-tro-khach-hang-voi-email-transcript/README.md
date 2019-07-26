@@ -8,7 +8,7 @@ Ví dụ: Bạn muốn lưu thông tin và theo dõi các khách hàng Báo giá
 
 Tag là chức năng phân loại hội thoại theo từng nhóm nhằm ghi nhận các vấn đề khách thường gặp phải hay quan tâm đến. Tag giúp bạn tổng quan chung nội dung của cuộc hội thoại với khách hàng. \( [Tìm hiểu thêm về Subiz Tag](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/gan-tag-cuoc-hoi-thoai) \)
 
-![T&#x1EA1;o Tag](../../../.gitbook/assets/gan-tag.png)
+![T&#x1EA1;o Tag](../../../../.gitbook/assets/gan-tag.png)
 
 Để tạo Tag bạn vào mục: [Tài khoản &gt; Cài đặt &gt; Tags](https://app.subiz.com/settings/tags).
 
@@ -20,11 +20,11 @@ Tag là chức năng phân loại hội thoại theo từng nhóm nhằm ghi nh�
 
 [​Tài khoản &gt; Cài đặt &gt; Automation &gt; Workflow​](https://app.subiz.com/settings/automation-workflow)
 
-![T&#x1EA1;o Automation g&#x1EED;i email transcript](../../../.gitbook/assets/tao-workflowpng%20%282%29.png)
+![T&#x1EA1;o Automation g&#x1EED;i email transcript](../../../../.gitbook/assets/tao-workflowpng%20%282%29.png)
 
 Sau khi lựa chọn **Thực hiện Automation với Hội thoại** và hành động **Gửi email transcript**, bạn **Chỉnh sửa nội dung** để nhập email nhận lịch sử chat.
 
-![Nh&#x1EAD;p email nh&#x1EAD;n email transcript](../../../.gitbook/assets/nhap-email-nhan-transcriptpng.png)
+![Nh&#x1EAD;p email nh&#x1EAD;n email transcript](../../../../.gitbook/assets/nhap-email-nhan-transcriptpng.png)
 
 **2. Tạo điều kiện cho Automation**
 
@@ -32,21 +32,21 @@ Chạy Automation khi -&gt; Hội thoại được cập nhật -&gt; Thêm Tag 
 
 Ví dụ: Gửi email transcript tất cả các hội thoại được gắn Tag Báo giá.
 
-![G&#x1EED;i email transcript cho c&#xE1;c kh&#xE1;ch h&#xE0;ng b&#xE1;o gi&#xE1;](../../../.gitbook/assets/gui-transcript-voi-cac-kh-bao-gia.png)
+![G&#x1EED;i email transcript cho c&#xE1;c kh&#xE1;ch h&#xE0;ng b&#xE1;o gi&#xE1;](../../../../.gitbook/assets/gui-transcript-voi-cac-kh-bao-gia.png)
 
 **3. Lưu tên Automation**
 
 Bạn đặt tên cho Automation và viết mô tả chi tiết để dễ quản lý, sau đó Lưu cài đặt.
 
-![L&#x1B0;u t&#xEA;n Automation](../../../.gitbook/assets/luu-automation1pngpng.png)
+![L&#x1B0;u t&#xEA;n Automation](../../../../.gitbook/assets/luu-automation1pngpng.png)
 
 ### **Bước 3: Gắn Tag hội thoại**
 
 Sau khi hoàn tất các bước cài đặt Automation, để nhận được email transcript, bạn lưu ý cần gắn tag với mỗi hội thoại.
 
-![G&#x1EAF;n Tag h&#x1ED9;i tho&#x1EA1;i](../../../.gitbook/assets/transcript.png)
+![G&#x1EAF;n Tag h&#x1ED9;i tho&#x1EA1;i](../../../../.gitbook/assets/transcript.png)
 
 Khi đó, bạn sẽ nhận được lịch sử hội thoại qua email như sau:
 
-![N&#x1ED9;i dung email transcript](../../../.gitbook/assets/transcript1.png)
+![N&#x1ED9;i dung email transcript](../../../../.gitbook/assets/transcript1.png)
 
