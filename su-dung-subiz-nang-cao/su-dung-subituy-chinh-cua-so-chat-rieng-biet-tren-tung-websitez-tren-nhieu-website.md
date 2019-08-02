@@ -51,6 +51,8 @@ subiz('setLanguageData', {})
 VD subiz('setLanguageData', {team_intro: "Chúng tôi sẵn sàng trợ giúp. Vui lòng hỏi chúng tôi bất cứ điều gì hoặc chia sẻ phản hồi của bạn"})
 ```
 
+Tham khảo chi tiết [Hướng dẫn](https://help.subiz.com/su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget#thay-doi-noi-dung-tren-cua-so-chat)
+
 * _**Tùy chỉnh CSS khác**_
 
 Ngoài ra bạn có thể sử dụng API tùy chỉnh CSS để thay đổi các yếu tố khác của cửa sổ chat 
