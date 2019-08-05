@@ -110,7 +110,7 @@ Subiz sẽ gửi dữ liệu dạng JSON sang webhook qua giao thức POST . Dư
         "event": {
           "by": {
             "device": {
-              "ip": "113.190.233.117",
+              "ip": "113.190.233.111",
               "referrer": "https://subiz.com/vi/",
               "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
             }
