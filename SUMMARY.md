@@ -59,6 +59,7 @@
       * [Tự động hóa quy trình xử lý Ticket](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/tu-dong-hoa-quy-trinh-xu-ly-ticket.md)
       * [Quản lý tình hình hỗ trợ khách hàng với email Transcript](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/quan-ly-tinh-hinh-ho-tro-khach-hang-voi-email-transcript.md)
       * [Nhận email thông báo khi khách hàng cập nhật thông tin](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/nhan-email-thong-bao-khi-khach-hang-cap-nhat-thong-tin.md)
+    * [Webhook](su-dung-subiz-nang-cao/tuong-tac-tu-dong/webhook.md)
   * [Quản lý dữ liệu Khách hàng](su-dung-subiz-nang-cao/quan-ly-du-lieu/README.md)
     * [Quan sát khách truy cập](su-dung-subiz-nang-cao/quan-ly-du-lieu/quan-sat-khach-truy-cap.md)
     * [Quản lý và cập nhật thông tin user](su-dung-subiz-nang-cao/quan-ly-du-lieu/quan-ly-va-cap-nhat-thong-tin-user.md)
