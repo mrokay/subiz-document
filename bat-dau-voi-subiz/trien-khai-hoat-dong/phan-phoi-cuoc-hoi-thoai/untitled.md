@@ -71,9 +71,12 @@ Tương tự bạn sẽ cài đặt Rule cho các thành phố còn lại.
 
 ### Phân phối hội thoại theo link website
 
-Với việc tích hợp Subiz trên nhiều website, bạn có thể mời thêm các Agent tham gia vào tài khoản và phân phối cuộc hội thoại từ từng web cho họ nhờ chức năng Rule phân phối . Để cài đặt Rule này, bạn sẽ dựa trên điều kiện URL trang web.
+Với việc tích hợp Subiz trên nhiều website, bạn có thể mời thêm các Agent tham gia vào tài khoản và phân phối cuộc hội thoại từ từng web cho họ nhờ chức năng Rule phân phối . Để cài đặt Rule này, bạn sẽ dựa trên điều kiện URL trang web.  
+**Rule 1**: Phân phối hội thoại từ website canhogiare.com
 
 ![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i theo website](../../../.gitbook/assets/canhogiarecom.png)
+
+**Rule 2**: Phân phối hội thoại từ website chothuecanho.vn
 
 ![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i theo website](../../../.gitbook/assets/chothuecanhovn.png)
 
