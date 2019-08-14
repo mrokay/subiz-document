@@ -69,3 +69,17 @@ Khi doanh nghiệp của bạn có chi nhánh ở các tỉnh thành khác nhau 
 
 Tương tự bạn sẽ cài đặt Rule cho các thành phố còn lại.
 
+### Phân phối hội thoại theo link website
+
+Với việc tích hợp Subiz trên nhiều website, bạn có thể mời thêm các Agent tham gia vào tài khoản và phân phối cuộc hội thoại từ từng web cho họ nhờ chức năng Rule phân phối . Để cài đặt Rule này, bạn sẽ dựa trên điều kiện URL trang web.
+
+![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i theo website](../../../.gitbook/assets/canhogiarecom.png)
+
+![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i theo website](../../../.gitbook/assets/chothuecanhovn.png)
+
+### Phân phối hội thoại cho Agent trả lời nhanh nhất
+
+Đối với đơn vị có nhiều nhân viên cùng tham gia Subiz đặc biệt là một nhóm nhân viên sale, support...để có thể tạo cơ chế cạnh tranh giữa các nhân viên nhằm tăng hiệu suất làm việc bạn có thể tạo cơ chế phân phối hội thoại cho Agent trả lời trước:
+
+![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho Agent tr&#x1EA3; l&#x1EDD;i tr&#x1B0;&#x1EDB;c](../../../.gitbook/assets/agent-tra-loi-truoc.png)
+
