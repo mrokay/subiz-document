@@ -1,8 +1,12 @@
 # Một số ví dụ Rule phân phối hội thoại
 
-### **Phân phối cuộc hội thoại  theo giờ làm việc**
+Cùng với việc hỗ trợ bạn có thể đưa nhiều người trong doanh nghiệp cùng tham gia và làm việc trên Subiz, Subiz cũng cung cấp chức năng Rule phân phối cuộc hội thoại giúp bạn có thể phân chia cuộc chat theo nhiều kịch bản, điều kiện khác nhau dựa trên những quy tắc điều phối công việc của doanh nghiệp. Bạn có thể tham khảo một số kịch bản rule phân phối như sau:
 
-Cùng với việc ứng dụng Subot và phân chia rule theo giờ làm việc của doanh nghiệp, bạn hoàn toàn có thể yên tâm khi ngoài giờ hành chính, bạn vẫn có thể tự động phản hồi tin nhắn của khách và thu thập thông tin khách hàng để hôm sau bạn có thể liên hệ lại khách.
+### **Phân phối cuộc hội thoại theo giờ làm việc**
+
+Mối quan tâm của rất nhiều doanh nghiệp là có thể tiếp cận với khách hàng bất kể thời gian nào, ngay cả khi ngoài giờ làm việc. Tuy nhiên, khi nhân viên của bạn không sẵn sàng hỗ trợ trực tuyến trong thời gian này, việc không nhận được phản hồi sẽ tạo một trải nghiệm không tốt cho khách hàng. 
+
+Chính vì vậy, bạn có thể nhờ đến sự hỗ trợ của Subot - trợ lý ảo giúp bạn tự động phản hồi khách hàng và thu thập thông tin ngoài giờ hành chính. Bạn có thể báo với khách hàng đang không có nhân viên online và yêu cầu khách để lại thông tin để liên hệ lại vào ngày hôm sau:
 
 **Bước 1: Cài đặt Subot để phản hồi khách hàng ngoài giờ làm việc :** [**Hướng dẫn**](https://help.subiz.com/bat-dau-voi-subiz/trien-khai-hoat-dong/subot-bot-tu-dong-tra-loi-va-hoi-thong-tin#subot-la-gi)
 
@@ -16,11 +20,11 @@ Cùng với việc ứng dụng Subot và phân chia rule theo giờ làm việc
 
 Bạn cài đặt 2 Rule như sau:
 
-* **Rule 1:** Phân cuộc hội thoại cho Agent trong giờ làm việc
+* Rule 1: Phân cuộc hội thoại cho Agent trong giờ làm việc
 
 ![Trong gi&#x1EDD; l&#xE0;m vi&#x1EC7;c](../../../.gitbook/assets/trong-gio-lam-viec%20%281%29.png)
 
-* **Rule 2:** Phân cuộc hội thoại cho Agent ngoài giờ làm việc
+* Rule 2**:** Phân cuộc hội thoại cho Agent ngoài giờ làm việc
 
 ![Ngo&#xE0;i gi&#x1EDD; l&#xE0;m vi&#x1EC7;c](../../../.gitbook/assets/ngoai-gio-lam-viec.png)
 
@@ -28,42 +32,50 @@ Bạn cài đặt 2 Rule như sau:
 
 Bạn có nhiều Agent và phân chia theo ca làm việc khác nhau theo từng ngày làm việc trong tuần. Bạn hoàn toàn có thể cài đặt Rule để có thể phân phối tự động theo lịch làm việc cố định của Agent.
 
-**Ví dụ:** Agent Hoa Tạ nhận cuộc chat vào các ngày 2, 4, 6 và chủ nhật. Agent Linh Lê nhận cuộc chat vào các ngày 3, 5, 7. Bạn sẽ cài đặt 2 Rule như sau**:**
+Ví dụ: Agent Hoa Tạ nhận cuộc chat vào các ngày 2, 4, 6 và chủ nhật. Agent Linh Lê nhận cuộc chat vào các ngày 3, 5, 7. Bạn sẽ cài đặt 2 Rule như sau**:**
 
-* **Rule 1:** Phân cuộc hội thoại cho Agent Hoa Ta
+* Rule 1: Phân cuộc hội thoại cho Agent Hoa Ta
 
 ![Ph&#xE2;n cu&#x1ED9;c chat cho Agent Hoa Ta](../../../.gitbook/assets/ca-lam-viec-1.png)
 
-* **Rule 2:** Phân cuộc hội thoại cho Agent Linh Lê
+* Rule 2**:** Phân cuộc hội thoại cho Agent Linh Lê
 
 ![Ph&#xE2;n cu&#x1ED9;c chat cho Agent Linh L&#xEA;](../../../.gitbook/assets/ca-lam-viec-2.png)
 
 ### **Phân phối cuộc hội thoại theo ngôn ngữ website**
 
-Website bạn ngoài việc hỗ trợ khách hàng nội địa, còn có nhiều khách hàng quốc tế. Bạn có Agent phụ trách khách nước ngoài và khách Việt Nam riêng biệt. Cài đặt 2 rule sau để có thể phân cuộc hội thoại theo đúng Agent phụ trách theo ngôn ngữ trên website
+Với nhu cầu hỗ trợ cả khách nội địa và khách quốc tế, nhiều doanh nghiệp đã thiết kế web với nhiều ngôn ngữ để khách hàng lựa chọn và bố trí nhân viên phụ trách theo từng ngôn ngữ. Nhờ vậy khách hàng có thể được hỗ trợ kịp thời, nhanh chóng và đúng vấn đề quan tâm.
 
-* **Rule 1**: Phân cuộc hội thoại web tiếng Việt cho Agent Hoa Ta
+Nếu doanh nghiệp của bạn đang làm việc với mô hình như vậy, bạn hoàn toàn có thể sử dụng Subiz kết hợp với cơ chế phân phối hội thoại theo ngôn ngữ trên website. Các khách hàng sẽ được gặp đúng nhân viên tư vấn với ngôn ngữ họ mong muốn, mà không cần thông qua các bước trung chuyển rườm rà phức tạp. 
+
+Nếu website của bạn đang hỗ trợ 2 ngôn ngữ tiếng anh và tiếng việt, bạn có thể triển khai cơ chế phân phối rule như sau:
+
+* Rule 1: Phân cuộc hội thoại web tiếng Việt cho Agent Hoa Ta
 
 ![Cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i t&#x1EEB; web ti&#x1EBF;ng Vi&#x1EC7;t](../../../.gitbook/assets/tieng-viet-1.png)
 
-* **Rule 2**: Phân cuộc hội thoại web tiếng Anh cho Agent Linh Lê
+* Rule 2: Phân cuộc hội thoại web tiếng Anh cho Agent Linh Lê
 
 ![Cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i t&#x1EEB; web ti&#x1EBF;ng Anh](../../../.gitbook/assets/tieng-anh-1.png)
 
 ### Phân phối cuộc hội thoại cho cuộc hội thoại từ các kênh khác nhau
 
-Bạn tích hợp cả Subiz lên Website, Fanpage và Email và có Agent để phụ trách riêng cho từng kênh. Bạn hoàn toàn có thể sử dụng chức năng Rule để phân phối cuộc hội thoại theo kênh:  
-**Rule 1**: Phân phối hội thoại từ kênh Website \( Subiz chat\)
+Với những đơn vị sử dụng nhiều kênh tương tác: website, fanpage, email...và vẫn muốn quản trị tập trung các tương tác với khách hàng trên cùng một hệ thống, việc sử dụng Subiz là một giải pháp tối ưu. Không chỉ giúp người quản lý có thể theo dõi, nắm bắt toàn bộ hoạt động hỗ trợ khách hàng của doanh nghiệp, cách làm việc, hiệu suất của nhân viên, Subiz có thể giúp bạn theo dõi hiệu qủa của từng kênh riêng.
+
+Nếu bạn có người phụ trách riêng cho từng kênh, bạn có thể sử dụng chức năng Rule để phân phối cuộc hội thoại theo kênh, giúp các agent chuyên biệt hóa kênh làm việc chính của mình. Bạn có thể cài đặt theo kênh tương tác như sau:  
+Rule 1: Phân phối hội thoại từ kênh Website \( Subiz chat\)
 
 ![Cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i t&#x1EEB; website](../../../.gitbook/assets/website.png)
 
-**Rule 2**: Phân phối hội thoại từ kênh Email và Messenger
+Rule 2: Phân phối hội thoại từ kênh Email và Messenger
 
 ![Cu&#x1ED9;c h&#x1ED9;i th&#x1ECD;ai t&#x1EEB; Email v&#xE0; Messenger](../../../.gitbook/assets/email-va-messenger.png)
 
 ### Phân phối hội thoại theo vùng địa lý khách hàng 
 
-Khi doanh nghiệp của bạn có chi nhánh ở các tỉnh thành khác nhau và muốn phân chia hội thoại cho tư vấn viên ở địa phương đó hỗ trợ khách hàng, Subiz sẽ giúp bạn nhận diện và chuyển hội thoại đến đúng tư vấn viên khách cần gặp.
+Nếu doanh nghiệp của bạn có nhiều chi nhánh ở các tỉnh, thành phố và có nhân viên phụ trách cho từng chi nhánh, bạn hoàn toàn có thể mời những chi nhánh này tham gia vào hệ thống quản trị Subiz của bạn. 
+
+Với bất cứ cuộc chat nào đến, dựa trên địa điểm truy cập của khách hàng, Subiz sẽ phân phối tới đúng chi nhánh gần khách hàng nhất, giúp cho việc kết nối giữa doanh nghiệp và khách hàng trở lên nhanh chóng hơn, khách hàng cũng sẽ không cần thông qua nhiều khâu chuyển thông tin để được hỗ trợ
 
 ![Ph&#xE2;n cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i theo khu v&#x1EF1;c &#x111;&#x1ECB;a l&#xFD;](../../../.gitbook/assets/hanoi.png)
 
@@ -71,8 +83,14 @@ Tương tự bạn sẽ cài đặt Rule cho các thành phố còn lại.
 
 ### Phân phối hội thoại theo link website
 
-Với việc tích hợp Subiz trên nhiều website, bạn có thể mời thêm các Agent tham gia vào tài khoản và phân phối cuộc hội thoại từ từng web cho họ nhờ chức năng Rule phân phối . Để cài đặt Rule này, bạn sẽ dựa trên điều kiện URL trang web.  
-**Rule 1**: Phân phối hội thoại từ website canhogiare.com
+Nếu doanh nghiệp của bạn quản lý nhiều website kinh doanh các sản phẩm, dịch vụ trong cùng hoặc khác lĩnh vực, và có người phụ trách riêng cho từng site, bạn hoàn toàn có thể sử dụng cơ chế phân phối cuộc hôị thoại theo URL trang web để có thể phân phối cuộc chat theo từng web.
+
+Với cơ chế này, bạn vẫn có thể quản trị tất cả các tương tác trên các web bên bạn, có sự thống kê, so sánh hiệu qủa của từng sản phẩm và hơn hết có thể tập trung các dữ liệu khách hàng trên cùng một kênh nhưng vẫn đảm bảo sự chuyên biệt trong hỗ trợ khách hàng.
+
+Bạn có thể dựa vào domain của website để phân phối cuộc hội thoại như sau:
+
+  
+Rule 1: Phân phối hội thoại từ website canhogiare.com
 
 ![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i theo website](../../../.gitbook/assets/canhogiarecom.png)
 
@@ -82,7 +100,9 @@ Với việc tích hợp Subiz trên nhiều website, bạn có thể mời thê
 
 ### Phân phối hội thoại cho Agent trả lời nhanh nhất
 
-Đối với đơn vị có nhiều nhân viên cùng tham gia Subiz đặc biệt là một nhóm nhân viên sale, support...để có thể tạo cơ chế cạnh tranh giữa các nhân viên nhằm tăng hiệu suất làm việc bạn có thể tạo cơ chế phân phối hội thoại cho Agent trả lời trước:
+Đối với đơn vị có nhiều nhân viên cùng tham gia Subiz đặc biệt là một nhóm nhân viên sale, support...việc tạo sự cạnh tranh giữa các nhân viên sẽ góp phần thúc đẩy hiệu qủa làm việc, trách nhiệm với công việc cũng như cơ sở đánh giá KPI để thực hiện các cơ chế thưởng, phạt đổi với nhân viên.
+
+Bạn có thể lựa chọn cơ chế phân phối tới Agent trả lời trước cho nhóm nhân viên của mình. Theo đó, cuộc hội thoại sẽ được phân cho một nhóm agent, người nào trả lời trước sẽ được phụ trách luôn cuộc chat đó và những người còn lại sẽ không trả lời được tiếp. Bạn sẽ thiết lập như sau:
 
 ![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho Agent tr&#x1EA3; l&#x1EDD;i tr&#x1B0;&#x1EDB;c](../../../.gitbook/assets/agent-tra-loi-truoc.png)
 
