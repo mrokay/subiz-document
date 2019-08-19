@@ -12,8 +12,6 @@ Khi đó:
 
 * Bạn sẽ hướng dẫn cụ thể cách tạo các Rule mới:
 
-{% page-ref page="tao-rule-moi.md" %}
-
 * Bạn có thể tham khảo một vài ví dụ cài đặt Rule như sau:
 
 {% page-ref page="untitled.md" %}
