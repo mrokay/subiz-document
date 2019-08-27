@@ -46,7 +46,7 @@ Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
 
   **Ví dụ:** Rule phân phối cuộc hội thoại của khách hang đến từ Việt Nam hoặc truy cập vào trang Subiz.com
 
-![T&#x1EA1;o &#x111;i&#x1EC1;u ki&#x1EC7;n cho Rule](../../../.gitbook/assets/dieu-kien-rule.png)
+![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i theo link website ho&#x1EB7;c m&#xE3; qu&#x1ED1;c gia](../../../.gitbook/assets/ma-quoc-gia.jpg)
 
 **Bạn có thể chọn một hay nhiều điều kiện trong danh sách các điều kiện trong Rule dưới đây:​**
 
@@ -456,16 +456,20 @@ Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
   </tbody>
 </table>### Bước 3: Chọn cách thức phân phối tới Agent
 
-Bây giờ, bạn chọn cách thức phân phối cuộc các cuộc hội thoại thỏa mãn các điều kiện đã đặt ở trên.
+![C&#xE1;ch th&#x1EE9;c ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c c&#xE1;c cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../../.gitbook/assets/co-che-phan-phoi-chat%20%281%29.png)
 
-* **Phân phối tới tất cả available agents**: Available agent là những agent có kết nối trực tiếp với Subiz trên máy tính hoặc app mobile. Khi các agent không kết nối với Subiz, cuộc hội thoại của khách chuyển về Hội thoại chưa được phân phối. Agent có thể xem và trả lời khách hàng sau khi kết nối lại Subiz.
+Bây giờ, bạn chọn cách thức phân phối cuộc các cuộc hội thoại thỏa mãn các điều kiện đã đặt ở trên:
+
+* **Phân phối tới tất cả available agents**: Available agent là những agent có kết nối trực tiếp với Subiz trên máy tính hoặc app mobile.
 * **Phân phối tới các agents**: Chọn cụ thể Agent bạn muốn phân phối hội thoại của khách hàng
 * **Phân phối tới các nhóm**: Chọn nhóm agent bạn đã tạo để phân phối hội thoại của khách hàng
-* **Phân phối tới agent có tương tác cuối cung với khách hàng**: Khi agent đã hỗ trợ khách hàng trước đó, bạn sẽ chọn chỉ định các cuộc hội thoại tiếp theo của khách cho agent tiếp tục chăm sóc và tư vấn.
+* **Phân phối tới agent có tương tác cuối cùng với khách hàng**: Khi agent đã hỗ trợ khách hàng trước đó, bạn sẽ chọn chỉ định các cuộc hội thoại tiếp theo của khách cho agent tiếp tục chăm sóc và tư vấn.
 * **Phân phối cuộc hội thoại đồng đều theo vòng**: Bạn có nhiều agent và muốn chỉ định theo vòng chia đều cuộc hội thoại của khách cho các agent. 
 * **Phân phối hội thoại cho Agent trả lời trước:** Rule này nhằm đẩy mạnh tính cạnh tranh cho các doanh nghiệp có nhiều agent là tư vấn viên và sẽ phân phối theo cơ chế ****tất cả những agents sẽ nhận được thông báo agent nào phản hồi trước sẽ được tiếp tục cuộc hội thoại.
 
-![T&#x1EA1;o Rule](../../../.gitbook/assets/phan-phoi.png)
+**Ví dụ:** Trong giờ làm việc, các agent đều nhận được thông báo,  agent nào trả lời trước, hội thoại sẽ được phân cho agent đó.
+
+![Rule ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho agent tr&#x1EA3; l&#x1EDD;i tr&#x1B0;&#x1EDB;c](../../../.gitbook/assets/trong-gio-lam-viec-phan-cho-agent-tra-loi-truoc.png)
 
 ## Lưu ý khi cài đặt Rule
 
