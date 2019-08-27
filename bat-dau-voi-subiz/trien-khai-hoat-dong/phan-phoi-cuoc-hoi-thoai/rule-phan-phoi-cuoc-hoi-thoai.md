@@ -12,11 +12,11 @@ Ví dụ, một doanh nghiệp có 3 agent là các sales hoạt động đồng
 
 * Trong giờ làm việc: áp dụng cơ chế giao khách cạnh tranh – ai trả lời trước sẽ chuyển chat cho người đó.
 
-![Rule ph&#xE2;n ph&#x1ED1;i c&#x1EA1;nh tranh](../../../.gitbook/assets/rule-phan-phoi-canh-tranh.png)
+![Rule ph&#xE2;n ph&#x1ED1;i c&#x1EA1;nh tranh](../../../.gitbook/assets/rule-phan-phoi-canh-tranhpng.png)
 
 * Ngoài giờ làm việc: Phân cho 1 agent phụ trách chính và Subot - Bot tự động Trả lời và Hỏi thông tin.
 
-![Rule ngo&#xE0;i gi&#x1EDD; l&#xE0;m vi&#x1EC7;c](../../../.gitbook/assets/rule-ngoai-gio-hanh-chinh.png)
+![Rule ngo&#xE0;i gi&#x1EDD; l&#xE0;m vi&#x1EC7;c](../../../.gitbook/assets/rule-ngoai-gio-lam-viec.png)
 
 Hai Rule trên sẽ cài đặt theo thứ tự như sau:
 
