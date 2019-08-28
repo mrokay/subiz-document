@@ -20,28 +20,25 @@ Tại đây bạn có thể thiết lập lời chào tự động với những
 
 Bạn có thể tạo điều kiện như sau:
 
-![C&#xE0;i &#x111;&#x1EB7;t &#x111;i&#x1EC1;u ki&#x1EC7;n](../../../.gitbook/assets/dieu-kien.png)
+![](../../../.gitbook/assets/dieu-kien.png)
 
 **Lưu ý:** 
 
-* Trong trường hợp bạn chỉ lưu thông tin Email hoặc Số điện thoại của khách hàng, bạn có thể thay thế trường Fullname để giúp nhận diện khách hàng cũ.
-
-![Tr&#x1B0;&#x1EDD;ng email](../../../.gitbook/assets/email%20%281%29.png)
-
-* Nếu bạn muốn chỉ khi khách vào trực tiếp 1 trang chỉ định mới hiển thị lời chào, bạn có thể thay thế như sau:
+* Nếu bạn muốn chỉ khi khách vào trực tiếp 1 trang chỉ định mới hiển thị lời chào, bạn có thể thêm trong phần URL của trang.
 
 ![Truy c&#x1EAD;p URL c&#x1EE5; th&#x1EC3;](../../../.gitbook/assets/url.png)
 
-### Bước 3: Lưu thông tin
+* Bạn có thể thay thế trường Fullname bằng các trường Emails hoặc Phones để nhận diện khách hàng cũ.
+
+![Tr&#x1B0;&#x1EDD;ng email](../../../.gitbook/assets/email%20%281%29.png)
 
 Sau khi thiết lập điều kiện, bạn nhấn **Tiếp tục** bạn chuyển sang bước Lưu tên Automation
 
-![L&#x1B0;u Automation](../../../.gitbook/assets/luu-ten-3.png)
-
 Như vậy bạn đã hoàn thành xong các bước cài đặt Automation, để thu hút khách hàng cũ vào website. 
 
-**Lưu ý:**
+{% hint style="info" %}
+Nếu như website bên bạn có phần đăng nhập của thành viên, bạn có thể sử dụng mã API Javascript để đồng bộ thông tin khách hàng vào Subiz : [Hướng dẫn ](https://help.subiz.com/su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget#update-user-attributes)
+{% endhint %}
 
-* Một kịch bản Automation sẽ chỉ chạy một lần với 1 khách truy cập, vì vậy bạn có thể thường xuyên tạo mới Automation này theo tuần, tháng hoặc khi có những chương trình đặc biệt.
-* Bạn có thể cài song song với Automation chào khách hàng mới truy cập vào web
+\*\*\*\*
 
