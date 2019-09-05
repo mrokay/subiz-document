@@ -52,6 +52,7 @@
       * [Hỏi thông tin khách hàng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-automation-thong-dung/hoi-thong-tin-khach-hang.md)
       * [Automation gửi email tới khách hàng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-automation-thong-dung/automation-gui-email-tu-dong.md)
       * [Automation gửi email transcript](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-automation-thong-dung/automation-gui-email-transcript.md)
+      * [Quản lý comment Facebook cùng Automation](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-automation-thong-dung/quan-ly-comment-facebook-cung-automation.md)
     * [Một số Ứng dụng Automation](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/README.md)
       * [Hỏi thông tin khách hàng theo thời gian làm việc](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/hoi-thong-tin-khach-hang-theo-thoi-gian-lam-viec.md)
       * [Phân loại và theo đuổi khách hàng tiềm năng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/phan-loai-va-theo-duoi-khach-hang-tiem-nang.md)
