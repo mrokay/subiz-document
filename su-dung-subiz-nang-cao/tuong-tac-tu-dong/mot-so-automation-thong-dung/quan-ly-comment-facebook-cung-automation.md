@@ -26,6 +26,16 @@ Sau bước cài đặt điều kiện, bạn nhấn tiếp tục để lưu l�
 
 ![L&#x1B0;u t&#xEA;n Automation](../../../.gitbook/assets/luu-ten-4.png)
 
+Khi đó trên Fanpage của bạn sẽ hiển thị như sau:
+
+![Hi&#x1EC3;n th&#x1ECB; tr&#xEA;n Fanpage](../../../.gitbook/assets/hien-thi.png)
+
+Và đây là hiển thị trên trang quản lý Subiz của bạn:
+
+![Hi&#x1EC3;n th&#x1ECB; tr&#xEA;n Dashboard Subiz](../../../.gitbook/assets/subiz-1.png)
+
+
+
 
 
 
