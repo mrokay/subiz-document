@@ -10,7 +10,7 @@ Bạn sẽ vào mục : ****[**Cài đặt &gt; Automation &gt; Workflow**](http
 
 Tại đây, bạn sẽ chọn hành động cho Automation là _**Tự động thích bình luận**_, _**Tự động ẩn bình luận**_ hoặc _**Tự động xóa bình luận.**_
 
-![T&#x1EA1;o Automation](../../../.gitbook/assets/comment.png)
+![T&#x1EA1;o Automation](../../../.gitbook/assets/comment%20%281%29.png)
 
 **Lưu ý:** Bạn chỉ lựa chọn được 1 hành động để tạo Automation. Trong trường hợp muốn thực hiện cả 3 kịch bản tự động, bạn sẽ tạo lần lượt 3 Automation khác nhau.
 

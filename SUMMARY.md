@@ -14,6 +14,7 @@
       * [Thông báo trên trình duyệt Users](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/thong-bao-tren-trinh-duyet-users.md)
     * [Tích hợp sử dụng Email trên Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz.md)
     * [Tích hợp Messenger Facebook vào Subiz](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-fanpage-facebook-vao-subiz.md)
+    * [Tích hợp Comment Facebook](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-comment-facebook.md)
     * [Tối ưu môi trường tương tác](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/toi-uu-moi-truong-tuong-tac/README.md)
       * [Cài đặt thông tin doanh nghiêp](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/toi-uu-moi-truong-tuong-tac/cai-dat-thong-tin-doanh-nghiep.md)
       * [Cài đặt thông báo tin nhắn mới](bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/toi-uu-moi-truong-tuong-tac/cai-dat-thong-bao-tin-nhan-moi.md)
