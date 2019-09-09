@@ -1,12 +1,12 @@
-# Tích hợp Comment Facebook
+# Tích hợp Facebook Comment
 
-Cùng với chức năng tích hợp comment Facebook, Subiz sẽ hoạt động như một phần mềm quản lý Fanpage chuyên nghiệp, giúp bạn có thể quản lý tập trung tới hàng trăm fanpage, không giới hạn số lượng tin nhắn, bình luận và tăng tốc độ tương tác với khách hàng.
+Cùng với chức năng tích hợp Facebook comment, Subiz sẽ hoạt động như một phần mềm quản lý Fanpage chuyên nghiệp, giúp bạn có thể quản lý tập trung tới hàng trăm fanpage, không giới hạn số lượng tin nhắn, bình luận và tăng tốc độ tương tác với khách hàng.
 
 Giờ đây, bạn sẽ không còn cần phải làm việc trên nhiều trang độc lập và có thể hạn chế việc nhầm lẫn,bỏ sót khi lượng khách hàng qúa tải. Tất cả các tương tác trên website, fanpage, email của bạn sẽ cùng tập trung trên Subiz, giúp bạn có thể thể làm việc dễ dàng trên một trang quản trị.
 
 Bài viết sau sẽ hướng dẫn bạn cách tích hợp Comment Facebook vào Subiz 
 
-### Tích hợp Comment Facebook 
+### Tích hợp Facebook Comment
 
 Bạn sẽ vào mục: [**Cài đặt &gt; Bình luận Facebook &gt; Kết nối Fanpage**](https://app.subiz.com/settings/facebook-comment#)\*\*\*\*
 
@@ -32,7 +32,7 @@ Sau khi click **Xong,** bạn có thể tích hợp các Fanpage lên Subiz
 
 ![Danh s&#xE1;ch Fanpage t&#xED;ch h&#x1EE3;p](../../.gitbook/assets/f.png)
 
-### Quản lý Comment Facebook trên Subiz 
+### Quản lý Facebook Comment trên Subiz 
 
 Bây giờ bạn sẽ làm việc trên một giao diện hoàn toàn mới:
 
