@@ -26,7 +26,7 @@ Bạn sẽ lựa chọn hành động như sau:
 
 Khi đó bạn cần lựa chọn gửi tin nhắn t kênh Fanpage nào và nội dung tin nhắn ra sao:
 
-![T&#xF9;y ch&#x1EC9;nh tin nh&#x1EAF;n](../../../.gitbook/assets/chinh-s.png)
+![T&#xF9;y ch&#x1EC9;nh tin nh&#x1EAF;n v&#xE0; l&#x1EF1;a ch&#x1ECD;n Fanpage](../../../.gitbook/assets/chinh-s.png)
 
 **Lưu ý:** 
 
