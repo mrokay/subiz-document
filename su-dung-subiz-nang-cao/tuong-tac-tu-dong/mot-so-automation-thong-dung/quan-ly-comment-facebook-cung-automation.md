@@ -20,9 +20,22 @@ Bạn sẽ lựa chọn hành động như sau:
 
 ![T&#x1EF1; &#x111;&#x1ED9;ng tr&#x1EA3; l&#x1EDD;i b&#xEC;nh lu&#x1EAD;n](../../../.gitbook/assets/r.png)
 
-### Thiết lập cả 3 hành động trong một Automation.
+### Automation tự động gửi tin nhắn chuyển hướng sang kênh Messenger
 
-![Automation cho c&#x1EA3; 3 h&#xE0;nh &#x111;&#x1ED9;ng](../../../.gitbook/assets/automation-hanh-dong.png)
+![T&#x1EF1; &#x111;&#x1ED9;ng g&#x1EED;i tin nh&#x1EAF;n tr&#xEA;n k&#xEA;nh Messenger](../../../.gitbook/assets/auto-send-m.png)
+
+Khi đó bạn cần lựa chọn gửi tin nhắn t kênh Fanpage nào và nội dung tin nhắn ra sao:
+
+![T&#xF9;y ch&#x1EC9;nh tin nh&#x1EAF;n](../../../.gitbook/assets/chinh-s.png)
+
+**Lưu ý:** 
+
+* Với mỗi hành động sửa tin nhắn chuyển hướng sang kênh Messenger, bạn sẽ lựa chọn được duy nhất 1 Fanpage để gửi đi.
+* Trong trường hợp bạn có nhiều hơn 1 fanpage, bạn có thể tạo thêm hành động trong cùng 1 automation hoặc tạo nhiều automation để thực hiện hành động tự động gửi tin nhắn qua kênh Messenger.
+
+### Thiết lập cả 4 hành động trong một Automation.
+
+![Thi&#x1EBF;t l&#x1EAD;p 4 h&#xE0;nh &#x111;&#x1ED9;ng trong 1 automation](../../../.gitbook/assets/full-c.png)
 
 Sau bước tạo Automation, bạn nhấn _**Tiếp tục**_ để sang bước tạo điều kiện như sau:
 
