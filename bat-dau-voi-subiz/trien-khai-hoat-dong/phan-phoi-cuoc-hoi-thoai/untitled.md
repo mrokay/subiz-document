@@ -67,9 +67,9 @@ Rule 1: Phân phối hội thoại từ kênh Website \( Subiz chat\)
 
 ![Cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i t&#x1EEB; website](../../../.gitbook/assets/website.png)
 
-Rule 2: Phân phối hội thoại từ kênh Email và Messenger
+Rule 2: Phân phối hội thoại từ kênh Email, Messenger và Facebook Comment
 
-![Cu&#x1ED9;c h&#x1ED9;i th&#x1ECD;ai t&#x1EEB; Email v&#xE0; Messenger](../../../.gitbook/assets/email-va-messenger.png)
+![Ph&#xE2;n ph&#x1ED1;i t&#x1EEB; k&#xEA;nh Email, Messenger v&#xE0; Facebook Comment](../../../.gitbook/assets/phaan-phoi.png)
 
 ### Phân phối hội thoại theo vùng địa lý khách hàng 
 
