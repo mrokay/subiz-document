@@ -125,7 +125,6 @@ Thay đổi bố cục tiêu đề  của cửa sổ chat gia tăng nhận diệ
 Lưu ý: Ảnh logo là ảnh .png trong suốt \(background transparent\), kích thước dài x cao: 160px x 100px
 
 ```csharp
-.color-theme-default {background-color:#f44336;} 
 .list-agents { float:left; width:45%; } 
 .avatar-team { position:absolute; top:-70%; 
 background: url(
@@ -218,32 +217,6 @@ Bạn muốn hạ cửa sổ chat trên mobile sẽ hiển thị thấp hơn so 
 ```csharp
 .widget_mobile .widget_body {height: 90%;}
 /* Thay đổi tỷ lệ chiều cao 90% */
-```
-
-### Tùy chỉnh chat button riêng bản mobile
-
-Website bản destop và bản mobile đang hiển thị chung một chat button. Để sử dụng riêng hình ảnh chat button trên bản mobile, bạn sẽ sử dụng CSS sau:
-
-```csharp
-.widget_mobile .button-chat { border-radius: 0; background-image: url(
-https://filev4.subiz.com/fiqezwgriaddsetqxoig-button_mobile_3.png
-); background-repeat: no-repeat; } 
-.widget_mobile .button-chat-icon { display: none; } @supports (-ms-ime-align:auto) { .widget_mobile .button-chat { border-radius: 50%; } 
-.widget_mobile .button-chat-icon { display: inline-block; } } 
-.widget_mobile .widget-button { width: 120px; height: 100px; } 
-.widget_mobile .button-chat { border-radius: 0 !important; } 
-.widget_mobile .widget-button:after { display: none; } 
-.widget_mobile .widget_mini .close-widget-icon { display: none; } 
-.widget_mobile .button-chat .avatar-preview img { display: none; } 
-.widget_mobile .button-chat { box-shadow: none; background-color: transparent !important; }
-.widget_mobile .widget-button {bottom:0;right:10px;}
-
-/* Thay đường link ảnh chat button khác như:
-https://filev4.subiz.com/fiqezwgrhzzwishdocxj-button_mobile_1.png
-https://filev4.subiz.com/fiqezwgriaaqusgqymat-button_mobile_2.png
-Thay đổi kích thước ảnh chat button width: 120px; height: 100px
-Tùy chỉnh vị trí chat button trên website: left hay right, từ 0 đến 40px trong
-{bottom:0;right:10px;} */
 ```
 
 ### Ẩn cửa sổ chat
