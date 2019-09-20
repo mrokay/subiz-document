@@ -6,7 +6,7 @@ Với chức năng Automation gửi tin nhắn tự động của Subiz bạn c�
 
 Bạn đang chạy chương trình giảm giá và muốn thông báo đến khách hàng ngay khi vào website để kích thích nhu cầu của họ. Bạn hoàn toàn có thể gắn một video ngắn về chương trình ưu đãi này để thu hút khách hàng hơn**:**
 
-![G&#x1EAF;n video v&#xE0;o tin nh&#x1EAF;n](../../../../.gitbook/assets/videomessage.gif)
+![G&#x1EAF;n video v&#xE0;o tin nh&#x1EAF;n](../../../.gitbook/assets/videomessage.gif)
 
 **Lưu ý**: Dung lượng video tối đa là 25Mb
 
@@ -14,19 +14,19 @@ Bạn đang chạy chương trình giảm giá và muốn thông báo đến kh�
 
 Nếu như bạn muốn cập nhật tới khách hàng những thông tin mới nhất: sản phẩm mới, thông tin ưu đãi, chương trình học, lịch đào tạo... bạn hoàn toàn có thể gắn link thông tin đó vào tin nhắn tự động để thông báo tới khách hàng ngay khi họ vào website:
 
-![&#x110;&#xED;nh k&#xE8;m link](../../../../.gitbook/assets/link.png)
+![&#x110;&#xED;nh k&#xE8;m link](../../../.gitbook/assets/link.png)
 
 ### **Gắn kèm ảnh và trả lời nhanh**
 
 Đôi khi khách hàng sẽ ngần ngại trước khi nhắn tin cho bạn vì không biết phải bắt đầu từ đâu. Hãy tạo những câu trả lời nhanh để khách hàng lựa chọn và dễ dàng mở đầu câu chuyện với bạn:
 
-![](../../../../.gitbook/assets/gif_quickreplies.gif)
+![](../../../.gitbook/assets/gif_quickreplies.gif)
 
 ### **Đính kèm link vào hình ảnh**
 
 Để dẫn khách hàng tới trang mà bạn mong muốn, hãy tạo một Automation với hình ảnh bắt mắt và không quên đính kèm link của trang mà bạn muốn điều hướng. Đây là cách hiệu quả, giúp bạn giới thiệu những thông tin cập nhật mới nhất trên website ngay khi khách hàng vào web.
 
-![G&#x1EAF;n link v&#xE0;o h&#xEC;nh &#x1EA3;nh](../../../../.gitbook/assets/markdown.png)
+![G&#x1EAF;n link v&#xE0;o h&#xEC;nh &#x1EA3;nh](../../../.gitbook/assets/markdown.png)
 
 Bạn có thể sử dụng đoạn mã Mardown sau để đính kèm link vào hình ảnh trong mẫu tin nhắn: 
 
@@ -38,19 +38,19 @@ Bạn có thể sử dụng đoạn mã Mardown sau để đính kèm link vào 
 
 Việc xác định khách hàng tiềm năng ngay trước khi bắt đầu tương tác sẽ giúp bạn có thể tiết kiệm thời gian và lựa chọn phương án hỗ trợ phù hợp nhất với từng đối tượng khách hàng. Nếu như doanh nghiệp của bạn cần thu thập thông tin khách hàng để phân loại khách hàng tiềm năng, bạn có thể cài đặt tin nhắn tự động với form hỏi thông tin:
 
-![H&#x1ECF;i th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng](../../../../.gitbook/assets/sendcaptureleads%20%281%29.png)
+![H&#x1ECF;i th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng](../../../.gitbook/assets/sendcaptureleads%20%281%29.png)
 
 ### **Gắn button Hotline vào tin nhắn**
 
 Việc gắn button Hotline vào tin nhắn sẽ giúp khách hàng có thể dễ dàng liên hệ đến bạn trong trường hợp cần thiết. Khi khách hàng click vào số điện thoại, họ sẽ có thể gọi cho bạn trực tiếp trên di động hoặc trên máy tính nếu có phần mềm hỗ trợ.
 
-![G&#x1EAF;n k&#xE8;m Hotline](../../../../.gitbook/assets/callbutton.png)
+![G&#x1EAF;n k&#xE8;m Hotline](../../../.gitbook/assets/callbutton.png)
 
 ### **Thêm địa chỉ Messenger**
 
 Nếu bạn muốn điều hướng khách hàng liên hệ sang kênh Messenger, hoặc đơn giản tạo cho khách hàng nhiều sự lựa chọn để tương tác với bạn. Bạn có thể gắn link Messenger ngay trong tin nhắn:
 
-![Th&#xEA;m &#x111;&#x1ECB;a ch&#x1EC9; Messenger](../../../../.gitbook/assets/facebook.png)
+![Th&#xEA;m &#x111;&#x1ECB;a ch&#x1EC9; Messenger](../../../.gitbook/assets/facebook.png)
 
 Để cài đặt Automation gửi tin nhắn tự động, bạn có thể tham khảo hướng dẫn chi tiết: [Tại đây](https://help.subiz.com/su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-automation-thong-dung/automation-gui-tin-nhan-tu-dong)  
 
