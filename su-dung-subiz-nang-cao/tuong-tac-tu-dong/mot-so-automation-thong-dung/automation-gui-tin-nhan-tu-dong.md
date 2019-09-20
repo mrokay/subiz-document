@@ -46,7 +46,7 @@ Tạo button kêu gọi khách hàng và điều hướng khách vào trang bạ
 
 Bạn muốn khách hàng có thể gọi cho bạn ngay trên cửa sổ chat Subiz, việc gắn link số điện thoại vào Button sẽ gúp cho việc này thật đơn giản:
 
-![](../../../.gitbook/assets/callbutton.png)
+![](../../../.gitbook/assets/callbutton%20%281%29.png)
 
 #### **Gắn kèm hình ảnh**
 

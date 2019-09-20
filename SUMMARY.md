@@ -55,6 +55,8 @@
       * [Automation gửi email transcript](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-automation-thong-dung/automation-gui-email-transcript.md)
       * [Automation tự động like, ẩn và trả lời bình luận Facebook](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-automation-thong-dung/quan-ly-comment-facebook-cung-automation.md)
     * [Một số Ứng dụng Automation](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/README.md)
+      * [Một số mẫu tin nhắn trong Automation để chào khách hàng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/mot-so-mau-tin-nhan-trong-automation-de-chao-khach-hang/README.md)
+        * [Untitled](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/mot-so-mau-tin-nhan-trong-automation-de-chao-khach-hang/untitled.md)
       * [Hỏi thông tin khách hàng theo thời gian làm việc](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/hoi-thong-tin-khach-hang-theo-thoi-gian-lam-viec.md)
       * [Phân loại và theo đuổi khách hàng tiềm năng](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/phan-loai-va-theo-duoi-khach-hang-tiem-nang.md)
       * [Tự động hóa quy trình xử lý Ticket](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/tu-dong-hoa-quy-trinh-xu-ly-ticket.md)
