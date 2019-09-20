@@ -4,15 +4,17 @@ Với chức năng Automation gửi tin nhắn tự động của Subiz bạn c�
 
 ### **Gửi tin nhắn cùng video thu hút**
 
-Bạn đang chạy chương trình giảm giá và muốn thông báo đến khách hàng ngay khi vào website để kích thích nhu cầu của họ. Bạn hoàn toàn có thể gắn một video ngắn về chương trình ưu đãi này để thu hút khách hàng hơn**:**
+Những video là nam châm thu hút khách hàng. Hãy truyền thông chúng ngay trên cửa sổ Subiz chat - một cách nổi bật để khách hàng hào hứng tìm hiểu thêm về sản phẩm của bạn 
 
 ![G&#x1EAF;n video v&#xE0;o tin nh&#x1EAF;n](../../../.gitbook/assets/videomessage.gif)
+
+Để thêm Video, bạn có th**ể** vào mục[ Tạo Automation ](https://app.subiz.com/settings/automations/add-conversation)và lựa chọn **Thêm đính kèm** &gt; **Tệp**
 
 **Lưu ý**: Dung lượng video tối đa là 25Mb
 
 ### **Gắn link vào tin nhắn**
 
-Nếu như bạn muốn cập nhật tới khách hàng những thông tin mới nhất: sản phẩm mới, thông tin ưu đãi, chương trình học, lịch đào tạo... bạn hoàn toàn có thể gắn link thông tin đó vào tin nhắn tự động để thông báo tới khách hàng ngay khi họ vào website:
+Đôi khi bạn dự đoán được nhu cầu khách hàng, hoặc đơn giản là muốn giới thiệu những sản phẩm ưu việt hoặc chính sách giá mới nhất. Hãy gắn link vào cửa sổ Subiz để cung cấp thêm thông tin, rút ngắn thời gian quyết định mua hàng của khách. Rất có thể khách sẽ dừng chân tại website thay vì lang thang tìm hiểu thêm trên Google.
 
 ![&#x110;&#xED;nh k&#xE8;m link](../../../.gitbook/assets/link.png)
 
@@ -36,7 +38,7 @@ Bạn có thể sử dụng đoạn mã Mardown sau để đính kèm link vào 
 
 ### **Hỏi thông tin khách hàng**
 
-Việc xác định khách hàng tiềm năng ngay trước khi bắt đầu tương tác sẽ giúp bạn có thể tiết kiệm thời gian và lựa chọn phương án hỗ trợ phù hợp nhất với từng đối tượng khách hàng. Nếu như doanh nghiệp của bạn cần thu thập thông tin khách hàng để phân loại khách hàng tiềm năng, bạn có thể cài đặt tin nhắn tự động với form hỏi thông tin:
+Nếu như doanh nghiệp của bạn cần thu thập thông tin khách hàng để phân loại khách hàng tiềm năng, bạn có thể cài đặt tin nhắn tự động với form hỏi thông tin:
 
 ![H&#x1ECF;i th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng](../../../.gitbook/assets/sendcaptureleads%20%281%29.png)
 
