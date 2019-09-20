@@ -16,7 +16,7 @@ Những video là nam châm thu hút khách hàng. Hãy truyền thông chúng n
 
 Đôi khi bạn dự đoán được nhu cầu khách hàng, hoặc đơn giản là muốn giới thiệu những sản phẩm ưu việt hoặc chính sách giá mới nhất. Hãy gắn link vào cửa sổ Subiz để cung cấp thêm thông tin, rút ngắn thời gian quyết định mua hàng của khách. Rất có thể khách sẽ dừng chân tại website thay vì lang thang tìm hiểu thêm trên Google.
 
-![&#x110;&#xED;nh k&#xE8;m link](../../../.gitbook/assets/link.png)
+![G&#x1EAF;n link v&#xE0;o tin nh&#x1EAF;n](../../../.gitbook/assets/urlbutton_2.jpg)
 
 ### **Gắn kèm ảnh và trả lời nhanh**
 
@@ -28,7 +28,7 @@ Những video là nam châm thu hút khách hàng. Hãy truyền thông chúng n
 
 Để dẫn khách hàng tới trang mà bạn mong muốn, hãy tạo một Automation với hình ảnh bắt mắt và không quên đính kèm link của trang mà bạn muốn điều hướng. Đây là cách hiệu quả, giúp bạn giới thiệu những thông tin cập nhật mới nhất trên website ngay khi khách hàng vào web.
 
-![G&#x1EAF;n link v&#xE0;o h&#xEC;nh &#x1EA3;nh](../../../.gitbook/assets/markdown.png)
+![G&#x1EAF;n link v&#xE0;o h&#xEC;nh &#x1EA3;nh](../../../.gitbook/assets/markdown.jpg)
 
 Bạn có thể sử dụng đoạn mã Mardown sau để đính kèm link vào hình ảnh trong mẫu tin nhắn: 
 
@@ -52,7 +52,7 @@ Việc gắn button Hotline vào tin nhắn sẽ giúp khách hàng có thể d�
 
 Nếu bạn muốn điều hướng khách hàng liên hệ sang kênh Messenger, hoặc đơn giản tạo cho khách hàng nhiều sự lựa chọn để tương tác với bạn. Bạn có thể gắn link Messenger ngay trong tin nhắn:
 
-![Th&#xEA;m &#x111;&#x1ECB;a ch&#x1EC9; Messenger](../../../.gitbook/assets/facebook.png)
+![G&#x1EAF;n &#x111;&#x1ECB;a ch&#x1EC9; Messenger](../../../.gitbook/assets/urlbutton.jpg)
 
 Để cài đặt Automation gửi tin nhắn tự động, bạn có thể tham khảo hướng dẫn chi tiết: [Tại đây](https://help.subiz.com/su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-automation-thong-dung/automation-gui-tin-nhan-tu-dong)  
 
