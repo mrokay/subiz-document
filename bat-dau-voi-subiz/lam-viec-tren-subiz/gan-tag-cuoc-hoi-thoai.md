@@ -41,7 +41,7 @@ Các Tag được tạo sẽ hiển thị trong danh sách như sau:
 
 Để gắn Tag, bạn click vào biểu tượng gắn Tag trong cuộc hội thoại và lựa chọn Tag phù hợp trong danh sách có sẵn và Lưu lại.
 
-![G&#x1EAF;n Tag cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/gan-tag-cuoc-chat%20%281%29.png)
+![G&#x1EAF;n Tag cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/gan-tag%20%282%29.png)
 
 {% hint style="info" %}
 **Lưu ý:**
@@ -55,7 +55,7 @@ Các Tag được tạo sẽ hiển thị trong danh sách như sau:
 
 Để xóa Tag, Agent click vào dấu " x " của tag đã chọn sau đó Lưu lại
 
-![X&#xF3;a Tag](../../.gitbook/assets/xoa-tag.png)
+![X&#xF3;a Tag](../../.gitbook/assets/xoa.png)
 
 ### Thống kê Tag
 
