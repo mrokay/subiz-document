@@ -55,7 +55,7 @@ Các Tag được tạo sẽ hiển thị trong danh sách như sau:
 
 Để xóa Tag, Agent click vào dấu " x " của tag đã chọn sau đó Lưu lại
 
-![X&#xF3;a Tag](../../.gitbook/assets/xoa.png)
+![X&#xF3;a Tag](../../.gitbook/assets/xoa%20%281%29.png)
 
 ### Thống kê Tag
 
