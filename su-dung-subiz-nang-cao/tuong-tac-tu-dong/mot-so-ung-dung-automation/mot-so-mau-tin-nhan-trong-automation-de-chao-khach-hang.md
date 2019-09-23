@@ -18,11 +18,23 @@ Những video là nam châm thu hút khách hàng. Hãy truyền thông chúng n
 
 ![G&#x1EAF;n link v&#xE0;o tin nh&#x1EAF;n](../../../.gitbook/assets/urlbutton_2.jpg)
 
+Để gắn link vào tin nhắn, bạn có th**ể** vào mục[ Tạo Automation ](https://app.subiz.com/settings/automations/add-conversation)và lựa chọn **Thêm đính kèm** &gt; **URL Button**
+
 ### **Gắn kèm ảnh và trả lời nhanh**
 
 Đôi khi khách hàng sẽ ngần ngại trước khi nhắn tin cho bạn vì không biết phải bắt đầu từ đâu. Hãy tạo những câu trả lời nhanh để khách hàng lựa chọn và dễ dàng mở đầu câu chuyện với bạn:
 
-![](../../../.gitbook/assets/gif_quickreplies.gif)
+![G&#x1EAF;n k&#xE8;m &#x1EA3;nh v&#xE0; c&#xE2;u tr&#x1EA3; l&#x1EDD;i nhanh](../../../.gitbook/assets/gif_quickreplies.gif)
+
+Để thêm gắn kèm ảnh và thêm câu trả lời nhanh bạn có thể thao tác như sau: Vào mục [ Tạo Automation](https://app.subiz.com/settings/automations/add-conversation)
+
+* Sử dụng đoạn mã markdown trong phần tin nhắn: 
+
+```text
+![Atom](Link ảnh)
+```
+
+* Tạo button trả lời nhanh: Lựa chọn **Thêm đính kèm** &gt; **Câu trả lời nhanh**
 
 ### **Đính kèm link vào hình ảnh**
 
@@ -42,17 +54,23 @@ Nếu như doanh nghiệp của bạn cần thu thập thông tin khách hàng �
 
 ![H&#x1ECF;i th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng](../../../.gitbook/assets/sendcaptureleads%20%281%29.png)
 
+Để thêm phần hỏi thông tin, bạn có th**ể** vào mục[ Tạo Automation ](https://app.subiz.com/settings/automations/add-conversation)và lựa chọn **Thêm đính kèm** &gt; **Hỏi thông tin khách hàng**
+
 ### **Gắn button Hotline vào tin nhắn**
 
 Việc gắn button Hotline vào tin nhắn sẽ giúp khách hàng có thể dễ dàng liên hệ đến bạn trong trường hợp cần thiết. Khi khách hàng click vào số điện thoại, họ sẽ có thể gọi cho bạn trực tiếp trên di động hoặc trên máy tính nếu có phần mềm hỗ trợ.
 
 ![G&#x1EAF;n k&#xE8;m Hotline](../../../.gitbook/assets/callbutton.png)
 
+Để thêm phần Liên hệ , bạn có th**ể** vào mục[ Tạo Automation ](https://app.subiz.com/settings/automations/add-conversation)và lựa chọn **Thêm đính kèm** &gt; **Call Button**
+
 ### **Thêm địa chỉ Messenger**
 
 Nếu bạn muốn điều hướng khách hàng liên hệ sang kênh Messenger, hoặc đơn giản tạo cho khách hàng nhiều sự lựa chọn để tương tác với bạn. Bạn có thể gắn link Messenger ngay trong tin nhắn:
 
 ![G&#x1EAF;n &#x111;&#x1ECB;a ch&#x1EC9; Messenger](../../../.gitbook/assets/urlbutton.jpg)
+
+Để thêm phần Liên hệ Facebook, bạn có th**ể** vào mục[ Tạo Automation ](https://app.subiz.com/settings/automations/add-conversation)và lựa chọn **Thêm đính kèm** &gt; **URL Button** và thêm Link Fanpage của bạn
 
 Để cài đặt Automation gửi tin nhắn tự động, bạn có thể tham khảo hướng dẫn chi tiết: [Tại đây](https://help.subiz.com/su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-automation-thong-dung/automation-gui-tin-nhan-tu-dong)  
 

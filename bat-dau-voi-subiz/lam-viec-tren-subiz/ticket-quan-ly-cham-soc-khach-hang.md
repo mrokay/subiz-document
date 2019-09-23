@@ -12,29 +12,36 @@ Ví dụ: Khách hỏi về mẫu sản phẩm đang hết hàng, khách phàn n
 
 Từ một hội thoại của khách hàng trên bất kỳ kênh tương tác nào như Subiz chat, Email, Messenger,..., agent có thể chuyển thành Ticket để ghi nhận và theo dõi kết quả giải quyết yêu cầu của khách hàng
 
-![Chuy&#x1EC3;n th&#xE0;nh Ticket t&#x1EEB; h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/1-chuyen-ticket-copy.jpg)
+![Q](../../.gitbook/assets/tao-ticket.png)
 
 Agent sẽ thiết lập và phân loại ticket theo các dữ liệu sau:
 
 * **Mức ưu tiên**: Khẩn cấp, Cao, Trung Bình, Thấp
 * **Trạng thái**: Đang mở, Chờ xử lý, Đã giải quyết, Đóng
 * **Hạn xử lý**: Ticket mới tạo sẽ mặc định chọn Hạn xử lý theo thời gian [ticket SLA](https://app.subiz.com/settings/ticket-list) hoặc bạn có thể tùy chỉnh thời gian hạn xử lý.
-* **Agent**: Agent xử lý ticket chính là Agent được chỉ định cuộc hội thoại
 * **Ghi chú**: Tóm tắt ngắn gọn vấn đề hay yêu cầu của khách hàng
 
-![Ph&#xE2;n lo&#x1EA1;i ticket](../../.gitbook/assets/tao-ticket-copy.jpg)
+Bạn có thể kết hợp chức năng [Gắn Tag cuộc hội thoại](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/gan-tag-cuoc-hoi-thoai) và Ticket để có thể nắm được vấn đề chính hỗ trợ khách hàng và dễ dàng lọc, theo dõi và xử lý các Ticket.
+
+![](../../.gitbook/assets/tuy-chinh-2.png)
 
 ### **2. Theo dõi và quản lý ticket**
 
 Ticket được tạo thành công sẽ hiển thị thông báo ngay trên cuộc hội thoại. 
 
-Agent sẽ vào danh sách Ticket để theo dõi các ticket đang có và lọc ticket theo NHÓM, TRẠNG THÁI, ... để ưu tiên xử lý các yêu cầu của khách hàng.
+![Ticket](../../.gitbook/assets/thong-bao%20%281%29.png)
 
-![Qu&#x1EA3;n l&#xFD; danh s&#xE1;ch ticket](../../.gitbook/assets/quan-ly-ticket-copy.jpg)
+Bạn có thể dễ dàng theo dõi các Ticket trong trang quản lý Ticket: [Tại đây](https://app.subiz.com/tickets) 
 
-Agent có thể tùy chỉnh các dữ liệu của ticket và cập nhật Trạng thái kết quả xử lý ticket.
+![Trang Ticket](../../.gitbook/assets/trang-ticket.png)
 
-![C&#x1EAD;p nh&#x1EAD;t d&#x1EEF; li&#x1EC7;u Ticket](../../.gitbook/assets/cap-nhat-ticket-copy.jpg)
+Chức năng Lọc Ticket sẽ giúp bạn có thể quan sát được tình hình hỗ trợ khách hàng, bạn có thể lọc theo mức độ ưu tiên của Ticket, tình trang xử lý, thời gian tạo hay Tags của Ticket...hoặc kết hợp nhiều trường lọc với nhau.
+
+![L&#x1ECD;c Ticket](../../.gitbook/assets/loc.png)
+
+Trong qúa trình xử lý Ticket, Agent cần lưu ý cập nhật thời gian xử lý Ticket để chủ động trong việc hỗ trợ khách hàng:
+
+![C&#xE2;p nh&#x1EAD;t Ticket](../../.gitbook/assets/capj-nhat.png)
 
 ## Một số lưu ý khi sử dụng ticket 
 
