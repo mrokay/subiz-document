@@ -30,7 +30,7 @@ Bạn có thể tạo điều kiện như sau:
 
 * Bạn có thể thay thế trường Fullname bằng các trường Emails hoặc Phones để nhận diện khách hàng cũ.
 
-![Tr&#x1B0;&#x1EDD;ng email](../../../.gitbook/assets/email%20%281%29.png)
+![Tr&#x1B0;&#x1EDD;ng email](../../../.gitbook/assets/email%20%282%29.png)
 
 Sau khi thiết lập điều kiện, bạn nhấn **Tiếp tục** bạn chuyển sang bước Lưu tên Automation
 

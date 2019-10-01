@@ -67,6 +67,7 @@
     * [Quan sát khách truy cập](su-dung-subiz-nang-cao/quan-ly-du-lieu/quan-sat-khach-truy-cap.md)
     * [Quản lý và cập nhật thông tin user](su-dung-subiz-nang-cao/quan-ly-du-lieu/quan-ly-va-cap-nhat-thong-tin-user.md)
     * [Tùy chỉnh thông tin khách hàng](su-dung-subiz-nang-cao/quan-ly-du-lieu/thong-tin-khach-hang.md)
+    * [Xuất File dữ liệu khách hàng](su-dung-subiz-nang-cao/quan-ly-du-lieu/xuat-file-du-lieu-khach-hang.md)
     * [Chặn một User](su-dung-subiz-nang-cao/quan-ly-du-lieu/lam-the-nao-de-chan-mot-user.md)
     * [Phân khúc khách hàng](su-dung-subiz-nang-cao/quan-ly-du-lieu/phan-khuc-khach-hang.md)
     * [API Javascript đồng bộ dữ liệu website và Subiz](su-dung-subiz-nang-cao/quan-ly-du-lieu/api-dong-bo-du-lieu-website-va-subiz.md)

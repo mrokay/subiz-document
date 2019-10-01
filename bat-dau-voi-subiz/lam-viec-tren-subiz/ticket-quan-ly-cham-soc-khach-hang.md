@@ -37,7 +37,7 @@ Bạn có thể dễ dàng theo dõi các Ticket trong trang quản lý Ticket: 
 
 Chức năng Lọc Ticket sẽ giúp bạn có thể quan sát được tình hình hỗ trợ khách hàng, bạn có thể lọc theo mức độ ưu tiên của Ticket, tình trang xử lý, thời gian tạo hay Tags của Ticket...hoặc kết hợp nhiều trường lọc với nhau.
 
-![L&#x1ECD;c Ticket](../../.gitbook/assets/loc.png)
+![L&#x1ECD;c Ticket](../../.gitbook/assets/loc%20%281%29.png)
 
 Trong qúa trình xử lý Ticket, Agent cần lưu ý cập nhật thời gian xử lý Ticket để chủ động trong việc hỗ trợ khách hàng:
 

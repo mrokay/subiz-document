@@ -48,6 +48,8 @@ Bạn có thể sử dụng đoạn mã Mardown sau để đính kèm link vào 
 [![img](Link hình ảnh)](Đường dẫn link page)
 ```
 
+### \*\*\*\*
+
 ### **Hỏi thông tin khách hàng**
 
 Nếu như doanh nghiệp của bạn cần thu thập thông tin khách hàng để phân loại khách hàng tiềm năng, bạn có thể cài đặt tin nhắn tự động với form hỏi thông tin:
