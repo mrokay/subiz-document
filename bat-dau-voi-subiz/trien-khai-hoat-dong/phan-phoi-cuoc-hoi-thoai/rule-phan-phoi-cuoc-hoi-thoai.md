@@ -12,11 +12,11 @@ Ví dụ, một doanh nghiệp có 3 agent là các sales hoạt động đồng
 
 * Trong giờ làm việc: áp dụng cơ chế giao khách cạnh tranh – ai trả lời trước sẽ chuyển chat cho người đó.
 
-![Rule ph&#xE2;n ph&#x1ED1;i c&#x1EA1;nh tranh](../../../.gitbook/assets/rule-phan-phoi-canh-tranhpng.png)
+![Rule ph&#xE2;n ph&#x1ED1;i c&#x1EA1;nh tranh](../../../.gitbook/assets/rule-phan-phoi-trong-gio-agent-tra-loi-truoc%20%281%29.png)
 
 * Ngoài giờ làm việc: Phân cho 1 agent phụ trách chính và Subot - Bot tự động Trả lời và Hỏi thông tin.
 
-![Rule ngo&#xE0;i gi&#x1EDD; l&#xE0;m vi&#x1EC7;c](../../../.gitbook/assets/rule-ngoai-gio-lam-viec.png)
+![Rule ngo&#xE0;i gi&#x1EDD; l&#xE0;m vi&#x1EC7;c](../../../.gitbook/assets/rule-phan-phoi-ngoai-gio%20%281%29.png)
 
 Hai Rule trên sẽ cài đặt theo thứ tự như sau:
 
@@ -456,7 +456,7 @@ Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
   </tbody>
 </table>### Bước 3: Chọn cách thức phân phối tới Agent
 
-![C&#xE1;ch th&#x1EE9;c ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c c&#xE1;c cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../../.gitbook/assets/co-che-phan-phoi-chat%20%281%29.png)
+![C&#xE1;ch th&#x1EE9;c ph&#xE2;n ph&#x1ED1;i cu&#x1ED9;c c&#xE1;c cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../../.gitbook/assets/co-che-phan-phoi-toi-agent.png)
 
 Bây giờ, bạn chọn cách thức phân phối cuộc các cuộc hội thoại thỏa mãn các điều kiện đã đặt ở trên:
 
@@ -467,9 +467,11 @@ Bây giờ, bạn chọn cách thức phân phối cuộc các cuộc hội tho�
 * **Phân phối cuộc hội thoại đồng đều theo vòng**: Bạn có nhiều agent và muốn chỉ định theo vòng chia đều cuộc hội thoại của khách cho các agent. 
 * **Phân phối hội thoại cho Agent trả lời trước:** Rule này nhằm đẩy mạnh tính cạnh tranh cho các doanh nghiệp có nhiều agent là tư vấn viên và sẽ phân phối theo cơ chế ****tất cả những agents sẽ nhận được thông báo agent nào phản hồi trước sẽ được tiếp tục cuộc hội thoại.
 
-**Ví dụ:** Trong giờ làm việc, các agent đều nhận được thông báo,  agent nào trả lời trước, hội thoại sẽ được phân cho agent đó.
+Ngoài ra, với mỗi cơ chế phân phối trên, bạn còn có thể tùy chọn **Chỉ phân phối cho agent đang online.** Mục đích của cơ chế trên hỗ trợ các doanh nghiệp có nhiều agent và làm việc theo ca không cố định. Các agent không online sẽ không được phân phối và không nhận nhận được thông báo cho hội thoại trên
 
-![Rule ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho agent tr&#x1EA3; l&#x1EDD;i tr&#x1B0;&#x1EDB;c](../../../.gitbook/assets/trong-gio-lam-viec-phan-cho-agent-tra-loi-truoc.png)
+**Ví dụ:** Trong giờ làm việc, các agent nào đang online sẽ nhận được thông báo, agent nào trả lời trước, hội thoại sẽ được phân cho agent đó.
+
+![Rule ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho agent tr&#x1EA3; l&#x1EDD;i tr&#x1B0;&#x1EDB;c](../../../.gitbook/assets/rule-phan-phoi-trong-gio-agent-tra-loi-truoc%20%282%29.png)
 
 ## Lưu ý khi cài đặt Rule
 

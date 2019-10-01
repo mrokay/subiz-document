@@ -22,11 +22,11 @@ Bạn cài đặt 2 Rule như sau:
 
 * Rule 1: Phân cuộc hội thoại cho Agent trong giờ làm việc
 
-![Trong gi&#x1EDD; l&#xE0;m vi&#x1EC7;c](../../../.gitbook/assets/trong-gio-lam-viec%20%281%29.png)
+![Trong gi&#x1EDD; l&#xE0;m vi&#x1EC7;c](../../../.gitbook/assets/rule-phan-phoi-trong-gio.png)
 
 * Rule 2**:** Phân cuộc hội thoại cho Agent ngoài giờ làm việc
 
-![Ngo&#xE0;i gi&#x1EDD; l&#xE0;m vi&#x1EC7;c](../../../.gitbook/assets/ngoai-gio-lam-viec.png)
+![Ngo&#xE0;i gi&#x1EDD; l&#xE0;m vi&#x1EC7;c](../../../.gitbook/assets/rule-phan-phoi-ngoai-gio.png)
 
 ### **Phân phối cuộc hội thoại theo ca trực của agent / ngày làm việc trong tuần.**
 
@@ -36,11 +36,11 @@ Ví dụ: Agent Hoa Tạ nhận cuộc chat vào các ngày 2, 4, 6 và chủ nh
 
 * Rule 1: Phân cuộc hội thoại cho Agent Hoa Ta
 
-![Ph&#xE2;n cu&#x1ED9;c chat cho Agent Hoa Ta](../../../.gitbook/assets/ca-lam-viec-1.png)
+![Ph&#xE2;n cu&#x1ED9;c chat cho Agent Hoa Ta](../../../.gitbook/assets/phan-cuoc-chat-ngay-chan-cho-hoa-ta.png)
 
 * Rule 2**:** Phân cuộc hội thoại cho Agent Linh Lê
 
-![Ph&#xE2;n cu&#x1ED9;c chat cho Agent Linh L&#xEA;](../../../.gitbook/assets/ca-lam-viec-2.png)
+![Ph&#xE2;n cu&#x1ED9;c chat cho Agent Linh L&#xEA;](../../../.gitbook/assets/phan-cuoc-chat-ngay-le-cho-linh.png)
 
 ### **Phân phối cuộc hội thoại theo ngôn ngữ website**
 
@@ -50,13 +50,13 @@ Nếu doanh nghiệp của bạn đang làm việc với mô hình như vậy, b
 
 Nếu website của bạn đang hỗ trợ 2 ngôn ngữ tiếng anh và tiếng việt, bạn có thể triển khai cơ chế phân phối rule như sau:
 
-* Rule 1: Phân cuộc hội thoại web tiếng Việt cho Agent Hoa Ta
+* Rule 1: Phân cuộc hội thoại website tiếng Việt cho Agent Hoa Ta
 
-![Cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i t&#x1EEB; web ti&#x1EBF;ng Vi&#x1EC7;t](../../../.gitbook/assets/tieng-viet-1.png)
+![Cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i t&#x1EEB; website ti&#x1EBF;ng Vi&#x1EC7;t](../../../.gitbook/assets/phan-chat-website-tieng-viet-cho-agent-hoa-ta.png)
 
-* Rule 2: Phân cuộc hội thoại web tiếng Anh cho Agent Linh Lê
+* Rule 2: Phân cuộc hội thoại website tiếng Anh cho Agent Linh Lê
 
-![Cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i t&#x1EEB; web ti&#x1EBF;ng Anh](../../../.gitbook/assets/tieng-anh-1.png)
+![Cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i t&#x1EEB; website ti&#x1EBF;ng Anh](../../../.gitbook/assets/phan-chat-website-tieng-anh-cho-agent-linh.png)
 
 ### Phân phối cuộc hội thoại cho cuộc hội thoại từ các kênh khác nhau
 
@@ -65,11 +65,11 @@ Với những đơn vị sử dụng nhiều kênh tương tác: website, fanpag
 Nếu bạn có người phụ trách riêng cho từng kênh, bạn có thể sử dụng chức năng Rule để phân phối cuộc hội thoại theo kênh, giúp các agent chuyên biệt hóa kênh làm việc chính của mình. Bạn có thể cài đặt theo kênh tương tác như sau:  
 Rule 1: Phân phối hội thoại từ kênh Website \( Subiz chat\)
 
-![Cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i t&#x1EEB; website](../../../.gitbook/assets/website.png)
+![Cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i t&#x1EEB; website](../../../.gitbook/assets/phan-rule-kenh-website-cho-chi.png)
 
 Rule 2: Phân phối hội thoại từ kênh Email, Messenger và Facebook Comment
 
-![Ph&#xE2;n ph&#x1ED1;i t&#x1EEB; k&#xEA;nh Email, Messenger v&#xE0; Facebook Comment](../../../.gitbook/assets/phaan-phoi.png)
+![Ph&#xE2;n ph&#x1ED1;i t&#x1EEB; k&#xEA;nh Email, Messenger v&#xE0; Facebook Comment](../../../.gitbook/assets/phan-phoi-hoi-thoai-theo-kenh-fanpagepng.png)
 
 ### Phân phối hội thoại theo vùng địa lý khách hàng 
 
@@ -77,7 +77,7 @@ Nếu doanh nghiệp của bạn có nhiều chi nhánh ở các tỉnh, thành 
 
 Với bất cứ cuộc chat nào đến, dựa trên địa điểm truy cập của khách hàng, Subiz sẽ phân phối tới đúng chi nhánh gần khách hàng nhất, giúp cho việc kết nối giữa doanh nghiệp và khách hàng trở lên nhanh chóng hơn, khách hàng cũng sẽ không cần thông qua nhiều khâu chuyển thông tin để được hỗ trợ
 
-![Ph&#xE2;n cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i theo khu v&#x1EF1;c &#x111;&#x1ECB;a l&#xFD;](../../../.gitbook/assets/hanoi.png)
+![Ph&#xE2;n cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i theo khu v&#x1EF1;c &#x111;&#x1ECB;a l&#xFD;](../../../.gitbook/assets/phan-chat-theo-tp.png)
 
 Tương tự bạn sẽ cài đặt Rule cho các thành phố còn lại.
 
@@ -90,19 +90,19 @@ Với cơ chế này, bạn vẫn có thể quản trị tất cả các tương
 Bạn có thể dựa vào domain của website để phân phối cuộc hội thoại như sau:
 
   
-Rule 1: Phân phối hội thoại từ website canhogiare.com
+**Rule 1:** Phân phối hội thoại từ website canhogiare.com
 
-![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i theo website](../../../.gitbook/assets/canhogiarecom.png)
+![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i theo website](../../../.gitbook/assets/phan-phoi-hoi-thoai-theo-website-cu-the1.png)
 
 **Rule 2**: Phân phối hội thoại từ website chothuecanho.vn
 
-![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i theo website](../../../.gitbook/assets/chothuecanhovn.png)
+![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i theo website](../../../.gitbook/assets/phan-phoi-cuoc-chat-theo-link-website.png)
 
 ### Phân phối hội thoại cho Agent trả lời nhanh nhất
 
 Đối với đơn vị có nhiều nhân viên cùng tham gia Subiz đặc biệt là một nhóm nhân viên sale, support...việc tạo sự cạnh tranh giữa các nhân viên sẽ góp phần thúc đẩy hiệu qủa làm việc, trách nhiệm với công việc cũng như cơ sở đánh giá KPI để thực hiện các cơ chế thưởng, phạt đổi với nhân viên.
 
-Bạn có thể lựa chọn cơ chế phân phối tới Agent trả lời trước cho nhóm nhân viên của mình. Theo đó, cuộc hội thoại sẽ được phân cho một nhóm agent, người nào trả lời trước sẽ được phụ trách luôn cuộc chat đó và những người còn lại sẽ không trả lời được tiếp. Bạn sẽ thiết lập như sau:
+Bạn có thể lựa chọn cơ chế phân phối tới Agent trả lời trước cho nhóm nhân viên của mình. Thêm vào đó, bạn có thể lựa chọn phân phối hội thoại chỉ cho các agent đang online. Theo đó, cuộc hội thoại sẽ được phân cho một nhóm agent, ai đang online sẽ nhận được thông báo hội thoại. Agent nào trả lời trước sẽ được phụ trách luôn cuộc chat đó và những người còn lại sẽ không trả lời được tiếp. Bạn sẽ thiết lập như sau:
 
-![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho Agent tr&#x1EA3; l&#x1EDD;i tr&#x1B0;&#x1EDB;c](../../../.gitbook/assets/agent-tra-loi-truoc.png)
+![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho Agent tr&#x1EA3; l&#x1EDD;i tr&#x1B0;&#x1EDB;c](../../../.gitbook/assets/rule-phan-phoi-trong-gio-agent-tra-loi-truoc.png)
 
