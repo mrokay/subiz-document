@@ -62,12 +62,13 @@ Nếu website của bạn đang hỗ trợ 2 ngôn ngữ tiếng anh và tiếng
 
 Với những đơn vị sử dụng nhiều kênh tương tác: website, fanpage, email...và vẫn muốn quản trị tập trung các tương tác với khách hàng trên cùng một hệ thống, việc sử dụng Subiz là một giải pháp tối ưu. Không chỉ giúp người quản lý có thể theo dõi, nắm bắt toàn bộ hoạt động hỗ trợ khách hàng của doanh nghiệp, cách làm việc, hiệu suất của nhân viên, Subiz có thể giúp bạn theo dõi hiệu qủa của từng kênh riêng.
 
-Nếu bạn có người phụ trách riêng cho từng kênh, bạn có thể sử dụng chức năng Rule để phân phối cuộc hội thoại theo kênh, giúp các agent chuyên biệt hóa kênh làm việc chính của mình. Bạn có thể cài đặt theo kênh tương tác như sau:  
-Rule 1: Phân phối hội thoại từ kênh Website \( Subiz chat\)
+Nếu bạn có người phụ trách riêng cho từng kênh, bạn có thể sử dụng chức năng Rule để phân phối cuộc hội thoại theo kênh, giúp các agent chuyên biệt hóa kênh làm việc chính của mình. Bạn có thể cài đặt theo kênh tương tác như sau:
+
+* **Rule 1:** Phân phối hội thoại từ kênh Website \( Subiz chat\)
 
 ![Cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i t&#x1EEB; website](../../../.gitbook/assets/phan-rule-kenh-website-cho-chi.png)
 
-Rule 2: Phân phối hội thoại từ kênh Email, Messenger và Facebook Comment
+* **Rule 2:** Phân phối hội thoại từ kênh Email, Messenger và Facebook Comment
 
 ![Ph&#xE2;n ph&#x1ED1;i t&#x1EEB; k&#xEA;nh Email, Messenger v&#xE0; Facebook Comment](../../../.gitbook/assets/phan-phoi-hoi-thoai-theo-kenh-fanpagepng.png)
 
@@ -102,7 +103,11 @@ Bạn có thể dựa vào domain của website để phân phối cuộc hội 
 
 Đối với đơn vị có nhiều nhân viên cùng tham gia Subiz đặc biệt là một nhóm nhân viên sale, support...việc tạo sự cạnh tranh giữa các nhân viên sẽ góp phần thúc đẩy hiệu qủa làm việc, trách nhiệm với công việc cũng như cơ sở đánh giá KPI để thực hiện các cơ chế thưởng, phạt đổi với nhân viên.
 
-Bạn có thể lựa chọn cơ chế phân phối tới Agent trả lời trước cho nhóm nhân viên của mình. Thêm vào đó, bạn có thể lựa chọn phân phối hội thoại chỉ cho các agent đang online. Theo đó, cuộc hội thoại sẽ được phân cho một nhóm agent, ai đang online sẽ nhận được thông báo hội thoại. Agent nào trả lời trước sẽ được phụ trách luôn cuộc chat đó và những người còn lại sẽ không trả lời được tiếp. Bạn sẽ thiết lập như sau:
+Bạn có thể lựa chọn cơ chế phân phối tới Agent trả lời trước cho nhóm nhân viên của mình. Thêm vào đó, bạn có thể lựa chọn **phân phối hội thoại chỉ cho các agent đang online**. Theo đó, cuộc hội thoại sẽ được phân cho một nhóm agent, ai đang online sẽ nhận được thông báo hội thoại. Agent nào trả lời trước sẽ được phụ trách luôn cuộc chat đó và những người còn lại sẽ không trả lời được tiếp. Bạn sẽ thiết lập như sau:
 
 ![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho Agent tr&#x1EA3; l&#x1EDD;i tr&#x1B0;&#x1EDB;c](../../../.gitbook/assets/rule-phan-phoi-trong-gio-agent-tra-loi-truoc.png)
+
+### 
+
+\*\*\*\*
 

@@ -371,7 +371,7 @@ Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">&#x110;&#x1EA1;i ch&#x1EC9;</td>
+      <td style="text-align:left">&#x110;&#x1ECB;a ch&#x1EC9;</td>
       <td style="text-align:left">D&#xF9;ng khi b&#x1EA1;n mu&#x1ED1;n d&#x1EF1;a tr&#xEA;n &#x111;&#x1ECB;a
         ch&#x1EC9; truy c&#x1EAD;p c&#x1EE7;a kh&#xE1;ch &#x111;&#x1EC3; ph&#xE2;n
         ph&#x1ED1;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i</td>
@@ -460,14 +460,13 @@ Bạn có thể chọn nhiều điều kiện để cài đặt Rule:
 
 Bây giờ, bạn chọn cách thức phân phối cuộc các cuộc hội thoại thỏa mãn các điều kiện đã đặt ở trên:
 
-* **Phân phối tới tất cả available agents**: Available agent là những agent có kết nối trực tiếp với Subiz trên máy tính hoặc app mobile.
 * **Phân phối tới các agents**: Chọn cụ thể Agent bạn muốn phân phối hội thoại của khách hàng
 * **Phân phối tới các nhóm**: Chọn nhóm agent bạn đã tạo để phân phối hội thoại của khách hàng
 * **Phân phối tới agent có tương tác cuối cùng với khách hàng**: Khi agent đã hỗ trợ khách hàng trước đó, bạn sẽ chọn chỉ định các cuộc hội thoại tiếp theo của khách cho agent tiếp tục chăm sóc và tư vấn.
 * **Phân phối cuộc hội thoại đồng đều theo vòng**: Bạn có nhiều agent và muốn chỉ định theo vòng chia đều cuộc hội thoại của khách cho các agent. 
 * **Phân phối hội thoại cho Agent trả lời trước:** Rule này nhằm đẩy mạnh tính cạnh tranh cho các doanh nghiệp có nhiều agent là tư vấn viên và sẽ phân phối theo cơ chế ****tất cả những agents sẽ nhận được thông báo agent nào phản hồi trước sẽ được tiếp tục cuộc hội thoại.
 
-Ngoài ra, với mỗi cơ chế phân phối trên, bạn còn có thể tùy chọn **Chỉ phân phối cho agent đang online.** Mục đích của cơ chế trên hỗ trợ các doanh nghiệp có nhiều agent và làm việc theo ca không cố định. Các agent không online sẽ không được phân phối và không nhận nhận được thông báo cho hội thoại trên
+Ngoài ra, với mỗi cơ chế phân phối trên, bạn còn có thể tùy chọn **Chỉ phân phối cho agent đang online.** Mục đích của cơ chế trên hỗ trợ các doanh nghiệp có nhiều agent và làm việc theo ca không cố định. Các agent không online sẽ không được phân phối và không nhận nhận được thông báo cho hội thoại trên.
 
 **Ví dụ:** Trong giờ làm việc, các agent nào đang online sẽ nhận được thông báo, agent nào trả lời trước, hội thoại sẽ được phân cho agent đó.
 
