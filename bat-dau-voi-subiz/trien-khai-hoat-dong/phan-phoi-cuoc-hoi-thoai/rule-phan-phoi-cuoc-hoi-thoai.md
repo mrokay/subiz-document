@@ -466,11 +466,13 @@ Bây giờ, bạn chọn cách thức phân phối cuộc các cuộc hội tho�
 * **Phân phối cuộc hội thoại đồng đều theo vòng**: Bạn có nhiều agent và muốn chỉ định theo vòng chia đều cuộc hội thoại của khách cho các agent. 
 * **Phân phối hội thoại cho Agent trả lời trước:** Rule này nhằm đẩy mạnh tính cạnh tranh cho các doanh nghiệp có nhiều agent là tư vấn viên và sẽ phân phối theo cơ chế ****tất cả những agents sẽ nhận được thông báo agent nào phản hồi trước sẽ được tiếp tục cuộc hội thoại.
 
-Ngoài ra, với mỗi cơ chế phân phối trên, bạn còn có thể tùy chọn **Chỉ phân phối cho agent đang online.** Mục đích của cơ chế trên hỗ trợ các doanh nghiệp có nhiều agent và làm việc theo ca không cố định. Các agent không online sẽ không được phân phối và không nhận nhận được thông báo cho hội thoại trên.
+{% hint style="info" %}
+Lưu ý: Ngoài ra, với mỗi cơ chế phân phối trên, bạn còn có thể tùy chọn **Chỉ phân phối cho agent đang online.** Mục đích của cơ chế trên hỗ trợ các doanh nghiệp có nhiều agent và làm việc theo ca không cố định. Các agent không online sẽ không được phân phối và không nhận nhận được thông báo cho hội thoại trên.
+{% endhint %}
 
-**Ví dụ:** Trong giờ làm việc, các agent nào đang online sẽ nhận được thông báo, agent nào trả lời trước, hội thoại sẽ được phân cho agent đó.
+**Ví dụ:** Phân phối hội thoại theo vòng cho các agent đang online, ai đang online sẽ nhận được tự động phân phối hội thoại.
 
-![Rule ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i cho agent tr&#x1EA3; l&#x1EDD;i tr&#x1B0;&#x1EDB;c](../../../.gitbook/assets/rule-phan-phoi-trong-gio-agent-tra-loi-truoc%20%282%29.png)
+![Ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i theo v&#xF2;ng cho c&#xE1;c agent &#x111;ang online](../../../.gitbook/assets/phan-phoi-theo-vong-cho-cac-agent-dang-online.png)
 
 ## Lưu ý khi cài đặt Rule
 
