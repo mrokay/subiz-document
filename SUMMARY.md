@@ -39,7 +39,7 @@
       * [Một số ví dụ Rule phân phối hội thoại](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/untitled.md)
       * [Quản lý danh sách Rule](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/quan-ly-danh-sach-rule.md)
   * [Làm việc trên Subiz](bat-dau-voi-subiz/lam-viec-tren-subiz/README.md)
-    * [Tương tác trên kênh Subiz chat](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-tren-kenh-subiz-chat.md)
+    * [Quản lý hội thoại Subiz chat](bat-dau-voi-subiz/lam-viec-tren-subiz/quan-ly-hoi-thoai-subiz-chat.md)
     * [Tương tác qua kênh Email](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-email.md)
     * [Tương tác qua kênh Messenger](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-messenger.md)
     * [Mẫu tin nhắn](bat-dau-voi-subiz/lam-viec-tren-subiz/mau-tin-nhan.md)

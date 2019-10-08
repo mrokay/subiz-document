@@ -8,7 +8,7 @@ Các phần hướng dẫn tại mục Làm việc trên [Subiz ](https://subiz.
 
 Hãy đăng nhập [App.subiz.com](https://app.subiz.com/activities) và lưu ý các hướng dẫn sau để thực hiện hiệu quả các hoạt động tương tác với khách hàng của bạn:
 
-{% page-ref page="tuong-tac-tren-kenh-subiz-chat.md" %}
+{% page-ref page="quan-ly-hoi-thoai-subiz-chat.md" %}
 
 {% page-ref page="tuong-tac-qua-kenh-email.md" %}
 
