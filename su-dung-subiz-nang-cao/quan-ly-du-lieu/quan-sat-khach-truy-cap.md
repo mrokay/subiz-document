@@ -8,11 +8,11 @@ description: >-
 
 ### Làm thế nào để quan sát khách truy cập website?
 
-Ngay trên trang [KHÁCH](https://app.subiz.com/visitors), bạn có thể quan sát và theo dõi được danh sách khách hàng đang viếng thăm trang web của bạn. 
+Ngay trên trang [SUBIZ LIVE](https://app.subiz.com/visitors), bạn có thể quan sát và theo dõi được danh sách khách hàng đang viếng thăm trang web của bạn. 
 
 Có bao nhiêu khách đang trực tuyến online, trong đó có bao nhiêu khách đã có thông tin. Họ là ai, đến từ đâu, đang xem trang nào trên website, khách mới hay khách cũ có hội thoại trò chuyện chưa?
 
-![Quan s&#xE1;ch kh&#xE1;ch truy c&#x1EAD;p website](../../.gitbook/assets/live-1-copy.jpg)
+![Quan s&#xE1;t kh&#xE1;ch truy c&#x1EAD;p SUBIZ LIVE](../../.gitbook/assets/subiz-live-1.png)
 
 Với mỗi khách truy cập, bạn sẽ biết được những thông tin sau:
 
@@ -30,7 +30,7 @@ Sử dụng [Mẫu tin nhắn](https://help.subiz.com/bat-dau-voi-subiz/lam-viec
 
 ### [Subiz](https://subiz.com/vi/) xác định thông tin vị trí khách truy cập dựa vào đâu?
 
-![Hi&#x1EC3;n th&#x1ECB; v&#x1ECB; tr&#xED; &#x111;&#x1ECB;a l&#xFD; c&#x1EE7;a kh&#xE1;ch h&#xE0;ng ](../../.gitbook/assets/ip-khach.jpg)
+![V&#x1ECB; tr&#xED; Kh&#xE1;ch truy c&#x1EAD;p](../../.gitbook/assets/vi-tri-1.png)
 
 Địa chỉ IP được cung cấp bởi ISP \(Internet Service Provider\) và thường xuyên thay đổi. User cũng có thể sử dụng  IP động. Do đó, địa chỉ IP sẽ có sự sai lệch với địa điểm thực của khách hàng.
 
