@@ -52,6 +52,8 @@ Tại đây bạn sẽ xem được 2 danh sách User:
 * **User của tôi**: Mỗi agent sẽ có một danh sách "User của tôi" riêng, các user đã có hội thoại với agent đó. Agent sẽ chủ động theo dõi được các user của mình đã chăm sóc tư vấn.
 * **Connected User**: Tất cả user đã có hội thoại trò chuyện với các agent trong tài khoản. Connected users giúp người quản lý có thể nắm bắt tình hình khách hàng liên hệ và cách chăm sóc tư vấn của các agent.
 
+![](../../.gitbook/assets/user-list-1.png)
+
 Danh sách User được hiển thị dạng bảng với các trường dữ liệu sau:
 
 * **Họ tên**: Hiển thị theo vị trí Thành phố/ Tỉnh nếu khách chưa lưu Họ tên của khách
@@ -68,12 +70,14 @@ Danh sách User được hiển thị dạng bảng với các trường dữ li
 Dễ dàng tùy chọn các thông tin khách hàng sẽ được hiển thị trong bảng Danh sách user theo nhu cầu riêng của Doanh nghiệp. Bạn có thể thêm hoặc xóa bớt thông tin hiển thị như sau:
 
 1. Click chuột vào mục **Tùy chỉnh hiển thị**
-2. Chọn + để thêm thông tin được hiển thị hoặc Chọn - để xóa bỏ thông tin không được hiển thị 
-3. Chọn Đóng để hoàn thành
+2. Chọn **+** để thêm thông tin được hiển thị hoặc Chọn **-** để xóa bỏ thông tin không được hiển thị 
+3. Chọn **Đóng** để hoàn thành
 
 {% hint style="info" %}
-Tip nhỏ: Bạn được tạo thêm nhiều trường dữ liệu khách hàng để thu thập và lưu trữ trên Subiz tại trang [Thông tin khách hàng](https://app.subiz.com/settings/user-attributes)
+Tip nhỏ: Bạn được tạo thêm nhiều thông tin khách hàng để thu thập và lưu trữ trên Subiz tại trang [Thông tin khách hàng](https://app.subiz.com/settings/user-attributes)
 {% endhint %}
+
+![](../../.gitbook/assets/tuy-chinh-hien-thi-11.png)
 
 ### Lọc User
 
