@@ -24,14 +24,14 @@ Trong mục TẠO MẪU TIN NHẮN MỚI có 3 vùng chính:
 
 #### **1.Thêm văn bản**
 
-Khi agent chọn Tạo mẫu tin nhắn mới, sẽ hiển thị ô Tin nhắn văn bản để bạn nhập nội dung mẫu tin nhắn, thêm Icon cảm xúc và Trường thông tin của khách hàng như Họ tên - Fullname, Emails, Phone,...để tạo sự gần gũi và đem lại cảm giác riêng biệt cho khách.
+Chọn [**Subiz chat**](https://app.subiz.com/message-template-text?channel=subiz) &gt; Tại vùng Tạo mẫu tin nhắn mới: Chọn **Văn Bản** &gt; Nhập nội dung tin nhắn mẫu, thêm Icon cảm xúc và Trường thông tin của khách hàng như Họ tên - Fullname, Emails, Phone,...để tạo sự gần gũi và đem lại cảm giác riêng biệt cho khách.
 
 ![M&#x1EAB;u tin nh&#x1EAF;n v&#x103;n b&#x1EA3;n](../../.gitbook/assets/van-ban.png)
 
-Phía dưới phần hiển thị nội dung có chức năng thêm button giúp khách hàng click và liên kết tới trang đích. Có 2 loại button là:
+Phía dưới Nội dung tin nhắn mẫu có chức năng thêm button giúp khách hàng click và liên kết tới trang đích. Có 2 loại button là:
 
-* URL - gắn link trang sản phẩm 
-* Gọi điện - gắn số điện thoại để khách click và gọi trực tiếp tới hotline của Doanh Nghiệp.
+* **URL** - gắn đường link trang
+* **Gọi điện** - gắn số điện thoại để khách click và gọi trực tiếp tới hotline của Doanh Nghiệp.
 
 ![Th&#xEA;m button URL](../../.gitbook/assets/button.png)
 
@@ -57,19 +57,16 @@ Chức năng này cho phép agent thêm tối đa 10 sản phẩm trong 1 mẫu 
   
 ****Agent có thể click vào vùng ảnh sản phẩm hoặc tên sản phẩm để truy cập vào link trang sản phẩm và xem thông tin chi tiết của sản phẩm trên website. 
 
-### **Cách sử dụng mẫu tin nhắn** 
+### **Sử dụng mẫu tin nhắn** 
 
 Khi mẫu tin nhắn mới được tạo thành công, agent có thể sử dụng mẫu tin nhắn trong [mỗi cuộc hội thoại](https://app.subiz.com/activities) với khách hàng. 
 
 Ví dụ trên kênh Subiz chat, Agent có 2 cách sử dụng mẫu tin nhắn: 
 
-*  Cách 1: Tại ô Nhập tin nhắn, nhấp chuột vào  icon **+** và chọn **Tin nhắn mẫu** để hiển thị danh sách các mẫu tin nhắn &gt; Di chuyển chuột chọn tin nhắn mẫu &gt; chọn Enter gửi đi
+* Cách 1: Tại ô Nhập tin nhắn, bắt đầu bằng _**/**_ **+ ký tự tắt** và chọn tin nhắn mẫu &gt; **Enter** gửi đi
+* Cách 2: Tại ô Nhập tin nhắn, nhấp chuột chọn **Mẫu tin nhắn** để hiển thị danh sách các tin nhắn mẫu &gt; Chọn tin nhắn mẫu  &gt; chọn **Enter** gửi đi
 
-![Ch&#x1ECD;n m&#x1EAB;u tin nh&#x1EAF;n](../../.gitbook/assets/sd-template-1.png)
-
-*  Cách 2: Tại ô Nhập tin nhắn, bắt đầu bằng _**/**_ **+ ký tự tắt** và chọn tin nhắn mẫu &gt; Enter gửi đi
-
-![Ch&#x1ECD;n tin nh&#x1EAF;n m&#x1EAB;u](../../.gitbook/assets/su-dung-template-2.png)
+![S&#x1EED; d&#x1EE5;ng M&#x1EAB;u tin nh&#x1EAF;n](../../.gitbook/assets/03.-mau-tin-nhan%20%281%29.png)
 
 ### Một số lưu ý sử dụng mẫu tin nhắn 
 
@@ -78,7 +75,7 @@ Ví dụ trên kênh Subiz chat, Agent có 2 cách sử dụng mẫu tin nhắn:
 * **Cá nhân hóa tin nhắn mẫu tới Trường thông tin khách hàng**: Với chức năng thêm Trường thông tin, bạn có thể cá nhân hóa tin nhắn như gọi tên riêng của khách hàng.
 * **Sử dụng Ký tự tắt ngắn và dễ nhớ:** Tạo phím tắt ngắn và dễ nhớ giúp bạn dễ dàng tim kiếm sử dụng khi cần thiết, tránh viết hoa chữ cái đầu.
 * **Thường xuyên cập nhật mới cho Mẫu tin nhắn:** Thay đổi để phát triển. Bạn có thể vào Mẫu tin nhắn và tùy chỉnh trực tiếp mẫu tin nhắn đã có hoặc xóa đi để  tạo mẫu tin nhắn mới.
-* **Tạo mẫu tin nhắn với ký tự tắt "hello" để Say hello** nhanh chóng khách truy cập tại trang [KHÁCH](https://app.subiz.com/visitors).
+* **Tạo mẫu tin nhắn với ký tự tắt "hello" để Say hello** nhanh chóng khách truy cập tại trang [**SUBIZ LIVE**](https://app.subiz.com/visitors).
 
 \*\*\*\*
 
