@@ -24,15 +24,9 @@ Nếu không chắc chắn về mật khẩu, bạn có thể thực hiện [res
 
 ### Agent này đã bị xóa
 
-#### **Nếu tài khoản của bạn là owner \(tài khoản chính\)**:
+**Nguyên nhân:** Tài khoản của bạn đã bị xóa do agent có quyền **Cài đặt tài khoản** thực hiện.
 
-* **Nguyên nhân:** Tài khoản của bạn đã bị xóa tự động khỏi hệ thống do không được xác nhận đăng ký qua email [Subiz](https://subiz.com/vi/) gửi về trong vòng 24h kể từ khi bạn hoàn tất form đăng ký.
-* **Cách khắc phục:** [Subiz](https://subiz.com/vi/) chỉ cho phép 1 địa chỉ email sử dụng một lần duy nhất trong hệ thống, vì vậy bạn cần đăng ký lại bằng 1 email khác và nhớ xác nhận ngay khi đăng ký.
-
-#### **Nếu agent không phải là owner**
-
-* **Nguyên nhân:** Tài khoản của bạn đã bị xóa do agent có quyền cài đặt tài khoản hoặc agent owner thực hiện
-* **Cách khắc phục:** Bạn có thể liên hệ agent có quyền cài đặt tài khoản đăng nhập Dashboard và [mời thêm agent mới](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/untitled/quan-ly-agent/untitled#moi-agent-cung-su-dung-subiz) trên trang quản lý.
+**Cách khắc phục:** Bạn có thể liên hệ agent có quyền Cài đặt tài khoản, đăng nhập Dashboard và [mời thêm agent mới](https://subiz.gitbook.io/subiz-document/bat-dau-voi-subiz/untitled/quan-ly-agent/untitled#moi-agent-cung-su-dung-subiz) trên trang quản lý.
 
 ### Lỗi trình duyệt
 

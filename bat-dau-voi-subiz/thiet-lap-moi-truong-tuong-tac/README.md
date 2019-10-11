@@ -10,7 +10,7 @@ Các hướng dẫn cụ thể để bạn tích hợp và tối ưu môi trư�
 
 {% page-ref page="tich-hop-su-dung-email-tren-subiz.md" %}
 
-{% page-ref page="tich-hop-fanpage-facebook-vao-subiz.md" %}
+{% page-ref page="tich-hop-messenger-facebook-vao-subiz.md" %}
 
 {% page-ref page="toi-uu-moi-truong-tuong-tac/" %}
 

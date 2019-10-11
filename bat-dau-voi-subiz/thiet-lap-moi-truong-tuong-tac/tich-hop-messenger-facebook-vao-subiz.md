@@ -5,8 +5,8 @@ Messenger Facebook là một trong các kênh tương tác khách hàng trên Su
 {% hint style="info" %}
 Lưu ý:
 
-* Bạn có thể cài đặt nhiều Fanpage cùng lúc vào Subiz để thuận tiện trò chuyện tư vấn khách hàng và quản lý dữ liệu khách hàng tập trung.
-* Bạn quản lý nhiều Fanpage, bạn có thể chủ động lựa chọn Fanpage muốn cài đặt vào Subiz để làm việc.
+* Cài đặt **không giới hạn số lượng Fanpage** cùng lúc vào Subiz để thuận tiện tư vấn khách hàng và quản lý dữ liệu khách hàng tập trung.
+* Chủ động lựa chọn Fanpage muốn cài đặt vào Subiz để làm việc.
 {% endhint %}
 
 ## 3 bước tích hợp Messenger vào Subiz như sau: 
