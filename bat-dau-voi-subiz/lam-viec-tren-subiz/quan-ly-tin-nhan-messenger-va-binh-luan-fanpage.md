@@ -78,11 +78,11 @@ Hướng dẫn cài đặt:
 
 #### 2. Tự động ẩn bình luận, like và trả lời bình luận
 
-Cài đặt Automation webhook giúp bạn sẽ tự động hóa công tác ẩn bình luận của khách hàng, like và trả lời bình luận. 
+Cài đặt Automation workflow giúp bạn sẽ tự động hóa ẩn bình luận của khách hàng, like và trả lời bình luận. 
 
 ![Automation t&#x1EF1; &#x111;&#x1ED9;ng &#x1EA9;n b&#xEC;nh lu&#x1EAD;n, like v&#xE0; tr&#x1EA3; l&#x1EDD;i ](../../.gitbook/assets/group-69.png)
 
-Hướng dẫn cài đặt Automation webhook ẩn bình luận, like và trả lời bình luận:
+Hướng dẫn cài đặt Automation workflow ẩn bình luận, like và trả lời bình luận:
 
 * Chọn [**Tạo Workflow Hội thoại**](https://app.subiz.com/settings/automation-workflow) ****&gt; Chọn Hành Động &gt; Tiếp Tục 
 * Chọn Điều kiện: User gửi tin nhắn - là một trong các giá trị sau - Page comment
@@ -91,7 +91,7 @@ Hướng dẫn cài đặt Automation webhook ẩn bình luận, like và trả 
 
 #### 3. Tự động phân luồng công việc cho tư vấn viên
 
-Bạn kết nối hàng trăm fanpage vào Subiz. Để phân chia nhân sự nhận và trả lời tin nhắn của khách hàng từ một số fanpage cụ thể, bạn sẽ cài đặt [Rule phân phối](https://app.subiz.com/settings/rule-setting).
+Bạn kết nối hàng trăm fanpage vào Subiz. Để phân chia tư vấn viên nhận và trả lời tin nhắn của khách hàng từ một số fanpage cụ thể, bạn sẽ cài đặt [Rule phân phối](https://app.subiz.com/settings/rule-setting).
 
 Bạn có thể cài đặt nhiều Rule cùng lúc, mỗi Rule tương ứng với một quy tắc phân luồng công việc riêng.
 
