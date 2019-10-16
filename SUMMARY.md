@@ -40,7 +40,7 @@
       * [Quản lý danh sách Rule](bat-dau-voi-subiz/trien-khai-hoat-dong/phan-phoi-cuoc-hoi-thoai/quan-ly-danh-sach-rule.md)
   * [Làm việc trên Subiz](bat-dau-voi-subiz/lam-viec-tren-subiz/README.md)
     * [Quản lý hội thoại Subiz chat](bat-dau-voi-subiz/lam-viec-tren-subiz/quan-ly-hoi-thoai-subiz-chat.md)
-    * [Hướng dẫn làm việc trên kênh Email](bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-email.md)
+    * [Hướng dẫn làm việc trên kênh Email](bat-dau-voi-subiz/lam-viec-tren-subiz/huong-dan-lam-viec-tren-kenh-email.md)
     * [Quản lý tin nhắn messenger và bình luận fanpage](bat-dau-voi-subiz/lam-viec-tren-subiz/quan-ly-tin-nhan-messenger-va-binh-luan-fanpage.md)
     * [Mẫu tin nhắn](bat-dau-voi-subiz/lam-viec-tren-subiz/mau-tin-nhan.md)
     * [Gắn Tag cuộc hội thoại](bat-dau-voi-subiz/lam-viec-tren-subiz/gan-tag-cuoc-hoi-thoai.md)

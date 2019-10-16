@@ -8,7 +8,7 @@ description: >-
 
 Bạn có thể quản lý không giới hạn số lượng Fanpage trong tài khoản Subiz. Tất cả bình luận, tin nhắn chat từ hàng chục, hàng trăm Fanpage của bạn sẽ hiển thị cùng lúc trên 1 trang quản lý Subiz. Bạn sẽ tiết kiệm được nhiều thời gian và công sức thay vì chuyển tab liên tục giữa các Fanpage.
 
-Bắt đầu ngày làm việc, bạn đăng nhập Subiz, vào trang **HOẠT ĐỘNG** qua đường link ****[**App.subiz.com/convo**](https://app.subiz.com/convo)
+Bắt đầu ngày làm việc, bạn đăng nhập Subiz, vào trang [**HOẠT ĐỘNG**](https://app.subiz.com/convo) qua đường link ****[**App.subiz.com/convo**](https://app.subiz.com/convo)
 
 ### **Quản lý tin nhắn Messenger**
 
@@ -57,7 +57,9 @@ Ví dụ: _**Bình luận**_ từ fanpage _**Internet Marketing**_
 6. Chuyển thành Ticket
 7. Hoàn thành hội thoại
 
-Lưu ý: Các chức năng hỗ trợ cho hội thoại trên kênh messenger và bình luận fanpage hoạt động giống như trên kênh Subiz chat. [Xem thêm hướng dẫn sử dụng tại đây](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/quan-ly-hoi-thoai-subiz-chat).
+{% hint style="info" %}
+Lưu ý: Các chức năng hỗ trợ cho hội thoại trên kênh messenger và bình luận fanpage hoạt động giống như trên kênh Subiz chat. [**Xem thêm hướng dẫn sử dụng tại đây**](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/quan-ly-hoi-thoai-subiz-chat).
+{% endhint %}
 
 ### Một số tips quản lý Fanpage trên Subiz
 
@@ -69,8 +71,10 @@ Sử dụng Subot tự động trả lời nhanh ngay khi khách hàng gửi tin
 
 Hướng dẫn cài đặt:
 
-* Tích hợp Subot và soạn tin nhắn trả lời nhanh + Tích hợp Subot tại [Cài đặt Trợ lý ảo](https://app.subiz.com/settings/bots) + Soạn nội dung tin nhắn trả lời nhanh &gt; Lưu để hoàn thành
-* Cài đặt Rule phân phối cho Subot trả lời tin nhắn + Tạo rule phân phối tại [Cài đặt Rule phân phối](https://app.subiz.com/settings/rule-setting) + Chọn Điều kiện: Nguồn hội thoại - Là một trong các giá trị sau - Chọn tên fanpage + Chọn PHÂN PHỐI TỚI: Click Phân phối tới agent - Subot
+* Bước 1: Tích hợp Subot và soạn tin nhắn trả lời nhanh + Tích hợp Subot tại [**Cài đặt Trợ lý ảo**](https://app.subiz.com/settings/bots) + Soạn nội dung tin nhắn trả lời nhanh &gt; Lưu để hoàn thành
+* Bước 2: Cài đặt Rule phân phối cho Subot trả lời tin nhắn + Tạo rule phân phối tại [**Cài đặt Rule phân phối**](https://app.subiz.com/settings/rule-setting) + Chọn Điều kiện: Nguồn hội thoại - Là một trong các giá trị sau - Chọn tên fanpage + Chọn PHÂN PHỐI TỚI: Click Phân phối tới agent - Chọn thêm Subot và agent tư vấn
+
+![Rule ph&#xE2;n ph&#x1ED1;i cho Subot tr&#x1EA3; l&#x1EDD;i tr&#xEA;n fanpage](../../.gitbook/assets/subot-tren-fanpage-1.png)
 
 #### 2. Tự động ẩn bình luận, like và trả lời bình luận
 
@@ -78,16 +82,32 @@ Cài đặt Automation webhook giúp bạn sẽ tự động hóa công tác ẩ
 
 ![Automation t&#x1EF1; &#x111;&#x1ED9;ng &#x1EA9;n b&#xEC;nh lu&#x1EAD;n, like v&#xE0; tr&#x1EA3; l&#x1EDD;i ](../../.gitbook/assets/group-69.png)
 
+Hướng dẫn cài đặt Automation webhook ẩn bình luận, like và trả lời bình luận:
 
+* Chọn [**Tạo Workflow Hội thoại**](https://app.subiz.com/settings/automation-workflow) ****&gt; Chọn Hành Động &gt; Tiếp Tục 
+* Chọn Điều kiện: User gửi tin nhắn - là một trong các giá trị sau - Page comment
+
+![Automation workflow cho b&#xEC;nh lu&#x1EAD;n Fanpage](../../.gitbook/assets/auto-an-binh-luan-1.png)
 
 #### 3. Tự động phân luồng công việc cho tư vấn viên
 
 Bạn kết nối hàng trăm fanpage vào Subiz. Để phân chia nhân sự nhận và trả lời tin nhắn của khách hàng từ một số fanpage cụ thể, bạn sẽ cài đặt [Rule phân phối](https://app.subiz.com/settings/rule-setting).
 
+Bạn có thể cài đặt nhiều Rule cùng lúc, mỗi Rule tương ứng với một quy tắc phân luồng công việc riêng.
+
+Ví dụ: Rule phân phối cho agent Chi Trịnh trả lời tin nhắn từ 2 fanpage
+
+![Rule ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i t&#x1EEB; fanpage](../../.gitbook/assets/rule-page-1.png)
+
 #### 4. Xuất file dữ liệu khách hàng
 
-Sau khi thu thập thông tin khách hàng từ những bình luận và chat messenger, bạn sẽ xem trực tiếp danh sách khách hàng ngay trên trang DANH SÁCH USER.
+Sau khi thu thập thông tin khách hàng từ những bình luận và chat messenger, bạn sẽ xem trực tiếp danh sách khách hàng ngay trên trang [**DANH SÁCH USER**](https://app.subiz.com/contacts).
 
-Đồng thời, bạn có thể xuất dữ liệu thành file về máy tính của mình để lưu trữ và sử dụng.   
-Lưu ý: File dữ liệu sẽ ở định dạng .csv. Bạn mở bằng Google Sheet hoặc xem [hướng dẫn đọc file .csv](https://docs.subiz.com/huong-dan-xem-du-lieu-lich-su-chat-tren-microsoft-excel/).
+Đồng thời, bạn có thể xuất dữ liệu thành file về máy tính của mình để lưu trữ và sử dụng. 
+
+{% hint style="info" %}
+Lưu ý: File dữ liệu sẽ ở định dạng .csv. Bạn mở bằng Google Sheet hoặc xem [**hướng dẫn đọc file .csv**](https://docs.subiz.com/huong-dan-xem-du-lieu-lich-su-chat-tren-microsoft-excel/).
+{% endhint %}
+
+> Bạn cần hỗ trợ sử dụng Subiz? Hãy liên hệ ngay Suppport@Subiz.com hoặc chat online tại [Subiz.com](https://subiz.com/vi/facebook-messenger.html).
 

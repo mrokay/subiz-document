@@ -10,7 +10,7 @@ Hãy đăng nhập [App.subiz.com](https://app.subiz.com/activities) và lưu ý
 
 {% page-ref page="quan-ly-hoi-thoai-subiz-chat.md" %}
 
-{% page-ref page="tuong-tac-qua-kenh-email.md" %}
+{% page-ref page="huong-dan-lam-viec-tren-kenh-email.md" %}
 
 {% page-ref page="quan-ly-tin-nhan-messenger-va-binh-luan-fanpage.md" %}
 

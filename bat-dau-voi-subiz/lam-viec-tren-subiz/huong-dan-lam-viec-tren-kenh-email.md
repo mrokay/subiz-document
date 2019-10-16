@@ -93,7 +93,7 @@ Trong trường hợp bạn không thể tiếp tục phụ trách giao dịch v
 
 **8. Tiêu đề cuộc hội thoại Email**
 
-Cùng với việc nhập tiêu đề cho cuộc hội thoại, bạn có thể dễ dàng tổng quan được vấn đề đang trao đổi với khách hàng. Trong trường hợp bạn với khách hàng đã trao đổi nhiều vấn đề khác nhau trên email, chức năng này cũng sẽ giúp bạn quan sát và nhanh chóng tìm kiếm được cuộc hội thoại mà không cần click vào đọc từng email.
+Việc nhập tiêu đề cho cuộc hội thoại email sẽ giúp bạn có thể dễ dàng tổng quan được vấn đề đang trao đổi với khách hàng. Trong trường hợp bạn với khách hàng đã trao đổi nhiều vấn đề khác nhau trên email, chức năng này cũng sẽ giúp bạn quan sát và nhanh chóng tìm kiếm được cuộc hội thoại mà không cần click vào đọc từng email.
 
 ![Nh&#x1EAD;p ti&#xEA;u &#x111;&#x1EC1; cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i email.](../../.gitbook/assets/tieu-de-mail.png)
 
