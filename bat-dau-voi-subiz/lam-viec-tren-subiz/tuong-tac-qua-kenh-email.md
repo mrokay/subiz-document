@@ -1,14 +1,16 @@
-# Tương tác qua kênh Email
+# Hướng dẫn làm việc trên kênh Email
 
-Tương tác qua kênh [Email](https://subiz.com/vi/email.html) là cuộc tương tác gửi và nhận [email](https://subiz.com/vi/email.html) của khách hàng ngay trên ứng dụng [Subiz](https://subiz.com/vi/).
+Khách hàng trao đổi với bạn trên cửa sổ Subiz, để lại thông tin và yêu cầu bạn gửi cho họ thêm mẫu sản phẩm, báo gía, thông tin chương trình ưu đãi...qua email. Thay vì việc phải đăng nhập vào email để gửi thư cho khách hàng, giờ đây với việc tích hợp Email vào Subiz, bạn có thể thực hiện gửi và nhận mail ngay trên trang quản trị Subiz của bạn. Nhờ vậy, bạn hoàn toàn có thể theo dõi được toàn bộ lịch sử giao dịch với khách hàng và hạn chế việc phân tán thông tin trên nhiều công cụ khác nhau.
 
-Bạn \(Agent\) cần[ tích hợp Email và thiết lập chuyển tiếp mail](https://subiz.gitbook.io/subiz-document/~/edit/primary/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz) để có thể tạo mới hội thoại trên kênh [Email](https://subiz.com/vi/email.html).
+Bài viết sau sẽ giúp bạn tìm hiểu cụ thể hơn về cách làm việc trên kênh Email.
+
+Trước hết, đừng quên tích hợp Email vào tài khoản Subiz theo: [Hướng dẫn ](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-su-dung-email-tren-subiz)
 
 ### Chủ động gửi [Email](https://subiz.com/vi/email.html) tới khách hàng
 
-Địa chỉ [**Email**](https://subiz.com/vi/email.html) **khách hàng** phải được cập nhật trong mục **Thông tin khách hàng,** sau đó ****bạn sẽ tạo được hội thoại mới trên kênh [Email](https://subiz.com/vi/email.html).
+Để có thể gửi được email cho khách hàng, trước hết, khách hàng cần có thông tin địa chỉ Email trên trang quản trị Subiz của bạn. Để khai thác thông tin email, bạn có thể chủ động xin khách trong qúa trình trao đổi và lưu lại hoặc sử dụng chức năng tự động [Automation hỏi thông tin khách hàng](https://help.subiz.com/su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-automation-thong-dung/hoi-thong-tin-khach-hang).
 
-![L&#x1B0;u &#x111;&#x1ECB;a ch&#x1EC9; Email kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/xem-email%20%281%29.jpg)
+![u](../../.gitbook/assets/thong-tin-user-1.png)
 
 Bạn có thể chủ động gửi [Email](https://subiz.com/vi/email.html) tới khách hàng với 2 bước đơn giản sau:
 
@@ -17,94 +19,83 @@ Bạn có thể chủ động gửi [Email](https://subiz.com/vi/email.html) t�
 
 {% tabs %}
 {% tab title="1. Tạo hội thoại mới trên kênh Email" %}
-Hướng dẫn tạo hội thoại mới trên kênh[ Email](https://subiz.com/vi/email.html) như sau: Chọn K**hách hàng** muốn gửi mail &gt; Chọn **Tạo hội thoại mới &gt;** Chọn [**Email**](https://subiz.com/vi/email.html) ****
+Để tạo chủ động gửi email cho khách hàng, bạn click vào biểu tượng dấu " + " và lựa chọn kênh Email.
 
-![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i m&#x1EDB;i Email](../../.gitbook/assets/tao-hoi-thoai-email.jpg)
+![T&#x1EA1;o h&#x1ED9;i tho&#x1EA1;i k&#xEA;nh Email](../../.gitbook/assets/tao-hoi-thoai.png)
 {% endtab %}
 
 {% tab title="2. Viết Email gửi khách hàng" %}
 Cửa sổ Email mở, bạn soạn mail gửi khách hàng tại đây:
 
-1. **Người gửi**: Chọn Email gửi đi 
-2. **Người nhận**: Chọn Email nhận của khách hàng 
-3. **Điền tiêu đề Mail**
-4. **Soạn nội dung mail** và chọn **Gửi**
+1. **From**: Chọn Email gửi đi 
+2. **To**: Chọn Email nhận của khách hàng. Bạn có thể gửi mail cho một hoặc nhiều địa chỉ, lựa chọn email có sẵn hoặc nhập thêm vào.
+3. **Cc:** Chon Email Cc \(nếu có\)
+4. **Điền tiêu đề Mail**
+5. **Soạn nội dung mail** và chọn **Gửi**
 
-![So&#x1EA1;n Email g&#x1EED;i kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/viet-email-khach-hang.png)
+![So&#x1EA1;n Email](../../.gitbook/assets/soan-mail.png)
 {% endtab %}
 {% endtabs %}
 
 ###  Trả lời[ Email ](https://subiz.com/vi/email.html)khách hàng
 
-Với mỗi **khách hàng**, bạn vào mục **List Activities** sẽ nhận biết được kênh tương tác qua **biểu tượng** [**Mail** ](https://subiz.com/vi/email.html)**và tiêu đề** [**Email**](https://subiz.com/vi/email.html)**.** 
+Để trả lời Email của khách hàng, bạn vào phần lịch sử hoạt động, tìm biểu tượng cuộc hội thoại Emal và click vào ô nhập tin nhắn:
 
-![Nh&#x1EAD;n Email t&#x1EEB; kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/tra-loi-mail-kh.jpg)
+![Ph&#x1EA3;n h&#x1ED3;i Email c&#x1EE7;a kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/phan-hoi-email.png)
 
-Để trả lời mail khách hàng, bạn thao tác như sau:
+Cuộc hội thoại email được thiết kế như một cuộc hội thoại trên kênh Website hay Fanpage giúp bạn có thể dễ dàng phản hồi lại khách và quan sát được các email trong qúa trình trao đổi:
 
-1. Chọn [**Email**](https://subiz.com/vi/email.html) ****cần trả lời
-2. Chọn **nút Reply**
-3. **Viết nội dung mail và Gửi**
+![Trao &#x111;&#x1ED5;i tr&#xEA;n k&#xEA;nh Email](../../.gitbook/assets/hoi-thoai-email.png)
 
-![Tr&#x1EA3; l&#x1EDD;i Email kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/tra-loi-mail-kh-2.jpg)
+### Một số chức năng hữu ích trên kênh Email 
 
-### Một số chức năng hữu ích trên [Email Subiz](https://subiz.com/vi/email.html)
+**1. Tùy chỉnh font chữ văn bản :** Bôi đậm, in nghiêng, gạch chân, đính kèm link trực tiếp vào chữ, tải hình ảnh
 
-1. **Hỗ trợ soạn thảo** [**Email**](https://subiz.com/vi/email.html) **dưới dạng HTML**
+![T&#xF9;y ch&#x1EC9;nh text](../../.gitbook/assets/tien-ich.png)
 
-![](../../.gitbook/assets/code%20%281%29.jpg)
+**2. Đình kèm tệp tài liệu** 
 
-  **2. Tùy chỉnh font chữ văn bản**
+![&#x110;&#xED;nh k&#xE8;m t&#xE0;i li&#x1EC7;u](../../.gitbook/assets/them-tep-dinh-kem.png)
 
-![](../../.gitbook/assets/font%20%281%29.jpg)
+**3. Đính kèm biểu tượng cảm xúc**
 
-**3. Chèn link trực tiếp vào chữ hoặc hình ảnh**
+![&#x110;&#xED;nh k&#xE8;m Emoji](../../.gitbook/assets/them-emoji.png)
 
-![](../../.gitbook/assets/link%20%281%29.jpg)
+**4. Sử dụng mẫu Email**
 
-**4. Đình kèm tệp tài liệu hay tệp hình ảnh**
+Đây là một chức năng vô cùng hữu ích trong Subiz giúp bạn tiết kiệm thời gian trong việc phản hồi khách hàng. Bạn có thể tạo một danh sách những mẫu email để phản hồi những vấn đề khách hàng hay trao đổi như : email báo giá, email giới thiệu doanh nghiệp, email cảm ơn... để có thể nhanh chóng gửi đến khách hàng mà không cần mất thời gian biên soạn:
 
-![](../../.gitbook/assets/upload-file.jpg)
+![M&#x1EAB;u email](../../.gitbook/assets/email-mau.png)
+
+Để thiết lập các mẫu email bạn tham khảo : [Hướng dẫn taọ mẫu email](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/mau-tin-nhan)
 
 **5. Gắn thẻ Tag hội thoại** [**Email**](https://subiz.com/vi/email.html)\*\*\*\*
 
-[Subiz](https://subiz.com/vi/) Tag là tính năng gắn thẻ Tag cho mỗi cuộc hội thoại, giúp Agent dễ dàng phân loại và quản lý các tương tác của khách hàng. 
+Để có thể dễ dàng thống kê các vấn đề trao đổi với khách hàng qua email, bạn có thể sử dụng chức năng gắn thẻ Tag của Subiz Email. Chức năng này sẽ giúp Agent dễ dàng phân loại và quản lý các tương tác của khách hàng. 
 
-{% tabs %}
-{% tab title="Tạo thẻ Tag" %}
-Hướng dẫn tạo thẻ Tag mới:
+![G&#x1EAF;n Tag cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i Email](../../.gitbook/assets/gan-tag-cuoc-hoi-thoai.png)
 
-1. [Đăng nhập **App.subiz.com** &gt; **Cài đặt** &gt; **Tài khoản** &gt; **Tag** &gt; **Tạo Tag mới**](https://app.subiz.com/settings/tags)\*\*\*\*
+Tham khảo:[ Hướng dẫn tạo Subiz Tag ](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/gan-tag-cuoc-hoi-thoai)
 
-![C&#xE0;i &#x111;&#x1EB7;t Tag](../../.gitbook/assets/tao-tag%20%281%29.jpg)
+**6. Gắn Ticket hội thoại Email**
 
-    2.  Nhập **Tên Tag** &gt; **Tạo**​
+Cùng với việc sử dụng chức năng Ticket, bạn có thể dễ dàng theo dõi qúa trình xử lý cũng như tình trạng các giao dịch với khách hàng. 
 
-![T&#x1EA1;o Tag m&#x1EDB;i](../../.gitbook/assets/tag-moi%20%282%29.jpg)
+![G&#x1EAF;n ticket cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/ticket.png)
 
-{% hint style="info" %}
-Lưu ý: Chỉ Agent được [phân quyền Cài đặt tài khoản](https://subiz.gitbook.io/subiz-document/~/edit/primary/bat-dau-voi-subiz/untitled/quan-ly-agent/cac-loai-agent#phan-quyen-tai-khoan-agent) được phép Cài đặt Tag​
-{% endhint %}
-{% endtab %}
+Tham khảo: [Hướng dẫn tạo và quản lý Ticket](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/ticket-quan-ly-cham-soc-khach-hang)
 
-{% tab title="Gắn thẻ Tag" %}
-_Hướng dẫn gắn thẻ Tag_: Chọn nút **Tag** &gt; chọn **tên thẻ Tag** &gt; **Enter**
+**7. Thêm Agent vào cuộc hội thoại Email**
 
-![G&#x1EAF;n th&#x1EBB; Tag](../../.gitbook/assets/7.-tag-ht%20%284%29.jpg)
-{% endtab %}
+Trong trường hợp bạn không thể tiếp tục phụ trách giao dịch với khách hàng và muốn thêm đồng nghiệp để hỗ trợ hoặc cùng bạn xử lý công việc, bạn hoàn toàn có thể add thêm agent để agent đó có thể tham gia phản hồi cuộc hội thoại cùng bạn.
 
-{% tab title="Xóa thẻ Tag" %}
-_Hướng dẫn xóa thẻ Tag_: Chọn nút **Tag** &gt; chọn **X** xóa Tag
+![Th&#xEA;m Agent v&#xE0;o cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/them-agent.png)
 
-![X&#xF3;a th&#x1EBB; Tag](../../.gitbook/assets/8.-xoa-tag%20%282%29.jpg)
-{% endtab %}
-{% endtabs %}
+**8. Tiêu đề cuộc hội thoại Email**
 
+Cùng với việc nhập tiêu đề cho cuộc hội thoại, bạn có thể dễ dàng tổng quan được vấn đề đang trao đổi với khách hàng. Trong trường hợp bạn với khách hàng đã trao đổi nhiều vấn đề khác nhau trên email, chức năng này cũng sẽ giúp bạn quan sát và nhanh chóng tìm kiếm được cuộc hội thoại mà không cần click vào đọc từng email.
 
-
-
-
-
+![Nh&#x1EAD;p ti&#xEA;u &#x111;&#x1EC1; cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i email.](../../.gitbook/assets/tieu-de-mail.png)
 
 
 
