@@ -4,13 +4,13 @@ description: Tài liệu hướng dẫn cách đọc thống kê hội thoại t
 
 # Thống kê hội thoại
 
-[Thống kê hội thoại](https://app.subiz.com/reports) giúp đánh giá tổng quan về số lượng cuộc tương tác trò chuyện của khách hàng trên [Subiz](https://subiz.com/vi/). Đặc biệt, [Subiz](https://subiz.com/vi/) có thống kê hội thoại theo nhiều thông số khác nhau.
+[**Thống kê hội thoại**](https://app.subiz.com/reports) giúp đánh giá tổng quan về số lượng cuộc tương tác trò chuyện của khách hàng trên [Subiz](https://subiz.com/vi/). Đặc biệt, [Subiz](https://subiz.com/vi/) có thống kê hội thoại theo nhiều thông số khác nhau.
 
 Đây là cơ sở dữ liệu để bạn thực hiện những kế hoạch marketing, kinh doanh online và đánh giá hiệu quả của từng chiến dịch quảng cáo, bán hàng,... Ví dụ như trong bạn đang triển khai chạy quảng cáo Adwords trong 30 ngày. Kết thúc chiến dịch, bạn có thể kiểm tra lượng tương tác qua kênh Subiz chat trong 30 ngày vừa qua. Từ số liệu tương tác cụ thể trong suốt 30 ngày, bạn có thể đưa ra những đánh giá về hiệu quả của chương trình này và có những điều chỉnh phù hợp.
 
 ### Các thông số thống kê hội thoại
 
-Tại trang [THỐNG KÊ](https://app.subiz.com/reports) hội thoại, bạn có thể thống kê số lượng cuộc hội thoại theo **Kênh**, **Agent, Loại hội thoại** và **Thời gian**:
+Tại trang [**THỐNG KÊ**](https://app.subiz.com/reports) hội thoại, bạn có thể thống kê số lượng cuộc hội thoại theo **Kênh**, **Agent, Loại hội thoại** và **Thời gian**:
 
 {% tabs %}
 {% tab title="Loại hội thoại" %}
@@ -67,4 +67,32 @@ Trong 7 ngày vừa qua Agent Linh Lê đã chat 50 cuộc hội thoại
 ![Th&#x1ED1;ng k&#xEA; s&#x1ED1; cu&#x1ED9;c chat kh&#xF4;ng tr&#x1EA3; l&#x1EDD;i sau 5 ph&#xFA;t c&#x1EE7;a Agent Hoa Ta](../.gitbook/assets/hoa-ta.png)
 
 Trong 7 ngày vừa qua, Agent Hoa Ta có 4 cuộc hội thoại không được trả lời sau 5 phút
+
+### Danh sách hội thoại
+
+[**Danh sách các hội thoại**](https://app.subiz.com/reports/list-conversation) được thiết kế đi cùng với Thống kê hội thoại, phục vụ cho nhu cầu của doanh nghiệp lọc các cuộc hội thoại để phân tích, đánh giá và đào tạo nhân sự.
+
+Để xem Danh sách các hội thoại, vào trang Thống kê Hội thoại &gt; Click [**Danh sách các hội thoại**](https://app.subiz.com/reports/list-conversation)\*\*\*\*
+
+![Danh s&#xE1;ch c&#xE1;c h&#x1ED9;i tho&#x1EA1;i](../.gitbook/assets/report-3.png)
+
+Tại trang [**DANH SÁCH CÁC HỘI THOẠI**](https://app.subiz.com/reports/list-conversation), bạn thực hiện được hai tác vụ:
+
+1. Lọc cuộc hội thoại theo nhiều điều kiện:
+
+* Agent
+* Nhóm Agent
+* Thời gian tạo hội thoại
+* Kênh tương tác
+* Nguồn hội thoại
+* Tags
+* Trạng thái của cuộc hội thoại ......
+
+2. Xuất dữ liệu user theo hội thoại đã lọc
+
+![](../.gitbook/assets/conv-1.png)
+
+{% hint style="info" %}
+Bạn cần hỗ trợ về thống kê hội thoại? Hãy liên hệ Support@Subiz.com.
+{% endhint %}
 
