@@ -41,7 +41,7 @@ Khi bạn đăng ký tài khoản Subiz, email đăng ký sẽ được gọi l�
 
 +  Bạn đăng nhập email đăng ký ban đầu và gửi email tới Support để yêu cầu việc đổi email owner, cung cấp email owner mới. Subiz sẽ hỗ trợ bạn thao tác chuyển đổi.
 
-![Y&#xEA;u c&#x1EA7;u chuy&#x1EC3;n &#x111;&#x1ED5;i Email Owner](../.gitbook/assets/screenshot_3%20%281%29.png)
+![Y&#xEA;u c&#x1EA7;u chuy&#x1EC3;n &#x111;&#x1ED5;i Email Owner](../.gitbook/assets/screenshot_3%20%282%29.png)
 
 {% hint style="info" %}
 Lưu ý:  

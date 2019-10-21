@@ -62,6 +62,7 @@
       * [Quản lý tình hình hỗ trợ khách hàng với email Transcript](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/quan-ly-tinh-hinh-ho-tro-khach-hang-voi-email-transcript.md)
       * [Nhận email thông báo khi khách hàng cập nhật thông tin](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/nhan-email-thong-bao-khi-khach-hang-cap-nhat-thong-tin.md)
       * [Kết nối với khách hàng quay lại website cùng Automation](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/ket-noi-voi-khach-hang-quay-lai-website-cung-automation.md)
+      * [Những phương án tiếp cận khách hàng và thu thập thông tin qua cửa sổ Subiz](su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/nhung-phuong-an-tiep-can-khach-hang-va-thu-thap-thong-tin-qua-cua-so-subiz.md)
     * [Webhook](su-dung-subiz-nang-cao/tuong-tac-tu-dong/webhook.md)
   * [Quản lý dữ liệu Khách hàng](su-dung-subiz-nang-cao/quan-ly-du-lieu/README.md)
     * [Quan sát khách truy cập](su-dung-subiz-nang-cao/quan-ly-du-lieu/quan-sat-khach-truy-cap.md)

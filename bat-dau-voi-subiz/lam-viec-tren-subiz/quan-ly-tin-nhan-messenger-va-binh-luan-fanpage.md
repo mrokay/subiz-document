@@ -15,7 +15,7 @@ Bắt đầu ngày làm việc, bạn đăng nhập Subiz, vào trang [**HOẠT 
 Tin nhắn messenger từ các fanpage được nhận diện bằng icon \(**~**\)và tên fanpage.  
 Ví dụ: _**Tin nhắn messenger**_ từ fanpage _**Internet Marketing**_
 
-![Tin nh&#x1EAF;n messenger tr&#xEA;n Subiz](../../.gitbook/assets/image%20%2827%29.png)
+![Tin nh&#x1EAF;n messenger tr&#xEA;n Subiz](../../.gitbook/assets/image%20%2829%29.png)
 
 **Nhận và trả lời tin nhắn messenger:**
 
@@ -39,7 +39,7 @@ Ví dụ: _**Tin nhắn messenger**_ từ fanpage _**Internet Marketing**_
 Bình luận fanpage được nhận diện bằng icon \(**f**\) và tên fanpage:   
 Ví dụ: _**Bình luận**_ từ fanpage _**Internet Marketing**_
 
-![B&#xEC;nh lu&#x1EAD;n fanpage tr&#xEA;n Subiz](../../.gitbook/assets/image%20%287%29.png)
+![B&#xEC;nh lu&#x1EAD;n fanpage tr&#xEA;n Subiz](../../.gitbook/assets/image%20%288%29.png)
 
 **Nhận và trả lời bình luận Fanpage:**
 

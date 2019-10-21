@@ -13,7 +13,7 @@ Automation là các hành động tương tác tự động được thiết l�
 Dựa trên các đối tượng khách hàng bạn có, cách thức bạn muốn chăm sóc và theo đuổi khách hàng, bạn có thể thiết lập nhiều hành động Automation khác nhau. Qua đó, hướng đến vận hành doanh nghiệp một cách tự động mà vẫn đem lại hiệu quả cao.  
 Đầu tiên, bạn có thể bắt đầu bằng việc tạo [Automation gửi thông tin sản phẩm khuyến mãi tới các khách hàng truy cập website](https://help.subiz.com/su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-automation-thong-dung/automation-gui-tin-nhan-tu-dong):
 
-![T&#x1EA1;o Automation g&#x1EED;i th&#xF4;ng tin s&#x1EA3;n ph&#x1EA9;m khuy&#x1EBF;n m&#xE3;i t&#x1EDB;i c&#xE1;c kh&#xE1;ch h&#xE0;ng truy c&#x1EAD;p website](../../.gitbook/assets/screenshot_2%20%282%29.png)
+![T&#x1EA1;o Automation g&#x1EED;i th&#xF4;ng tin s&#x1EA3;n ph&#x1EA9;m khuy&#x1EBF;n m&#xE3;i t&#x1EDB;i c&#xE1;c kh&#xE1;ch h&#xE0;ng truy c&#x1EAD;p website](../../.gitbook/assets/screenshot_2%20%283%29.png)
 
 Thêm vào đó, bạn cũng có thể [tạo các mẫu email tự động để theo đuổi khách hàng tiềm năng](https://help.subiz.com/su-dung-subiz-nang-cao/tuong-tac-tu-dong/mot-so-ung-dung-automation/phan-loai-va-theo-duoi-khach-hang-tiem-nang) bằng cách kết hợp các Automation như sau:
 
