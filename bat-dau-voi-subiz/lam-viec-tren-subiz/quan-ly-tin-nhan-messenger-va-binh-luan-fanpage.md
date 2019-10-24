@@ -47,7 +47,7 @@ Ví dụ: _**Bình luận**_ từ fanpage _**Internet Marketing**_
 * Chọn hội thoại bình luận có tin nhắn mới
 * Nhập nội dung tin nhắn vào ô Nhập nội dung và Enter gửi đi
 
-**Một số chức năng hỗ trợ trên kênh messenger:**
+**Một số chức năng hỗ trợ trên kênh bình luận Fanpage:**
 
 1. Cập nhật thông tin khách hàng như Họ tên, số điện thoại, Nguồn Fanpage,...
 2. Gắn Tag cho cuộc hội thoại
@@ -55,7 +55,6 @@ Ví dụ: _**Bình luận**_ từ fanpage _**Internet Marketing**_
 4. Đính kèm file
 5. Gửi tin nhắn emoji
 6. Chuyển thành Ticket
-7. Hoàn thành hội thoại
 
 {% hint style="info" %}
 Lưu ý: Các chức năng hỗ trợ cho hội thoại trên kênh messenger và bình luận fanpage hoạt động giống như trên kênh Subiz chat. [**Xem thêm hướng dẫn sử dụng tại đây**](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/quan-ly-hoi-thoai-subiz-chat).
