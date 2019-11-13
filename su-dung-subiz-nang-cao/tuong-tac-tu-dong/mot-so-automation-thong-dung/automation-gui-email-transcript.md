@@ -40,7 +40,7 @@ Trong phần điều kiện có 2 mục điều kiện bạn cần quan tâm:
 
 ![G&#x1EED;i Email transcript &#x111;&#x1ED1;i v&#x1EDB;i cu&#x1ED9;c h&#x1ED9;i tho&#x1EA1;i c&#xF3; tr&#x1EA1;ng th&#xE1;i &#x111;&#xE3; k&#x1EBF;t th&#xFA;c v&#xE0; di&#x1EC5;n ra tr&#xEA;n k&#xEA;nh Subiz chat](../../../.gitbook/assets/gui-transcript-voi-hoi-thoai-da-ket-thucpng%20%281%29.png)
 
-Sau khi xong bước cài đặt điều kiện, bạn nhấn **Tiếp tục** để sang bước cuối cùng 
+Sau khi xong bước cài đặt điều kiện, bạn nhấn **Tiếp tục** để sang bước cuối cùng.
 
 #### Bước 3: Đặt tên Automation 
 

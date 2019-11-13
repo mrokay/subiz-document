@@ -4,6 +4,10 @@
 
 End chat bot là một trong các Trợ lý ảo trên Subiz, đây là ứng dụng trên Subiz giúp bạn tự động kết thúc các cuộc hội thoại của khách hàng. Thay vì tự thao tác kết thúc cuộc hội thoại sau khi hỗ trợ khách hàng, bạn có thể tự động hóa quá trình trên cho tất cả hội thoại. Từ đó, doanh nghiệp có thể giảm thiểu tối đa việc bỏ sót khách hàng, khách hàng đến sẽ được chuyển đến tư vấn viên đang online để được hỗ trợ kịp thời.
 
+### Endchat bot hoạt động trên kênh nào?
+
+Subiz hoạt động trên các kênh Chat message như: Subiz chat, Messenger, Zalo OA.
+
 ### Kích hoạt Endchat bot 
 
 Để bắt đầu sử dụng Endchat Bot, bạn kích hoạt và xây dựng kịch bản hoạt động của Endchat Bot như sau:

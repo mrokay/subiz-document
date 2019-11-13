@@ -14,6 +14,12 @@ Bạn \(Agents\) có thể xây dựng những kịch bản có sẵn cho Subot 
 
 {% embed url="https://www.facebook.com/subizdotcom/videos/402391760533894/" caption="Subot - Bot tự động Trả lời và Hỏi thông tin" %}
 
+### Subot hoạt động trên kênh nào?
+
+Subiz hoạt động trên các kênh Chat message như: Subiz chat, Messenger, Zalo OA.
+
+![Subot ho&#x1EA1;t &#x111;&#x1ED9;ng tr&#xEA;n k&#xEA;nh Messenger](../../.gitbook/assets/subot-tren-messenger.png)
+
 ### Tích hợp Subot
 
 Để bắt đầu sử dụng Subot, bạn cần tích hợp Subot vào Subiz và thiết lập các kịch bản hoạt động cho Subot như sau:
