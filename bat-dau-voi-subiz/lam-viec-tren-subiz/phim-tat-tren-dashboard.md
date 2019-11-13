@@ -6,14 +6,13 @@ Phím tắt là chức năng được tạo ra nhằm hỗ trợ agent làm vi�
 | :--- | :--- |
 | **Alt + M**  | Mute/Unmute hội thoại đang chọn |
 | **Alt + C** | Hoàn thành hội thoại |
-| **Alt +**⬆ **** | Di chuyển user được chọn trên Users của tôi lên 1 đơn vị |
-| **Alt +**  ⬇  | Di chuyển user được chọn trên Users của tôi xuống 1 đơn vị |
+| **Alt +** ⬆**/** ⬇  | Di chuyển user lên xuống trên danh sách User của tôi |
 | **Alt + T** | Tạo Ticket |
 | **Alt + U** | Sửa thông tin user |
 | **Alt + N** | Tạo mới note |
 | **Alt + S** | Theo dõi hoặc bỏ theo dõi user |
 | **ESC** | Tắt tất cả cửa sổ đang bật trên màn hình |
-| **CTRL + V** | Gửi file ảnh nhanh qua cửa sổ chat Dashboard. Nếu bạn muốn gửi ảnh chụp màn hình nhanh qua hội thoại với khách trên dashboard, bạn chỉ cần ấn phím Prtsc ở bàn phìm rồi mở cửa sổ dashboard và ấn Ctrl + V để gửi file ảnh này. |
+| **CTRL + V** | Gửi file ảnh nhanh qua cửa sổ chat Dashboard. Nếu bạn muốn gửi ảnh chụp màn hình nhanh qua hội thoại với khách trên dashboard, bạn chỉ cần ấn phím Prtsrc ở bàn phìm rồi mở cửa sổ dashboard và ấn Ctrl + V để gửi file ảnh này. |
 
 {% hint style="info" %}
 Bạn còn băn khoăn? Hãy chat trực tuyến với hỗ trợ viên ngay trên website Subiz.com!
