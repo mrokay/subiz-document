@@ -1,69 +1,82 @@
+---
+description: Bài viết hướng dẫn bạn sửa cửa sổ chat hiện thị khác nhau trên nhiều website.
+---
+
 # Tùy chỉnh cửa sổ chat riêng biệt trên từng website
 
-Thay vì sử dụng nhiều tài khoản Subiz để hỗ trợ khách hàng trên nhiều website , bạn hoàn toàn có thể chỉ sử dụng một tài khoản Subiz duy nhất để có thể quản lý toàn bộ tương tác của doanh nghiệp và lưu trữ dữ liệu khách hàng tập trung. Subiz sẽ được tùy chỉnh để phù hợp với giao diện từng web, đặc trưng của từng lĩnh vực và giúp bạn có thể quản trị riêng biệt từng website hiệu qủa.
+Thay vì sử dụng nhiều tài khoản Subiz để chăm sóc khách hàng trên nhiều website, bạn hoàn toàn có thể chỉ sử dụng **một tài khoản Subiz** duy nhất để **quản lý tất cả tương tác của khách hàng** và **tập trung lưu trữ dữ liệu khách hàng**.
 
-### Tùy chỉnh cửa sổ chat riêng biệt trên từng web
+Cửa sổ chat Subiz sẽ được tùy chỉnh riêng cho phù hợp với giao diện từng website, theo từng lĩnh vực và giúp bạn có thể quản trị riêng biệt từng website hiệu quả.
 
-Cùng với sự kết hợp với mã API Javascript, bạn có thể tùy chỉnh button Subiz và giao diện widget phù hợp với từng website bạn quản lý.
+### Tùy chỉnh cửa sổ chat riêng biệt trên từng website
 
-* _**Tùy chỉnh mẫu button Subiz riêng biệt**_
+Cùng với sự kết hợp với mã API Javascript, bạn có thể tùy chỉnh nút chat button Subiz và giao diện cửa sổ chat phù hợp với từng website của bạn.
 
-Bước 1: Copy và paste đoạn code sau đoạn code Subiz và trước thẻ &lt;/body&gt; 
+* _**Tùy chỉnh nút chat button Subiz riêng biệt**_
 
-```text
+Bước 1: Sao chép và dán mã sau dưới mã nhúng Subiz và trước thẻ &lt;/body&gt;  trong code web của bạn.
+
+```javascript
 <script type="text/javascript">window.subiz(‘changeCss’, ‘[css_custom]’)</script>
 ```
 
 Bước 2: Thay đoạn CSS sau vào phần “\[css\_custom\]”
 
-| Button trên Desktop  |
-| :---: |
-| .widget\_desktop .button-chat {border-radius:  0; -webkit-mask-image: none; background-image: url\(**image-link**\); background-repeat: no-repeat;}  .widget\_desktop .button-chat-icon { display:  none;} @supports \(-ms-ime-align:auto\) { .widget\_desktop .button-chat{border-radius:50%;}  .widget\_desktop .button-chat-icon {display: inline-block;} } .widget\_desktop .widget-button {**width: 90px; height: 90px;**} .widget\_desktop .widget-button:after {display:none;} .widget\_desktop .widget\_mini .close-widget-icon {display: none;} .widget\_desktop .button-chat .avatar-preview img {display: none;} .widget\_desktop .button-chat {border-radius: 0; box-shadow: none; background-color: transparent; position: inherit;} |
+{% tabs %}
+{% tab title="Button trên máy tính" %}
+`.widget_desktop .button-chat {border-radius:  0; -webkit-mask-image: none; background-image: url(`**`image-link`**`); background-repeat: no-repeat;}  .widget_desktop .button-chat-icon { display:  none;} @supports (-ms-ime-align:auto) { .widget_desktop .button-chat{border-radius:50%;}  .widget_desktop .button-chat-icon {display: inline-block;} } .widget_desktop .widget-button {`**`width: 90px; height: 90px;`**`} .widget_desktop .widget-button:after {display:none;} .widget_desktop .widget_mini .close-widget-icon {display: none;} .widget_desktop .button-chat .avatar-preview img {display: none;} .widget_desktop .button-chat {border-radius: 0; box-shadow: none; background-color: transparent; position: inherit;}`
+{% endtab %}
 
-| Button trên Mobile  |
-| :---: |
-| widget\_mobile .button-chat {border-radius:  0; -webkit-mask-image: none; background-image: url\(**image-link**; background-repeat: no-repeat;}  widget\_mobile .button-chat-icon { display:  none;} @supports \(-ms-ime-align:auto\) { .widget\_mobile .button-chat{border-radius:50%;}  .widget\_mobile .button-chat-icon {display: inline-block;} } .widget\_mobile .widget-button {**width: 90px; height: 90px;**} .widget\_mobile .widget-button:after {display:none;} .widget\_mobile .widget\_mini .close-widget-icon {display: none;} .widget\_mobile .button-chat .avatar-preview img {display: none;} .widget\_mobile .button-chat {border-radius: 0; box-shadow: none; background-color: transparent; position: inherit;}  |
+{% tab title="Button trên điện thoại" %}
+`widget_mobile .button-chat {border-radius:  0; -webkit-mask-image: none; background-image: url(`**`image-link`**`; background-repeat: no-repeat;}  widget_mobile .button-chat-icon { display:  none;} @supports (-ms-ime-align:auto) { .widget_mobile .button-chat{border-radius:50%;}  .widget_mobile .button-chat-icon {display: inline-block;} } .widget_mobile .widget-button {`**`width: 90px; height: 90px;`**`} .widget_mobile .widget-button:after {display:none;} .widget_mobile .widget_mini .close-widget-icon {display: none;} .widget_mobile .button-chat .avatar-preview img {display: none;} .widget_mobile .button-chat {border-radius: 0; box-shadow: none; background-color: transparent; position: inherit;}`
+{% endtab %}
+{% endtabs %}
 
 {% hint style="info" %}
-**Lưu ý:** image -link: Link ảnh
+**Lưu ý:** 
 
-Bạn có thể thay đổi kích cỡ button tại phần **Width** và **Height**.
+* Thay đường link ảnh button của bạn vào **`image-link`**
+* Thay đổi kích thước button tại mục **`width: 90px; height: 90px`**
 {% endhint %}
 
-* _**Tùy chỉnh cửa sổ chat Subiz**_
+* _**Tùy chỉnh vị trí cửa sổ chat**_
 
-Tùy chỉnh vị trí cửa sổ chat
+Chọn cài đặt cửa sổ chat ở bên phải hoặc bên trái website
 
-```text
- subiz('setPosition', 'left') . giá trị left hoặc right
+```javascript
+ subiz('setPosition', 'left') . 
+ //Thay giá trị left hoặc right
 ```
 
-Lựa chọn kiểu cửa sổ chat Mở rộng hoặc Thu nhỏ
+* _**Tùy chỉnh kiểu cửa sổ chat**_
 
-```text
-subiz('setWindowMode', 'full') . giá trị full hoặc mini
+Chọn cửa sổ chat kiểu Thu gọn hoặc Mở rộng
+
+```javascript
+subiz('setWindowMode', 'full') . 
+//Thay giá trị full hoặc mini
 ```
 
-* _**Tùy chỉnh nội dung trên thanh tiêu đề**_
+* _**Tùy chỉnh nội dung giới thiệu trên cửa sổ chat**_
 
-```text
+```javascript
 subiz('setLanguageData', {}) 
 VD subiz('setLanguageData', {team_intro: "Chúng tôi sẵn sàng trợ giúp. Vui lòng hỏi chúng tôi bất cứ điều gì hoặc chia sẻ phản hồi của bạn"})
 ```
 
 Tham khảo chi tiết [Hướng dẫn](https://help.subiz.com/su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget#thay-doi-noi-dung-tren-cua-so-chat)
 
-* _**Tùy chỉnh CSS khác**_
+* _**Một số tùy chỉnh cửa sổ chat khác**_
 
-Ngoài ra bạn có thể sử dụng API tùy chỉnh CSS để thay đổi các yếu tố khác của cửa sổ chat 
+Ngoài ra bạn có thể sử dụng API tùy chỉnh CSS để thay đổi các yếu tố khác của cửa sổ chat.  
+Bạn tham khảo thêm [Bảng CSS tùy chỉnh cửa sổ Subiz chat](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/bang-css-tuy-chinh-cua-so-chat)!  
+Ví dụ: Tùy chỉnh kích thước cửa sổ chat
 
 ```javascript
 <script type="text/javascript">
     window.subiz('changeCss', '.widget_mini .widget_body {height: 750px !important; max-height: 800px !important;}')
 </script>
 ```
-
-Bạn tham khảo thêm [Bảng CSS tùy chỉnh cửa sổ Subiz chat](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/bang-css-tuy-chinh-cua-so-chat)!
 
 ### Tạo lời chào riêng biệt trên từng web
 

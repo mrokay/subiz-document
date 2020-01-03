@@ -12,11 +12,11 @@ Từ những thông tin của khách hàng được cập nhật và lưu trữ 
 
 ### Thông tin khách hàng
 
+Mỗi user trên[ Subiz ](https://subiz.com/vi/)sẽ có 4 trường thông tin mặc định:  Họ và tên, Email, Số điện thoại, Địa chỉ.
+
 Để tùy chỉnh thông tin khách hàng, bạn vào mục ****[**Cài đặt &gt; Tài khoản &gt; Thông tin khách hàng**.](https://app.subiz.com/settings/user-attributes)
 
-Một tài khoản[ Subiz ](https://subiz.com/vi/)sẽ có 4 trường thông tin mặc định: Địa chỉ, Tên, Email và Số điện thoại
-
-![Th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/thong-tin-khach-hang%20%281%29.png)
+![](../../.gitbook/assets/user-11.png)
 
 ### Tùy chỉnh thông tin khách hàng
 
@@ -46,7 +46,7 @@ Một tài khoản[ Subiz ](https://subiz.com/vi/)sẽ có 4 trường thông ti
 
 * Trường dữ liệu này sẽ được hiển thị trong thông tin khách hàng  như sau:
 
-![Hi&#x1EC3;n th&#x1ECB; lo&#x1EA1;i d&#x1EEF; li&#x1EC7;u text](../../.gitbook/assets/thong-tin-khach-hang_text-1.png)
+![Th&#xF4;ng tin website c&#x1EE7;a user](../../.gitbook/assets/use-22.png)
 {% endtab %}
 
 {% tab title="Number" %}
