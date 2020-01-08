@@ -1,3 +1,9 @@
+---
+description: >-
+  Bài viết hướng dẫn bạn tùy chỉnh cửa sổ chat Subiz hiện trên trang web của
+  bạn.
+---
+
 # Tùy chỉnh cửa sổ Subiz chat
 
 Subiz hiểu rằng bạn cần kết nối mạnh mẽ hơn với khách hàng. Đó là lý do tại sao Subiz cập nhật Cửa sổ chat Subiz hoàn toàn mới, dễ dàng tiếp cận và thu hút khách hàng của bạn!.
@@ -21,8 +27,10 @@ Bạn được quyết định hình ảnh hiện thị của chat button, vị 
 Bạn có thể lựa chọn mẫu ảnh button có sẵn trên Subiz hoặc tùy ý thiết kế ảnh button riêng của mình và tải lên Subiz.  
 Button trên bản máy tính và điện thoại có thể cài đặt khác nhau.
 
-* Chọn bản Máy tính hoặc điện thoại &gt; Chọn Thay đổi 
-* Chọn Thư viện button để sử dụng mẫu ảnh button có sẵn của Subiz. Hoặc Sử dụng button tùy chỉnh để tải ảnh button thiết kế của bạn.
+* Chọn bản **Máy tính** hoặc **điện thoại** &gt; Chọn **Thay đổi** 
+* Chọn **Thư viện button** để sử dụng mẫu ảnh button có sẵn của Subiz. Hoặc **Sử dụng button tùy chỉnh** để tải ảnh button thiết kế của bạn.
+
+![Thay &#x111;&#x1ED5;i chat button](../../../../.gitbook/assets/nut-chat-2%20%281%29.png)
 
 _**Tip nhỏ**_: Ảnh button có thể thiết kế dạng ảnh Gif sinh động, ảnh của chương trình Sales off khuyến mãi sẽ tạo được cảm xúc nơi khách hàng.
 {% endtab %}
@@ -32,7 +40,9 @@ _**Tip nhỏ**_: Ảnh button có thể thiết kế dạng ảnh Gif sinh độ
 
 Bạn chọn đặt button chat ở bên phải hoặc bên trái website, di chuyển vị trí button chat lên cao hoặc xuống thấp so với chân trang web trong khoảng 10px - 100px.
 
-Bạn có thể cài đặt riêng vị trí button trên điện thoại
+Chọn Cài đặt vị trí button trên điện thoại bạn khi bạn cần thay đổi vị trí button riêng trên bản điện thoại.
+
+![C&#xE0;i &#x111;&#x1EB7;t v&#x1ECB; tr&#xED; button chat Subiz](../../../../.gitbook/assets/vi-tri-button-2.png)
 
 _**Tip nhỏ**_: Theo thói quen của người dùng internet, button chat bên phải website sẽ dễ nhìn, dễ thao tác chat hơn.
 {% endtab %}
@@ -43,6 +53,8 @@ _**Tip nhỏ**_: Theo thói quen của người dùng internet, button chat bên
 Lời chào hiện lên cùng button chat khi khách truy cập website, giống như một nhân viên lễ tân niềm nở chào đón khách hàng ghé thăm cửa hàng.
 
 Thay đổi nội dung lời chào và chọn ảnh đại diện của agent chào khách mang lại cảm xúc gần gũi với khách hàng.
+
+![T&#x1EA1;o l&#x1EDD;i ch&#xE0;o kh&#xE1;ch truy c&#x1EAD;p website](../../../../.gitbook/assets/loi-chao-2.png)
 
 _**Tip nhỏ**_: 
 
@@ -135,7 +147,7 @@ Lợi ích:
 {% endtab %}
 {% endtabs %}
 
-
+> Bạn cần thêm tư vấn, hãy liên hệ ngay Subiz qua email Support@Subiz.com!
 
 
 
