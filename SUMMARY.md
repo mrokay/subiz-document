@@ -81,6 +81,7 @@
   * [API Javascript của Subiz Widget](su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget/README.md)
     * [Sử dụng API Js với Google Tag](su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget/su-dung-api-js-voi-google-tag.md)
     * [Mã nhúng Mời khách nhận thông báo](su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget/ma-nhung-hoi-khach-nhan-thong-bao.md)
+  * [Pop-up chuyển đổi khách hàng](su-dung-subiz-nang-cao/pop-up-chuyen-doi-khach-hang.md)
   * [Sản phẩm](su-dung-subiz-nang-cao/content.md)
   * [Tùy chỉnh cửa sổ chat riêng biệt trên từng website](su-dung-subiz-nang-cao/su-dung-subituy-chinh-cua-so-chat-rieng-biet-tren-tung-websitez-tren-nhieu-website.md)
   * [Tích hợp với bên thứ 3](su-dung-subiz-nang-cao/tich-hop-voi-ben-thu-3/README.md)
