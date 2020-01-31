@@ -8,9 +8,9 @@ description: >-
 
 Subiz Platform gửi các sự kiện đến webhook của bạn để thông báo cho ứng dụng của bạn khi có những sự kiện tương tác xảy ra, bao gồm cả khách hàng gửi tin nhắn hay thông tin khách hàng được cập nhật. Các sự kiện được gửi đi bởi Subiz Platform sẽ dưới dạng POST.
 
-Webhook trong Subiz Platform là một hành động của automation. Ví dụ: Khi khách hàng nhập điền số điện thoại, webhook sẽ gửi dữ liệu khách hàng đó về ứng dụng của bạn.
+Webhook trong Subiz Platform là một hành động của [**Automation**](https://app.subiz.com/settings/automation-workflow#). Ví dụ: Khi khách hàng điền số điện thoại, webhook sẽ gửi dữ liệu khách hàng đó về ứng dụng của bạn.
 
-Để tạo Automation, bạn xem tài liệu tại đây. Dứoi đây chúng tôi sẽ hướng dẫn bạn thực hiện các bước để thiết lập webhook trong automation.
+Để tạo Automation, bạn xem tài liệu tại đây. Dưới đây chúng tôi sẽ hướng dẫn bạn thực hiện các bước để thiết lập webhook trong [**Automation.**](https://app.subiz.com/settings/automation-workflow#)\*\*\*\*
 
 ### Khai báo URL webhook
 
@@ -20,11 +20,11 @@ Bạn cần có một URL để nhận dữ liệu của Subiz. Nhập nó vào 
 
 Subiz cần xác thực bạn thực sự là chủ của Webhook này. Khi click vào nút "Xác thực webhook" thì Subiz sẽ gửi một Request GET với các Params:
 
-| Tên  | Loại | Mô  |
-| :--- | :--- | :--- |
-| subiz\_challenge |  | Boolean \(true\) |
-| subiz\_verify | string |  |
-| subiz\_timestamp |  |  |
+| Tên  | Loại dữ liệu |
+| :--- | :--- |
+| subiz\_challenge | Boolean \(true/false\) |
+| subiz\_verify | String |
+| subiz\_timestamp |  |
 
 Bạn cần nhận các params trên, và trả về mã hóa SHA256 của subiz\_verify. Mã hóa này được tính bằng HMAC và với "key" là _mã xác thực_ \(verification key\) được nói ở bước trước.
 
@@ -42,7 +42,7 @@ $verification_key = '347533333339';
 function verifyURL($verification_key) {
   parse_str($_SERVER['QUERY_STRING'], $query);
   if (!isset($query['subiz_verify'])) return;
-  $request_timestamp = $query['subiz_challenge'];
+  $request_timestamp = $query['subiz_timestamp'];
   $challenge = $query['subiz_challenge'];
   return hash_hmac('sha256', $request_timestamp.$challenge, $verification_key);
 }
@@ -50,13 +50,15 @@ echo verifyURL($verification_key);
 ?> 
 ```
 
-Sau khi thiết lập xong, bạn quay về màn hình Subiz và click "Xác thực webhook" . Hệ thống sẽ báo thành công.
+Sau khi thiết lập xong, bạn quay về màn hình cài đặt [Automation wokflow](https://app.subiz.com/settings/automation-workflow#) và click "Xác thực webhook" . Hệ thống sẽ báo thành công.
 
-Tiếp theo, bạn thiết lập các điều kiện cho Automation. 
+![C&#xE0;i &#x111;&#x1EB7;t webhook trong Automation workflow c&#x1EE7;a Subiz](../../.gitbook/assets/image%20%2831%29.png)
+
+Tiếp theo, bạn thiết lập các điều kiện cho [**Automation**](https://app.subiz.com/settings/automation-workflow#). 
 
 ### Dữ liệu Subiz trả về qua webhook
 
-Subiz sẽ gửi dữ liệu dạng JSON sang webhook qua giao thức POST . Dưới đây là dữ liệu sự kiện User cập nhật thông tin. 
+Subiz sẽ gửi dữ liệu dạng JSON sang webhook qua giao thức POST. Dưới đây là dữ liệu sự kiện User cập nhật thông tin. 
 
 ```javascript
 [

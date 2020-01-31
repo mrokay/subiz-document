@@ -52,7 +52,7 @@ Trên máy tính, bạn đăng nhập Subiz trên trình duyệt nên không nh�
 ### Trên máy tính Win 10:
 
 * Chọn icon **Action Center** ở góc phải dưới dùng màn hình
-* Chọn **All settings** &gt; Tìm kiếm đến trang **Notifacations & actions settings**
+* Chọn **All settings** &gt; Tìm kiếm đến trang **Notifications & actions settings**
 * Tại mục **Get notifications from these senders** &gt; Bật **ON trình duyệt** bạn sử dụng. Ví dụ: Cho phép trình duyệt Google Chrome thông báo
 
 ![Ch&#x1ECD;n All settings trong Action Center](../../../.gitbook/assets/act-111.png)
