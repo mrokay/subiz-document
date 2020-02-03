@@ -156,6 +156,8 @@ Hướng dẫn cài đặt:
 *  Bật ON để sử dụng và chỉnh sửa + Thay đổi lại lời giới thiệu + Thêm thành phần là các thông tin hỏi khách hàng
 * Lưu thay đổi để hoàn thành
 
+![H&#x1ECF;i th&#xF4;ng tin tr&#x1B0;&#x1EDB;c khi chat](../../../.gitbook/assets/form-online-1.png)
+
 Tip nhỏ:
 
 * Chọn Bắt buộc khách hàng điền thông tin để tiếp tục chat hoặc Không bắt buộc.
@@ -181,6 +183,13 @@ Hướng dẫn cài đặt:
 * Chọn Hỏi thông tin trước khi Offline
 *  Bật ON để sử dụng và chỉnh sửa nội dung hỏi khách hàng + Thay đổi lại lời giới thiệu + Thêm thành phần là các thông tin hỏi khách hàng
 * Lưu thay đổi để hoàn thành
+
+![H&#x1ECF;i th&#xF4;ng tin khi offline](../../../.gitbook/assets/form-offline-1.png)
+
+Tip nhỏ:
+
+* Bạn có thể chọn kích hoạt chạy bảng hỏi thông tin linh động khi Hỗ trợ viên offline hoặc cố định khi ngoài giờ làm việc. Cài đặt Giờ làm việc
+* Bạn chọn ON Tự động đóng cuộc thoại sau khi khách điền form: Mỗi lần khách điền form sẽ tạo thành một hội thoại mới giúp bạn dễ dàng quản lý các vấn đề khách liên hệ tới.
 {% endtab %}
 {% endtabs %}
 
