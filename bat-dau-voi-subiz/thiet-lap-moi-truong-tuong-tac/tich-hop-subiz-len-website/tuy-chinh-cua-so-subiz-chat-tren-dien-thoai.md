@@ -14,7 +14,7 @@ Cửa sổ Subiz chat trên điện thoại di động được thiết kế t�
 
 ### 2. Tùy chỉnh cửa sổ chat trên điện thoại với CSS
 
-Bạn có thể tùy chỉnh chat button và vị trí chat button trên điện thoại :
+Bạn có thể tùy chỉnh chat button và vị trí chat button trên điện thoại tại trang [**Cài đặt cửa sổ Subiz chat &gt; Chat button**](https://app.subiz.com/settings/widget-setting/chat-button)\*\*\*\*
 
 * **Chat button**: Trên bản điện thoại, chọn **Thay đổi** để bạn lựa chọn sử dụng thư viện button có sẵn của Subiz hoặc tải hình ảnh button thiết kế riêng của bạn.
 * **Hiện thị trên điện thoại**: Bạn có thể OFF để ẩn chat button trên điện thoại và gắn link cửa sổ chat vào hình ảnh hay dòng chữ bất kỳ trên website bản điện thoại. [**Xem thêm hướng dẫn đặt chat button ở bất cứ vị trí nào trên website.**](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/dat-button-subiz-moi-noi-tren-website-voi-api-js)\*\*\*\*
