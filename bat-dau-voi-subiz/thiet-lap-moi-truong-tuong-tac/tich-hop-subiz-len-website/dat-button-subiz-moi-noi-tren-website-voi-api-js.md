@@ -1,39 +1,22 @@
-# Đặt button Subiz mọi nơi trên website với API Js
+# Đặt chat button mọi nơi trên website với API Js
 
-Button Subiz là hình ảnh mặc định của [Subiz](https://subiz.com/vi/), được hiển thị mặc định góc bên phải hoặc bên trái trên website sau khi tích hợp. Khách hàng click vào button sẽ mở ra cửa sổ [Subiz chat](https://subiz.com/vi/live-chat.html).
+Chat button Subiz là hình ảnh mặc định của [Subiz](https://subiz.com/vi/), được hiển thị mặc định góc bên phải hoặc bên trái trên website sau khi tích hợp cửa sổ Subiz chat. Khách hàng click vào button sẽ mở ra cửa sổ [Subiz chat](https://subiz.com/vi/live-chat.html).
 
-Bạn hoàn toàn có thể sáng tạo hình ảnh button Subiz và linh hoạt đặt button này ở bất cứ vị trí nào trên website, với bất cứ hình dáng nào phù hợp với giao diện trang web.
+Bạn hoàn toàn có thể sáng tạo hình ảnh chat button Subiz và linh hoạt đặt button này ở bất cứ vị trí nào trên website, với bất cứ hình dáng nào phù hợp với giao diện trang web.
 
 ![S&#xE1;ng t&#x1EA1;o Button Subiz tr&#xEA;n website](../../../.gitbook/assets/tuy-chinh-button.gif)
 
 Bạn cần thực hiện hai bước sau:
 
-### Bước 1: Ẩn hình ảnh Button Subiz mặc định
+### Bước 1: Ẩn hình ảnh chat button Subiz mặc định
 
-Bạn sẽ sử dụng mã CSS trong app.subiz.com để ẩn hình ảnh Button mặc định: [Đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ Subiz chat &gt; Tùy chỉnh CSS](https://app.subiz.com/settings/widget-setting).
+Bạn có thể chọn ẩn chat button Subiz trên website bản máy tính và điện thoại bằng cách tắt **OFF** **Hiển thị trên máy tính** và **OFF** **Hiển thị trên điện thoại**
 
-Cửa sổ hội thoại có hai kiểu: Thu gọn và Mở rộng. 
-
-![C&#xE1;ch x&#xE1;c &#x111;&#x1ECB;nh ki&#x1EC3;u c&#x1EED;a s&#x1ED5; h&#x1ED9;i tho&#x1EA1;i Subiz tr&#xEA;n website](../../../.gitbook/assets/kieu-1.jpg)
-
-Dưới đây là 2 mã CSS ẩn chat button [Subiz ](https://subiz.com/vi/) tương ứng với từng kiểu cửa sổ Subiz chat. Bạn sao chép và đặt mã CSS này trong bảng Tùy chỉnh CSS rồi Lưu thay đổi.
-
-|                     **Kiểu: Thu gọn** |                 **Kiểu: Mở rộng** |
-| :--- | :--- |
-| .widget-button {display:none;} .widget\_mini .widget\_body {bottom:0;} | .widget-button {display:none;} |
-
-{% hint style="info" %}
-Lưu ý: Mã CSS sử dụng để ẩn riêng chat button trên phiên bản điện thoại:  
-`.widget_mobile .button-chat {  
-display: none;  
-}`
-{% endhint %}
-
-![D&#xE1;n m&#xE3; CSS &#x1EA9;n button Subiz](../../../.gitbook/assets/kieu-2.jpg)
+![](../../../.gitbook/assets/button-chat-moi-1.png)
 
 ###  **Bước 2: Gắn link cửa sổ Subiz chat vào bất kỳ vị trí trên website**
 
-Khi cài đặt ẩn button Subiz, khách hàng sẽ không nhìn thấy hình ảnh button và cửa sổ [Subiz chat.](https://subiz.com/vi/live-chat.html)
+Khi cài đặt ẩn chat button Subiz, khách hàng sẽ không nhìn thấy hình ảnh button và cửa sổ [Subiz chat.](https://subiz.com/vi/live-chat.html)
 
 Sử dụng API Js trong code website sẽ giúp bạn gắn link cửa sổ chat Subiz vào hình ảnh hoặc đoạn text bất kỳ trên website và tự động mở cửa sổ chat.
 

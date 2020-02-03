@@ -52,7 +52,7 @@ echo verifyURL($verification_key);
 
 Sau khi thiết lập xong, bạn quay về màn hình cài đặt [Automation wokflow](https://app.subiz.com/settings/automation-workflow#) và click "Xác thực webhook" . Hệ thống sẽ báo thành công.
 
-![C&#xE0;i &#x111;&#x1EB7;t webhook trong Automation workflow c&#x1EE7;a Subiz](../../.gitbook/assets/image%20%2831%29.png)
+![C&#xE0;i &#x111;&#x1EB7;t webhook trong Automation workflow c&#x1EE7;a Subiz](../../.gitbook/assets/image%20%2832%29.png)
 
 Tiếp theo, bạn thiết lập các điều kiện cho [**Automation**](https://app.subiz.com/settings/automation-workflow#). 
 

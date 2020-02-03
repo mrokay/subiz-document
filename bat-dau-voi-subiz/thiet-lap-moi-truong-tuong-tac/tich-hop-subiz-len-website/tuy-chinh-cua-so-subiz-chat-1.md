@@ -15,7 +15,7 @@ Một số điểm mới trên cửa sổ chat:
 * Thu thập thông tin khách hàng nhanh chóng xác định tiềm năng và phân luồng khách hàng mục tiêu.
 * Thay đổi cài đặt cửa sổ chat dễ dàng.
 
-![C&#x1EED;a s&#x1ED5; Subiz chat](../../../../.gitbook/assets/group-426-2.png)
+![C&#x1EED;a s&#x1ED5; Subiz chat](../../../.gitbook/assets/group-426-2.png)
 
 Bài viết này sẽ hướng dẫn chi tiết 3 cài đặt trên cửa sổ chat: chat button, cửa sổ chat và nâng cao.   
 Chi tiết như sau:
@@ -28,7 +28,7 @@ Chat button như một nút kêu gọi chat trên website của bạn.
 
 Bạn được quyết định hình ảnh hiện thị của chat button, vị trí chat button trên website của mình và lời chào tất cả khách truy cập trang web sao cho phù hợp với giao diện chung của trang web và thu hút khách hàng nhất.
 
-![C&#xE0;i &#x111;&#x1EB7;t chat button Subiz](../../../../.gitbook/assets/button-chat-1.png)
+![C&#xE0;i &#x111;&#x1EB7;t chat button Subiz](../../../.gitbook/assets/button-chat-1.png)
 
 {% tabs %}
 {% tab title="Hình ảnh button chat" %}
@@ -40,7 +40,7 @@ Button trên bản máy tính và điện thoại có thể cài đặt khác nh
 * Chọn bản **Máy tính** hoặc **điện thoại** &gt; Chọn **Thay đổi** 
 * Chọn **Thư viện button** để sử dụng mẫu ảnh button có sẵn của Subiz. Hoặc **Sử dụng button tùy chỉnh** để tải ảnh button thiết kế của bạn.
 
-![Thay &#x111;&#x1ED5;i chat button](../../../../.gitbook/assets/nut-chat-2%20%281%29.png)
+![Thay &#x111;&#x1ED5;i chat button](../../../.gitbook/assets/nut-chat-2%20%281%29.png)
 
 _**Tip nhỏ**_: Ảnh button có thể thiết kế dạng ảnh Gif sinh động, ảnh của chương trình Sales off khuyến mãi sẽ tạo được cảm xúc nơi khách hàng.
 {% endtab %}
@@ -52,7 +52,7 @@ Bạn chọn đặt button chat ở **Bên phải** hoặc **Bên trái** websit
 
 Chọn Cài đặt vị trí button trên điện thoại bạn khi bạn cần thay đổi vị trí button riêng trên bản điện thoại.
 
-![C&#xE0;i &#x111;&#x1EB7;t v&#x1ECB; tr&#xED; button chat Subiz](../../../../.gitbook/assets/vi-tri-button-2.png)
+![C&#xE0;i &#x111;&#x1EB7;t v&#x1ECB; tr&#xED; button chat Subiz](../../../.gitbook/assets/vi-tri-button-2.png)
 
 _**Tip nhỏ**_: Theo thói quen của người dùng internet, button chat bên phải website sẽ dễ nhìn, dễ thao tác chat hơn.
 {% endtab %}
@@ -64,7 +64,7 @@ Lời chào hiện lên cùng button chat khi khách truy cập website, giống
 
 Thay đổi nội dung lời chào và chọn ảnh đại diện của agent chào khách mang lại cảm xúc gần gũi với khách hàng.
 
-![T&#x1EA1;o l&#x1EDD;i ch&#xE0;o kh&#xE1;ch truy c&#x1EAD;p website](../../../../.gitbook/assets/loi-chao-2.png)
+![T&#x1EA1;o l&#x1EDD;i ch&#xE0;o kh&#xE1;ch truy c&#x1EAD;p website](../../../.gitbook/assets/loi-chao-2.png)
 
 _**Tip nhỏ**_: 
 
@@ -80,7 +80,7 @@ Cửa sổ chat là một điểm chạm với khách hàng giúp bạn gia tăn
 Bạn có thể thiết kế lại giao diện cửa sổ chat phù hợp với website và nhóm khách hàng mục tiêu của mình tại trang **Thiết kế cửa sổ chat** qua đường link  
 ****[**https://app.subiz.com/settings/widget-setting/set-up-subiz-chat**](https://app.subiz.com/settings/widget-setting/set-up-subiz-chat)\*\*\*\*
 
-![Thi&#x1EBF;t k&#x1EBF; c&#x1EED;a s&#x1ED5; chat](../../../../.gitbook/assets/widget-2.png)
+![Thi&#x1EBF;t k&#x1EBF; c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/widget-2.png)
 
 {% tabs %}
 {% tab title="Loại cửa sổ chat" %}
@@ -88,7 +88,7 @@ Bạn có thể thiết kế lại giao diện cửa sổ chat phù hợp với 
 
 Bạn có thể chọn loại cửa sổ chat phù hợp với trang web là **Tiêu chuẩn** nhỏ gọn hoặc **Cao bằng chiều cao màn hình.**
 
-![Lo&#x1EA1;i c&#x1EED;a s&#x1ED5; chat Subiz](../../../../.gitbook/assets/loai-cua-so-chat-2.png)
+![Lo&#x1EA1;i c&#x1EED;a s&#x1ED5; chat Subiz](../../../.gitbook/assets/loai-cua-so-chat-2.png)
 
 _**Tip nhỏ**_: Cửa sổ chat cao bằng chiều cao màn hình giúp khách hàng dễ dàng nhìn nội dung chat có kèm hình ảnh, sản phẩm, video,...
 {% endtab %}
@@ -98,7 +98,7 @@ _**Tip nhỏ**_: Cửa sổ chat cao bằng chiều cao màn hình giúp khách 
 
 Bạn được thay đổi kích thước chiều rộng và chiều cao của cửa sổ chat. Chiều rộng tối là 375px. Chiều cao tối đa là 705px.
 
-![K&#xED;ch th&#x1B0;&#x1EDB;c c&#x1EED;a s&#x1ED5; Subiz chat](../../../../.gitbook/assets/kich-thuoc-2.png)
+![K&#xED;ch th&#x1B0;&#x1EDB;c c&#x1EED;a s&#x1ED5; Subiz chat](../../../.gitbook/assets/kich-thuoc-2.png)
 
 _**Tip nhỏ**_: Không sửa cửa sổ chat quá nhỏ khiến khách khó xem nội dung chat tư vấn.
 {% endtab %}
@@ -108,7 +108,7 @@ _**Tip nhỏ**_: Không sửa cửa sổ chat quá nhỏ khiến khách khó xem
 
 Bạn có thể quyết định cho phép hiện thị logo công ty và các kênh tương tác như Facebook, Email, Zalo OA,..., hoặc hiển thị avatar agent trên màn hình chính của cửa sổ chat**.**
 
-![Th&#x1B0;&#x1A1;ng hi&#x1EC7;u hi&#x1EC7;n th&#x1ECB; tr&#xEA;n c&#x1EED;a s&#x1ED5; chat](../../../../.gitbook/assets/thuong-hieu-2.png)
+![Th&#x1B0;&#x1A1;ng hi&#x1EC7;u hi&#x1EC7;n th&#x1ECB; tr&#xEA;n c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/thuong-hieu-2.png)
 
 _**Tip nhỏ**_: Hiện thị logo và kênh tương tác cho phép khách hàng có nhiều lựa chọn chat trên cửa sổ chat Subiz hoặc chat Fanpage hoặc chat Zalo OA,...
 {% endtab %}
@@ -118,7 +118,7 @@ _**Tip nhỏ**_: Hiện thị logo và kênh tương tác cho phép khách hàng
 
 Chọn dải màu bắt mắt hoặc màu đơn sắc cho cửa sổ chat của bạn.
 
-![M&#xE0;u s&#x1EAF;c c&#x1EED;a s&#x1ED5; chat](../../../../.gitbook/assets/mau-sac-2%20%281%29.png)
+![M&#xE0;u s&#x1EAF;c c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/mau-sac-2%20%281%29.png)
 
 _**Tip nhỏ**_: Màu sắc cửa sổ chat nổi bật so với màu sắc trang web giúp khách dễ dàng nhận biết cửa sổ chat tư vấn.
 {% endtab %}
@@ -129,7 +129,7 @@ _**Tip nhỏ**_: Màu sắc cửa sổ chat nổi bật so với màu sắc tran
 Cửa sổ chat mặc định đặt chế độ Tự động hiện ngôn ngữ Tiếng Anh hoặc Tiếng Việt theo ngôn ngữ trình duyệt của người dùng.  
 Bạn có thể chọn ngôn ngữ cố định Tiếng Việt hoặc Tiếng Anh để thay đổi nội dung Tiêu đề và Lời giới thiệu trên cửa sổ chat.
 
-![Ng&#xF4;n ng&#x1EEF; tr&#xEA;n c&#x1EED;a s&#x1ED5; chat](../../../../.gitbook/assets/ngon-ngu-2.png)
+![Ng&#xF4;n ng&#x1EEF; tr&#xEA;n c&#x1EED;a s&#x1ED5; chat](../../../.gitbook/assets/ngon-ngu-2.png)
 
 _**Tip nhỏ**_: Bạn có thể sửa tất cả nội dung ngôn từ trên cửa sổ chat bằng cách sử dụng file ngôn ngữ po, [**xem hướng dẫn chi tiết**](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/cac-ngon-ngu-ho-tro-tren-cua-so-subiz-chat#3-tuy-chinh-noi-dung-cua-so-chat-voi-file-po).
 {% endtab %}
@@ -141,7 +141,7 @@ Trước khi chat, bạn cần thu thập thông tin khách hàng hay tự độ
 Hãy sử dụng chức năng **Nâng cao của cửa sổ chat** qua đường link ****[**https://app.subiz.com/settings/widget-setting/advance**](https://app.subiz.com/settings/widget-setting/advance)  
 Tại đây, bạn có thể thiết lập Hỏi thông tin tất cả khách hàng trước khi chat và Hỏi thông tin khách hàng khi agent offline hoặc ngoài giờ làm việc.
 
-![H&#x1ECF;i th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng tr&#x1B0;&#x1EDB;c khi chat](../../../../.gitbook/assets/form-info-2.png)
+![H&#x1ECF;i th&#xF4;ng tin kh&#xE1;ch h&#xE0;ng tr&#x1B0;&#x1EDB;c khi chat](../../../.gitbook/assets/form-info-2.png)
 
 {% tabs %}
 {% tab title="Hỏi thông tin trước khi chat" %}
