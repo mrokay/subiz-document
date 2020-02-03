@@ -100,74 +100,37 @@ API cho phép bạn ra lệnh mở Subiz Widget. Ví dụ, bạn có thể tạo
 //Gắn vào link để đóng Subiz widget.
 ```
 
-### Tùy chỉnh CSS
-
-API cho phép bạn truyền một đoạn mã CSS để thay đổi lại Subiz Widget theo nhu cầu của bạn.  Chức năng giúp bạn có thể sáng tạo ra cửa sổ Subiz cho từng website với phong cách riêng của nó.
-
-```javascript
-<script type="text/javascript">
-    window.subiz('changeCss', '.widget_mini .widget_body {height: 750px !important; max-height: 800px !important;}')
-</script>
-```
-
-Bạn tham khảo thêm [Bảng CSS tùy chỉnh cửa sổ Subiz chat](https://help.subiz.com/bat-dau-voi-subiz/thiet-lap-moi-truong-tuong-tac/tich-hop-subiz-len-website/bang-css-tuy-chinh-cua-so-chat)!
-
-### Vị trí của cửa sổ sổ chat
-
-Bạn có thể tùy chỉnh vị trí cửa sổ chat trên website sang bên trái hoặc phải để phù hợp với thiết kế web và tối ưu hiển thị:
-
-```csharp
-subiz('setPosition', 'left') 
-// Tùy chỉnh cửa sổ chat sang bên trái 
-```
-
-```csharp
-subiz('setPosition', 'right') 
-// Tùy chỉnh cửa sổ chat sang bên phải 
-```
-
-### Loại cửa sổ chat
-
-Bạn có thể lựa chọn loại cửa sổ chat mở rộng hoặc thu nhỏ:
-
-```csharp
-subiz('setWindowMode', 'full') 
-// Tùy chỉnh loại cửa sổ chat mở rộng 
-```
-
-```csharp
-subiz('setWindowMode', 'mini') 
-// Tùy chỉnh loại cửa sổ chat thu nhỏ 
-```
-
 ### Thay đổi nội dung trên cửa sổ chat 
 
 Trước hết bạn cần tải file ngôn ngữ của Subiz để biết mục nào mình muốn thay 
 
-[Đăng nhập App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Cửa sổ Subiz chat hội thoại ](https://app.subiz.com/settings/widget-setting)
+[Đăng nhập App.subiz.com &gt; Cài đặt &gt; Cửa sổ Subiz chat &gt; Thiết kế cửa sổ Subiz chat](https://app.subiz.com/settings/widget-setting/set-up-subiz-chat)
 
-* Tại mục NGÔN NGỮ &gt; chọn Tiếng Việt &gt; chọn Tùy chỉnh nội dung
-* Chọn **Tải về tệp nội dung gốc tại đây** **&gt;** Tệp định dạng .po sẽ được lưu về máy tính
+* Tại mục **NGÔN NGỮ** &gt; chọn **Tiếng Việt** &gt; Chọn **Bạn có thể sửa tất cả nội dung Tiếng Việt tại đây**
+* Chọn **Tải về tệp nội dung gốc**  **&gt;** Tệp định dạng .po sẽ được lưu về máy tính
 
 Sau đó sử dụng đoạn mã API sau:
 
 ```csharp
+<script>
 subiz('setLanguageData', {}) . VD subiz('setLanguageData', {message_input_help: "Nhập tin", joined_the_conversation: "joined"})
+</script>
 // Tùy chỉnh cùng lúc nội dung nhập tin và tham gia hội thoại 
 ```
 
 Trong đó:
 
 *  Message\_input\_help: Là key language và được lấy từ File Po.
+* Nhập tin: là nội dung language bạn muốn thay đổi
 
 ![Key language trong file Po](../../.gitbook/assets/nhap-tin.png)
-
-* Nhập tin: là nội dung language bạn muốn thay đổi
 
 Chẳng hạn bạn muốn thay đổi nội dung lời giới thiệu trên thanh tiêu đề, bạn tìm kiếm phần giới thiệu đó trong file ngôn ngữ đã tải và thay đổi trên web bằng cách gắn API như sau:
 
 ```csharp
+<script>
 subiz('setLanguageData', {team_intro: "Muahanggiare.com - website cung cấp dịch vụ tốt nhất tại Hà Nội"})
+</script>
 Tùy chỉnh nội dung thanh tiêu đề 
 ```
 
