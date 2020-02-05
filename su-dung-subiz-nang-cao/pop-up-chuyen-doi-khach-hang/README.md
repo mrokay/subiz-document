@@ -29,7 +29,7 @@ Trên Subiz, bạn sẽ sử dụng một số kiểu Pop-up Subiz sau:
 
 Bạn được tạo nhiều pop-up cùng lúc cho những mục tiêu khác nhau và quản lý thống kê chi tiết của từng pop-up như Số lượng hoạt động của pop-up, danh sách khách hàng chuyển đổi qua pop-up,...
 
-Xem hướng dẫn chi tiết tạo pop-up và quản lý thống kê po-up
+[**Xem hướng dẫn chi tiết tạo pop-up và quản lý thống kê po-up**](https://help.subiz.com/su-dung-subiz-nang-cao/pop-up-chuyen-doi-khach-hang/cai-dat-pop-up-campaign)\*\*\*\*
 
 
 
