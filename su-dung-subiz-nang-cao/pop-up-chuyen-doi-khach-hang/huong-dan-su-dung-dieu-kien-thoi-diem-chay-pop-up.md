@@ -13,7 +13,7 @@ Subiz cung cấp cho bạn bốn thời điểm mà bạn có thể ra lệnh po
 * \*\*\*\*[**Sau x giây không hoạt động**](https://help.subiz.com/su-dung-subiz-nang-cao/pop-up-chuyen-doi-khach-hang/huong-dan-su-dung-dieu-kien-chay-pop-up-campaign#3-sau-x-giay-khach-khong-hoat-dong-inactivity-time)\*\*\*\*
 * \*\*\*\*[**Sau x giây trên trang**](https://help.subiz.com/su-dung-subiz-nang-cao/pop-up-chuyen-doi-khach-hang/huong-dan-su-dung-dieu-kien-chay-pop-up-campaign#4-sau-x-giay-khach-hang-tren-trang-web)\*\*\*\*
 
-### **1. Khi khách có Ý định thoát web \(Exit intent\) trên Subiz**
+### **1. Khi khách có Ý định thoát web trên Subiz \(Exit intent\)**
 
 Subiz đoán trước hành vi rời website ****\(Exit intent\) của khách truy cập. Ngay lập tức Popup sẽ hiển thị đúng thời điểm đó, đưa ra thông điệp hấp dẫn để thuyết phục khách hàng ở lại. 
 
@@ -52,7 +52,7 @@ Thuật toán này sẽ xác định được khách hàng đã cuộn chuột h
 
 #### Cách sử dụng **pop-up khi khách cuộn chuột tới X phần trăm của màn hình:**
 
-* Bước 1: Tạo campaign, lựa chọn popup mẫu và chỉnh sửa theo ý bạn.\
+* Bước 1: Tạo campaign, lựa chọn popup mẫu và chỉnh sửa theo ý bạn.
 * Bước 2: Chuyển sang Tab Điều kiện chạy Pop up, tại phần kích hoạt \(Hiển thị khi\) bạn click nút "Thêm điều kiện kích hoạt" và chọn tỷ lệ x phần trăm
 * Bước 3: Lưu chiến dịch. 
 
@@ -67,7 +67,7 @@ Lưu ý: Tỷ lệ cuộn chuột không thể kết hợp cùng các điều ki
 
 * _**Tỷ lệ cuộn chuột có bị chặn bởi Google Pop up Policy không?**_ Không. Bạn có thể yên tâm bởi Subiz thường xuyên được Google cập nhật chính sách mới để đảm bảo hoạt động hiệu quả trên website của bạn
 
-### 3. **Sau X giây khách không hoạt động \( Inactivity Time\)**
+### 3. **Sau X giây khách không hoạt động \(Inactivity Time\)**
 
 Thuật toán này nhận định được khoảng thời gian khách hàng không có các hoạt động nào trên trang, ví dụ như cuộn chuột; di chuột hoặc soạn thảo, nhưng chưa tắt trang. Sau khoảng thời gian nhất định, pop up sẽ hiển thị để thu hút sự chú ý của khách hàng.
 
@@ -94,7 +94,7 @@ Lưu ý: Sau X giây không hoạt động không thể kết hợp cùng các �
 
 * Sau X giây khách không hoạt động có bị chặn bởi Google Pop up Policy không? Không. Bạn có thể yên tâm bởi Subiz thường xuyên được Google cập nhật chính sách mới để đảm bảo hoạt động hiệu quả trên website của bạn
 
-### 4. S**au X giây khách hàng trên trang web**
+### 4. S**au X giây khách hàng trên trang web \(Time on page\)**
 
 Điều kiện Sau X giây giúp bạn quản lý được thời điểm pop-up hiển thị trên trang dựa vào khoảng thời gian khách lưu lại trên trang.
 
