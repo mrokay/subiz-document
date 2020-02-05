@@ -81,6 +81,7 @@
     * [Mã nhúng Mời khách nhận thông báo](su-dung-subiz-nang-cao/api-javascript-cua-subiz-widget/ma-nhung-hoi-khach-nhan-thong-bao.md)
   * [Pop-up chuyển đổi khách hàng](su-dung-subiz-nang-cao/pop-up-chuyen-doi-khach-hang/README.md)
     * [Cài đặt pop-up campaign](su-dung-subiz-nang-cao/pop-up-chuyen-doi-khach-hang/cai-dat-pop-up-campaign.md)
+    * [Hướng dẫn sử dụng điều kiện thời điểm chạy pop-up](su-dung-subiz-nang-cao/pop-up-chuyen-doi-khach-hang/huong-dan-su-dung-dieu-kien-thoi-diem-chay-pop-up.md)
   * [Sản phẩm](su-dung-subiz-nang-cao/content.md)
   * [Tùy chỉnh cửa sổ chat riêng biệt trên từng website](su-dung-subiz-nang-cao/su-dung-subituy-chinh-cua-so-chat-rieng-biet-tren-tung-websitez-tren-nhieu-website.md)
   * [Tích hợp với bên thứ 3](su-dung-subiz-nang-cao/tich-hop-voi-ben-thu-3/README.md)

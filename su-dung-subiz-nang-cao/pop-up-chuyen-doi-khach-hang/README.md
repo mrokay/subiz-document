@@ -12,6 +12,8 @@ Pop-up là hình thức quảng cáo Marketing mở ra một cửa sổ nhỏ tr
 
 Doanh nghiệp sử dụng Pop-up để truyền tải mạnh mẽ thông điệp khuyến mãi hoặc sản phẩm dịch vụ và chuyển đổi khách hàng mục tiêu như mua hàng, điền thông tin,....
 
+![Pop-up Subiz chuy&#x1EC3;n &#x111;&#x1ED5;i kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/popup-11.png)
+
 ### 2. Các loại Pop-up trên Subiz
 
 Pop-up là công cụ quảng cáo hiệu quả dành cho doanh nghiệp.  
