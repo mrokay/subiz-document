@@ -49,6 +49,7 @@
     * [Phím tắt trên Dashboard](bat-dau-voi-subiz/lam-viec-tren-subiz/phim-tat-tren-dashboard.md)
     * [Gắn Tag cuộc hội thoại](bat-dau-voi-subiz/lam-viec-tren-subiz/gan-tag-cuoc-hoi-thoai.md)
     * [Ticket - Quản lý chăm sóc khách hàng](bat-dau-voi-subiz/lam-viec-tren-subiz/ticket-quan-ly-cham-soc-khach-hang.md)
+    * [Đánh giá hội thoại](bat-dau-voi-subiz/lam-viec-tren-subiz/danh-gia-hoi-thoai.md)
 * [Sử dụng Subiz nâng cao](su-dung-subiz-nang-cao/README.md)
   * [Tương tác tự động](su-dung-subiz-nang-cao/tuong-tac-tu-dong/README.md)
     * [Tổng quan về Automation](su-dung-subiz-nang-cao/tuong-tac-tu-dong/tao-automation.md)

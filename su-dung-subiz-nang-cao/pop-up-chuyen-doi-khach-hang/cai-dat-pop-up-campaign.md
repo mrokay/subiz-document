@@ -10,7 +10,7 @@ Pop-up hoạt động như một cửa sổ quảng cáo gồm nhiều thông ti
 
 1. Thiết kế popup hiện thị trên website
 2. Cài đặt điều kiện chạy pop-up cho khách hàng mục tiêu
-3. Gửi email phản hồi tới khách hàng điền thông tin địa chỉ email trên pop-up
+3. Gửi email thông báo tới khách hàng điền thông tin địa chỉ email trên pop-up
 
 Để tạo một pop-up mới, bạn sẽ vào trang Campaign qua đường link [https://app.subiz.com/campaigns](https://app.subiz.com/campaigns)  
 &gt; Chọn Danh sách &gt; Chọn Sử dụng mẫu campaign có sẵn  
@@ -21,10 +21,10 @@ Sau đó, bạn thao tác theo hướng dẫn chi tiết sau:
 Giao diện pop-up là một cửa sổ nhỏ truyền tải thông tin, kèm nút kêu gọi hành động. Khách hàng cần thông tin hiện thị ngắn gọn, rõ ràng và dễ hiểu.   
 Một số thông tin bạn sẽ thiết kế trên pop-up:
 
-* **Tiêu đề**: Chính là thông điệp bạn muốn gửi đến khách hàng. Cần ngắn gọn, ấn tượng và đủ hấp dẫn khách hàng.
-* **Mô tả**: Lời giới thiệu thêm cho tiêu đề popup giúp khách hàng hiểu rõ hơn thông điệp của bạn.
-* **Bảng hỏi thông tin**: Khi bạn cần hỏi thông tin số điện thoại, địa chỉ email của khách hàng,... bạn chọn thêm thông tin hỏi. Chỉ nên hỏi 1-2 thông tin để tạo trải nghiệm khách hàng tốt nhất.
-* **Nút kêu gọi hành động**: Đây là nút yêu cầu khách hàng hành động và được ghi nhận là một chuyển đổi của popup. Khi khách hàng click vào nút hành động, thì Subiz tự động ghi nhận một chuyển đổi pop-up và thực hiện các hành động tương ứng. Có 5 hành động được thực hiện: + Điều hướng sang trang khác: Một trang web khác sẽ được mở ra trên trình duyệt của khách hàng. + Đóng pop-up: Pop-up sẽ đóng trong phiên truy cập của khách hàng. + Bật cửa sổ chat: Cửa sổ chat sẽ mở để khách hàng bắt đầu trò chuyện tư vấn. + Gửi thông tin: Khách hàng đồng ý gửi thông tin đã điền trong bảng hỏi thông tin. + Goal reach: Ghi nhận chuyển đổi khi khách hàng nhấp chuột chọn hành động bất kỳ.
+* **Tạo nội dung hấp dẫn, ấn tượng cho khách hàng, lựa chọn màu sắc độc đáo** qua mục Tiêu đề và Mô tả của pop-up.
+* **Thu thập thông tin khách hàng** bằng cách bạn sử dụng Bảng hỏi thông tin. Tại đây bạn có thể thêm các trường thông tin cần hỏi khách như Số điện thoại, Địa chỉ email, Ý kiến đánh giá của khách hàng,... Lưu ý: Chỉ nên hỏi 1-2 thông tin để tạo trải nghiệm khách hàng tốt nhất.
+* **Kêu gọi khách hàng hành động**: Bạn muốn khách hàng gửi thông tin đã điền? Bạn muốn khách hàng xem trang sản phẩm hay khuyến mãi? Bạn muốn lưu thông tin khách hàng?  Đây là nút yêu cầu khách hàng hành động và được ghi nhận là một chuyển đổi của popup. Khi khách hàng click vào nút hành động, thì Subiz tự động ghi nhận một chuyển đổi pop-up và thực hiện các hành động tương ứng. Có 5 hành động được thực hiện: + Chuyển đổi: Khách hàng được ghi nhận là 1 chuyển đổi và được lưu trữ thông tin tại trang Thống kê + Send form và chuyển đổi: Khách hàng gửi thông tin đã điền sẽ được ghi nhận là 1 chuyển đổi và lưu trữ thông tin tại trang thống kê. + Hoàn thành mục tiêu và chuyển đổi: Khách hàng chọn nút hành động sẽ không nhìn thấy pop-up đó nữa và được ghi nhận là 1 chuyển đổi. + Điều hướng sang trang khác: Một trang web khác sẽ được mở ra trên trình duyệt của khách hàng. + Đóng pop-up: Pop-up sẽ đóng trong phiên truy cập của khách hàng. + Bật cửa sổ chat: Cửa sổ chat sẽ mở để khách hàng bắt đầu trò chuyện tư vấn.
+* **Thay đổi giao diện pop-up sinh động bằng cách thay đổi ảnh nền và hiệu ứng bắt mắt**.
 
 ### 2. Điều kiện chạy pop-up
 
