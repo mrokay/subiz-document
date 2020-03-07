@@ -44,7 +44,7 @@ Sau khi thu hút được khách hàng truy cập website, việc thu thập th�
 
 Trong trường hợp bạn muốn phân loại các khách hàng tiềm năng, bạn hoàn toàn có thể cài đặt hỏi thông tin bắt buộc như sau:
 
-![C&#xE0;i &#x111;&#x1EB7;t h&#x1ECF;i th&#xF4;ng tin b&#x1EAF;t bu&#x1ED9;c](../../../.gitbook/assets/image%20%2835%29.png)
+![C&#xE0;i &#x111;&#x1EB7;t h&#x1ECF;i th&#xF4;ng tin b&#x1EAF;t bu&#x1ED9;c](../../../.gitbook/assets/image%20%2836%29.png)
 
 ### Đồng bộ dữ liệu với khách đã cung cấp thông tin 
 
