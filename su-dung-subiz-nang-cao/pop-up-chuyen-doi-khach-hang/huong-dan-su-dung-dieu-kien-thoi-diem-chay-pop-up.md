@@ -8,10 +8,10 @@ description: >-
 
 Subiz cung cấp cho bạn bốn thời điểm mà bạn có thể ra lệnh popup hiển thị trên website. Tìm hiểu từng điều kiện dưới đây: 
 
-* [**Ý định thoát web**](https://help.subiz.com/su-dung-subiz-nang-cao/pop-up-chuyen-doi-khach-hang/huong-dan-su-dung-dieu-kien-chay-pop-up-campaign#1-khi-khach-co-y-dinh-thoat-web-exit-intent-tren-subiz)\*\*\*\*
-* \*\*\*\*[**Sau khi cuộn chuột x phần trăm của màn hình** ](https://help.subiz.com/su-dung-subiz-nang-cao/pop-up-chuyen-doi-khach-hang/huong-dan-su-dung-dieu-kien-chay-pop-up-campaign#2-cuon-chuot-toi-ty-le-x-phan-tram-cua-man-hinh)\*\*\*\*
-* \*\*\*\*[**Sau x giây không hoạt động**](https://help.subiz.com/su-dung-subiz-nang-cao/pop-up-chuyen-doi-khach-hang/huong-dan-su-dung-dieu-kien-chay-pop-up-campaign#3-sau-x-giay-khach-khong-hoat-dong-inactivity-time)\*\*\*\*
-* \*\*\*\*[**Sau x giây trên trang**](https://help.subiz.com/su-dung-subiz-nang-cao/pop-up-chuyen-doi-khach-hang/huong-dan-su-dung-dieu-kien-chay-pop-up-campaign#4-sau-x-giay-khach-hang-tren-trang-web)\*\*\*\*
+* [Ý định thoát web](https://help.subiz.com/su-dung-subiz-nang-cao/pop-up-chuyen-doi-khach-hang/huong-dan-su-dung-dieu-kien-thoi-diem-chay-pop-up#1-khi-khach-co-y-dinh-thoat-web-tren-subiz-exit-intent)
+* [Sau khi cuộn chuột x phần trăm của màn hình ](https://help.subiz.com/su-dung-subiz-nang-cao/pop-up-chuyen-doi-khach-hang/huong-dan-su-dung-dieu-kien-thoi-diem-chay-pop-up#2-cuon-chuot-toi-ty-le-x-phan-tram-cua-man-hinh)
+* [Sau x giây không hoạt động](https://help.subiz.com/su-dung-subiz-nang-cao/pop-up-chuyen-doi-khach-hang/huong-dan-su-dung-dieu-kien-thoi-diem-chay-pop-up#3-sau-x-giay-khach-khong-hoat-dong-inactivity-time)
+* [Sau x giây trên trang](https://help.subiz.com/su-dung-subiz-nang-cao/pop-up-chuyen-doi-khach-hang/huong-dan-su-dung-dieu-kien-thoi-diem-chay-pop-up#4-sau-x-giay-khach-hang-tren-trang-web-time-on-page)
 
 ### **1. Khi khách có Ý định thoát web trên Subiz \(Exit intent\)**
 
@@ -19,7 +19,7 @@ Subiz đoán trước hành vi rời website ****\(Exit intent\) của khách tr
 
 #### Điểm đáng chú ý của điều kiện này:
 
-* Ý định thoát web có thể hoạt động tốt trên cả máy tính bàn, điện thoại và máy tính bảng.
+* Ý định thoát web có thể hoạt động tốt trên cả máy tính bàn.  Không hoạt động trên điện thoại và máy tính bảng.
 * Ý định thoát web là một trong những điều kiện tác động mạnh mẽ nhất tới tâm lý khách hàng. Với việc xuất hiện vào đúng thời điểm khách định tắt web, pop up này có thể giúp bạn tăng gấp đôi tỷ lệ chuyển đổi từ khách truy cập thành khách hàng tiềm năng.
 
 #### Cách sử dụng **pop-up khi khách có Ý định thoát web**
@@ -31,7 +31,7 @@ Subiz đoán trước hành vi rời website ****\(Exit intent\) của khách tr
 #### Những câu hỏi thường gặp
 
 * _**Ý định thoát web hoạt động như thế nào?**_  Thuật toán nhận biết Ý định thoát web của Subiz hoạt động bằng cách dõi theo vị trí chuột của người dùng và kích hoạt chiến dịch khi chuột tiếp cận phía trên cửa sổ trình duyệt - điều này cho biết họ có ý định thoát khỏi trang web của bạn.  
-* _**Ý định thoát web hoạt động trên điện thoại di động như thế nào?**_  Có. Trên điện thoại thuật toán Subiz sẽ xác định khách rời trang khi họ có một trong các hành động sau: Khi ai đó nhấp vào đầu vào URL để thay đổi nó; Khi ai đó nhấp để mở tab mới; Khi ai đó nhấp vào nút Quay lại trên thiết bị di động.  
+* _**Ý định thoát web hoạt động trên điện thoại di động như thế nào?**_  Không. Trên điện thoại, thuật toán Subiz sẽ xác định dựa vào thời gian khách không hoạt động trên website.  
 * _**Ý định thoát web có hoạt động được trên trình duyệt ẩn danh không?**_ Có. Ý định thoát web hoạt động tốt trên trình duyệt ẩn danh. 
 *  _**Ý định thoát web có thể dùng cùng các điều kiện khác hay không?**_ Ý định thoát web có thể dùng đơn lẻ hoặc kết hợp như sau: + Nếu sử dụng duy nhất 01 điều kiện ý định thoát web thì nó sẽ áp dụng cho tất cả những người truy cập vào web. + Nếu kết hợp với các điều kiện đối tượng và đặt lịch, nó sẽ áp dụng cho riêng những đối tượng đã chọn hoặc lịch đã chọn. Bạn có thể sáng tạo các kịch bản này để tăng tính cá nhân hóa và tăng chuyển đổi. 
 
