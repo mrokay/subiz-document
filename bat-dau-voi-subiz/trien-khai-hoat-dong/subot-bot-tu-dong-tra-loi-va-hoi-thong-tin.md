@@ -10,13 +10,13 @@ description: >-
 
 [Subot](https://app.subiz.com/settings/bots) hay gọi là Trợ lý ảo trên Subiz, là một ứng dụng trên Subiz giúp tự động hóa kết nối Trả lời và Hỏi thông tin khách hàng. Từ đó, doanh nghiệp sẽ tăng tương tác với khách hàng 24/7 mà không bị phụ thuộc vào con người, chuyển đổi khách hàng tiềm năng bằng việc xin thông tin và xác định các yêu cầu cụ thể.
 
-Bạn \(Agents\) có thể xây dựng những kịch bản có sẵn cho Subot hoạt động như: Tự động trả lời khách hàng; Hiển thị đang nhắn tin; Mời khách hàng nhận thông báo trên trình duyệt; Hỏi thông tin liên hệ của khách hàng.
+Bạn \(Agents\) có thể xây dựng những kịch bản có sẵn cho Subot hoạt động như: Tự động trả lời khách hàng; Hiển thị đang nhắn tin;  Hỏi thông tin liên hệ của khách hàng.
 
 {% embed url="https://www.facebook.com/subizdotcom/videos/402391760533894/" caption="Subot - Bot tự động Trả lời và Hỏi thông tin" %}
 
 ### Subot hoạt động trên kênh nào?
 
-Subiz hoạt động trên các kênh Chat message như: Subiz chat, Messenger, Zalo OA.
+Subiz hoạt động trên các kênh Chat như: Subiz chat, Messenger, Zalo OA.
 
 ![Subot ho&#x1EA1;t &#x111;&#x1ED9;ng tr&#xEA;n k&#xEA;nh Messenger](../../.gitbook/assets/subot-tren-messenger.png)
 
@@ -32,28 +32,21 @@ Subiz hoạt động trên các kênh Chat message như: Subiz chat, Messenger, 
 
 ![K&#x1ECB;ch b&#x1EA3;n Subiz khi agent offline](../../.gitbook/assets/screen-shot-2019-02-11-at-2.14.46-pm.png)
 
-* **Bước 3: Phân phối cuộc hội thoại cho Subot** Bạn vào cài đặt Rule qua link [https://app.subiz.com/settings/rule-setting](https://app.subiz.com/settings/rule-setting) để thêm Subot vào nhận hội thoại. Subot được thiết kế như một agent, chỉ khi nào hội thoại của khách hàng được phân phối cho Subot thì Subot mới hoạt động.
-
 {% hint style="info" %}
-Lưu ý:   
+**Lưu ý:**   
 + Subot là một agent, có thể tích hợp miễn phí.  
-+ Subot có thể thay đổi tên và ảnh đại diện tại link [https://app.subiz.com/settings/agents-list](https://app.subiz.com/settings/agents-list)   
-+ Subot chỉ hoạt động khi bạn cài đặt Rule phân phối hội thoại cho Subot hoặc thêm agent Subot một cách thủ công vào hội thoại.
++ Subot có thể thay đổi tên và ảnh đại diện tại link [https://app.subiz.com/settings/agents-list](https://app.subiz.com/settings/agents-list).  
++ Subot tự động hoạt động trên tất cả hội thoại có khách hàng gửi tin nhắn.
 {% endhint %}
-
-![Rule h&#x1ED9;i tho&#x1EA1;i cho Subot v&#xE0; agent](../../.gitbook/assets/screen-shot-2019-02-11-at-2.39.23-pm%20%281%29.png)
 
 ### Một số kịch bản sử dụng Subot
 
 **1. Subot tự động chào và hỏi yêu cầu của tất cả khách hàng**
 
-* Bước 1: Cài đặt kịch bản Subot chào khách hàng và hiển thị đang nhắn tin
+Bạn chỉ cần Tích hợp Subiz và cài đặt kịch bản Subot chào khách hàng và hiển thị đang nhắn tin.  
+Ví dụ kịch bản Subiz tự động chào và trả lời chat của khách hàng.
 
 ![Subot ch&#xE0;o kh&#xE1;ch h&#xE0;ng v&#xE0; h&#x1ECF;i y&#xEA;u c&#x1EA7;u](../../.gitbook/assets/screen-shot-2019-02-11-at-2.38.05-pm.png)
-
-* Bước 2: Cài đặt Rule phân phối tất cả hội thoại cho Subot và các Agents
-
-![Rule h&#x1ED9;i tho&#x1EA1;i cho Subot v&#xE0; agent](../../.gitbook/assets/screen-shot-2019-02-11-at-2.39.23-pm.png)
 
 **2. Subot trả lời khi agent offline/ ngoài giờ làm việc**
 
