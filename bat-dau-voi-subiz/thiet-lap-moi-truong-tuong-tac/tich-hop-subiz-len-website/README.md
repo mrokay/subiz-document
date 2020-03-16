@@ -2,46 +2,32 @@
 
 ### Subiz chat là gì?
 
-[Subiz Chat](https://subiz.com/vi/live-chat.html%20) là một kênh tương tác với khách hàng ghé thăm website của doanh nghiệp. Khi tích hợp cửa sổ tương tác [Subiz](https://subiz.com/vi/) trên Website, **sẽ giúp doanh nghiệp theo dõi, tiếp cận, tương tác và chuyển đổi khách hàng** ghé thăm website của bạn.
+[Subiz Chat](https://subiz.com/vi/live-chat.html%20) là một kênh tương tác với khách hàng ghé thăm website của doanh nghiệp. Khi tích hợp cửa sổ chat [Subiz](https://subiz.com/vi/) trên website, **sẽ giúp doanh nghiệp tiếp cận, tương tác và chuyển đổi khách hàng** ghé thăm website của bạn.
 
 ### Cách tích hợp Subiz chat lên website
 
-Tích hợp [Subiz](https://subiz.com/vi/) vào website bằng việc **Sao chép đoạn mã nhúng Subiz** \(không được thay đổi, sao chép toàn bộ mã\) và **dán vào các trang mà bạn muốn** đặt cửa sổ [Subiz Chat](https://subiz.com/vi/live-chat.html%20). Bạn thực hiện theo 03 bước sau:
+Tích hợp [Subiz](https://subiz.com/vi/) vào website bằng việc **Sao chép đoạn mã nhúng Subiz** đầy đủ và **dán vào các trang code web mà bạn muốn** hiện thị cửa sổ [Subiz Chat](https://subiz.com/vi/live-chat.html%20). Bạn thực hiện theo 03 bước sau:
 
-#### Bước 1: Lấy mã nhúng của Subiz
+* **Bước 1: Lấy mã nhúng của Subiz**  Để lấy mã nhúng của Subiz, bạn đăng nhập Subiz qua link [**App.subiz.com**](https://app.subiz.com/) &gt; Chọn Cài đặt &gt; Kênh tương tác &gt; Cửa sổ chat Subiz &gt; [**Cài đặt lên website**](https://app.subiz.com/settings/widget-setting/setting-website) Tại đây, bạn chọn nút **Sao chép** để thực hiện sao chép đầy đủ đoạn mã nhúng Subiz.
 
-Để lấy mã nhúng của [Subiz](https://subiz.com/vi/) bạn làm theo các bước sau:
-
-1. [**Đăng nhập tài khoản Subiz**](http://app.subiz.com/) ****&gt; [**Cài đặt &gt; Tài khoản &gt; Tích hợp**](https://app.subiz.com/settings/install)
-2. Tại phần **Mã nhúng Subiz**, click nút **Sao chép** để thực hiện sao chép nhanh đoạn mã nhúng.
-
-![Sao ch&#xE9;p m&#xE3; nh&#xFA;ng Subiz](../../../.gitbook/assets/copy-embed-code.png)
+![Sao ch&#xE9;p m&#xE3; nh&#xFA;ng c&#xE0;i &#x111;&#x1EB7;t c&#x1EED;a s&#x1ED5; chat Subiz](../../../.gitbook/assets/ma-nhung-subiz.png)
 
 {% hint style="info" %}
-**Lưu ý:** Mỗi Tài khoản [Subiz](https://subiz.com/vi/) có một mã nhúng khác nhau, vì thế khi thay đổi Tài khoản [Subiz](https://subiz.com/vi/), bạn đồng thời phải tích hợp lại mã nhúng mới trên code web.
+**Lưu ý:** Mỗi Tài khoản [Subiz](https://subiz.com/vi/) có một mã nhúng khác nhau. Vì thế khi thay đổi tài khoản [Subiz](https://subiz.com/vi/), bạn đồng thời phải tích hợp lại mã nhúng mới trên code web.
 {% endhint %}
 
-#### Bước 2: Đặt mã nhúng Subiz vào website
-
-[Subiz](https://subiz.com/vi/) tương thích với hầu hết các website xây dựng trên các nền tảng khác nhau. Việc đặt mã nhúng vào website khá đơn giản, chỉ cần Sao chép mã nhúng [Subiz](https://subiz.com/vi/) và dán vào mọi trang bạn muốn có cửa sổ [Subiz Chat](https://subiz.com/vi/live-chat.html%20). Code mã nhúng Subiz phải được **đặt ngay trước thẻ đóng &lt;/body&gt;.**
+* **Bước 2: Đặt mã nhúng Subiz vào website**  [Subiz](https://subiz.com/vi/) tương thích với hầu hết các website xây dựng trên các nền tảng khác nhau.  Việc đặt mã nhúng vào website khá đơn giản. Sau khi sao chép mã nhúng [Subiz](https://subiz.com/vi/), bạn dán đoạn mã nhúng dán vào trước thẻ **&lt;/body&gt;** trên tất cả các trang bạn muốn hiện cửa sổ Subiz chat.
 
 ![C&#xE1;ch &#x111;&#x1EB7;t m&#xE3; nh&#xFA;ng Subiz](../../../.gitbook/assets/embedcode.gif)
 
-#### Bước 3: Kiểm tra cửa sổ Subiz trên website
-
-Sau khi tích hợp mã nhúng Subiz, quay lại trình duyệt và truy cập vào website. Bạn sẽ thấy cửa sổ [Subiz Chat](https://subiz.com/vi/live-chat.html%20) ở góc dưới cùng bên phải của website.
-
-Nếu bạn vẫn không thấy cửa sổ [Subiz Chat](https://subiz.com/vi/live-chat.html%20), bạn có thể kiểm tra trực tiếp trong trang Quản lý theo các bước sau:
-
-1. [Đăng nhập tài khoản](http://app.subiz.com/)​ Subiz
-2. Chọn[ **Cài đặt** &gt; **Tài khoản** &gt; **Tích hợp**](https://app.subiz.com/settings/install)
-3. Nhập đường dẫn **website** bạn và click nút **Kiểm tra**.
-
-![Ki&#x1EC3;m tra xem m&#xE3; nh&#xFA;ng Subiz tr&#xEA;n website c&#x1EE7;a b&#x1EA1;n](../../../.gitbook/assets/kiem-tra-cai-ma-nhung.png)
-
-{% hint style="danger" %}
-Nếu hệ thống báo không tìm thấy cửa sổ Chat, bạn kiểm tra lại mã nhúng Subiz trên website hoặc liên hệ với [Subiz](https://subiz.com/vi/) để được hỗ trợ.
+{% hint style="info" %}
+**Lưu ý**: Nếu bạn không chuyên về code web, bạn đề nghị người thiết kế website hỗ trợ đặt mã nhúng Subiz bằng cách điền địa chỉ email của thiết kế website vào ô **Gửi mã nhúng tới quản trị viên website của bạn.**  
+Subiz sẽ tự động gửi email hướng dẫn chi tiết các bước cài đặt cửa sổ chat lên website.
 {% endhint %}
+
+![G&#x1EED;i m&#xE3; nh&#xFA;ng t&#x1EDB;i qu&#x1EA3;n tr&#x1ECB; vi&#xEA;n website c&#x1EE7;a b&#x1EA1;n](../../../.gitbook/assets/gui-mail-ma-nhung.png)
+
+* **Bước 3: Kiểm tra cửa sổ Subiz trên website**  Sau khi tích hợp mã nhúng Subiz, quay lại trình duyệt và truy cập vào website. Bạn sẽ thấy cửa sổ [Subiz Chat](https://subiz.com/vi/live-chat.html%20) ở góc dưới cùng bên phải của website.  Nếu bạn không thấy cửa sổ chat trên website, bạn hãy bạn kiểm tra lại mã nhúng Subiz trên website đã đặt đúng vị trí chưa hoặc gửi mail hỗ trợ tới **Support@subiz.com**.
 
 ### Tích hợp Subiz qua Google Tag Manager
 
@@ -74,5 +60,5 @@ Khi bạn sử dụng Google Tag Manager trên website, bạn có thể tích h�
 
 Bạn hãy vào website và chọn F5 tải lại trang, kiểm tra cửa sổ chat Subiz đã hiển thị trên website.
 
-> Bạn còn băn khoăn? Hãy chat trực tuyến với hỗ trợ viên ngay trên website [Subiz.com](https://subiz.com/vi/feature.html)!
+> Bạn còn băn khoăn? Hãy gửi email hỗ trợ tới Support@subiz.com.
 
