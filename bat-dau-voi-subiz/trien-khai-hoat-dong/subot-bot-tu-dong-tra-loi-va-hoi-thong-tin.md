@@ -20,7 +20,7 @@ Subiz hoạt động trên các kênh Chat như: Subiz chat, Messenger, Zalo OA.
 
 ![Subot ho&#x1EA1;t &#x111;&#x1ED9;ng tr&#xEA;n k&#xEA;nh Messenger](../../.gitbook/assets/subot-tren-messenger.png)
 
-### Tích hợp Subot
+### Hướng dẫn cài đặt Subot
 
 Để bắt đầu sử dụng Subot, bạn cần tích hợp Subot vào Subiz và thiết lập các kịch bản hoạt động cho Subot như sau:
 
