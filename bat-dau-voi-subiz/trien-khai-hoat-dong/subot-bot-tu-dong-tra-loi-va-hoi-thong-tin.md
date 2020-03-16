@@ -28,35 +28,39 @@ Subiz hoạt động trên các kênh Chat như: Subiz chat, Messenger, Zalo OA.
 
 ![T&#xED;ch h&#x1EE3;p Subot](../../.gitbook/assets/bot.gif)
 
-* **Bước 2: Thiết lập kịch bản cho Subot** Subot đã được cài đặt mặc định 4 hành động: + Trả lời tự động sau 4s khách hàng nhắn tin + Hiển thị đang nhắn tin sau 2s tiếp theo + Mời nhận thông báo trên trình duyệt và mời khách hàng để lại thông tin liên hệ sau 4s tiếp theo + Hiển thị các button Nhận thông báo và Lưu thông tin sau 1s tiếp theo  Bạn có thể click vào Subot để tùy chỉnh các hành động của Subot, nội dung tin nhắn, thời gian chạy của từng hành động hoặc xóa/ thêm hành động bất kỳ.
+* **Bước 2: Thiết lập kịch bản cho Subot** Subot đã được cài đặt mặc định 4 hành động: + Nội dung trả lời tự động sau 4s khách hàng nhắn tin. + Hiển thị đang nhắn tin sau 2s tiếp theo, tạo cảm giác được tiếp tục hỗ trợ. + Mời khách hàng để lại thông tin liên hệ và nhận thông báo tin nhắn mới trên trình duyệt của khách. + Hiển thị các nút Lưu thông tin và Nhận thông báo sau 1s tiếp theo.
+
+Bạn có thể thay đổi lại kịch bản Subot bằng cách sửa nội dung, thêm bớt đính kèm Văn bản hay Hiện thị đang nhắn tin hay Hỏi thông tin và hẹn thời gian chạy \(tính theo đơn vị giây\) cho từng hành động này.
 
 ![K&#x1ECB;ch b&#x1EA3;n Subiz khi agent offline](../../.gitbook/assets/screen-shot-2019-02-11-at-2.14.46-pm.png)
 
 {% hint style="info" %}
 **Lưu ý:**   
-+ Subot là một agent, có thể tích hợp miễn phí.  
++ Subot là một agent, được tích hợp miễn phí.  
 + Subot có thể thay đổi tên và ảnh đại diện tại link [https://app.subiz.com/settings/agents-list](https://app.subiz.com/settings/agents-list).  
-+ Subot tự động hoạt động trên tất cả hội thoại có khách hàng gửi tin nhắn.
++ Subot được quyền hoạt động trên tất cả hội thoại khách hàng gửi tin nhắn.
 {% endhint %}
 
 ### Một số kịch bản sử dụng Subot
 
-**1. Subot tự động chào và hỏi yêu cầu của tất cả khách hàng**
+**1. Subot tự động trả lời và hỏi yêu cầu của tất cả khách hàng**
 
-Bạn chỉ cần Tích hợp Subiz và cài đặt kịch bản Subot chào khách hàng và hiển thị đang nhắn tin.  
+Bạn chỉ cần tích hợp Subiz và cài đặt kịch bản Subot trả lời khách hàng và hiển thị đang nhắn tin.  
 Ví dụ kịch bản Subiz tự động chào và trả lời chat của khách hàng.
 
 ![Subot ch&#xE0;o kh&#xE1;ch h&#xE0;ng v&#xE0; h&#x1ECF;i y&#xEA;u c&#x1EA7;u](../../.gitbook/assets/screen-shot-2019-02-11-at-2.38.05-pm.png)
 
 **2. Subot trả lời khi agent offline/ ngoài giờ làm việc**
 
-* Bước 1: Cài đặt kịch bản cho Subot + Chào khách, thông báo agent offline, hỏi yêu cầu khách hàng + Hiển thị đang nhắn tin + Mời khách hàng nhận thông báo và để lại thông tin liên hệ
+* **Bước 1: Cài đặt kịch bản cho Subot** + Chào khách, thông báo agent offline, hỏi yêu cầu khách hàng. + Hiển thị đang nhắn tin. + Mời khách hàng để lại thông tin liên hệ và nhận thông báo tin nhắn mới trên trình duyệt của khách.
 
 ![K&#x1ECB;ch b&#x1EA3;n Subot khi agent offline](../../.gitbook/assets/screen-shot-2019-02-11-at-2.14.46-pm.png)
 
-* Bước 2: Cài đặt 2 Rule + Rule 1 phân phối hội thoại cho available agents khi agent online + Rule 2 phân phối hội thoại cho Subot và Agent phụ trách khi agent offline/ ngoài giờ làm việc
+* **Bước 2: Cài đặt 2 Rule phân phối** + Rule 1 phân phối hội thoại tới agent, Bật ON chỉ những agent đang online và thêm các agent có quyền trả lời khách hàng. + Rule 2 phân phối hội thoại cho Subot và agent phụ trách khi agent offline/ ngoài giờ làm việc.
 
-![C&#xE0;i &#x111;&#x1EB7;t Rule khi agent online v&#xE0; offline](../../.gitbook/assets/rule.gif)
+![Rule 1 ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i khi agent online](../../.gitbook/assets/khi-agent-online.png)
 
+![Rule 2 ph&#xE2;n ph&#x1ED1;i h&#x1ED9;i tho&#x1EA1;i khi agent offline](../../.gitbook/assets/khi-agent-offline.png)
 
+> Bạn cần thêm hỗ trợ sử dụng Subot, vui lòng gửi email tới Support@Subiz.com!
 
