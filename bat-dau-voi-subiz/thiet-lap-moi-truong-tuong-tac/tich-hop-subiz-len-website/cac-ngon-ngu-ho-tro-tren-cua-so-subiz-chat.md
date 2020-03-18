@@ -6,8 +6,8 @@ Hiện tại cửa sổ Subiz chat hỗ trợ hai ngôn ngữ mặc định: Ti�
 
 | **TÊN NGÔN NGỮ** | **MÃ** |
 | :--- | :--- |
-| English | en |
-| Tiếng Việt | vi |
+| English | en-US |
+| Tiếng Việt | vi-VI |
 
 Mã ngôn ngữ là Mã đại diện của ngôn ngữ theo chuẩn [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) \(hai ký tự\).
 
@@ -23,29 +23,89 @@ Trong đó :
 * **Tiếng Việt**: chọn khi doanh nghiệp chỉ phục vụ khách hàng Việt Nam và website hỗ trợ chỉ ngôn ngữ Việt Nam.
 * **English**: chọn khi doanh nghiệp phục vụ khách quốc tế và website chỉ hỗ trợ ngôn ngữ tiếng Anh.
 
-### 2. Thay đổi ngôn ngữ cửa sổ chat theo từng website
+### 2. API js thay đổi ngôn ngữ cửa sổ chat theo ngôn ngữ website
 
-[Cửa sổ Subiz chat](https://app.subiz.com/settings/widget-setting/set-up-subiz-chat) sẽ tùy biến hiển thị ngôn ngữ tiếng Anh hoặc tiếng Việt theo ngôn ngữ trên website.
+[Cửa sổ Subiz chat](https://app.subiz.com/settings/widget-setting/set-up-subiz-chat) sẽ tự động hiển thị ngôn ngữ tiếng Anh hoặc tiếng Việt theo ngôn ngữ trên website.
 
-Rất đơn giản, bạn chỉ cần đặt mã API javascript này ngay sau mã nhúng Subiz trong code website.
+Rất đơn giản, bạn chỉ cần đặt mã API javascript này ngay sau mã nhúng Subiz trong code website. Khi đó, tất cả nội dung trên cửa sổ chat sẽ tự động hiện thị đúng theo ngôn ngữ Tiếng Anh hoặc Tiếng Việt của website.
 
-**API thiết lập ngôn ngữ tiếng Anh**
-
-```javascript
-<script>
-subiz('setLanguage', 'en');
-</script>
-```
-
-**API thiết lập ngôn ngữ tiếng Việt**
+**API is thiết lập ngôn ngữ tiếng Anh**  
+Đặt mã API js này sau mã nhúng Subiz trên code web trang tiếng Anh
 
 ```javascript
 <script>
-subiz('setLanguage', 'vi');
+subiz('setLanguage', 'en-US');
 </script>
 ```
 
-### 3. Tùy chỉnh nội dung cửa sổ chat với file .po
+Khi bạn muốn thay đổi ngôn ngữ tiếng Anh cho một số nội dung cụ thể trên cửa sổ chat, bạn sẽ sử dụng mã API js cụ thể sau:
+
+```javascript
+<script>
+subiz('setLanguage', 'en-US', {
+widget_title: 'Chat with us',
+team_intro: 'We are here and ready to help. Feel free to ask us anything or share us your feedback!',
+empty_convo_text: 'Send message to start conversation',
+powered_by: 'Powered by',
+message_input_help: 'Type a message...',
+joined_the_conversation: 'Joined',
+typing: 'Typing....',
+menu_back: 'Back',
+conversations: 'Conversations',
+start_conversation: 'Start a conversation',
+sent_you_a_message: 'Send you a message',
+agent_online: 'Agent is online',
+agent_offline: 'Agent is offline',
+})</script>	
+// Thay đổi các nội dung trên cửa sổ chat
+
+<script>var newsetting=subiz('getSetting');
+newsetting.account_setting.greeting.message="Welcome to our website!";
+subiz('setSetting', newsetting);</script>
+// Thay đổi lời chào chạy cùng button chat
+```
+
+```javascript
+
+```
+
+**API thiết lập ngôn ngữ tiếng Việt**  
+Đặt mã API js này sau mã nhúng Subiz trên code web trang tiếng Việt
+
+```javascript
+<script>
+subiz('setLanguage', 'vi-VN');
+</script>
+```
+
+Khi bạn muốn thay đổi ngôn ngữ tiếng Việt cho một số nội dung cụ thể trên cửa sổ chat, bạn sẽ sử dụng mã API js cụ thể sau:
+
+```javascript
+<script>
+subiz('setLanguage', 'vi-VN', {
+widget_title: 'Trò chuyện với chúng tôi',
+team_intro: 'Chúng tôi sẵn sàng hỗ trợ bạn! Vui lòng hỏi chúng tôi bất cứ điều gì hoặc chia sẻ phản hồi của bạn',
+empty_convo_text: 'Nhắn tin để bắt đầu hội thoại',
+powered_by: 'Phát triển bởi',
+message_input_help: 'Nhập tin nhắn...',
+joined_the_conversation: 'Tham gia',
+typing: 'Đang nhắn tin....',
+menu_back: 'Quay lại',
+conversations: 'Danh sách hội thoại',
+start_conversation: 'Tạo hội thoại mới',
+sent_you_a_message: 'Gửi tin nhắn',
+agent_online: 'Hỗ trợ viên đang online',
+agent_offline: 'Hỗ trợ viên đang offline',
+})</script>
+// Thay đổi các nội dung trên cửa sổ chat
+
+<script>var newsetting=subiz('getSetting');
+newsetting.account_setting.greeting.message="Chào mừng bạn đã ghé thăm trang web của chúng tôi!";
+subiz('setSetting', newsetting);</script>	
+// Thay đổi lời chào chạy cùng button chat
+```
+
+### 3. File .po tùy chỉnh nội dung cố định trên cửa sổ chat
 
 Hiện tại, [Subiz](https://subiz.com/vi/) hỗ trợ 2 ngôn ngữ là Tiếng Việt và Tiếng Anh để bạn có thể tùy chỉnh nội dung **tiêu đề cửa sổ chat và lời giới thiệu** theo từng ngôn ngữ này.
 
@@ -76,6 +136,8 @@ Hiện tại, [Subiz](https://subiz.com/vi/) hỗ trợ 2 ngôn ngữ là Tiến
 
 ![L&#x1B0;u t&#x1EC7;p &#x111;&#xE3; t&#xF9;y ch&#x1EC9;nh v&#x1EC1; m&#xE1;y t&#xED;nh](../../../.gitbook/assets/6.-luu-ve-may.jpg)
 
+
+
 **Bước 3: Tải lên Subiz tệp nội dung đã tùy chỉnh** 
 
 * Tại bảng **Bạn có thể sửa tất cả nội dung Tiếng Việt tại đây** của Subiz, bạn chọn Tệp .po đã sửa để tải lên.
@@ -86,7 +148,7 @@ Hiện tại, [Subiz](https://subiz.com/vi/) hỗ trợ 2 ngôn ngữ là Tiến
 
 ![](../../../.gitbook/assets/language-33.png)
 
-> Bạn đang cần hỗ trợ thêm, vui lòng chat trực tiếp với Subiz trên website [Subiz.com](https://subiz.com/vi/feature.html) nhé!
+> Bạn đang cần hỗ trợ thêm về ngôn ngữ cửa sổ chat, vui lòng gửi email tới Support@Subiz.com!
 
 
 
