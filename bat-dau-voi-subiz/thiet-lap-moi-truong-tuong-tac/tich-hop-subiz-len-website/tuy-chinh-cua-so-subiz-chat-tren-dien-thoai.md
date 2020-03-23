@@ -12,7 +12,7 @@ Cửa sổ Subiz chat trên điện thoại di động được thiết kế t�
 
 ![C&#x1EED;a s&#x1ED5; Subiz chat tr&#xEA;n &#x111;i&#x1EC7;n tho&#x1EA1;i](../../../.gitbook/assets/widget-vn.png)
 
-### 2. Tùy chỉnh cửa sổ chat trên điện thoại với CSS
+### 2. Tùy chỉnh cửa sổ chat trên điện thoại
 
 Bạn có thể tùy chỉnh chat button và vị trí chat button trên điện thoại tại trang [**Cài đặt cửa sổ Subiz chat &gt; Chat button**](https://app.subiz.com/settings/widget-setting/chat-button)\*\*\*\*
 

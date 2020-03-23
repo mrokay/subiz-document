@@ -29,7 +29,7 @@ Trong đó :
 
 Rất đơn giản, bạn chỉ cần đặt mã API javascript này ngay sau mã nhúng Subiz trong code website. Khi đó, tất cả nội dung trên cửa sổ chat sẽ tự động hiện thị đúng theo ngôn ngữ Tiếng Anh hoặc Tiếng Việt của website.
 
-**API is thiết lập ngôn ngữ tiếng Anh**  
+**API js thiết lập ngôn ngữ tiếng Anh**  
 Đặt mã API js này sau mã nhúng Subiz trên code web trang tiếng Anh
 
 ```javascript
@@ -69,7 +69,7 @@ subiz('setSetting', newsetting);</script>
 
 ```
 
-**API thiết lập ngôn ngữ tiếng Việt**  
+**API js thiết lập ngôn ngữ tiếng Việt**  
 Đặt mã API js này sau mã nhúng Subiz trên code web trang tiếng Việt
 
 ```javascript
