@@ -1,3 +1,7 @@
+---
+description: Bài viết này hướng dẫn cách tích hợp Fanpapge vào Subiz.
+---
+
 # Tích hợp Messenger Facebook vào Subiz
 
 Messenger Facebook là một trong các kênh tương tác khách hàng trên Subiz. Khi tích hợp Messenger vào Subiz, bạn có thể nhận và trả lời tin nhắn khách hàng gửi từ Fanpage ngay trên trang quản lý Subiz.
