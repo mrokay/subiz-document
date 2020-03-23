@@ -188,7 +188,7 @@ Hướng dẫn cài đặt:
 
 Tip nhỏ:
 
-* Bạn có thể chọn kích hoạt chạy bảng hỏi thông tin linh động khi Hỗ trợ viên offline hoặc cố định khi ngoài giờ làm việc. Cài đặt Giờ làm việc
+* Bạn có thể chọn kích hoạt chạy bảng hỏi thông tin linh động khi Hỗ trợ viên offline hoặc cố định khi ngoài giờ làm việc. [Cài đặt Giờ làm việc](https://app.subiz.com/settings/business-hours)
 * Bạn chọn ON Tự động đóng cuộc thoại sau khi khách điền form: Mỗi lần khách điền form sẽ tạo thành một hội thoại mới giúp bạn dễ dàng quản lý các vấn đề khách liên hệ tới.
 {% endtab %}
 {% endtabs %}
