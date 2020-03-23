@@ -6,20 +6,20 @@ Messenger Facebook là một trong các kênh tương tác khách hàng trên Su
 Lưu ý:
 
 * Cài đặt **không giới hạn số lượng Fanpage** cùng lúc vào Subiz để thuận tiện tư vấn khách hàng và quản lý dữ liệu khách hàng tập trung.
-* Chủ động lựa chọn Fanpage muốn cài đặt vào Subiz để làm việc.
+* Chủ động chọn Fanpage muốn cài đặt vào Subiz để chăm sóc khách hàng.
 {% endhint %}
 
 ## 3 bước tích hợp Messenger vào Subiz như sau: 
 
 ### Bước 1: Kết nối tới Fanpage
 
-Bạn đăng nhập [App.subiz.com &gt; Cài đặt &gt; Tài khoản &gt; Messenger &gt; chọn Kết nối tới Fanpage ](https://app.subiz.com/settings/messenger)
+Bạn đăng nhập [App.subiz.com &gt; Cài đặt &gt; Kênh tương tác &gt; Messenger &gt; Kết nối tới Fanpage ](https://app.subiz.com/settings/messenger)
 
 ![C&#xE0;i &#x111;&#x1EB7;t k&#x1EBF;t n&#x1ED1;i t&#x1EDB;i Fanpage](../../.gitbook/assets/ket-noi-fb.jpg)
 
 ### Bước 2: Đăng nhập tài khoản Facebook
 
-Đăng nhập tài khoản Facebook cá nhân của bạn đang quản lý các Fanpage
+Đăng nhập tài khoản Facebook cá nhân của bạn đang quản lý các Fanpage.
 
 {% hint style="info" %}
 Lưu ý: Chỉ những tài khoản Facebook có Vai trò trên Trang là **Quản trị viên**, **Biên tập viên**, **Người kiểm duyệt** được phép kết nối Fanpage vào Subiz.
@@ -51,17 +51,20 @@ Khi đã tích hợp Messenger thành công, danh sách các Fanpage được k�
 
 ### 1. Nhận và trả lời tin nhắn khách hàng từ Fanpage
 
-Để nhận và trả lời tin nhắn khách hàng gửi từ các Fanpage, bạn vào trang HOẠT ĐỘNG và sử dụng các tính năng hữu ích của Subiz. [Xem thêm tại đây](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/tuong-tac-qua-kenh-messenger)
+Bạn sẽ nhận và trả lời tin nhắn của khách hàng từ Fanpage ngay trên trang [**HỘI THOẠI**](https://app.subiz.com/convo).   
+Rất nhanh chóng, bạn nhìn được tin nhắn đầu tiên khách gửi, tên Fanpage khách liên hệ và lịch sử hội thoại khác \(nếu có\).  
+Xem thêm [Hướng dẫn quản lý tin nhắn messenger trên Subiz](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/quan-ly-tin-nhan-messenger-va-binh-luan-fanpage).
 
-![Nh&#x1EAD;n v&#xE0; tr&#x1EA3; l&#x1EDD;i tin nh&#x1EAF;n kh&#xE1;ch h&#xE0;ng t&#x1EEB; Fanpage](../../.gitbook/assets/2-messnger%20%281%29.jpg)
+![Nh&#x1EAD;n tin nh&#x1EAF;n messenger tr&#xEA;n Subiz](../../.gitbook/assets/messenger.png)
 
-### 2. Thêm Fanpage mới bạn muốn kết nối vào Subiz
+### 2. Thêm Fanpage mới kết nối vào Subiz
 
-Để thêm Fanpage mới kết nối vào Subiz, bạn cần gỡ Subiz trong mục Tích hợp tiện ích cho doanh nghiệp và thực hiện lại theo 3 bước tích hợp Messenger như trên.
+Để thêm Fanpage mới kết nối vào Subiz, bạn vào trang Cài đặt [**Messenger**](https://app.subiz.com/settings/messenger) &gt; Chọn **Kết nối tới Fanpage**   
+&gt; Chọn **Tiếp tục** &gt; Chọn **Chỉnh sửa cài đặt** để chọn Fanpage kết nối vào Subiz &gt; Chọn **Tiếp** để hoàn thành
 
-![G&#x1EE1; Subiz trong Ti&#x1EC7;n &#xED;ch t&#xED;ch h&#x1EE3;p cho doanh nghi&#x1EC7;p](../../.gitbook/assets/5.-go-subiz%20%281%29.jpg)
+![Th&#xEA;m Fanpage m&#x1EDB;i k&#x1EBF;t n&#x1ED1;i Subiz](../../.gitbook/assets/cai-dat-mesenger.png)
 
-### 3. Xóa Fanpage bạn đã kết nối vào Subiz
+### 3. Xóa Fanpage đã kết nối vào Subiz
 
 Có 2 cách xóa hoàn toàn Fanpage đã kết nối vào Subiz và không nhận tin nhắn mới của khách hàng gửi từ Fanpage trên Subiz.
 
