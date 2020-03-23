@@ -1,22 +1,20 @@
 # Tích hợp Bình luận Facebook
 
-Cùng với chức năng tích hợp Bình luận Facebook, Subiz sẽ hoạt động như một phần mềm quản lý Fanpage chuyên nghiệp, giúp bạn có thể quản lý tập trung tới hàng trăm fanpage, không giới hạn số lượng tin nhắn, bình luận và tăng tốc độ tương tác với khách hàng.
+Cùng với chức năng tích hợp Bình luận Facebook, Subiz sẽ hoạt động như một phần mềm quản lý Fanpage chuyên nghiệp, giúp bạn có thể quản lý tập trung tới hàng trăm Fanpage, không giới hạn số lượng tin nhắn, bình luận và tăng tốc độ tương tác với khách hàng.
 
-Giờ đây, bạn sẽ không còn cần phải làm việc trên nhiều trang độc lập và có thể hạn chế việc nhầm lẫn,bỏ sót khi lượng khách hàng qúa tải. Tất cả các tương tác trên website, fanpage, email của bạn sẽ cùng tập trung trên Subiz, giúp bạn có thể thể làm việc dễ dàng trên một trang quản trị.
+Giờ đây, bạn sẽ không còn cần phải làm việc trên nhiều trang độc lập và có thể hạn chế việc nhầm lẫn, bỏ sót khi lượng khách hàng qúa tải. Tất cả các tương tác với khách hàng trên website, Fanpage, email của bạn sẽ cùng tập trung trên Subiz, giúp bạn có thể thể làm việc dễ dàng trên một trang quản trị.
 
-Bài viết sau sẽ hướng dẫn bạn cách tích hợp **Bình luận Facebook** vào Subiz 
+Bài viết sau sẽ hướng dẫn bạn cách tích hợp **Bình luận Facebook** vào Subiz.
 
 ### Tích hợp Bình luận Facebook 
 
-Bạn sẽ vào mục: [**Cài đặt &gt; Bình luận Facebook &gt; Kết nối Fanpage**](https://app.subiz.com/settings/facebook-comment#)\*\*\*\*
-
-![](../../.gitbook/assets/tich-hop.png)
+Bạn sẽ vào trang **Cài đặt &gt; Bình luận Facebook &gt;** Chọn **Kết nối Fanpage**
 
 Trong trường hợp bạn muốn tích hợp cả Messenger và Bình luận, bạn sẽ lựa chọn **Cả hai**
 
-![T&#xED;ch h&#x1EE3;p Messenger v&#xE0; Comment](../../.gitbook/assets/ca-2.png)
+![T&#xED;ch h&#x1EE3;p b&#xEC;nh lu&#x1EAD;n Facebook v&#xE0;o Subiz](../../.gitbook/assets/binh-luan-fanpage%20%281%29.png)
 
-Hãy chắc chắn rằng bạn đang đăng nhập đúng tài khoản có quyền quản trị các Fanpage để có thể hoàn thành bước tích hợp:
+Hãy chắc chắn rằng bạn đang đăng nhập đúng tài khoản Facebook cá nhân có quyền quản trị các Fanpage để có thể hoàn thành bước tích hợp:
 
 ![&#x110;&#x103;ng nh&#x1EAD;p Facebook](../../.gitbook/assets/dang-nh.png)
 
@@ -28,9 +26,9 @@ Và cấp quyền cho Subiz:
 
 ![C&#x1EA5;p quy&#x1EC1;n cho Subiz](../../.gitbook/assets/quyen-2.png)
 
-Sau khi click **Xong,** bạn có thể tích hợp các Fanpage lên Subiz
+Sau khi click **Xong,** bạn sẽ thấy danh sách các trang Facebook ngay trên Subiz:
 
-![Danh s&#xE1;ch Fanpage t&#xED;ch h&#x1EE3;p](../../.gitbook/assets/f.png)
+![Danh s&#xE1;ch Fanpage k&#x1EBF;t n&#x1ED1;i Subiz](../../.gitbook/assets/f.png)
 
 ### Quản lý Bình luận Facebook trên Subiz 
 
