@@ -1,25 +1,31 @@
+---
+description: >-
+  Bài viết hướng dẫn bạn chi tiết cách thức quản lý hội thoại chat của khách
+  hàng hiệu quả.
+---
+
 # Quản lý hội thoại Subiz chat
 
-Hội thoại Subiz chat là cuộc chat tư vấn khách hàng trên website.
+Hội thoại Subiz chat là cuộc chat trò chuyện tư vấn khách hàng trên website.
 
-Bắt đầu ngày làm việc, bạn sẽ trả lời tin nhắn của khách hàng và giải quyết các yêu cầu chat trên trang [**HOẠT ĐỘNG**](https://app.subiz.com/convo) của Subiz tại link [**app.subiz.com/convo**](https://app.subiz.com/convo)\*\*\*\*
+Bắt đầu ngày làm việc, bạn sẽ trả lời tin nhắn của khách hàng và giải quyết các yêu cầu chat trên trang [**HỘI THOẠI**](https://app.subiz.com/convo) của Subiz tại link [**app.subiz.com/convo**](https://app.subiz.com/convo)**.**
 
-![Trang HO&#x1EA0;T &#x110;&#x1ED8;NG](../../.gitbook/assets/conversation.png)
+![Trang H&#x1ED9;i tho&#x1EA1;i tr&#xF2; chuy&#x1EC7;n c&#xF9;ng kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/conversation%20%282%29.png)
 
-Giao diện trang [**HOẠT ĐỘNG**](https://app.subiz.com/convo) gồm 3 mục:
+Giao diện trang [**HOẠT ĐỘNG**](https://app.subiz.com/convo) gồm 3 phần chính:
 
-* Danh sách **User của tôi** \(khách hàng đã có tương tác\)
-* Thông tin user và lịch sử hoạt động của user
-* Màn hình hội thoại chat
+* Danh sách **Hội thoại của tôi:** Hiện thị tất cả hội thoại user gửi tin nhắn được giao cho bạn.
+* Cửa sổ hội thoại: Bạn sẽ nhắn tin trò chuyện cùng khác hàng, gắn Tag phân loại, tạo Ticket,...
+* Thông tin khách hàng và lịch sử hoạt động của khách hàng.
 
 ### 1. Nhận và trả lời tin nhắn của khách hàng
 
-Tin nhắn mới của khách hàng \(user\) gửi đến sẽ có thông báo đỏ. Click vào user để mở cửa sổ hội thoại và trả lời tư vấn khách.
+Tin nhắn mới của khách hàng \(user\) gửi đến sẽ có thông báo đỏ. Bạn sẽ nhìn thấy nhanh Họ tên của khách và tin nhắn đầu tiên khách hàng gửi đến.   
+Lưu ý: Nếu bạn chưa lưu họ tên khách thì Subiz mặc định hiện thị tên thành phố/ tỉnh thành của khách hàng.
 
-* Nhấp chuột ô _**Nhập tin nhắn tại đây**_ và soạn nội dung tin nhắn 
-* Enter để gửi tin nhắn
+Click nhấp chuột vào hội thoại  để mở cửa sổ hội thoại và nhắn tin trả lời khách hàng.
 
-![C&#x1EED;a s&#x1ED5; h&#x1ED9;i tho&#x1EA1;i](../../.gitbook/assets/conversationdetails.png)
+![](../../.gitbook/assets/conversation%20%281%29.png)
 
 {% hint style="info" %}
 Tip nhỏ:
@@ -34,7 +40,7 @@ Tip nhỏ:
 
 Chọn _**Say hello**_ và nhập tin nhắn gửi khách hàng.
 
-![Trang SUBIZ LIVE kh&#xE1;ch truy c&#x1EAD;p website](../../.gitbook/assets/subizlive.png)
+![Ch&#xE0;o kh&#xE1;ch truy c&#x1EAD;p website](../../.gitbook/assets/live.png)
 
 {% hint style="info" %}
 Tip hay: Bạn có thể tạo [M**ẫu tin nhắn**](https://app.subiz.com/message-template) **“hello”** để gửi lời chào nhanh chóng cho nhiều khách hàng**.**
@@ -94,11 +100,11 @@ Gửi tin nhắn kèm biểu tượng cảm xúc sẽ tạo sự liên kết cá
 
 ### 7. Ghi chú cho user khách hàng
 
-Sử dụng Ghi chú trên Subiz để ghi nhanh vấn đề của khách hàng, lưu ý hay các bước xử lý tiếp theo.
+Sử dụng Ghi chú trên Subiz để ghi nhanh vấn đề của khách hàng, lưu ý hay các bước xử lý tiếp theo giúp bạn và các agent đồng nghiệp nhanh chóng hỗ trợ khách hàng.
 
-Hướng dẫn tạo Ghi chú mới: Nhấp chuột **+** &gt; Chọn **Ghi chú** &gt; **Nhập nội dung ghi chú** &gt; Chọn **Thêm**
+Hướng dẫn tạo Ghi chú mới: Tại mục **Ghi chú** &gt; **Nhập nội dung ghi chú** &gt; Chọn **Thêm**
 
-![Th&#xEA;m Ghi ch&#xFA; cho kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/07.-them-ghi-chu.png)
+![Th&#xEA;m Ghi ch&#xFA; cho kh&#xE1;ch h&#xE0;ng](../../.gitbook/assets/user-info%20%281%29.png)
 
 ### 8. Sửa tiêu đề hội thoại
 
