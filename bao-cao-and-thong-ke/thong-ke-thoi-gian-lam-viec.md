@@ -14,7 +14,7 @@ Biểu đồ thống kê được chia ra làm 2 phần: Biểu đồ dạng c�
 
 ![Th&#x1ED1;ng k&#xEA; th&#x1EDD;i gian l&#xE0;m vi&#x1EC7;c](../.gitbook/assets/thong-ke-gio.png)
 
-### Cách đọc biểu đồ
+### Hướng dẫn thống kê thời gian làm việc
 
 * **Trục ngang:** Đơn vị thời gian theo giờ hoặc theo ngày. + Khi bạn chọn thống kê trong một ngày cụ thể, bạn sẽ xem được thời gian theo từng giờ trong ngày 0h - 23h. + Khi bạn chọn thống kê trong khoảng một thời gian, bạn sẽ xem thời gian theo từng ngày.
 * **Trục dọc:** Thời gian làm việc của agent tính theo phút.

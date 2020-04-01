@@ -12,7 +12,7 @@ Thống kê Agent trả lời là thống kê số hội thoại được Agent 
 
 ![Th&#x1ED1;ng k&#xEA; Agent tr&#x1EA3; l&#x1EDD;i](../.gitbook/assets/agent-tra-loi.png)
 
-### Cách đọc thống kê Agent trả lời
+### Hướng dẫn thống kê agent trả lời
 
 **Trục dọc:** Số lượng cuộc hội thoại Agent trả lời theo khung giờ
 

@@ -47,7 +47,7 @@ Bạn có thể thống kê số cuộc hội thoại theo một giai đoạn c�
 {% endtab %}
 {% endtabs %}
 
-### Cách đọc thống kê
+### Hướng dẫn thống kê hội thoại
 
 Thống kê hội thoại giúp doanh nghiệp có thể tổng quan tình hình tương tác với khách hàng, phân loại các cuộc hội thoại để đánh giá khách hàng cũng như thái độ, hiệu suất làm việc của nhân viên để từ đó xây dựng những chiến lược phù hợp.  
 Bạn có thể kết hợp các trường lọc để có được số liệu thống kê đúng tiêu chí và mục đích thống kê của doanh nghiệp.

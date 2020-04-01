@@ -35,7 +35,7 @@ Lựa chọn khoảng thời gian cụ thể để thống kê và thực hiện
 {% endtab %}
 {% endtabs %}
 
-### Cách đọc biểu đồ thống kê
+### Hướng dẫn thống kê hội thoại theo Tag
 
 Sau khi bạn chọn các tiêu chí thống kê, dữ liệu sẽ hiển thị dưới dạng biểu đồ
 
