@@ -48,5 +48,11 @@ Bạn đặt tên cho Automation và viết mô tả chi tiết để dễ quả
 
 ![L&#x1B0;u t&#xEA;n Automation](../../../.gitbook/assets/luu-automationpng%20%282%29.png)
 
+{% hint style="info" %}
+Lưu ý: Hội thoại kết thúc khi agent chọn Hoàn thành hội thoại hoặc sử dụng Endchatbot tự động kết thúc chat sau X phút tại trang [https://app.subiz.com/settings/bots](https://app.subiz.com/settings/bots)
+{% endhint %}
 
+![C&#xE0;i &#x111;&#x1EB7;t Enchat bot t&#x1EF1; &#x111;&#x1ED9;ng k&#x1EBF;t th&#xFA;c chat](../../../.gitbook/assets/endchatbot.png)
+
+> Bạn cần hỗ trợ thêm về email chat transcript, hãy gửi email tới Support@subiz.com!
 

@@ -22,7 +22,7 @@ Subiz hoạt động trên các kênh Chat message như: Subiz chat, Messenger, 
 
 * Để chọn 1 kênh cụ thể chạy Endchat bot, bạn chọn **Chỉ cài đặt trên các kênh được chọn** và chọn kênh  như Messenger hoặc Subiz chat hoặc Zalo; sau đó chọn thời điểm chạy Endchat bot phù hợp, cụ thể: + Sau X phút kể từ tin nhắn cuối cùng gửi bởi agent + Sau X phút kể từ tin nhắn cuối cùng gửi bởi bất kỳ ai + Sau X phút kể từ tin nhắn cuối cùng được gửi với user + Sau X phút hoạt động \(thời gian\) cuộc hội thoại + Vào nửa đêm theo thời gian cài đặt múi giờ hệ thống tại trang [https://app.subiz.com/settings/](https://app.subiz.com/settings/)
 
-![C&#xE0;i &#x111;&#x1EB7;t Endchat bot tr&#xEA;n c&#xE1;c k&#xEA;nh &#x111;&#x1B0;&#x1EE3;c ch&#x1ECD;n](../../.gitbook/assets/endchatbot.png)
+![C&#xE0;i &#x111;&#x1EB7;t Endchat bot tr&#xEA;n c&#xE1;c k&#xEA;nh &#x111;&#x1B0;&#x1EE3;c ch&#x1ECD;n](../../.gitbook/assets/endchatbot%20%281%29.png)
 
 * Để tất cả các kênh đều tự động kết hội thoại, bạn chọn **Cài đặt trên tất cả kênh tương tác** và thay đổi thời điểm chạy Endchat bot.
 
